@@ -3,7 +3,7 @@ title: Kameryn J Williams
 email: kameryn.j.w@gmail.com # change this?
 description: > # this means to ignore newlines until "baseurl:"
   Professional website of Kameryn J Williams. Logic and mathematics.
-baseurl: "/website/" # this will need to be changed once I get the url set up
+baseurl: "" # this will need to be changed once I get the url set up?
 url: "https://kamerynjw.github.io" # ditto prev comment
 twitter_username: kamerynjw
 github_username: kamerynjw
