@@ -8,7 +8,7 @@ I, Kameryn J Williams, am a mathematician and logician, recently graduated from 
 <center>
 <img src="/pics/kam.jpg">
   
-<small>Speaking at the Kurt Gödel Research Center about the strength of the class forcing theorem.</small>
+<p><small>Speaking at the Kurt Gödel Research Center about the strength of the class forcing theorem.</small></p>
 </center>
 
 Via the navigation bar at the top of the page you can find information about my research publications and talks, my teaching, and so on. Please see my [contact page]({{ site.baseurl }}/contact) for information on how to get in touch with me.
