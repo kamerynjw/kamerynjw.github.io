@@ -6,7 +6,7 @@ title: Welcome!
 I, Kameryn J Williams, am a mathematician and logician, recently graduated from [The Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics) of The City University of New York. Starting in August 2018 I will be a visiting assistant professor in the mathematics department at [University of Hawai‘i at Mānoa](https://math.hawaii.edu/). 
 
 <center>
-<img src="{{ page.url }}pics/kam.jpg" alt="Me, speaking at the KGRC." width=400px>
+![Me, speaking at the KGRC.]({{ site.baseurl }}/pics/kam.jpg)
 
 <small>Speaking at the Kurt Gödel Research Center about the strength of the class forcing theorem.</small>
 </center>
