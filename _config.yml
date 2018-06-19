@@ -3,8 +3,8 @@ title: Kameryn J Williams
 email: kameryn.j.w@gmail.com # change this?
 description: > # this means to ignore newlines until "baseurl:"
   Professional website of Kameryn J Williams. Logic and mathematics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://kamerynjw.github.io/website" # the base hostname & protocol for your site
+baseurl: "/website/" # this will need to be changed once I get the url set up
+url: "https://kamerynjw.github.io" # ditto prev comment
 twitter_username: kamerynjw
 github_username: kamerynjw
 remote_theme: diezcami/arctic-fox-theme
