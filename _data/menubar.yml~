@@ -1,0 +1,22 @@
+
+# main navigation menu bar
+
+ - title: "Research"
+   href: "/research/"
+
+ - title: "Teaching"
+   href: "/teaching/"
+
+ - title: "Web Log"
+   href: "/blog/"
+
+ - title: "CV"
+   href: "/cv/"
+
+ - title: "Bio"
+   href: "/bio/"
+
+ - title: "Contact"
+   href: "/contact/"
+
+

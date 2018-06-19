@@ -1,0 +1,37 @@
+
+#info about publications
+
+- href: "diss"
+  authors: "Kameryn J. Williams"
+  title: "The Structure of Models of Second-order Set Theories"
+  othercite: "PhD Dissertation, The Graduate Center, CUNY (2018)"
+
+- href: "least-models"
+  authors: "Kameryn J. Williams"
+  title: "Least models of second-order set theories"
+  othercite: "*under review*"
+
+- href: "class-forcing-theorem"
+  authors: "Victoria Gitman, Joel David Hamkins, Peter Holy, Philipp Schlicht, and Kameryn Williams"
+  title: "The exact strength of the class forcing theorem"
+  othercite: "*under review*"
+
+# papers currently being written
+# put href = "" for all of them
+# this makes the formatting in research.md work correctly
+
+- href: ""
+  authors: "Joel David Hamkins, Philip Welch, and Kameryn J. Williams"
+  title: "The universal sequence of ordinals in the constructible universe"
+  othercite: "*in preparation*"
+
+- href: ""
+  authors: "Jonas Reitz and Kameryn J. Williams"
+  title: "Iterating the mantle"
+  othercite: "*in preparation*"
+
+- href: ""
+  authors: "Miha Habič, Joel David Hamkins, Lukas Daniel Klausner, Jonathan Verner, and Kameryn J. Williams"
+  title: "Set-theoretic blockchains"
+  othercite: "*in preparation*"
+  

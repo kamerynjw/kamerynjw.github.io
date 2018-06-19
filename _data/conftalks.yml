@@ -1,0 +1,27 @@
+
+# selected talks to display in research.md
+
+- href: "2018-may-asl"
+  title: "Minimal models for second-order set theories"
+  other: "contributed talk, 2018 ASL North American Annual Meeting"
+  date: "May 2018"
+
+- href: "2017-sept-warsaw"
+  title: "On the length of iterated full satisfaction classes"
+  other: "Warsaw Workshop on Formal Truth Theories"
+  date: "Sept 2017"
+
+- href: "2016-june-best"
+  title: "Minimal models of Kelley–Morse set theory"
+  other: "Boise Extravaganza in Set Theory, AAAS Pacific Division 97th annual meeting"
+  date: "June 2016"
+
+- href: "2016-may-nygslc"
+  title: "Minimal models of second-order set theories"
+  other: "New York Graduate Student Logic Conference"
+  date: "May 2016"
+
+- href: "2016-mar-std"
+  title: "Minimal models of second-order set theories"
+  other: "Set Theory Day, The Graduate Center, CUNY"
+  date: "March 2016"

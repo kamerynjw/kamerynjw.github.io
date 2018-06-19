@@ -1,0 +1,21 @@
+---
+layout: page
+title: Web Log
+permalink: /blog/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ site.title }}</h1>
+  
+  (I am currently in the progress of porting content over from [my old site](https://kamerynblog.wordpress.com). If something is not yet here you should look there.)
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

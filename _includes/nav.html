@@ -1,0 +1,6 @@
+<ul class="menubar">
+  {% for item in site.data.menubar %}
+    <li><a href="{{ item.href }}" class="page-link">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
+

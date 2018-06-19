@@ -1,0 +1,93 @@
+
+# selected talks to display in research.md
+
+- href: "2018-apr-defense"
+  title: "The structure of models of second-order set theories"
+  other: "*dissertation defense*, in Set Theory Seminar, CUNY"
+  date: "Apr 2018"
+
+- href: "2018-feb-forcing-over-arithmetic"
+  title: "Forcing over arithmetic: a second-order approach"
+  other: "MoPA Seminar, CUNY"
+  date: "Feb 2018"
+
+- href: "2017-nov-beta-models"
+  title: "Beta models of ATR_0"
+  other: "MoPA Seminar, CUNY"
+  date: "Nov 2018"
+
+- href: "2017-nov-upenn"
+  title: "Strong second-order set theories do not have least transitive models"
+  other: "Logic and Computation Seminar, University of Pennsylvania"
+  date: "Nov 2017"
+
+- href: "2017-oct-exact-strength"
+  title: "The exact strength of the class forcing theorem"
+  other: "Set Theory Seminar, CUNY"
+  date: "Oct 2017"
+
+- href: "2017-sept-kgrc"
+  title: "The exact strength of the class forcing theorem"
+  other: "Research Seminar, Kurt Gödel Research Center"
+  date: "Sept 2017"
+
+- href: "2017-mar-nonhyperfinite"
+  title: "Non-hyperfinite countable equivalence relations"
+  other: "MoPA Seminar, CUNY"
+  date: "Mar 2017"
+
+- href: "2016-nov-class-determinacy"
+  title: "Separating class determinacy"
+  other: "Set Theory Seminar, CUNY"
+  date: "Nov 2016"
+
+- href: "2016-oct-models-of-aca0"
+  title: "Models of arithmetic with two expansions to a model of ACA_0"
+  other: "MoPA Seminar, CUNY"
+  date: "Oct 2016"
+
+- href: "2016-sept-yet-more-forcing"
+  title: "Yet more forcing in arithmetic: life in a second-order world"
+  other: "MoPA Seminar, CUNY"
+  date: "Sept 2016"
+
+- href: "2015-oct-recursive-definability"
+  title: "Recursive definability of the standard cut"
+  other: "MoPA Seminar, CUNY"
+  date: "Oct 2015"
+
+- href: "2015-oct-least-km-model"
+  title: "Is there a least transitive model of Kelley–Morse set theory?"
+  other: "Set Theory Seminar, CUNY"
+  date: "Oct 2015"
+
+- href: "2015-sept-admissible-covers"
+  title: "Admissible covers and compactness arguments for ill-founded models of set theory"
+  other: "Set Theory Seminar, CUNY"
+  date: "Sept 2015"
+
+- href: "2015-apr-perfectly-generic"
+  title: "A perfectly generic talk"
+  other: "MoPA Seminar, CUNY"
+  date: "Apr 2015"
+
+- href: "2015-mar-rather-classless"
+  title: "Rather classless models of set theory and second-order set theory"
+  other: "Set Theory Seminar, CUNY"
+  date: "Mar 2015"
+
+- href: "2014-nov-forcing-arithmetic"
+  title: "Forcing over models of arithmetic"
+  other: "MoPA Seminar, CUNY"
+  date: "Nov 2014"
+
+- href: "2014-oct-scotts-problem"
+  title: "Scott's problem for models of set theory"
+  other: "*oral exam*, in Set Theory Seminar, CUNY"
+  date: "Oct 2014"
+
+- href: "2014-apr-borel-conjecture"
+  title: "On the independence of the Borel conjecture"
+  other: "Set Theory Seminar, CUNY"
+  date: "Apr 2014"
+  

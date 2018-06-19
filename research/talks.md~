@@ -1,0 +1,21 @@
+---
+layout: page
+title: Talks
+permalink: /research/talks/
+---
+
+An exhaustive listing of my talks can be found here, split up by talks at conferences versus talks at seminars.
+
+Conference Talks
+====
+
+{% for talk in site.data.conftalks %}
+* [{{ talk.title }}]({{ site.baseurl }}/research/talks/{{ talk.href }}), {{ talk.other }} ({{ talk.date }}).
+{% endfor %}
+
+Seminar Talks
+====
+
+{% for talk in site.data.semtalks %}
+* [{{ talk.title }}]({{ site.baseurl }}/research/talks/{{ talk.href }}), {{ talk.other }} ({{ talk.date }}).
+{% endfor %}
