@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
