@@ -1,6 +1,11 @@
 
 #info about publications
 
+- href: "set-theoretic-blockchains"
+  authors: "Miha E. Habič, Joel David Hamkins, Lukas Daniel Klausner, Jonathan Verner, and Kameryn J. Williams"
+  title: "Set-theoretic blockchains"
+  othercite: "*under review*"
+
 - href: "diss"
   authors: "Kameryn J. Williams"
   title: "The Structure of Models of Second-order Set Theories"
@@ -16,6 +21,7 @@
   title: "The exact strength of the class forcing theorem"
   othercite: "*under review*"
 
+
 # papers currently being written
 # put href = "" for all of them
 # this makes the formatting in research.md work correctly
@@ -30,8 +36,4 @@
   title: "Iterating the mantle"
   othercite: "*in preparation*"
 
-- href: ""
-  authors: "Miha Habič, Joel David Hamkins, Lukas Daniel Klausner, Jonathan Verner, and Kameryn J. Williams"
-  title: "Set-theoretic blockchains"
-  othercite: "*in preparation*"
   

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Least models of second-order set theories
+title: Least Models of Second-order Set Theories
 permalink: /research/pubs/least-models/
 ---
 

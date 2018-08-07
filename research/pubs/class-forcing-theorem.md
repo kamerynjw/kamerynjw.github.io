@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Structure of Models of Second-order Set Theories
+title: The Exact Strength of the Class Forcing Theorem
 permalink: /research/pubs/class-forcing-theorem/	
 ---
 

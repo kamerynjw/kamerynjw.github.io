@@ -161,6 +161,10 @@
 		  background-color: $paleyellow;
 		  //opacity: 0.6;
 
+		  @include media-query($on-palm) {
+				width: 90%;
+		  }
+
 		  color: $darkgrayblue;
 		  
 		  p {
@@ -276,3 +280,8 @@
     .post-content {
         margin-bottom: $spacing-unit;
     }
+
+	 .contact-footer {
+		  font-size: 85%;
+		  margin: 15px 15px 15px 15px;
+	 }
