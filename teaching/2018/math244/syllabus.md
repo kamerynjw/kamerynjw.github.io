@@ -7,6 +7,8 @@ permalink: /teaching/2018/math244/syllabus/
 Class Information
 =====
 
+**Course Title** Calculus IV
+
 **Instructor** Kameryn Williams
 
 **Website** [http://kamerynjw.net/teaching/2018/math244/]({{ site.baseurl }}/teaching/2018/math244/)
