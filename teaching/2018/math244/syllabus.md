@@ -64,6 +64,8 @@ Homework should be clearly written, so that I can follow the logical steps you t
 
 There will be no acceptance of late homework. If you will miss class, make arrangements to either submit your homework early to me or have another student turn it in for you.
 
+I will drop your lowest two homework scores from the calculation for your grade.
+
 Exam Policy
 ====
 

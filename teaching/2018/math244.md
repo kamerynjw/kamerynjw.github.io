@@ -18,6 +18,10 @@ Nothing yet!
 Homework
 --------
 
-Nothing yet! 
+I will grade among the bolded problems.
+
+* Week 1: (Due **Friday** Aug 24) Section 11.5: 1, **4**, 8, 23, **28**, 33, **42**, 48.
+
+* Week 2: (Due Wednesday Aug 29) Section 11.6: 33–38, **45**; Section 14.1: 1, 5, **10**, **12**, 14, **17**, 19.
 
 
