@@ -11,7 +11,7 @@ Class Information
 
 **Instructor** Kameryn Williams
 
-**Website** [http://kamerynjw.net/teaching/2018/math244/]({{ site.baseurl }}/teaching/2018/math302/)
+**Website** [http://kamerynjw.net/teaching/2018/math302/]({{ site.baseurl }}/teaching/2018/math302/)
 
 **Email** `kamerynw [ at ] hawaii ( period ) edu`
 
