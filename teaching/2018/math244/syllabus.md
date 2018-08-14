@@ -32,7 +32,7 @@ Class Information
 Grading Policy
 =======
 
-Grades will be assigned based upon the standard F to A scale: [93,100] A; [90,93) A-; [87-90) B+; [83,87) B; [80,83) B-; [77,80) C+; [73,77) C; [70,73) C-; [67,70) D+; [63,67) D; [60,63) D-; [0,60) F. 
+Grades will be assigned based upon the standard F to A scale: [93,100] A; [90,93) A-; [87-90) B+; [83,87) B; [80,83) B-; [77,80) C+; [73,77) C; [70,73) C-; [67,70) D+; [63,67) D; [60,63) D-; [0,60) F. I reserve the right to assign higher grades, based upon circumstance and student effort.
 
 The breakdown for your grade is as follows:
 
