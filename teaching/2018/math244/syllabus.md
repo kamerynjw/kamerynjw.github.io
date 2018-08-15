@@ -80,4 +80,7 @@ Academic Honesty
 
 Cheating, plagiarism, and other forms of academic dishonesty will not be tolerated.
 
+KOKUA Program
+=====
 
+Information about the KOKUA Program, the UH Mānoa office for students with disabilities can be found on [their website](http://www.hawaii.edu/kokua/). 
