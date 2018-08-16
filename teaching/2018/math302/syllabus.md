@@ -19,9 +19,9 @@ Class Information
 
 **Room** Bilger Hall 335
 
-**Office Hours** TBA
+**Office Hours** MW 10:30–11:30, Th 1:30–2:30
 
-**Office** TBA
+**Office** Physical Science Building 305
 
 **Textbook** Tennenbaum and Pollard, *Ordinary Differential Equations*, Dover Edition.
 

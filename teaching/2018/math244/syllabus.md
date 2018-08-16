@@ -19,9 +19,9 @@ Class Information
 
 **Room** Keller 303
 
-**Office Hours** TBA
+**Office Hours** MW 10:30–11:30, Th 1:30–2:30
 
-**Office** TBA
+**Office** Physical Science Building 305
 
 **Textbook** Haas, Weir, and Thomas, *University Calculus (Alternate Edition)*, current edition, Pearson/Addison Wesley.
 
