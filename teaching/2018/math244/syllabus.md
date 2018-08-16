@@ -58,7 +58,7 @@ Homework Policy
 
 Assigned homework can be found on the [course website]({{ site.baseurl }}/teaching/2018/math244/). Homework will be collected once a week, on Wednesdays. The work you turn in is expected to be your own.
 
-Homework will be graded 50% on completion, and 50% based upon a selection of problems from the assignment. For each homework assignment I tell you a small subset of the assigned problems that I will choose from for grading. You must still do all the assignment for the 50% completetion points!
+Homework will be graded 20% on completion, and 80% based upon a selection of problems from the assignment. For each homework assignment I tell you a small subset of the assigned problems that I will choose from for grading. You must still do all the assignment for the 20% completion points!
 
 Homework should be clearly written, so that I can follow the logical steps you take. Each problem should end with the final answer appropriately formulated and circled.
 
