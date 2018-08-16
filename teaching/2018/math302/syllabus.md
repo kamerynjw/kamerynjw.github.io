@@ -19,7 +19,7 @@ Class Information
 
 **Room** Bilger Hall 335
 
-**Office Hours** MW 10:30–11:30, Th 1:30–2:30
+**Office Hours** MW 10:30–11:30, Th 1:30–2:30, or by appointment
 
 **Office** Physical Science Building 305
 
