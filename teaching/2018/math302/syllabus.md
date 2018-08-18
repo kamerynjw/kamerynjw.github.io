@@ -19,9 +19,9 @@ Class Information
 
 **Room** Bilger Hall 335
 
-**Office Hours** TBA
+**Office Hours** MW 10:30–11:30, Th 1:30–2:30, or by appointment
 
-**Office** TBA
+**Office** Physical Science Building 305
 
 **Textbook** Tennenbaum and Pollard, *Ordinary Differential Equations*, Dover Edition.
 
@@ -55,7 +55,7 @@ Homework Policy
 
 Assigned homework can be found on the [course website]({{ site.baseurl }}/teaching/2018/math302/). Homework will be collected once a week, on Fridays. The work you turn in is expected to be your own.
 
-Homework will be graded 50% on completion, and 50% based upon a selection of problems from the assignment. For each homework assignment I tell you a small subset of the assigned problems that I will choose from for grading. You must still do all the assignment for the 50% completetion points!
+Homework will be graded 20% on completion, and 80% based upon a selection of problems from the assignment. For each homework assignment I tell you a small subset of the assigned problems that I will choose from for grading. You must still do all the assignment for the 20% completion points!
 
 Homework should be clearly written, so that I can follow the logical steps you take. Each problem should end with the final answer appropriately formulated and circled.
 
@@ -75,4 +75,8 @@ Academic Honesty
 
 Cheating, plagiarism, and other forms of academic dishonesty will not be tolerated.
 
+KOKUA Program
+=====
+
+Information about the KOKUA Program, the UH Mānoa office for students with disabilities can be found on [their website](http://www.hawaii.edu/kokua/). 
 
