@@ -66,7 +66,13 @@ I will drop your lowest two homework scores from the calculation of your grade.
 Exam Policy
 ====
 
-There will be two midterms, dates to be announced, and a cumulative final exam. **There will be no make-up exams.** If you will be absent for an exam, contact me in advance so that we can schedule an alternate, earlier, time for you to take the exam.
+There will be two midterms, and a cumulative final exam. **There will be no make-up exams.** If you will be absent for an exam, contact me in advance so that we can schedule an alternate, earlier, time for you to take the exam.
+
+Tentative midterm dates:
+
+* Midterm 1: Friday, September 28.
+
+* Midterm 2: Wednesday, November 21.
 
 Final exams will not be given early.
 

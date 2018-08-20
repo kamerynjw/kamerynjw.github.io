@@ -13,7 +13,11 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-Nothing yet!
+* (8/20) Tentatively, the midterm dates will be: 
+
+    * Midterm 1: Friday, September 28.
+
+    * Midterm 2: Wednesday, November 21.
 
 Homework
 --------
