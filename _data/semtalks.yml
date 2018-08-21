@@ -1,5 +1,20 @@
 
-# selected talks to display in research.md
+# seminar talks to display in talks.md
+
+- href: "2018-sept-computational-forcing"
+  title: "Forcing as a computational process"
+  other: "Logic Seminar, UH Mānoa"
+  date: "Sept 2018"
+
+- href: "2018-sept-conceptual-forcing"
+  title: "A conceptual overview of forcing"
+  other: "Logic Seminar, UH Mānoa"
+  date: "Sept 2018"
+
+- href: "2018-aug-universes-of-sets"
+  title: "Universes of sets"
+  other: "Logic Seminar, UH Mānoa"
+  date: "Aug 2018"
 
 - href: "2018-apr-defense"
   title: "The structure of models of second-order set theories"
