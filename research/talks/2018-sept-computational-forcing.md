@@ -18,4 +18,4 @@ On the other hand, there is no functorial process for computing forcing extensio
 
 * If ZFC is consistent then there is no computable procedure (nor even a Borel procedure) which takes as input the elementary diagram for a countable model $M$ of ZFC and a partial order $\mathbb P \in M$ and returns a generic $G$ so that isomorphic copies of the same input model always result in the same corresponding isomorphic copy of $G$. 
 
-This talk is a sequel to [my previous talk]({{ site.baseurl }}/research/talks/2018-sept-conceptual-forcing).
+This talk is a sequel to [my previous talk]({{ site.baseurl }}/research/talks/2018-sept-conceptual-forcing). The work in this talk is joint with Joel David Hamkins and Russell Miller.
