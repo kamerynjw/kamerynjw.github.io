@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (8/22) The university is closed tomorrow and Friday, so we will not meet on Friday.
+
 * (8/22) The tentative dates for the midterms will be:
 
     * Midterm 1: Friday, September 21.
