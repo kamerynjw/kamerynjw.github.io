@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (8/22) The university will be closed Thursday and Friday, so we will not meet Friday and Friday's homework will be due the subsequent Monday.
+
 * (8/20) Tentatively, the midterm dates will be: 
 
     * Midterm 1: Friday, September 28.
@@ -24,7 +26,7 @@ Homework
 
 I will grade from among the bolded or starred problems.
 
-* Week 1 (Due Friday Aug 24) 
+* Week 1 (Due Monday Aug 27) 
 
     1. Exercise 1.3 (page 5) from the textbook.
 
