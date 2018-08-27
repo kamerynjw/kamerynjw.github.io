@@ -36,4 +36,9 @@ I will grade from among the bolded or starred problems.
 	
 	4. \*\*\* Read Lesson 2 of the textbook and review the material therein. Write the sentence "I read Lesson 2 and understand the material from that lesson." and sign it with your name. 
 
+* Week 2 (Due Friday, August 31)
+
+    1. Exercises 3.1, **3.2.(a–e)**, **3.4.(b)**.
+
+    2. Exercises 4.1, **4.2**, 4.3.
 
