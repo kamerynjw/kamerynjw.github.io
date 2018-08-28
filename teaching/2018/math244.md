@@ -32,6 +32,6 @@ I will grade among the bolded problems.
 
 * Week 2: (Due Wednesday Aug 29) Section 11.5: 1, **4**, 8, 23, **28**, 33, **42**, 48
 
-* Week 3: (Due Wednesday Sept 5) *tentatively* Section 11.6: 33–38, **45**; Section 14.1: 1, 5, **10**, **12**, 14, **17**, 19.
+* Week 3: (Due Wednesday Sept 5) *tentatively* Section 11.6: 1–12 (evens), **45**; Section 14.1: 1, 5, **10**, **12**, 14, **17**, 19.
 
 
