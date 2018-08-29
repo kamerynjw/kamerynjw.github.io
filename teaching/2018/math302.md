@@ -42,3 +42,10 @@ I will grade from among the bolded or starred problems.
 
     2. Exercises 4.1, **4.2**, 4.3.
 
+
+* Week 3 (Due Friday, September 7)
+
+    1. Exercises from Lesson 6: 2, 5, **7**, 10, 11, **12**, 15, **17**, **20**, 21
+
+    2. You have a 15,000 gallon pool. You want it to have the salinity of seawater, 35 parts per thousand of salt per water, which comes out to .3 lb of salt for each gallon of water. You miscalculated the size of your pool and put in 5500 lb of salt, which is too much. To fix this, you drain the pool at the rate of 5 gallons per minute while simultaneously filling it with fresh water at the rate of 5 gallons per minute. Meanwhile, you constantly stir the water to keep it the salt distribution uniform. Write a differential equation which describes the quantity $s$ of salt in the pool (in pounds) at time $t$ (in minutes). Solve this differential equation to determine how long you need to drain the pool and refill it with fresh water to reach the optimal salt level of 4500 lb.
+
