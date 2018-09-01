@@ -32,7 +32,7 @@ I will grade among the bolded problems.
 
 * Week 2: (Due Wednesday Aug 29) Section 11.5: 1, **4**, 8, 23, **28**, 33, **42**, 48
 
-* Week 3: Canceled! Material will be worked into later homeworks. <strike>(Due Wednesday Sept 5) <i>tentatively</i> Section 11.6: 1–12 (evens), <b>45</b>; Section 14.1: 1, 5, <b>10</b>, <b>12</b>, 14, <b>17</b>, 19.</strike>
+* Week 3: Canceled! Material will be worked into later homeworks. <strike>(Due Wednesday Sept 5) <i>tentatively</i> Section 11.6: 1–12 (evens), <strong>45</strong>; Section 14.1: 1, 5, <strong>10</strong>, <strong>12</strong>, 14, <strong>17</strong>, 19.</strike>
 
 * Week 4: (Due Wednesday Sept 12) Section 11.6: **45**; Section 14.1: 1–6, **9**, **10**,  15, **16**, **17**, 21, 27.
 
