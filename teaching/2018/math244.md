@@ -13,6 +13,14 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (9/3) Here are some online resources for graphing functions of two variables, which can be useful in visualizing what's going on. I highly recommend referencing them while doing your homework.
+
+    * [WolframAlpha](http://www.wolframalpha.com/). You can easily [plot graphs](input/?i=plot+2sin+x+cos+y).
+
+    * You can plot graphs right in google's search bar. The syntax is "plot f(x,y)", where f(x,y) is the function you want to plot. See [a sample plot](https://www.google.com/search?q=plot+2sin(x)cos(y)).
+
+    * If you have access to any of them, Matlab, Maple, and Mathematica all have built-in 3d plotting capabilities.
+
 * (8/22) The university is closed tomorrow and Friday, so we will not meet on Friday.
 
 * (8/22) The tentative dates for the midterms will be:
