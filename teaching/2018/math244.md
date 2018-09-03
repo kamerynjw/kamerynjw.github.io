@@ -15,7 +15,7 @@ Announcements
 
 * (9/3) Here are some online resources for graphing functions of two variables, which can be useful in visualizing what's going on. I highly recommend referencing them while doing your homework.
 
-    * [WolframAlpha](http://www.wolframalpha.com/). You can easily [plot graphs](input/?i=plot+2sin+x+cos+y).
+    * [WolframAlpha](http://www.wolframalpha.com/). You can easily [plot graphs](http://www.wolframalpha.com/input/?i=plot+2sin+x+cos+y).
 
     * You can plot graphs right in google's search bar. The syntax is "plot f(x,y)", where f(x,y) is the function you want to plot. See [a sample plot](https://www.google.com/search?q=plot+2sin(x)cos(y)).
 
