@@ -44,5 +44,4 @@ I will grade among the bolded problems.
 
 * Week 4: (Due Wednesday Sept 12) Section 11.6: **45**; Section 14.1: 1–6, **9**, **10**,  15, **16**, **17**, 21, 27.
 
-
-
+* Week 5: (Due Wednesday Sept 19) Section 14.2: 1–4, **13**, 15–20, **25**, 54; Section 14.3: 2, 7, 9, **11**, **15**, 16; Section 14.4: 1–3, **6**, **8**, 20, **23**, 33
