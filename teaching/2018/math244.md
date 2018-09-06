@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (9/6) The first midterm will be Monday, September 24. It will cover material from sections 11.5, 11.6, and 11.1–11.4, corresponding to the material up to the homework due September 19. 
+
 * (9/3) Here are some online resources for graphing functions of two variables, which can be useful in visualizing what's going on. I highly recommend referencing them while doing your homework.
 
     * [WolframAlpha](http://www.wolframalpha.com/). You can easily [plot graphs](http://www.wolframalpha.com/input/?i=plot+2sin+x+cos+y).
@@ -25,7 +27,7 @@ Announcements
 
 * (8/22) The tentative dates for the midterms will be:
 
-    * Midterm 1: Friday, September 21.
+    * Midterm 1:  <strike>Friday, September 21</strike> Monday, September 24.
 
     * Midterm 2: Friday, November 16.
 
