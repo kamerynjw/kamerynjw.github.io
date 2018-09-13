@@ -55,3 +55,10 @@ I will grade from among the bolded or starred problems.
 
     2. Exercises from Lesson 8: **3**, 6, 9
 
+* Week 5 (Due Friday, September 21)
+
+    1. Exercises from Lesson 9: (Only have to solve by one method) 5, **7**, 10, **16**, 17
+
+    2. Exercises from Lesson 10: **3**, **10**, 12, 16
+
+    3. Exercises from Lesson 12: Do any five of 15--50
