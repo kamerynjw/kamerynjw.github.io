@@ -18,4 +18,4 @@ permalink: /blog/
   </ul>
 </div>
 
-  (I am currently in the progress of porting content over from <a href="https://kamerynblog.wordpress.com">my old site</a>. If something is not yet here you should look there.)
+  (For blog posts from before summer 2018, see <a href="https://kamerynblog.wordpress.com">my old site</a>. If something is not yet here you should look there.)
