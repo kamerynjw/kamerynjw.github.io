@@ -13,7 +13,9 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (9/6) The first midterm will be Monday, September 24. It will cover material from sections 11.5, 11.6, and 11.1–11.4, corresponding to the material up to the homework due September 19. 
+* (9/17) I uploaded a [study guide]({{ page.url }}sg1.pdf) for the first midterm.
+
+* (9/6) The first midterm will be Monday, September 24. It will cover material from sections 11.5, 11.6, and 14.1–14.4, corresponding to the material up to the homework due September 19. 
 
 * (9/3) Here are some online resources for graphing functions of two variables, which can be useful in visualizing what's going on. I highly recommend referencing them while doing your homework.
 
