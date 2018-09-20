@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (9/17) I uploaded a [study guide]({{ page.url }}sg1.pdf) for the first midterm.
+* (9/17) I uploaded a [study guide]({{ page.url }}sg1.pdf) for the first midterm. Here are the answers: (1) The answer was in your heart all along. (2) We did this in class, and I don't recall the answer I got. (3) Many possible answers. I got $-9x - 8y + 6z = 5$. (4) $e^\pi - 1$. (5) $81\pi/2$. (6) $(8e^3 - 4)/9$. (7) $7$. (8) Just set up the integrals. (9) $1/10$. If you find a mistake in these answers, please let me know so I can correct it.
 
 * (9/6) The first midterm will be Monday, September 24. It will cover material from sections 11.5, 11.6, and 14.1–14.4, corresponding to the material up to the homework due September 19. 
 
