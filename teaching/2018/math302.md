@@ -64,3 +64,6 @@ I will grade from among the bolded or starred problems.
     2. Exercises from Lesson 10: **3**, **10**, 12, 16
 
     3. Exercises from Lesson 12: Do any five of 15--50
+
+* Week 6: No homework due to exam.
+
