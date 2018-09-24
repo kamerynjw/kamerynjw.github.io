@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (9/19) I put up a [study guide]({{ page.url }}sg1.pdf) for the first midterm.
+* (9/19) I put up a [study guide]({{ page.url }}sg1.pdf) for the first midterm. (9/24: fixed a couple typos.)
 
 * (8/22) The university will be closed Thursday and Friday, so we will not meet Friday and Friday's homework will be due the subsequent Monday.
 
