@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (9/19) I put up a [study guide]({{ page.url }}sg1.pdf) for the first midterm. (9/24: fixed a couple typos.)
+* (9/19) I put up a [study guide]({{ page.url }}sg1.pdf) for the first midterm. (9/24: fixed a couple typos.) Solutions: (3) $\log(6x^2 + 3y^2 + 4x + 2y + 1) = \sqrt 2 \arctan(\sqrt 2 \frac{x+1/3}{y-1/3}) + C$. (4) $y^4/4 - e^y = x^3 + e^x + C$. (5) $y^4(4x/y + 1)^3 = 1$. (6) $x\sin y + y \cos x = 0$. (7) $ye^{x+y} + e^x = C$. 
 
 * (8/22) The university will be closed Thursday and Friday, so we will not meet Friday and Friday's homework will be due the subsequent Monday.
 
