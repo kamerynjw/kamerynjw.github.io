@@ -1,4 +1,4 @@
----
+c---
 layout: page
 title: "Math 244: Calculus IV (Fall 2018)"
 permalink: /teaching/2018/math244/
@@ -52,3 +52,9 @@ I will grade among the bolded problems.
 
 * Week 6: No homework due to exam.
 
+* Week 7: (Due Wednesday Oct 3) Section 14.5: 9, **17**, 22, 23, **30**, 
+**31**; Section 14.6: 1, 10, 25.
+
+    * **Bolded Problem** You have a weighted die, conveniently represented by the unit cube $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$. The density at a point $(x,y,z)$ in the die is given by the function $\delta(x,y,z) = 1 + z$. Find the center of mass of the die.
+
+    * **Bolded Problem** You have another weighted die, but instead of being a cube it is an (eight-sided) octahedron. This solid is given by the inequality $|x+y+z| \le 3$. The density at a point $(x,y,z)$ in the die is given by $\delta(x,y,z) = 3 + x + y + z$. Sketch a picture of the octaderal die and set up the integral to calculate its mass. (Hint: break the die up into four regions and find the limits of integration for each region separately.) Also set up the integral to calculate one of its moments (your choice which). Without calculating those integrals, which octant do you think the center of mass is in? Explain your reasoning.
