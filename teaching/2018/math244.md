@@ -1,4 +1,4 @@
-c---
+---
 layout: page
 title: "Math 244: Calculus IV (Fall 2018)"
 permalink: /teaching/2018/math244/
