@@ -67,4 +67,4 @@ I will grade from among the bolded or starred problems.
 
 * Week 6: No homework due to exam.
 
-* Week 7 (Due Friday, September 28) : See [this pdf]({{ page.url }}h7.pdf).
+* Week 7 (Due Friday, October 5) : See [this pdf]({{ page.url }}h7.pdf).
