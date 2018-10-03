@@ -67,7 +67,7 @@ I will grade from among the bolded or starred problems.
 
 * Week 6: No homework due to exam.
 
-* Week 7 <strike>(Due Friday, October 5): See [this pdf]({{ page.url }}h7.pdf).</strike> Canceled.
+* Week 7 <strike>(Due Friday, October 5): See <a href="{{ page.url }}h7.pdf">this pdf</a>.</strike> Canceled.
 
 * Week 8 (Due Friday, October 12): 
 
