@@ -67,4 +67,12 @@ I will grade from among the bolded or starred problems.
 
 * Week 6: No homework due to exam.
 
-* Week 7 (Due Friday, October 5) : See [this pdf]({{ page.url }}h7.pdf).
+* Week 7 <strike>(Due Friday, October 5): See [this pdf]({{ page.url }}h7.pdf).</strike> Canceled.
+
+* Week 8 (Due Friday, October 12): 
+
+    1. Exercises from Lesson 11: 2, **4**, 10, 18, 21, **22**.
+
+    2. **Read Lesson 17M.E and do exercise 18 (page 189).**
+
+    3. Exercises from Lesson 18: 6, 7. Think about, but don't feel obligated to write down solutions for, 8 and 9.
