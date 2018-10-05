@@ -13,7 +13,9 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (9/17) I uploaded a [study guide]({{ page.url }}sg1.pdf) for the first midterm.
+* (9/28) See the [answer key]({{ page.url }}e1-answerkey.pdf) for the first midterm.
+
+* (9/17) I uploaded a [study guide]({{ page.url }}sg1.pdf) for the first midterm. Here are the answers: (1) The answer was in your heart all along. (2) We did this in class, and I don't recall the answer I got. (3) Many possible answers. I got $-9x - 8y + 6z = 5$. (4) $e^\pi - 1$. (5) $81\pi/2$. (6) $(8e^3 - 4)/9$. [This is wrong, but I don't remember the answer we calculated in class. A much uglier expression.] (7) $7$. (8) Just set up the integrals. (9) $9/10$. If you find a mistake in these answers, please let me know so I can correct it.
 
 * (9/6) The first midterm will be Monday, September 24. It will cover material from sections 11.5, 11.6, and 14.1–14.4, corresponding to the material up to the homework due September 19. 
 
@@ -49,3 +51,17 @@ I will grade among the bolded problems.
 * Week 4: (Due Wednesday Sept 12) Section 11.6: **45**; Section 14.1: 1–6, **9**, **10**,  15, **16**, **17**, 21, 27.
 
 * Week 5: (Due Wednesday Sept 19) Section 14.2: 1–4, **13**, 15–20, **25**, 54; Section 14.3: 2, 7, 9, **11**, **15**, 16; Section 14.4: 1–3, **6**, **8**, 20, **23**, 33
+
+* Week 6: No homework due to exam.
+
+* Week 7: (Due Wednesday Oct 3) Section 14.5: 9, **17**, 22, 23, **30**, 
+**31**; Section 14.6: 1, 10, 25.
+
+    * **Bolded Problem** You have a weighted die, conveniently represented by the unit cube $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$. The density at a point $(x,y,z)$ in the die is given by the function $\delta(x,y,z) = 1 + z$. Find the center of mass of the die.
+
+    * **Bolded Problem** You have another weighted die, but instead of being a cube it is [an (eight-sided) octahedron]({{ page.url }}d8s.jpg). This solid is given by the inequality $\lvert x\rvert + \lvert y\rvert + \lvert z\rvert \le 3$. The density at a point $(x,y,z)$ in the die is given by $\delta(x,y,z) = 3 + x + y + z$. Sketch a picture of the octaderal die and set up the integral to calculate its mass. (Hint: break the die up into four regions and find the limits of integration for each region separately.) Also set up the integral to calculate one of its moments (your choice which). Without calculating those integrals, which octant do you think the center of mass is in? Explain your reasoning.
+
+* Week 8: (Due Wednesday Oct 10) Section 14.7: 4, **7**, 9, 14, 17, **21**, 24, 28, 32, **33**, **38**, 39.
+
+    * Give a brief read of [this article](https://files.eric.ed.gov/fulltext/EJ720058.pdf) about how to calculate the volume of a torus (= doughnut shape) using triple integrals.
+

@@ -13,6 +13,10 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (10/4) Visualizing complex functions is hard, since their inputs and outputs are both points in the plane, and we only have three spatial dimensions in our world. A clever workaround is to use colors. Hue represents the argument of the output while intensity represents the norm of the output. Check out [this great webpage](http://users.mai.liu.se/hanlu09/complex/domain_coloring.html) by Hans Lundmark at Linköping University. His page explains how this works, and gives visualizations of some common complex functions, including the exponential and trig functions. It also mixes in some nice explanations about some cool facts about complex analytic functions, supported by the visualizations.
+
+* (9/19) I put up a [study guide]({{ page.url }}sg1.pdf) for the first midterm. (9/24: fixed a couple typos.) Solutions: (3) $\log(6x^2 + 3y^2 + 4x + 2y + 1) = \sqrt 2 \arctan(\sqrt 2 \frac{x+1/3}{y-1/3}) + C$. (4) $y^4/4 - e^y = x^3 + e^x + C$. (5) $y^4(4x/y + 1)^3 = 1$. (6) $x\sin y + y \cos x = 0$. (7) $ye^{x+y} + e^x = C$. 
+
 * (8/22) The university will be closed Thursday and Friday, so we will not meet Friday and Friday's homework will be due the subsequent Monday.
 
 * (8/20) Tentatively, the midterm dates will be: 
@@ -62,3 +66,15 @@ I will grade from among the bolded or starred problems.
     2. Exercises from Lesson 10: **3**, **10**, 12, 16
 
     3. Exercises from Lesson 12: Do any five of 15--50
+
+* Week 6: No homework due to exam.
+
+* Week 7 <strike>(Due Friday, October 5): See <a href="{{ page.url }}h7.pdf">this pdf</a>.</strike> Canceled.
+
+* Week 8 (Due Friday, October 12): 
+
+    1. Exercises from Lesson 11: 2, **4**, 10, 18, 21, **22**.
+
+    2. **Read Lesson 17M.E and do exercise 18 (page 189).**
+
+    3. Exercises from Lesson 18: 6, 7. Think about, but don't feel obligated to write down solutions for, 8 and 9.
