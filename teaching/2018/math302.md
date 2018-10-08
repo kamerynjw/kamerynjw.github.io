@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (10/8) The Intergovernmental Panel on Climate Change recently released a [report](http://www.ipcc.ch/report/sr15/) which shows that there is a high risk of climate change-related crisis as early as 2040. For a summary of the report, see [this New York Times article](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html).
+
 * (10/4) Visualizing complex functions is hard, since their inputs and outputs are both points in the plane, and we only have three spatial dimensions in our world. A clever workaround is to use colors. Hue represents the argument of the output while intensity represents the norm of the output. Check out [this great webpage](http://users.mai.liu.se/hanlu09/complex/domain_coloring.html) by Hans Lundmark at Linköping University. His page explains how this works, and gives visualizations of some common complex functions, including the exponential and trig functions. It also mixes in some nice explanations about some cool facts about complex analytic functions, supported by the visualizations.
 
 * (9/19) I put up a [study guide]({{ page.url }}sg1.pdf) for the first midterm. (9/24: fixed a couple typos.) Solutions: (3) $\log(6x^2 + 3y^2 + 4x + 2y + 1) = \sqrt 2 \arctan(\sqrt 2 \frac{x+1/3}{y-1/3}) + C$. (4) $y^4/4 - e^y = x^3 + e^x + C$. (5) $y^4(4x/y + 1)^3 = 1$. (6) $x\sin y + y \cos x = 0$. (7) $ye^{x+y} + e^x = C$. 
