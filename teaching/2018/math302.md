@@ -80,3 +80,11 @@ I will grade from among the bolded or starred problems.
     2. **Read Lesson 17M.E and do exercise 18 (page 189).**
 
     3. Exercises from Lesson 18: 6, 7. Think about, but don't feel obligated to write down solutions for, 8 and 9.
+
+* Week 9 (Due Friday, October 19):
+
+    1. Exercises from Lesson 20: 1, 3, 19, **29**, 31, 32, **34**.
+
+    2. Exercises from Lesson 28A&B: **4**, 9, 18.
+
+    3. Exercises from Lesson 28C: **25**, **35**.

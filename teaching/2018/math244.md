@@ -65,7 +65,7 @@ I will grade among the bolded problems.
 
 * Week 8: (Due Wednesday Oct 10) Section 14.7: 4, **7**, 9, 14, 17, **21**, 24, 28, 32, **33**, **38**, 39.
 
-    * Give a brief read of [this article](https://files.eric.ed.gov/fulltext/EJ720058.pdf) about how to calculate the volume of a torus (= doughnut shape) using triple integrals.
+    * Give a brief read of [this article](https://files.eric.ed.gov/fulltext/EJ720058.pdf) about how to calculate the volume of a torus (doughnut shape) using triple integrals.
 
-* Week 9: (Due Wednesday Oct 17) Section 14.8: 1, 3, 6, 7, **9**, **20**; Section 15.1: 9, **13**, 14, 19, **21**.
+* Week 9: (Due Wednesday Oct 17) Section 14.8: 1, 3, 6, 7, **9**, 17, **20**; Section 15.1: 9, **13**, 14, 19, **21**.
 
