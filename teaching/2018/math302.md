@@ -85,7 +85,7 @@ I will grade from among the bolded or starred problems.
 
     1. Exercises from Lesson 20: 1, 3, 19, 31, **34**.
 
-    2. Exercises from Lesson 21: 3, 13, **17**.
+    2. Exercises from Lesson 21: 3, **13**, **17**.
 
     3. Exercises from Lesson 28A&B: **4**, 18.
 
