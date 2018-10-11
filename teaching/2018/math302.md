@@ -83,8 +83,14 @@ I will grade from among the bolded or starred problems.
 
 * Week 9 (Due Friday, October 19):
 
-    1. Exercises from Lesson 20: 1, 3, 19, **29**, 31, 32, **34**.
+    1. Exercises from Lesson 20: 1, 3, 19, 31, **34**.
 
-    2. Exercises from Lesson 28A&B: **4**, 9, 18.
+    2. Exercises from Lesson 21: 3, 13, **17**.
 
-    3. Exercises from Lesson 28C: **25**, **35**.
+    3. Exercises from Lesson 28A&B: **4**, 18.
+
+    4. Exercises from Lesson 28C: **25**.
+
+    5. Exercises from Lesson 29A: 10.
+
+
