@@ -4,6 +4,15 @@ title: Brief CV
 permalink: /cv/
 ---
 
+Academic History
+====
+
+University of Hawaiʻi at Mānoa
+----
+Temporary Assistant Professor
+
+Fall 2018 to present
+
 Education
 ====
 
