@@ -69,3 +69,4 @@ I will grade among the bolded problems.
 
 * Week 9: (Due Wednesday Oct 17) Section 14.8: 1, 3, 6, 7, **9**, 17, **20**; Section 15.1: 9, **13**, 14, 19, **21**.
 
+* Week 10: (Due Wednesday Oct 24) Section 15.2: 2, **3**, 13, **14**, 23, 30, **38**; Section 15.3: 2, 4, **10**, **17**, 22, 34.
