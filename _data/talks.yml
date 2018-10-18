@@ -1,6 +1,11 @@
 
 # selected talks to display in research.md
 
+- href: "2018-dec-cmr"
+  title: "The universal Sigma_1 finite sequence"
+  other: "contributed talk, Cantor Meets Robinson conference"
+  date: "Dec 2018"
+
 - href: "2018-may-asl"
   title: "Minimal models for second-order set theories"
   other: "contributed talk, 2018 ASL North American Annual Meeting"
