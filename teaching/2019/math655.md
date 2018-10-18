@@ -73,7 +73,7 @@ Tentative Course Outline
 Textbook
 --------
 
-The "official" textbook for the course is Kunen's *Set Theory* (ISBN: 978-1-84890-050-9). As supplementary books I will reference Kanamori's *The Higher Infinite* (ISBN: 3-540-00384-3) and Jech's *Set Theory, 3rd ed. (ISBN:3-540-44085-2). In particular, Kunen says little about large cardinals and Kanamori will be the primary reference for Part 1.
+The "official" textbook for the course is Kunen's *Set Theory* (ISBN: 978-1-84890-050-9). As supplementary books I will reference Kanamori's *The Higher Infinite* (ISBN: 3-540-00384-3) and Jech's *Set Theory*, 3rd ed. (ISBN:3-540-44085-2). In particular, Kunen says little about large cardinals and Kanamori will be the primary reference for Part 1.
 
 I will strive to regularly post lecture notes, in addition to what can be found in the texts.
 
