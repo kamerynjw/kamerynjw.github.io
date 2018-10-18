@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Math 655: Set Theory (Spring 2019)
-permalink: /teaching/2019/math2655/
+permalink: /teaching/2019/math655/
 ---
 
 **Class Meets** TBA
