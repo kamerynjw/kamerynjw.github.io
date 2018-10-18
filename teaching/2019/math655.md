@@ -27,7 +27,8 @@ I will not collect homework for grading, but you are encouraged to work on the e
 
 As part of the course, I will ask each student to confer with me to pick a topic to research. Everyone will be asked to give a short presentation about their topic at some point during the semester. There are myriad possible topics, and I will give suggestions along the way.
 
-The tentative structure of the course is as follows.
+Tentative Course Outline
+------------------------
 
 * Part 0: Introduction (~1 week)
 
