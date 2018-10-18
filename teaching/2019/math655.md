@@ -19,7 +19,7 @@ The unofficial title for this course is "Large cardinals and forcing". As the ti
 
 Large cardinals are those cardinal numbers which are "too big" for the standard axioms of set theory, ZFC, to prove their existence. A variety of large cardinal properties have been considered, starting with work of Hausdorff, Ulam, and others. The large cardinals give rise to a hierarchy of theories which extend ZFC in logical strength, giving us a yard-stick by which to measure the strength of principles which exceed ZFC. 
 
-Forcing, originally developed by Paul Cohen to prove the consistency of the failure of the continuum hypothesis. It is a remarkably flexible method and is the main tool used to prove consistency and independence results. Elements of a partially ordered set code partial information about a generic object from outside the universe. This generic object gives rise to an extension of the universe of sets, one which is closely connected to the original ground universe. 
+Forcing, originally developed by Paul Cohen to prove the consistency of the failure of the continuum hypothesis. It is a remarkably flexible method and is the main tool used to prove consistency and independence results. 
 
 Due to time constraints, there are many topics we will not be able to touch on, among them inner models, determinancy, descriptive set theory, and infinitary combinatorics. 
 
