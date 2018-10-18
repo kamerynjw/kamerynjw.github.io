@@ -80,7 +80,7 @@ I will strive to regularly post lecture notes, in addition to what can be found 
 Grading Policy
 --------------
 
-Everyone who is signed up for the class gets an A. But I reserve the right to assign an A– for exceptional cases.
+Everyone who is signed up for the class gets an A. But I reserve the right to assign an A– for exceptional cases. For *really* exceptional cases, see [this Futurama clip](https://www.youtube.com/watch?v=XY3BnNGsNwk).
 
 Announcements
 -------------
