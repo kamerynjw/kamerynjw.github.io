@@ -1,6 +1,12 @@
 
 #info about publications
 
+- href: "inner-mantles"
+  authors: "Jonas Reitz and Kameryn J. Williams"
+  title: "Inner mantles and iterated HOD"
+  othercite: "*under review*"
+
+
 - href: "set-theoretic-blockchains"
   authors: "Miha E. Habič, Joel David Hamkins, Lukas Daniel Klausner, Jonathan Verner, and Kameryn J. Williams"
   title: "Set-theoretic blockchains"
@@ -29,11 +35,6 @@
 - href: ""
   authors: "Joel David Hamkins, Philip Welch, and Kameryn J. Williams"
   title: "The universal finite sequence for end extensions"
-  othercite: "*in preparation*"
-
-- href: ""
-  authors: "Jonas Reitz and Kameryn J. Williams"
-  title: "Iterating the mantle"
   othercite: "*in preparation*"
 
 - href: ""
