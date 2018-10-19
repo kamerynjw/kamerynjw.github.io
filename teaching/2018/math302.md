@@ -93,4 +93,10 @@ I will grade from among the bolded or starred problems.
 
     5. Exercises from Lesson 29A: 10.
 
+* Week 10 (Due Friday, October 26):
 
+    1. Exercises from Lesson 21: **5**, 6, **7**.
+
+    2. Exercises from Lesson 22: 10, **11**, 14, **18**.
+ 
+    3. Read Lesson 28D and do exercise 6.
