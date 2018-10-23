@@ -72,3 +72,5 @@ I will grade among the bolded problems.
 * Week 10: (Due Wednesday Oct 24) Section 15.2: 2, **3**, 13, **14**, 23, 30, **38**.
 
 * Week 11: (Due Wednesday Oct 31)  Section 15.3: 2, 4, **10**, **17**, 22, 34; Section 15.4: 5, **6**, **7**, 12, 17, **20**, 24.
+
+    * Based upon what you know about how to check whether a vector field over $\mathbb R^2$ or $\mathbb R^3$ is conservative, how do you think you can check whether a vector field over $\mathbb R^4$ is conservative? That is, let $\vec F(x,y,z,w) = (M,N,P,Q)$ be a vector field whose inputs and outputs are length 4 vectors of real numbers. Write a condition for $\vec F$ being conservative in terms of the partial derivatives of $M,N,P,Q$. 
