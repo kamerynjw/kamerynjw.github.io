@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (10/24) Math majors: The mandatory group advising session is the coming Monday, from 5 to 6:30pm. See [this flyer]({{ page.url }}SPRING2019_UndergradMATHAdvisingFlyer.pdf) for more information.
+
 * (10/8) The Intergovernmental Panel on Climate Change recently released a [report](http://www.ipcc.ch/report/sr15/) which shows that there is a high risk of climate change-related crisis as early as 2040. For a summary of the report, see [this New York Times article](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html).
 
 * (9/28) See the [answer key]({{ page.url }}e1-answerkey.pdf) for the first midterm.

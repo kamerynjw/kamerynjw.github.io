@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (10/24) Math majors: The mandatory group advising session is the coming Monday, from 5 to 6:30pm. See [this flyer]({{ page.url }}SPRING2019_UndergradMATHAdvisingFlyer.pdf) for more information.
+
 * (10/8) The Intergovernmental Panel on Climate Change recently released a [report](http://www.ipcc.ch/report/sr15/) which shows that there is a high risk of climate change-related crisis as early as 2040. For a summary of the report, see [this New York Times article](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html).
 
 * (10/4) Visualizing complex functions is hard, since their inputs and outputs are both points in the plane, and we only have three spatial dimensions in our world. A clever workaround is to use colors. Hue represents the argument of the output while intensity represents the norm of the output. Check out [this great webpage](http://users.mai.liu.se/hanlu09/complex/domain_coloring.html) by Hans Lundmark at Linköping University. His page explains how this works, and gives visualizations of some common complex functions, including the exponential and trig functions. It also mixes in some nice explanations about some cool facts about complex analytic functions, supported by the visualizations.
