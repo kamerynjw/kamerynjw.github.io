@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (10/24) As I mentioned at the beginning of class, I'm doing an informal mid-semester evaluation. You can find it [here](https://goo.gl/forms/XOJKcndksYqGdrr93). Participation is optional, but please respond by next Monday. As a reminder, the Google form is set up to not record your email address. Mahalo!
+* (10/24) As I mentioned at the beginning of class, I'm doing an informal mid-semester evaluation to give you an opportunity to give feedback on my teaching. You can find it [here](https://goo.gl/forms/XOJKcndksYqGdrr93). Participation is optional, but please respond by next Monday. As a reminder, the Google form is set up to not record your email address. Mahalo!
 
 * (10/24) Math majors: The group advising session is the coming Monday, from 5 to 6:30pm. See [this flyer]({{ page.url }}SPRING2019_UndergradMATHAdvisingFlyer.pdf) for more information.
 
