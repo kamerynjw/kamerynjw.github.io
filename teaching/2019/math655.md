@@ -30,7 +30,7 @@ As part of the course, I will ask each student to confer with me to pick a topic
 Tentative Course Outline
 ------------------------
 
-* Part 0: Introduction (~1 week)
+* Part 0: Introduction (~3 weeks)
 
     * Axioms of set theory
 
@@ -60,7 +60,9 @@ Tentative Course Outline
 
     * Some cardinal characteristics of the continuum
 
-* Part 3: Large Cardinals and Forcing (~4 weeks)
+* Part 3: Large Cardinals and Forcing (~3 weeks)
+
+    * Some subset of the following topics:
 
     * Large cardinals cannot settle the continuum hypothesis
 
@@ -69,6 +71,8 @@ Tentative Course Outline
     * The number of normal measures on $\kappa$
 
     * The tree property on $\omega_2$
+
+    * Possibly others...
 
 Textbook
 --------
