@@ -108,3 +108,5 @@ I will grade from among the bolded or starred problems.
 * Week 11 (Due Friday, November 2):
 
     1. Exercises from Lesson 27: 2, 4, **5**, 6, **13**, 14, **16**, **19**, 21.
+
+        * (Recall that $\sinh u = (e^u - e^{-u})/2$.)
