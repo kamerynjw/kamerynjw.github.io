@@ -75,6 +75,39 @@ I will grade among the bolded problems.
 
 * Week 10: (Due Wednesday Oct 24) Section 15.2: 2, **3**, 13, **14**, 23, 30, **38**.
 
-* Week 11: (Due Wednesday Oct 31)  Section 15.3: 2, 4, **10**, **17**, 22, 34; Section 15.4: 5, **6**, **7**, 12, 17, **20**, 24.
+* Week 11: (Due Wednesday Oct 31)  Section 15.3: 2, 4, **10**, **17**, 22, 34.
 
     * Based upon what you know about how to check whether a vector field over $\mathbb R^2$ or $\mathbb R^3$ is conservative, how do you think you can check whether a vector field over $\mathbb R^4$ is conservative? That is, let $\vec F(x,y,z,w) = (M,N,P,Q)$ be a vector field whose inputs and outputs are length 4 vectors of real numbers. Write a condition for $\vec F$ being conservative in terms of the partial derivatives of $M,N,P,Q$. 
+
+    * (Bolded problem) Calculate the following, where $f(x,y,z) = x\sin(yz)$ and $\vec G = (xyz,0,x+y+z)$:
+    
+        * $\operatorname{div} \vec G$
+
+        * $\operatorname{grad} f$
+
+        * $\operatorname{curl} \vec G$
+
+        * $\operatorname{grad} \operatorname{div} \vec G$
+
+        * $\operatorname{div} \operatorname{grad} f$
+
+        * $\operatorname{div} \operatorname{curl} \vec G$
+
+    * It makes sense to take the divergence of the curl of a vector field, because $\operatorname{curl} \vec F$ is a vector field and divergence is applied to vector fields. But it doesn't make sense to take the curl of the divergence of a vector field, because $\operatorname{div} \vec F$ is a scalar function and curl is applied to vector fields. Which of the following make sense? 
+
+        * $\operatorname{grad} \operatorname{curl} \vec F$
+
+        * $\operatorname{curl} \operatorname{grad} f$
+
+        * $\operatorname{grad} \operatorname{div} \operatorname{curl} \vec F$
+
+        * $\operatorname{curl} \operatorname{div} \operatorname{grad} \operatorname{curl} \operatorname{curl} \vec F$
+
+        * $\operatorname{curl} \operatorname{curl} \operatorname{curl} \operatorname{grad} \operatorname{div} \operatorname{curl} \vec F$
+
+    * (It may help to think of curl, div, and grad as [spam, bacon, and eggs](https://www.youtube.com/watch?v=anwy2MPT5RE).
+
+* Week 12: (Due Wednesday Nov 7) Section 15.4: 5, **6**, **7**, 12, 17, **20**, 24.
+
+    * (bolded problem) Show that if $f(x,y,z)$ has continious second partial derivatives then $\operatorname{curl} \operatorname{grad} f = (0,0,0)$. (Hint: use Schwarz's theorem.)
+
