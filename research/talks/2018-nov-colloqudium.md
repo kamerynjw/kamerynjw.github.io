@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Universal Algorithm, the Universal Sigma_1 Finite Sequence, and Set-theoretic Potentialism"
-permalink: /research/talks/2018-dec-cmr/
+permalink: /research/talks/2018-nov-colloquium/
 ---
 
 This is a talk at the at the University of Hawaiʻi at Mānoa mathematics department colloquium on Friday, November 16.
