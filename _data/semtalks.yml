@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2018-nov-colloquium"
+  title: "The Universal Algorithm, the Universal Sigma_1 Finite Sequence, and Set-theoretic Potentialism"
+  other: "Department Colloquium, UH Mānoa"
+  date: "Nov 2018"
+
 - href: "2018-sept-computational-forcing"
   title: "Forcing as a computational process"
   other: "Logic Seminar, UH Mānoa"
