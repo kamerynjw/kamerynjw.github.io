@@ -107,7 +107,7 @@ I will grade among the bolded problems.
 
     * (It may help to think of curl, div, and grad as [spam, bacon, and eggs](https://www.youtube.com/watch?v=anwy2MPT5RE).
 
-* Week 12: (Due Wednesday Nov 7) Section 15.4: 5, **6**, **7**, 12, 17, **20**, 24.
+* Week 12: (Due Wednesday Nov 7) Section 15.4: 5, **6**, **7**, 12, 17, **20**, 24; Section 15.5: 2, 13, 18, **31b** (use the parameterization from 31a).
 
     * (bolded problem) Show that if $f(x,y,z)$ has continious second partial derivatives then $\operatorname{curl} \operatorname{grad} f = (0,0,0)$. (Hint: use Schwarz's theorem.)
 
