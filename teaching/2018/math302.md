@@ -110,3 +110,15 @@ I will grade from among the bolded or starred problems.
     1. Exercises from Lesson 27: 2, 4, **5**, 6, **13**, 14, **16**, **19**, 21.
 
         * (Recall that $\sinh u = (e^u - e^{-u})/2$.)
+
+* Week 12 (Due Friday, November 9): 
+
+    1. Exercises from Lesson 37: 2 (hint: evaluate successive derivatives at $0$), **3**, **6**, **11**. 
+
+    2. *** Use the series method to find the exact solution to the differential equation $y'' + y = 0$ satisfying $y(0) = 1$ and $y'(0) = 0$. 
+
+        * You want calculate $y^{(n)}(0)$ for every $n$. Successively differentiating $y'' + y = 0$ should reveal the pattern.
+
+        * Once you know $y^{(n)}(0)$ for every $n$ you then know the coefficients for the Maclaurin series for $y$. You should recognize the series.
+
+        * Hint: you can solve the ODE by previous methods to check your work.
