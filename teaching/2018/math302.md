@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (11/5) There will be no class next Monday (November 12), as the university is closed for (the day after) Armistice Day.
+
 * (11/2) The second midterm will be Friday, November 16. The take-home portion of the second midterm will be due Wednesday, November 21. The final exam will be Monday, December 10 from 9:45am to 11:45am. The final will be held in the usual classroom. See [here](http://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/) for the full final schedule.
 
 * (10/24) As I mentioned at the beginning of class, I'm doing an informal mid-semester evaluation to give you an opportunity to give feedback on my teaching. You can find it [here](https://goo.gl/forms/XOJKcndksYqGdrr93). Participation is optional, but please respond by next Monday. As a reminder, the Google form is set up to not record your email address. Mahalo!
