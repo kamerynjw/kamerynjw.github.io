@@ -115,7 +115,7 @@ I will grade from among the bolded or starred problems.
 
 * Week 12 (Due Friday, November 9): 
 
-    1. Exercises from Lesson 37: 2 (hint: evaluate successive derivatives at $0$), **3**, **6**, **11**. 
+    1. Exercises from Lesson 37: 2 (hint: evaluate successive derivatives at $0$), **3**, **6**, **11**. (You only have to use one method for each problem, but use the method of successive differentiation at least once and the method of undetermined coefficients at least once.)
 
     2. *** Use the series method to find the exact solution to the differential equation $y'' + y = 0$ satisfying $y(0) = 1$ and $y'(0) = 0$. 
 
