@@ -126,3 +126,9 @@ I will grade from among the bolded or starred problems.
         * Once you know $y^{(n)}(0)$ for every $n$ you then know the coefficients for the Maclaurin series for $y$. You should recognize the series.
 
         * Hint: you can solve the ODE by previous methods to check your work.
+
+* Week 13: No homework due to exam.
+
+* Week 14: No homework due to exam/Thanksgiving.
+
+* Week 15 (Due Friday Nov 30) To be announced.

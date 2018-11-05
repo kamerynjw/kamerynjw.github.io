@@ -115,3 +115,9 @@ I will grade among the bolded problems.
 
     * (bolded problem) Show that if $f(x,y,z)$ has continious second partial derivatives then $\operatorname{curl} \operatorname{grad} f = (0,0,0)$. (Hint: use Schwarz's theorem.)
 
+
+* Week 13: (Due Wednesday Nov 14) Section 15.6: **3**, 5, 19, **22**, **32**; Section 15.7: 2, **7**, **10**, 19.
+
+* Week 14: No homework due to exam.
+
+* Week 15: (Due Wednesday Nov 28) Section 15.8: **5**, **8**, 10, **17b**, 26, 27, 31.
