@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf).
+
 * (11/5) There will be no class next Monday (November 12), as the university is closed for (the day after) Armistice Day.
 
 * (11/2) The second midterm will be on Monday, November 19, with the take-home portion of the exam due Wednesday, November 21. The final exam will be Monday, December 10 from 2:15pm to 4:15pm. The final will be held in the usual classroom. For the full final schedule, see [here](http://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/).
