@@ -15,7 +15,29 @@ Announcements
 
 * (11/14) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet I will be giving you for the in-class portion of the second midterm. (If there is something I told you that you didn't need to memorize which isn't on the formula sheet, then maybe it's not on the in-class portion...)
 
-* (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf).
+* (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf). Answer key:
+
+    1. $\mathrm{curl}\,\vec F = (2-ye^{yz})\vec\imath  - x \vec k$; $\mathrm{div}\,\vec F = y + ze^{yz} + 1$
+
+    2. $56/5$
+
+    3. $9\pi$ (Misprint in the problem. The cone should be $\phi = \pi/3$.)
+
+    4. $2\pi/3$
+
+    5. $2\sqrt 6 + 2\log(\sqrt 2 + \sqrt 3)$
+
+    6. $1/8$ (Misprint in the problem. The transform should be $x = u - v$, $y = v/2$.)
+
+    7. $-5/6$
+
+    8. $0$
+
+    9. Calculate the partial derivatives of the components of $\vec F$.
+
+    10. $-\pi$
+
+
 
 * (11/5) There will be no class next Monday (November 12), as the university is closed for (the day after) Armistice Day.
 
