@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (11/14) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet I will be giving you for the in-class portion of the second midterm. (If there is something I told you that you didn't need to memorize which isn't on the formula sheet, then maybe it's not on the in-class portion...)
+
 * (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf).
 
 * (11/5) There will be no class next Monday (November 12), as the university is closed for (the day after) Armistice Day.
