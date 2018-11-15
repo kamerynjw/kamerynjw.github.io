@@ -15,11 +15,11 @@ Announcements
 
 * (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf). Answer key:
 
-    1. $y_3(x) = 3 - 3x + 3x^2 - 16x^3/3$
+    1. $y_3(x) = 3 - 3x + 3x^2 -8x^3/3$
 
     2. $y = \frac 32 \cos x - \frac 12 \sin x + \frac 12 e^x$
 
-    3. $y = c_1 e^x + c_2 xe^x + e^{3x}/16$
+    3. $y = c_1 e^{-x} + c_2 xe^{-x} + e^{3x}/16$
 
     4. $y = c_1 e^{2x}\sin(4\sqrt 3 x) + c_2 e^{2x}\cos(4\sqrt 3 x)$
 
