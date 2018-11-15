@@ -27,7 +27,7 @@ Announcements
 
     6. $(2 - e^{-2s} - e^{-4s})/s$
 
-    7. $ze^{-x^2} + 2\int e^{-x^2}\,\mathrm dx = C$
+    7. $e^{-x^2}/y^2 + 2\int e^{-x^2}\,\mathrm dx = C$
 
 * (11/5) There will be no class next Monday (November 12), as the university is closed for (the day after) Armistice Day.
 
