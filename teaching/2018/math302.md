@@ -13,7 +13,21 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf).
+* (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf). Answer key:
+
+    1. $y_3(x) = 3 - 3x + 3x^2 - 16x^3/3$
+
+    2. $y = \frac 32 \cos x - \frac 12 \sin x + \frac 12 e^x$
+
+    3. $y = c_1 e^x + c_2 xe^x + e^{3x}/16$
+
+    4. $y = c_1 e^{2x}\sin(4\sqrt 3 x) + c_2 e^{2x}\cos(4\sqrt 3 x)$
+
+    5. Use Euler's formula $e^{iu} = \cos u + i \sin u$.
+
+    6. $(2 - e^{-2s} - e^{-4s})/s$
+
+    7. $ze^{-x^2} + 2\int e^{-x^2}\,\mathrm dx = C$
 
 * (11/5) There will be no class next Monday (November 12), as the university is closed for (the day after) Armistice Day.
 
