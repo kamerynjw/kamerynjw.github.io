@@ -27,7 +27,7 @@ Announcements
 
     5. $2\sqrt 6 + 2\log(\sqrt 2 + \sqrt 3)$
 
-    6. $1/8$ (Misprint in the problem. The transform should be $x = u - v$, $y = v/2$.)
+    6. $1/8$ (Misprint in the problem. The transform should be $x = u - v$ and $y = v/2$.)
 
     7. $-5/6$
 
