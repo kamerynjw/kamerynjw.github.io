@@ -19,7 +19,7 @@ Announcements
 
     1. $\mathrm{curl}\,\vec F = (2-ye^{yz})\vec\imath  - x \vec k$; $\mathrm{div}\,\vec F = y + ze^{yz} + 1$
 
-    2. $56/5$
+    2. $128/15$
 
     3. $9\pi$ (Misprint in the problem. The cone should be $\phi = \pi/3$.)
 
