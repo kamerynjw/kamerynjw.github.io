@@ -15,7 +15,7 @@ Announcements
 
 * (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf). Answer key:
 
-    1. $y_3(x) = 3 - 3x + 3x^2 -8x^3/3$
+    1. $y_3(x) = 3 - 3x + 3x^2 -8x^3/3 + 8x^4/4$
 
     2. $y = \frac 32 \cos x - \frac 12 \sin x + \frac 12 e^x$
 
