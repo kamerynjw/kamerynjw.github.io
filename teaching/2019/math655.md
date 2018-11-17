@@ -4,9 +4,9 @@ title: "Math 655: Set Theory (Spring 2019)"
 permalink: /teaching/2019/math655/
 ---
 
-**Class Meets** TBA
+**Class Meets** MWF 9:30–10:20
 
-**Room** TBA
+**Room** Keller 403
 
 **Office** PSB 305
 
