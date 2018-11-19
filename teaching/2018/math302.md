@@ -147,4 +147,4 @@ I will grade from among the bolded or starred problems.
 
 * Week 14: No homework due to exam/Thanksgiving.
 
-* Week 15 (Due Friday Nov 30) To be announced.
+* Week 15 (Due Friday Nov 30) See [this pdf]({{ page.url }}h7.pdf), which was the canceled week 7 homework.
