@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (11/20) I will be letting you make up two of the problems on the midterm, namely numbers 3 and 6. The problems are [here]({{ page.url }}make-up-problems.pdf). You can see the grades for these problems, given by your student ID, [here]({{ page.url }}make-up-scores.pdf). If you wish to make up the problems, turn in your solutions on Monday, November 25 and I will grade them, replacing your current scores for the problems.
+* (11/20) I will be letting you make up two of the problems on the midterm, namely numbers 3 and 6. The problems are [here]({{ page.url }}make-up-problems.pdf). You can see the grades for these problems, given by your student ID, [here]({{ page.url }}make-up-scores.pdf).  If you wish to make up the problems, turn in your solutions on Monday, November 25 and I will grade them, replacing your current scores for the problems. However, for the make up problems you will only be able to get up to 80% of the maximum partial scores for them, namely 12 for number 3 and 8 for number 6.
 
 * (11/14) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet I will be giving you for the in-class portion of the second midterm. (If there is something I told you that you didn't need to memorize which isn't on the formula sheet, then maybe it's not on the in-class portion...)
 
