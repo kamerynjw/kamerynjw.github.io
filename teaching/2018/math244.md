@@ -13,6 +13,14 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (11/27) Here are a bunch of practice questions for the final exam, taken from your textbook:
+
+    * Chapter 11: (p. 650) 9–12, 17, 18, 27, 28, 37, 38, 39, 44, 53
+
+    * Chapter 14: (p. 836) 8–10; (p. 838) 1–18, 21, 23–28, 32–37; (p. 840) 6, 8, 9
+
+    * Chapter 15: (p. 917) 1, 4, 5, 9, 10, 18, 19, 21, 22, 25, 26, 27, 29–34, 37b, 39, 40, 49–51, 53, 54
+
 * (11/20) I will be letting you make up two of the problems on the midterm, namely numbers 3 and 6. The problems are [here]({{ page.url }}make-up-problems.pdf). You can see the grades for these problems, given by your student ID, [here]({{ page.url }}make-up-scores.pdf).  If you wish to make up the problems, turn in your solutions on Monday, November 25 and I will grade them, replacing your current scores for the problems. However, for the make up problems you will only be able to get up to 80% of the maximum partial scores for them, namely 12 for number 3 and 8 for number 6.
 
 * (11/14) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet I will be giving you for the in-class portion of the second midterm. (If there is something I told you that you didn't need to memorize which isn't on the formula sheet, then maybe it's not on the in-class portion...)
