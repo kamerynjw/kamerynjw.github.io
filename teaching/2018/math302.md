@@ -13,6 +13,18 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (11/27) Here are a bunch of practice questions from the textbook to prepare for the final exam:
+
+    * Checking solutions of ODEs: (p. 24) 2, 4; (p. 37) 1, 3, 4, 5
+
+    * Solving first-order ODEs: (p. 104) 15–50
+
+    * Solving linear higher-order ODEs: (p. 220) 1–35; (p. 231) 3–23, 28–33; (p. 240) 1–15; (p. 311) 12–21
+
+    * Series methods: (p. 546) 3–12
+
+    * Real world problems: (p. 124) 1–12; (p.130) 1–7; (p. 321) 1–18; (p. 343) 6–10; (p. 353) 7, 8; (p. 376) 1–12; (p. 385) 8–13
+
 * (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf). Answer key:
 
     1. $y_3(x) = 3 - 3x + 3x^2 -8x^3/3 + 8x^4/4$
