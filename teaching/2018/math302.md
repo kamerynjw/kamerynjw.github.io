@@ -23,7 +23,7 @@ Announcements
 
     * Series methods: (p. 546) 3–12
 
-    * Real world problems: (p. 124) 1–12; (p.130) 1–7; (p. 321) 1–18; (p. 343) 6–10; (p. 353) 7, 8; (p. 376) 1–12; (p. 385) 8–13
+    * Real world problems: (p. 112) 2, 3, 4, 8, 9, 19; (p. 124) 1–12; (p.130) 1–7; (p. 321) 1–18; (p. 343) 6–10; (p. 353) 7, 8; (p. 376) 1–12
 
 * (11/7) The study guide for the second midterm can be found [here]({{ page.url }}sg2.pdf). Answer key:
 
