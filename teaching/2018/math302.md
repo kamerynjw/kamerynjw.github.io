@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (11/27) [Here]({{ page.url }pre-final-grades.pdf} are your grades going into the final. This does not account for the last homework assignment, which would have a small effect.
+
 * (11/27) Here are a bunch of practice questions from the textbook to prepare for the final exam:
 
     * Checking solutions of ODEs: (p. 24) 2, 4; (p. 37) 1, 3, 4, 5
