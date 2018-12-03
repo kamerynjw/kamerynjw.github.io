@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (11/28) [Here]({{ page.url }}pre-final-grades.pdf) are your grades going into the final. This does not account for the last homework assignment, which would have a small effect.
+* (11/28) [Here]({{ page.url }}pre-final-grades.pdf) are your grades going into the final. ~~This does not account for the last homework assignment, which would have a small effect.~~ Now taking into account the final homework assignment.
 
 * (11/27) Here are a bunch of practice questions from the textbook to prepare for the final exam:
 
