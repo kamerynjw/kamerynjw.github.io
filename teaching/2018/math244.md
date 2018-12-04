@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (12/4) [Here]({{ page.url }}244-final-formuale.pdf) is the formula sheet you will have for the final. Remember that no notes are permitted!
+* (12/4) [Here]({{ page.url }}244-final-formulae.pdf) is the formula sheet you will have for the final. Remember that no notes are permitted!
 
 * (11/28) [Here]({{ page.url }}pre-final-grades.pdf) are your grades going into the final. This does not account for the last homework assignment, which would have a small effect.
 
