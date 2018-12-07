@@ -6,6 +6,8 @@ permalink: /research/talks/2018-dec-cmr/
 
 This is a contributed talk at the [Cantor Meets Robinson](https://cantormeetsrobinson.wordpress.com/) conference, Dec 12–15, 2018.
 
+[Slides.]({{ page.url }}univ-seq.pdf)
+
 Consider a computable theory $\mathsf{ZF}^+$ extending $\mathsf{ZF}$. There is a $\Sigma_1$ definition, without parameters, for a finite sequence of sets $b_0, b_1, \ldots , b_n$ with the following properties.
 
 1. $\mathsf{ZF}^+$ proves the sequence is finite.
