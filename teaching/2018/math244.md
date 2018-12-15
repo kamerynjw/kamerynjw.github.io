@@ -13,7 +13,7 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (12/15) Your grades on the final exam, and your overall grades for the course, can be found [here]({{ page.url }}final-grades.pdf). Please email me if you have any questions or concerns. I will officially submit grades on Monday.
+* (12/15) Your grades on the final exam (after a minor curve), and your overall grades for the course, can be found [here]({{ page.url }}final-grades.pdf). Please email me if you have any questions or concerns. I will officially submit grades on Monday.
 
 * (12/6) The final exam will be Monday, December 10 from 2:15pm to 4:15pm. The final will be held in the usual classroom. See [here](http://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/) for the full final schedule.
 
