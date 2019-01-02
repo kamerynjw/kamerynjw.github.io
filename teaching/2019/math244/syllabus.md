@@ -19,7 +19,7 @@ Class Information
 
 **Room** Keller 303
 
-**Office Hours** TBA
+**Office Hours** MWTh 10:30–11:30
 
 **Office** Physical Science Building 305
 

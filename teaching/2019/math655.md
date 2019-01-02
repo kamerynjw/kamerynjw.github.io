@@ -10,6 +10,8 @@ permalink: /teaching/2019/math655/
 
 **Office** PSB 305
 
+**Office Hours** MWTh 10:30–11:30
+
 **Email** kamerynw [at] hawaii [period] edu
 
 Large Cardinals and Forcing
@@ -32,13 +34,13 @@ Tentative Course Outline
 
 * Part 0: Introduction (~3 weeks)
 
+    * Cantorian set theory (ordinals and cardinals, transfinite recursion)
+
     * Axioms of set theory
 
-    * Ordinals and cardinals
+    * The cumulative hierarchy and reflection
 
-    * Transfinite Recursion
-
-    * Reflection
+    * Small large cardinals
 
 * Part 1: Large Cardinals (~4 weeks)
 
@@ -84,7 +86,7 @@ I will strive to regularly post lecture notes, in addition to what can be found 
 Grading Policy
 --------------
 
-Everyone who is signed up for the class gets an A. But I reserve the right to assign an A– for exceptional cases. For *really* exceptional cases, see [this Futurama clip](https://www.youtube.com/watch?v=XY3BnNGsNwk).
+I anticipate everyone signed up for this class getting an A. You should show up and participate in class, present your project, and spend some time on the exercises. I reserve the right to assign a lower grade for exceptional cases. For *really* exceptional cases, see [this Futurama clip](https://www.youtube.com/watch?v=XY3BnNGsNwk).
 
 Announcements
 -------------
