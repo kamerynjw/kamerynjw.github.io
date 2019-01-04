@@ -7,7 +7,7 @@ permalink: /teaching/2019/math244/syllabus/
 Class Information
 =====
 
-**Course Title** Calculus IV
+**Course Title** Math 244 (Section 001): Calculus IV
 
 **Instructor** Kameryn Williams
 
