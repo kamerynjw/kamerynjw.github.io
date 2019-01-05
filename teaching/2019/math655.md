@@ -76,6 +76,27 @@ Tentative Course Outline
 
     * Possibly others...
 
+Projects
+--------
+
+As part of this course I will ask each of you to research a topic. This topic is to be related in some way to set theory, and chosen with my approval. I will ask of you to give a short in class presentation about your topic toward the end of the semester.
+
+Some possible areas for topics:
+
+* Determinacy of infinite games
+
+* Set theoretic topology
+
+* Cardinal arithmetic without the axiom of choice
+
+* Infinite time/space Turing machines
+
+* Higher recursion theory/admissible set theory
+
+* Infinite Ramsey theory
+
+* Second-order set theory
+
 Textbook
 --------
 
