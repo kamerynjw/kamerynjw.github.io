@@ -106,3 +106,9 @@ KOKUA Program
 =====
 
 Information about the KOKUA Program, the UH Mānoa office for students with disabilities can be found on [their website](http://www.hawaii.edu/kokua/). 
+
+
+Counseling and Student Development Center
+==========
+
+The [Counseling and Student Development Center](http://www.manoa.hawaii.edu/counseling/) offers confidential counseling services to support students with personal, academic, or career concerns. 
