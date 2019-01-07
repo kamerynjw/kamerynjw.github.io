@@ -30,4 +30,5 @@ Announcements
 Homework
 --------
 
-(Nothing yet!)
+* Week 1: Stop by my office some time during office hours and introduce yourself. Please do this by Thursday, January 17.
+
