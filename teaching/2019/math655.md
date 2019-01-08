@@ -94,4 +94,4 @@ Announcements
 Lecture notes
 -------------
 
-(Nothing yet.)
+* [Part 0]({{ page.url }}part0.pdf)
