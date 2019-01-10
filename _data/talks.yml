@@ -1,6 +1,11 @@
 
 # selected talks to display in research.md
 
+- href: "2019-jan-surgery"
+  title: "Amalgamating generic reals, a surgical approach"
+  other: "Logic Seminar, UH Mānoa"
+  date: "Jan 2019"
+
 - href: "2018-dec-cmr"
   title: "The universal Sigma_1 finite sequence"
   other: "contributed talk, Cantor Meets Robinson conference"
