@@ -30,5 +30,9 @@ Announcements
 Homework
 --------
 
+I will grade a sub-selection of the bolded problems.
+
 * Week 1: Stop by my office some time during office hours and introduce yourself. Please do this by Thursday, January 17.
+
+* Week 2: (Due Friday, January 18) 11.5: 1, **4**, 7, **13**, 18, **23**, **57**, 68, 71.
 
