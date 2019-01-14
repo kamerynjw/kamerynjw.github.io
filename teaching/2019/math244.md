@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (1/14) Office hours for Thursday, January 17 will be moved up one hour earlier, from 9:30 to 10:20.
+
 * Tentative exam dates:
 
     * **February 15** Midterm 1
