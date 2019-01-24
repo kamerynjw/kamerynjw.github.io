@@ -39,3 +39,5 @@ I will grade a sub-selection of the bolded problems.
 * Week 2: (Due Friday, January 18) 11.5: 1, **4**, 7, **13**, 18, **23**, **57**, 68, 71.
 
 * Week 3: (Due Friday, January 25) 14.1: 1, 3, **7**, 15, **19**; 14.2: 2, **10**, 20, 24, **30**.
+
+* Week 4: (Due Friday, February 1) 14.3: 2, 4, **5**, 14, **15**, **17**; 14.4: 1, 2, **7**, **15**.
