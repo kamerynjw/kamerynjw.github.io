@@ -112,7 +112,7 @@ I anticipate everyone signed up for this class getting an A. You should show up 
 Announcements
 -------------
 
-(Nothing yet.)
+* [This mathoverflow question](https://mathoverflow.net/q/322079/64676) touches on some issues about talking about infinite families of proper classes, raising much of the same issues as came up in our discussion of ZFC proving the consistency of its finite fragments. I recommend checking it out to get a better understanding of what's going on.
 
 Exercises
 ---------
