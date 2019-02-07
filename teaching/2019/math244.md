@@ -13,6 +13,28 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (2/7) The first midterm, next Friday, February 15, will be over sections 11.5, 11.6, and 14.1–14.6. Calculations you should know how to perform for the midterm:
+
+    * Determine equations for lines and planes;
+
+    * Compute double integrals using rectangular coordinates;
+
+    * Convert double integrals into polar coordinates and compute them;
+
+    * Compute triple integrals using rectangular coordinates.
+
+    Things you should know:
+
+    * How to identify quadric surfaces by their graphs or equations;
+
+    * The various versions of Fubini's theorem;
+
+    * The connection between multiple integrals and area/volume;
+
+    * How to define first and second moments, and center of mass.
+
+    You may find it helpful to look at [this midterm from last semester]({{ page.url }}exam1-math244f18.pdf).
+
 * (1/14) Office hours for Thursday, January 17 will be moved up one hour earlier, from 9:30 to 10:20.
 
 * Tentative exam dates:
