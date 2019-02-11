@@ -64,6 +64,8 @@ I will grade a sub-selection of the bolded problems.
 
 * Week 4: (Due Friday, February 1) 14.3: 2, 4, **5**, 14, **15**, **17**; 14.4: 1, 2, **7**, **15**.
 
-* Week 5: (Due Friday, February 8) 14.4: **18**, 22; 14.5: 6, **10**, **22**, 37; 14.6: **26** (only find the center of mass, not the moments of inertia)
+* Week 5: (Due Friday, February 8) 14.4: **18**, 22; 14.5: 6, **10**, **22**, 37; 14.6: **26** (only find the center of mass, not the moments of inertia).
 
 * Week 6: No homework, due to exam on Friday, February 15. Instead you should spend your time reviewing for the exam!
+
+* Week 7: (Due Friday, February 22) 14.7: **3**, 12, **17**, **32**, **34**, **67**.
