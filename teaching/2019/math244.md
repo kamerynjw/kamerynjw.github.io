@@ -33,7 +33,7 @@ Announcements
 
     * How to define first and second moments, and center of mass.
 
-    You may find it helpful to look at [this midterm from last semester]({{ page.url }}exam1-math244f18.pdf).
+    You may find it helpful to look at [this midterm from last semester]({{ page.url }}exam1-math244f18.pdf). ([Answer key.]({{ site.baseurl }}/teaching/2018/math244/e1-answerkey.pdf))
 
 * (1/14) Office hours for Thursday, January 17 will be moved up one hour earlier, from 9:30 to 10:20.
 
