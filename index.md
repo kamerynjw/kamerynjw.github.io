@@ -6,7 +6,7 @@ title: Welcome!
 I, Kameryn J Williams, am a mathematician and logician. I am a postdoc in the mathematics department at [University of Hawai‘i at Mānoa](https://math.hawaii.edu/). My PhD is from [The Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics) of The City University of New York. 
 
 <center>
-<img src="/pics/kam.jpg">
+<img src="/pics/kam.jpg" alt="A picture of me speaking at the Kurt Gödel Research Center.">
   
 <p><small>Speaking at the Kurt Gödel Research Center about the strength of the class forcing theorem.</small></p>
 </center>
