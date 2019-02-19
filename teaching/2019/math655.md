@@ -119,7 +119,9 @@ Announcements
 Exercises
 ---------
 
-* [Transfinite recursion exercises]({{ page.url }}tfr-exer.pdf)
+* [Transfinite recursion exercises]({{ page.url }}tfr-exer.pdf).
+
+* [Poset combinatorics exercises]({{ page.url }}poset-exer.pdf). Write up your solutions and hand them in to me before we start Part 2. (Exact date pending...)
 
 Lecture notes
 -------------
