@@ -69,3 +69,5 @@ I will grade a sub-selection of the bolded problems.
 * Week 6: No homework, due to exam on Friday, February 15. Instead you should spend your time reviewing for the exam!
 
 * Week 7: (Due Friday, February 22) 14.7: **3**, 12, **17**, **32**, **34**, **67**.
+
+* Week 8: (Due Friday, March 1) 14.8: 3, **7**, **9**, **17**, 18, 20.
