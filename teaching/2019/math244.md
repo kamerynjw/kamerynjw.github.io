@@ -71,3 +71,5 @@ I will grade a sub-selection of the bolded problems.
 * Week 7: (Due Friday, February 22) 14.7: **3**, 12, **17**, **32**, **34**, **67**.
 
 * Week 8: (Due Friday, March 1) 14.8: 3, **7**, **9**, **17**, 18, 20.
+
+* Week 9: (Due Friday, March 8) 15.1: 1--8 (you don't need to show any work for these), **9**, **12**, 15, **17**; 15.2: 2, 4, **14**, **20**.
