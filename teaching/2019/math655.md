@@ -116,6 +116,8 @@ Announcements
 
 * The class took a group hike on Mānana ridge trail on President's day. A group picture can be seen [here]({{ page.url }}manana-grp-pic.jpg) (From left to right: myself, Ikenna Nometa, Jake Fennick, Chris Hebert, Jack Yoon.)
 
+* I strongly recommend you check out Timothy Chow's paper "[A beginner's guide to forcing](https://arxiv.org/abs/0712.1320)" before we start part 2. Forcing both has a lot of technical details to work through as well as being conceptually difficult to wrap one's head around the first time one sees it. Chow's paper is a high-level overview of forcing, and is helpful for having a big-picture idea of what's going on before we dive into the details. 
+
 Exercises
 ---------
 
