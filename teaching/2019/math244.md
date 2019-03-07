@@ -73,3 +73,37 @@ I will grade a sub-selection of the bolded problems.
 * Week 8: (Due Friday, March 1) 14.8: 3, **7**, **9**, **17**, 18, 20.
 
 * Week 9: (Due Friday, March 8) 15.1: 1--8 (you don't need to show any work for these), **9**, **12**, 15, **17**; 15.2: 2, 4, **14**, **20**.
+
+* Week 10: (Due Friday, March 15) 15.3: **2**, 4, 6, **10**, **14**, **19**, 33, 36, 37.
+
+* Week 11: Spring break!
+
+* Week 12: (Due Friday, March 29) 15.4: 4, **6**, **12**, **20**, **24**
+
+    * Calculate the following, where $f(x,y,z) = x\sin(yz)$ and $\vec G = (xyz,0,x+y+z)$:
+    
+        * $\operatorname{div} \vec G$
+
+        * $\operatorname{grad} f$
+
+        * $\operatorname{curl} \vec G$
+
+        * $\operatorname{grad} \operatorname{div} \vec G$
+
+        * $\operatorname{div} \operatorname{grad} f$
+
+        * $\operatorname{div} \operatorname{curl} \vec G$
+
+    * It makes sense to take the divergence of the curl of a vector field, because $\operatorname{curl} \vec F$ is a vector field and divergence is applied to vector fields. But it doesn't make sense to take the curl of the divergence of a vector field, because $\operatorname{div} \vec F$ is a scalar function and curl is applied to vector fields. Which of the following make sense? 
+
+        * $\operatorname{grad} \operatorname{curl} \vec F$
+
+        * $\operatorname{curl} \operatorname{grad} f$
+
+        * $\operatorname{grad} \operatorname{div} \operatorname{curl} \vec F$
+
+        * $\operatorname{curl} \operatorname{div} \operatorname{grad} \operatorname{curl} \operatorname{curl} \vec F$
+
+        * $\operatorname{curl} \operatorname{curl} \operatorname{curl} \operatorname{grad} \operatorname{div} \operatorname{curl} \vec F$
+
+    * (It may help to think of curl, div, and grad as [spam, bacon, and eggs](https://www.youtube.com/watch?v=anwy2MPT5RE).
