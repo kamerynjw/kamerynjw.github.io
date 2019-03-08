@@ -138,6 +138,8 @@ Lecture notes
 
 * [Part 1.2]({{ page.url }}part1.2.pdf) Supercompact cardinals and beyond
 
+* [Part 2.1]({{ page.url }}part2.1.pdf) An introduction to forcing
+
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" class="cclogo"/></a><br />These notes are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</center>
 
 
