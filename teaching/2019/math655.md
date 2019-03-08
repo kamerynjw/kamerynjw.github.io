@@ -125,6 +125,8 @@ Exercises
 
 * [Poset combinatorics exercises]({{ page.url }}poset-exer.pdf). Write up your solutions and hand them in to me before we start Part 2. (Exact date pending...)
 
+* [Forcing and logical equivalence exercises]({{ page.url }}logic-equiv-exer.pdf).
+
 Lecture notes
 -------------
 
