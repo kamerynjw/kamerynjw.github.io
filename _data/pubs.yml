@@ -1,25 +1,24 @@
 
 #info about publications
 
-- href: "inner-mantles"
-  authors: "Jonas Reitz and Kameryn J. Williams"
-  title: "Inner mantles and iterated HOD"
-  othercite: "*under review*"
-
-
 - href: "set-theoretic-blockchains"
   authors: "Miha E. Habič, Joel David Hamkins, Lukas Daniel Klausner, Jonathan Verner, and Kameryn J. Williams"
   title: "Set-theoretic blockchains"
   othercite: "Archive for Mathematical Logic (2019)"
+
+- href: "least-models"
+  authors: "Kameryn J. Williams"
+  title: "Minimum models of second-order set theories"
+  othercite: "*to appear in* Journal of Symbolic Logic"
 
 - href: "diss"
   authors: "Kameryn J. Williams"
   title: "The Structure of Models of Second-order Set Theories"
   othercite: "PhD Dissertation, The Graduate Center, CUNY (2018)"
 
-- href: "least-models"
-  authors: "Kameryn J. Williams"
-  title: "Minimum models of second-order set theories"
+- href: "inner-mantles"
+  authors: "Jonas Reitz and Kameryn J. Williams"
+  title: "Inner mantles and iterated HOD"
   othercite: "*under review*"
 
 - href: "class-forcing-theorem"
