@@ -6,7 +6,7 @@ permalink: /research/pubs/set-theoretic-blockchains/
 
 Joint with Miha E. Habič, Joel David Hamkins, Lukas Daniel Klausner, and Jonathan Verner.
 
-[[PDF]({{ page.url }}set-theoretic-blockchains.pdf)] [[arXiv](https://arxiv.org/abs/1808.01509)] 
+[[PDF]({{ page.url }}set-theoretic-blockchains.pdf)] [[arXiv](https://arxiv.org/abs/1808.01509)] [[Journal](https://link.springer.com/article/10.1007%2Fs00153-019-00672-z)]
 
 > **Abstract** Given a countable model of set theory, we study the structure of its generic multiverse, the collection of its forcing extensions and ground models, ordered by inclusion. Mostowski showed that any finite poset embeds into the generic multiverse while preserving the nonexistence of upper bounds. We obtain several improvements of his result, using what we call the blockchain construction to build generic objects with varying degrees of mutual genericity. The method accommodates certain infinite posets, and we can realize these embeddings via a wide variety of forcing notions, while providing control over lower bounds as well. We also give a generalization to class forcing in the context of second-order set theory, and exhibit some further structure in the generic multiverse, such as the existence of exact pairs.
 
