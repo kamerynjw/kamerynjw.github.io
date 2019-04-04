@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (4/4) A study guide for the second midterm is [here]({{ page.url }}sg2.pdf). As a reminder, the midterm will be next Friday, April 12.
+
 * (2/7) The first midterm, next Friday, February 15, will be over sections 11.5, 11.6, and 14.1–14.6. Calculations you should know how to perform for the midterm:
 
     * Determine equations for lines and planes;
