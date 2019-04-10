@@ -160,6 +160,8 @@ Lecture notes
 
 * [Part 2.1]({{ page.url }}part2.1.pdf) An introduction to forcing
 
+* [Part 2.2]({{ page.url }}part2.2.pdf) Actually doing things with forcing
+
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" class="cclogo"/></a><br />These notes are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</center>
 
 
