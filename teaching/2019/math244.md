@@ -106,8 +106,14 @@ I will grade a sub-selection of the bolded problems.
 
         * $\operatorname{curl} \operatorname{curl} \operatorname{curl} \operatorname{grad} \operatorname{div} \operatorname{curl} \vec F$
 
-    * (It may help to think of curl, div, and grad as [spam, bacon, and eggs](https://www.youtube.com/watch?v=anwy2MPT5RE).
+    * (It may help to think of curl, div, and grad as [spam, bacon, and eggs](https://www.youtube.com/watch?v=anwy2MPT5RE).)
 
 * Week 13: (Due Friday, April 5) 15.5: 4, 6, **14**, **20**, **24**, 31b (use the parameterization from 31a); 15.6: **3**, 13, **18**.
 
 * Week 14: No homework, due to exam on Friday, April 12. 
+
+* Week 15: (Due Friday, April 19) 15.7: **4**, 11, **20**, **26**; Ch 14 practice exercises (p. 838): 15, 30, 36
+
+* Week 16: (Due Friday, April 26) 15.8: **6a**, **8**, **14**; Ch 15 practice exercises (p. 917): 5, 18, 28, 40
+
+* Week 17: No homework! Review for the final!
