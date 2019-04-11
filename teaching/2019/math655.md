@@ -112,13 +112,13 @@ I anticipate everyone signed up for this class getting an A. You should show up 
 Announcements
 -------------
 
-<!-- * Here is the schedule for the presentations:
+* Here is the schedule for the presentations:
 
     * Mon, April 29
 
         * Sam Birns, Infinite Time Turing Machines
 
-        * Umar Gaffar, 
+        * Umar Gaffar, The Small Cardinals $\mathfrak p$ and $\mathfrak u$.
 
         * Jake Fennick, Stop Quine'ing about 'New' Foundations
 
@@ -126,9 +126,9 @@ Announcements
 
         * Ikenna Nometa, Infinite Ramsey's Theorem
 
-        * David Webb, 
+        * David Webb, The Bounding and Dominating Numbers
 
-        * Jack Yoon, Martin's Axiom -->
+        * Jack Yoon, Martin's Axiom
 
 * [This mathoverflow question](https://mathoverflow.net/q/322079/64676) touches on some issues about talking about infinite families of proper classes, raising much of the same issues as came up in our discussion of ZFC proving the consistency of its finite fragments. I recommend checking it out to get a better understanding of what's going on.
 
