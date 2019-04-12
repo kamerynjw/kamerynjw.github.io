@@ -112,6 +112,8 @@ I anticipate everyone signed up for this class getting an A. You should show up 
 Announcements
 -------------
 
+* [This mathoverflow answer](https://mathoverflow.net/a/116579/64676) by Joel David Hamkins does a nice job of explaining why the choice of support matters for product/iterated forcing.
+
 * Here is the schedule for the presentations:
 
     * Mon, April 29
