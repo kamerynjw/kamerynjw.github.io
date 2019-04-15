@@ -120,7 +120,9 @@ Announcements
 
         * Sam Birns, Infinite Time Turing Machines
 
-        * Umar Gaffar, The Small Cardinals $\mathfrak p$ and $\mathfrak u$.
+        * Chris Hebert, Dowker spaces
+
+        * Umar Gaffar, The Small Cardinals $\mathfrak p$ and $\mathfrak u$
 
         * Jake Fennick, Stop Quine'ing about 'New' Foundations
 
