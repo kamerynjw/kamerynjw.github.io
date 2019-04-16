@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2019-may-recursion-gb-to-km"
+  title: "Transfinite Recursion from Gödel–Bernays to Kelley–Morse"
+  other: "Set Theory Seminar, CUNY"
+  date: "May 2019"
+
 - href: "2019-jan-surgery"
   title: "Amalgamating generic reals, a surgical approach"
   other: "Logic Seminar, UH Mānoa"
