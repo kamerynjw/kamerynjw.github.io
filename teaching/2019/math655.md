@@ -116,19 +116,21 @@ Announcements
 
 * Here is the schedule for the presentations:
 
+    * Fri, April 26
+
+        * Jake Fennick, Stop Quine'ing about 'New' Foundations
+
     * Mon, April 29
 
         * Sam Birns, Infinite Time Turing Machines
 
-        * Chris Hebert, Dowker spaces
+        * Ikenna Nometa, Infinite Ramsey's Theorem
 
         * Umar Gaffar, The Small Cardinals $\mathfrak p$ and $\mathfrak u$
 
-        * Jake Fennick, Stop Quine'ing about 'New' Foundations
-
     * Wed, May 1
 
-        * Ikenna Nometa, Infinite Ramsey's Theorem
+        * Chris Hebert, Dowker spaces
 
         * David Webb, The Bounding and Dominating Numbers
 
