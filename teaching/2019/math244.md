@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (4/17) I will be offering the chance to makeup points you lost from the second midterm. [Here are six problems.]({{ page.url }}exam2-makeup.pdf) They correspond to the six problems from the in-class portion of the midterm. Choose up to three problems from the midterm and do the corresponding problem. Turn them into me on Monday, April 22 to get back up to 70% of the points you lost. 
+
 * (4/4) A study guide for the second midterm is [here]({{ page.url }}sg2.pdf). As a reminder, the midterm will be next Friday, April 12.
 
 * (2/7) The first midterm, next Friday, February 15, will be over sections 11.5, 11.6, and 14.1–14.6. Calculations you should know how to perform for the midterm:
