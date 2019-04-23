@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (4/23) [Here]({{ page.url }}pre-final-grades.pdf) are your tentative grades going into the final, by student ID. This is not 100% accurate, as it does not account for your last two homework assignments and me dropping your lowest two scores. But it should give you an idea of where you are.
+
 * (4/17) I will be offering the chance to makeup points you lost from the second midterm. [Here are six problems.]({{ page.url }}exam2-makeup.pdf) They correspond to the six problems from the in-class portion of the midterm. Choose up to three problems from the midterm and do the corresponding problem. Turn them into me on Monday, April 22 to get back up to 70% of the points you lost. 
 
 * (4/4) A study guide for the second midterm is [here]({{ page.url }}sg2.pdf). As a reminder, the midterm will be next Friday, April 12.
