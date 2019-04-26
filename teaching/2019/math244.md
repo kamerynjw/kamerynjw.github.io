@@ -13,7 +13,41 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (4/25) [Here]({{ page.url }}math244-final-fall18.pdf) is the final from last semester's Calculus IV class.
+* (4/25) Things you should know for the final:
+
+    * Fubini's theorem, in its various forms.
+
+    * How to determine limits for regions of integration.
+
+    * How to compute double and triple integrals in rectangular coordinates.
+
+    * How to convert integrals in rectangular coordinates to polar, cylindrical, and spherical coordinates.
+
+    * How to calculate the average value of a function.
+
+    * How to calculate first moments and center of mass.
+
+    * How to use coordinate transforms to compute integrals.
+
+    * How to compute path integrals.
+
+    * How to compute flux and flow/circulation integrals.
+
+    * How to check whether a vector field is conservative, how to find a potential function for a conservative vector field, and how to evaluate a path-independent integral using a potential function.
+
+    * How to calculate gradients, divergences, and curls.
+
+    * How to use Green's theorem.
+
+    * How to set up and compute surface integrals.
+
+    * How to use Stokes' theorem.
+
+    * How to use the divergence theorem.
+
+    * And everything you've learned in Calculus I, II, and III.
+
+* (4/25) [Here]({{ page.url }}math244-final-fall18.pdf) is the final from last semester's Calculus IV class. For extra practice problems, there are additional problems at the end of chapters 14 and 15 in the textbook.
 
 * (4/23) [Here]({{ page.url }}pre-final-grades.pdf) are your tentative grades going into the final, by student ID. This is not 100% accurate, as it does not account for your last two homework assignments and me dropping your lowest two scores. But it should give you an idea of where you are.
 
