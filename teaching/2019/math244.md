@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
+* (5/7) [Here are your final grades.]({{ page.url }}final-grades.pdf) If you have any questions or concerns, *please contact me immediately*. I will be officially submitting grades on Thursday.
+
 * (5/1) The final exam will be **Monday, May 6th at 12:00pm** in the usual room. [Here]({{ page.url }}grades.pdf) are your grades going into the final, taking into account the final homework assignments and after I dropped your lowest two homework scores. 
 
 * (4/25) Things you should know for the final:
