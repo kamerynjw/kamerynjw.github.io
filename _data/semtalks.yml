@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2019-may-computable-structure-theory-of-forcing"
+  title: "The computable structure theory of forcing"
+  other: "*Seminari de lògica de Barcelona, Universitat de Barcelona*"
+  date: "May 2019"
+
 - href: "2019-may-recursion-gb-to-km"
   title: "Transfinite Recursion from Gödel–Bernays to Kelley–Morse"
   other: "Set Theory Seminar, CUNY"
