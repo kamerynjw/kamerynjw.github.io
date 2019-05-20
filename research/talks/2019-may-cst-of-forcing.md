@@ -1,7 +1,8 @@
 ---
 layout: page
 title: The computable structure theory of forcing
-permalink: /research/talks/2019-may-computable-structure-theory-of-forcing
+permalink: /research/talks/2019-may-computable-structure-theory-of-forcing/
+excerpt: "This is a talk on Wednesday, 29 May 2019 at the Institute of Mathematics at University of Barcelona. Introduced by Paul Cohen, forcing is a powerful and flexible technique..."
 ---
 
 This is a talk on Wednesday, 29 May 2019 at the [Institute of Mathematics at University of Barcelona](https://imub.ub.edu). 

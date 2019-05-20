@@ -2,7 +2,7 @@
 layout: page
 title: "Inner mantles and iterated HOD"
 permalink: /research/talks/2019-may-asl/
-excerpt: "This is a contributed talk at the 2019 ASL Annual North American Meeting on Tuesday, 21 May 2019. It is about joint work with Jonas Reitz. An inner model $W \subseteq V$ is a *ground* if $V$ is a forcing extension of $W$ via a forcing notion $\mathbb{P} \in W$. The intersection of all the grounds is called the *mantle*, and it is the largest set-forcing-invariant inner model..."
+excerpt: "This is a contributed talk at the 2019 ASL Annual North American Meeting on Tuesday, 21 May 2019. It is about joint work with Jonas Reitz. An inner model..."
 ---
 
 This is a contributed talk at the [2019 ASL Annual North American Meeting](https://asl2019.commons.gc.cuny.edu/) on Tuesday, 21 May 2019. It is about joint work with Jonas Reitz.
