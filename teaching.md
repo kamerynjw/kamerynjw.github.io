@@ -4,15 +4,20 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Spring 2019)
+Current Semester (Fall 2019)
 ================
+
+[Math 5454: Axiomatic Set Theory]({{ page.url }}2019/math454/)
+
+Previous Semesters 
+==================
+
+Spring 2019
+-----------
 
 [Math 655: Set Theory — Large Cardinals and Forcing]({{ page.url }}2019/math655/)
 
 [Math 244: Calculus IV]({{ page.url }}2019/math244/)
-
-Previous Semesters 
-==================
 
 Fall 2018
 ---------
