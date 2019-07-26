@@ -7,7 +7,7 @@ permalink: /teaching/
 Current Semester (Fall 2019)
 ================
 
-[Math 5454: Axiomatic Set Theory]({{ page.url }}2019/math454/)
+[Math 454: Axiomatic Set Theory]({{ page.url }}2019/math454/)
 
 Previous Semesters 
 ==================
