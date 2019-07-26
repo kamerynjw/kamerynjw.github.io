@@ -20,6 +20,8 @@ Homework
 
 See the syllabus for information about my grading policy for the class, and a template .tex file. Some exercises are marched as "reach exercises". These are optional, more difficult problems. You are encouraged to attempt them, but I won't penalize your grade if you don't.
 
+**Please do not use blue ink for your assignments. I would like to reserve blue for grading and writing comments. If you use blue, I will be forced to switch to the angrier, more aggressive red.**
+
 * (Nothing yet!)
 
 Tentative course outline
