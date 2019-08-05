@@ -23,7 +23,7 @@ Class Information
 
 **Office** Physical Science Building 305
 
-**Textbook** *Calculus*, 8th ed., James Stewart<a name="back" href="#footnote">*</a>. ISBN 978-1285740621
+**Textbook** *Calculus*, 8th ed., James Stewart.<a name="back" href="#footnote">*</a> (ISBN: 978-1285740621)
 
 **Course Description** Integration techniques and applications, series and approximations, differential equations.
 
