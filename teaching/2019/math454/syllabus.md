@@ -69,7 +69,7 @@ Cheating, plagiarism, and other forms of academic dishonesty will not be tolerat
 KOKUA Program
 =====
 
-Information about the KOKUA Program, the UH Mānoa office for students with disabilities can be found on [their website](http://www.hawaii.edu/kokua/). 
+Any student who feels they may need accommodation based on the impact of a disability should contact the KOKUA Program, the UH Mānoa office for students with disabilities. I am happy to work with you and KOKUA to ensure reasonable accommodations in my course. Further information and contact details can be found on [their website](http://www.hawaii.edu/kokua/). 
 
 
 Counseling and Student Development Center

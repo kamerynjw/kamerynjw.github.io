@@ -9,6 +9,8 @@ Current Semester (Fall 2019)
 
 [Math 454: Axiomatic Set Theory]({{ page.url }}2019/math454/)
 
+[Math 242: Calculus II]({{ page.url }}2019/math242/)
+
 Previous Semesters 
 ==================
 
