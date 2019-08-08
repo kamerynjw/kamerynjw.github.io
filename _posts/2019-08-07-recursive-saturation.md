@@ -50,7 +50,7 @@ This only answered the question for countable models. What about for uncountable
 
 This can be answered by one of my favorite argument templates in set theory, namely collapsing things to be countable and then applying absoluteness.
 
-> **Corollary.** Suppose $M \subseteq M[G]$ is a forcing extension of a nonstandard model. Then $M[G]$ is also nonstandard.
+> **Corollary.** Suppose $M \subseteq M[G]$ is a forcing extension of a recursively saturated model. Then $M[G]$ is also recursively saturated.
 
 *Proof:* It only remains to check the case where $M$ is uncountable. Observe that a model $N$ being recursively saturated is absolute among transitive models of ZF containing $N$; checking whether $N$ is recursively saturated only requires quantifying over natural numbers—Turing machines giving certain computable types—elements of $N$, and the truth predicate of $N$. All of those are absolute among transitive models of a sufficient fragment of ZF. So consider the forcing extension $V[c]$ of the universe which collapses $M[G]$ to be countable. We just saw that in $V[c]$ that $M[G]$ must be recursively saturated. By absoluteness the same is true in $V$. QED
 
