@@ -22,7 +22,7 @@ See the syllabus for information about my grading policy for the class, and a te
 
 **Please do not use blue ink for your assignments. I would like to reserve blue for grading and writing comments. If you use blue, I will be forced to switch to the angrier, more aggressive red.**
 
-* (Nothing yet!)
+* [Homework 1]({{ page.url }}h1.pdf) Due Thurs, Sept 5
 
 Tentative course outline
 =========
@@ -49,3 +49,4 @@ Tentative course outline
 
 Most of the lecture will follow the textbook. For material outside the text, I will post supplementary notes on this page.
 
+* [Cantor's original proof of the uncountability of the reals]({{ page.url }}cantor1974.pdf)
