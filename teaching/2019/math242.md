@@ -10,6 +10,17 @@ permalink: /teaching/2019/math242/
 
 See [here]({{ page.url }}syllabus) for the syllabus.
 
+Course Outline
+------
+
+* Chapter 6 (with the starred sections)
+
+* Chapter 7
+
+* Chapter 11
+
+* Chapter 9
+
 Announcements
 -------------
 
