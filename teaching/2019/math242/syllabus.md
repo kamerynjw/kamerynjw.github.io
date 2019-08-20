@@ -98,11 +98,48 @@ There will be weekly quizes, in class on Tuesdays. No make-up quizes will be giv
 Exam Policy
 ====
 
-There will be two midterms, dates to be announced, and a cumulative final exam. **There will be no make-up exams.** If you will be absent for an exam, contact me in advance so that we can schedule an alternate, earlier, time for you to take the exam.
+There will be two midterms and one final, each common between all the sections of Math 242. To accommodate the common exams, they will not be held during the usual class time. They are scheduled for:
 
-Final exams will not be given early. 
+* Exam 1: Thursday, October 3, 6:00–7:15pm in Webster Hall 203.
+
+* Exam 2: Thursday, November 7, 6:00–7:15pm in Webster Hall 203.
+
+* Final Exam: Wednesday, December 18, 2:15–4:15pm in Keller Hall 302.
+
+Please make sure in advance that you will be able to be there for the exams. I am unable to offer make-up exams. If you must be absent for an exam, contact me in advance so that we can schedule an alternate, earlier, time for you to take the exam. (With the exception of the final exam, which cannot be given early.)
 
 **No calculators nor other electronic devices are allowed on exams.**
+
+Skills quiz
+======
+
+A Calc II skills quize will be given during the first recitation of the semester.
+
+Early Action Program
+=====
+
+Following the skills quiz, students identified as being in danger of falling behind 
+will be given the opportunity to participate in a three week session of additional recitations. 
+These recitations will meet three times a week, later in the afternoon/evening. 
+The purpose of this intensive recitation is to allow students to hone their precalculus and calc 1 skills. 
+Students who complete this additional recitation section will be allowed a retake of the midterm, replacing their grade.
+
+
+Following the first midterm, students identified as being in danger of falling behind 
+will be given the opportunity to participate in a two week session of additional recitations. 
+These recitations will meet three times a week, later in the afternoon/evening. 
+The purpose of this intensive recitation is to allow students to bring themselves back up to where they need to be. 
+Students who complete this additional recitation section will be allowed a retake of the midterm, 
+replacing their score, up to a certain maximum. 
+(This maximum will be determined so that no student who qualifies for this early action program 
+can eventually score better on the midterm than a student who did not qualify for a retake.)
+Any student may join the optional recitations but exam scores will not be increased above the specified threshold.
+
+The additional recitations will be led by Learning Assistants, 
+one of whom will be present in your regular recitation section. 
+
+Optional recitations will continue for the remainder of the course, for extra help with the course content. 
+
 
 Academic Honesty
 ========
@@ -119,6 +156,11 @@ Counseling and Student Development Center
 ==========
 
 The [Counseling and Student Development Center](http://www.manoa.hawaii.edu/counseling/) offers confidential counseling services to support students with personal, academic, or career concerns. 
+
+Food Vault Hawaiʻi
+====
+
+Groups on campus have organized a food pantry, free to use for students at UH Mānoa. All registered students with a valid student ID may access the food pantry. Further information, including location and schedule, can be found [here](https://www.hawaii.edu/news/2018/11/30/manoa-food-pantry/) or on [this facebook page](https://www.facebook.com/foodvaulthawaii/).
 
 ---------------------
 

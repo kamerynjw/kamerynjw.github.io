@@ -76,3 +76,8 @@ Counseling and Student Development Center
 ==========
 
 The [Counseling and Student Development Center](http://www.manoa.hawaii.edu/counseling/) offers confidential counseling services to support students with personal, academic, or career concerns. 
+
+Food Vault Hawaiʻi
+====
+
+Groups on campus have organized a food pantry, free to use for students at UH Mānoa. All registered students with a valid student ID may access the food pantry. Further information, including location and schedule, can be found [here](https://www.hawaii.edu/news/2018/11/30/manoa-food-pantry/) or on [this facebook page](https://www.facebook.com/foodvaulthawaii/).
