@@ -86,9 +86,9 @@ Homework will be graded 20% on completion, and 80% based upon a selection of pro
 
 Homework should be clearly written, so that I can follow the logical steps you take. Each problem should end with the final answer appropriately formulated and circled.
 
-There will be no acceptance of late homework. If you will miss class, make arrangements to either submit your homework early to me or have another student turn it in for you.
+I do not accept late homework. If you will miss class, make arrangements to either submit your homework early to me or have another student turn it in for you.
 
-I will drop your lowest two homework scores from the final calculation for your grade.
+That said, I understand that life gets in the way and sometimes homework doesn't get done on time. To accommodate this, I will drop your lowest two homework scores from the final calculation for your grade.
 
 Quiz Policy
 ====
