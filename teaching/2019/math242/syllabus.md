@@ -88,7 +88,7 @@ Homework should be clearly written, so that I can follow the logical steps you t
 
 I do not accept late homework. If you will miss class, make arrangements to either submit your homework early to me or have another student turn it in for you.
 
-That said, I understand that life gets in the way and sometimes homework doesn't get done on time. To accommodate this, I will drop your lowest two homework scores from the final calculation for your grade.
+That said, I understand that life gets in the way and sometimes homework doesn't get done on time. To accommodate this, I will drop your lowest two homework scores from the final calculation for your grade. If there is something that will cause you to miss more than two weeks worth of homework, please get in contact with me as early as possible.
 
 Quiz Policy
 ====
