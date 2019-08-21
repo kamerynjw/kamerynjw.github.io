@@ -19,7 +19,7 @@ Class Information
 
 **Room** Keller 414
 
-**Office Hours** TBA
+**Office Hours** Tuesday/Wednesday/Thursday 10:30–11:30, or by appointment
 
 **Office** Physical Science Building 305
 
