@@ -69,7 +69,9 @@ Cheating, plagiarism, and other forms of academic dishonesty will not be tolerat
 KOKUA Program
 =====
 
-Any student who feels they may need accommodation based on the impact of a disability should contact the KOKUA Program, the UH Mānoa office for students with disabilities. I am happy to work with you and KOKUA to ensure reasonable accommodations in my course. Further information and contact details can be found on [their website](http://www.hawaii.edu/kokua/). 
+Students with disabilities are legally entitled to reasonable accommodations to ensure equal access to education. Any student who feels they may need accommodation based on the impact of a disability should contact the KOKUA Program, the UH Mānoa office for students with disabilities. I am committed to providing students with equal access to this class, and am happy to work with you and KOKUA to ensure reasonable accommodations in my course. Because the accommodations offered are usually forward-looking modifications rather than mitigating poor grades you may have already received due to your disability, it is important to get in touch with the KOKUA Program as soon as you can. Further information and contact details can be found on [their website](http://www.hawaii.edu/kokua/). 
+
+The ADA defines a disability as a medical condition that substantially limits one or more major life activities—including things like walking sleeping, taking care of yourself, learning, and regulating your emotions—or major bodily functions. If you have a medical condition—including mental health conditions—that significantly interferes with your schoolwork, you probably qualify. You do not need to disclose your condition to your instructors to receive accommodations. 
 
 
 Counseling and Student Development Center
