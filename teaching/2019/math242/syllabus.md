@@ -21,7 +21,7 @@ Class Information
 
 **Recitation Hours** Wednesday (005) 9:30–10:20 (006) 12:30–13:20
 
-** Recitation Room** Keller 404
+**Recitation Room** Keller 404
 
 **Office Hours** Tuesday/Wednesday/Thursday 10:30–11:30
 
@@ -130,7 +130,7 @@ Please make sure in advance that you will be able to be there for the exams. I a
 Skills quiz
 ======
 
-A Calc II skills quiz will be given during the first recitation of the semester. This quiz will count as one the quizzes for the quiz portion of your grade.
+A Calc II skills quiz will be given during the first recitation session of the semester. This quiz will count as your participation grade for the first week of recitation.
 
 Early Action Program
 =====
