@@ -19,11 +19,19 @@ Class Information
 
 **Room** Keller 302
 
-**Office Hours** TBA
+**Recitation Hours** Wednesday (005) 9:30–10:20 (006) 12:30–13:20
+
+**Office Hours** Tuesday/Wednesday/Thursday 10:30–11:30
 
 **Office** Physical Science Building 305
 
-**Textbook** *Calculus*, 8th ed., James Stewart.<a name="back" href="#footnote">*</a> (ISBN: 978-1285740621)
+**Teaching Assistant** Lance Ferrer
+
+**TA Office Hours** TBA
+
+**TA Office** TBA
+
+**Textbook** *Calculus*, 8th ed., James Stewart.<a name="back" href="#footnote"><sup>[1]</sup></a> (ISBN: 978-1285740621)
 
 **Course Description** Integration techniques and applications, series and approximations, differential equations.
 
@@ -62,7 +70,9 @@ I reserve the right to assign higher grades, based upon circumstance and student
 
 The breakdown for your grade is as follows:
 
-* 20% homework
+* 10% homework
+
+* 10% recitation
 
 * 20% quizes
 
@@ -90,6 +100,11 @@ I do not accept late homework. If you will miss class, make arrangements to eith
 
 That said, I understand that life gets in the way and sometimes homework doesn't get done on time. To accommodate this, I will drop your lowest two homework scores from the final calculation for your grade. If there is something that will cause you to miss more than two weeks worth of homework, please get in contact with me as early as possible.
 
+Recitation Policy
+==========
+
+In addition to lecture, you are to attend a recitation session with a teaching assistant once per week where you will work on problem sets. These will be graded based upon participation, where up to two absences will be dropped from consideration for your final grade.
+
 Quiz Policy
 ====
 
@@ -106,37 +121,24 @@ There will be two midterms and one final, each common between all the sections o
 
 * Final Exam: Wednesday, December 18, 2:15–4:15pm in Keller Hall 302.
 
-Please make sure in advance that you will be able to be there for the exams. I am unable to offer make-up exams. If you must be absent for an exam, contact me in advance so that we can schedule an alternate, earlier, time for you to take the exam. (With the exception of the final exam, which cannot be given early.)
+Please make sure in advance that you will be able to be there for the exams. I am unable to offer rescheduled or make-up exams.
 
 **No calculators nor other electronic devices are allowed on exams.**
 
 Skills quiz
 ======
 
-A Calc II skills quize will be given during the first recitation of the semester.
+A Calc II skills quiz will be given during the first recitation of the semester. This quiz will count as one the quizes for the quiz portion of your grade.
 
 Early Action Program
 =====
 
-Following the skills quiz, students identified as being in danger of falling behind 
-will be given the opportunity to participate in a three week session of additional recitations. 
-These recitations will meet three times a week, later in the afternoon/evening. 
-The purpose of this intensive recitation is to allow students to hone their precalculus and calc 1 skills. 
-Students who complete this additional recitation section will be allowed a retake of the midterm, replacing their grade.
+Following the skills quiz, students identified as being in danger of falling behind will be given the opportunity to participate in a three week session of additional recitations. These recitations will meet three times a week, later in the afternoon/evening. The purpose of this intensive recitation is to allow students to hone their precalculus and calc 1 skills. Students who complete this additional recitation section will be allowed a retake of the midterm, replacing their grade.
 
 
-Following the first midterm, students identified as being in danger of falling behind 
-will be given the opportunity to participate in a two week session of additional recitations. 
-These recitations will meet three times a week, later in the afternoon/evening. 
-The purpose of this intensive recitation is to allow students to bring themselves back up to where they need to be. 
-Students who complete this additional recitation section will be allowed a retake of the midterm, 
-replacing their score, up to a certain maximum. 
-(This maximum will be determined so that no student who qualifies for this early action program 
-can eventually score better on the midterm than a student who did not qualify for a retake.)
-Any student may join the optional recitations but exam scores will not be increased above the specified threshold.
+Following the first midterm, students identified as being in danger of falling behind will be given the opportunity to participate in a two week session of additional recitations. These recitations will meet three times a week, later in the afternoon/evening. The purpose of this intensive recitation is to allow students to bring themselves back up to where they need to be. Students who complete this additional recitation section will be allowed a retake of the midterm, replacing their score, up to a certain maximum. (This maximum will be determined so that no student who qualifies for this early action program can eventually score better on the midterm than a student who did not qualify for a retake.) Any student may join the optional recitations but exam scores will not be increased above the specified threshold.
 
-The additional recitations will be led by Learning Assistants, 
-one of whom will be present in your regular recitation section. 
+The additional recitations will be led by Learning Assistants, one of whom will be present in your regular recitation section. 
 
 Optional recitations will continue for the remainder of the course, for extra help with the course content. 
 
@@ -164,4 +166,4 @@ Groups on campus have organized a food pantry, free to use for students at UH M�
 
 ---------------------
 
-* Stewart passed away in 2014, but that hasn't stopped Cengage from continuing to publish new editions of his textbook, with slight tweaks and incompatibilities to force students to buy the latest edition. You may enjoy [learning that](https://www.theglobeandmail.com/real-estate/toronto/article-torontos-famed-integral-house-up-for-sale-again/) the house he had built with money from textbook sales recently went on the market with an asking price of over twenty million Canadian dollars. [<a name="footnote" href="#back">go back</a>]
+<sup>[1]</sup> Stewart passed away in 2014, but that hasn't stopped Cengage from continuing to publish new editions of his textbook, with slight tweaks and incompatibilities to force students to buy the latest edition. You may enjoy [learning that](https://www.theglobeandmail.com/real-estate/toronto/article-torontos-famed-integral-house-up-for-sale-again/) the house he had built with money from textbook sales recently went on the market with an asking price of over twenty million Canadian dollars. [<a name="footnote" href="#back">go back</a>]
