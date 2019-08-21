@@ -7,7 +7,7 @@ permalink: /teaching/2019/math242/syllabus/
 Class Information
 =====
 
-**Course Title** Math 242 (Sections 005&6): Calculus II
+**Course Title** Math 242 (Sections 005&006): Calculus II
 
 **Instructor** Kameryn Williams
 
@@ -20,6 +20,8 @@ Class Information
 **Room** Keller 302
 
 **Recitation Hours** Wednesday (005) 9:30–10:20 (006) 12:30–13:20
+
+** Recitation Room** Keller 404
 
 **Office Hours** Tuesday/Wednesday/Thursday 10:30–11:30
 
