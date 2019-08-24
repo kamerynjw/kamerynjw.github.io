@@ -123,26 +123,25 @@ There will be two midterms and one final, each common between all the sections o
 
 * Final Exam: Wednesday, December 18, 2:15–4:15pm in Keller Hall 302.
 
-Please make sure in advance that you will be able to be there for the exams. I am unable to offer rescheduled or make-up exams.
+Please make sure in advance that you will be able to be there for the exams. I am unable to offer rescheduled or make-up exams, with the exception of the retake allowed through the Early Access Program. See below.
 
 **No calculators nor other electronic devices are allowed on exams.**
 
 Skills quiz
 ======
 
-A Calc II skills quiz will be given during the first recitation session of the semester. This quiz will count as your participation grade for the first week of recitation.
+A Calc II skills quiz will be given during the first recitation session of the semester. This quiz will not count toward your grade and will be used to help you determine whether you would benefit from the Early Action Program.
 
 Early Action Program
 =====
 
-Following the skills quiz, students identified as being in danger of falling behind will be given the opportunity to participate in a three week session of additional recitations. These recitations will meet three times a week, later in the afternoon/evening. The purpose of this intensive recitation is to allow students to hone their precalculus and calc 1 skills. Students who complete this additional recitation section will be allowed a retake of the midterm, replacing their grade.
+Data from past semesters have shown that a common reason for students to do poorly in Calc II is because they didn't fully master the material from previous classes. This can happen for many reasons—a bad instructor, getting sick and missing an important lecture, problems in one's personal life, undiagnosed learning disabilities, or just not putting forth the time/effort. Unfortunately, we have a lot of material to cover in this class and cannot afford to spend class time reviewing material from previous courses. The Early Action Program is a means to help out those students who, for whatever reason, need extra time to master that material. The sessions in this program are led by peer Learning Assistants, one of whom will be present in your regular recitation session.
 
+Following the skills quiz, you will be given the opportunity to participate in a three week session of additional recitations. These recitations will meet three times a week, later in the afternoon/evening. The purpose of this intensive recitation is to allow students to hone their precalculus and Calc I skills. These extra recitation are optional, but if you couldn't answer most of the questions on  the skills quiz then you are strongly encouraged to attend. (Note: this is separate from your recitations with your TA, which everyone is required to attend.)
 
-Following the first midterm, students identified as being in danger of falling behind will be given the opportunity to participate in a two week session of additional recitations. These recitations will meet three times a week, later in the afternoon/evening. The purpose of this intensive recitation is to allow students to bring themselves back up to where they need to be. Students who complete this additional recitation section will be allowed a retake of the midterm, replacing their score, up to a certain maximum. (This maximum will be determined so that no student who qualifies for this early action program can eventually score better on the midterm than a student who did not qualify for a retake.) Any student may join the optional recitations but exam scores will not be increased above the specified threshold.
+After the first midterm the Early Action Program will switch focus from material from precalculus and Calc I to material that was covered on the first midterm. If you performed poorly on the first midterm then you are strongly encouraged to attend this second phase of the Early Action Program. The department is offering a carrot toward encouraging those of you who would benefit to take advantage of this opportunity: If you participate in this program you will be given the opportunity to retake the first midterm. This will replace your score, up to a certain maximum, which will be communicated to you after the first midterm. (The point of the maximum is to be fair to those students who did well on the first midterm and so don't participate in this program.) Anyone may join the optional recitations but exam scores will not be increased above the specified threshold.
 
-The additional recitations will be led by Learning Assistants, one of whom will be present in your regular recitation section. 
-
-Optional recitations will continue for the remainder of the course, for extra help with the course content. 
+After this retake, optional recitations will continue for the remainder of the course, for extra help with the course content. These sessions will cover material from Calc II, giving you extra time to work problems.
 
 
 Academic Honesty
