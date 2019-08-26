@@ -19,7 +19,7 @@ Class Information
 
 **Room** Keller 302
 
-**Recitation Hours** Wednesday (005) 9:30–10:20 (006) 12:30–13:20
+**Recitation Hours** Wednesday (005) 9:30–10:20 (006) 12:30–1:20pm
 
 **Recitation Room** Keller 404
 
@@ -68,21 +68,19 @@ Grades will be assigned based upon the standard F to A scale:
 
 * [0,60) F. 
 
-I reserve the right to assign higher grades, based upon circumstance and student effort.
-
 The breakdown for your grade is as follows:
 
 * 10% homework
 
 * 10% recitation
 
-* 20% quizzes
+* 15% quizzes
 
 * 20% midterm 1
 
 * 20% midterm 2
 
-* 20% final exam
+* 25% final exam
 
 Attendance Policy
 ==========
@@ -121,7 +119,7 @@ There will be two midterms and one final, each common between all the sections o
 
 * Exam 2: Thursday, November 7, 6:00–7:15pm in Webster Hall 203.
 
-* Final Exam: Wednesday, December 18, 2:15–4:15pm in Keller Hall 302.
+* Final Exam: Wednesday, December 18, 12:00–2:00pm, room TBA.
 
 Please make sure in advance that you will be able to be there for the exams. I am unable to offer rescheduled or make-up exams, with the exception of the retake allowed through the Early Access Program. See below.
 
