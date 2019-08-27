@@ -6,7 +6,7 @@ permalink: /teaching/2019/math454/
 
 **Class Meets** Tuesday/Thursday 12:00–13:15
 
-**Room** Keller 414
+**Room** Keller 413
 
 See [here]({{ page.url }}syllabus) for the syllabus.
 

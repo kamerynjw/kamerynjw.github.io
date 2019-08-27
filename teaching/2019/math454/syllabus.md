@@ -17,7 +17,7 @@ Class Information
 
 **Class Hours** Tuesday/Thursday 12:00–13:15
 
-**Room** Keller 414
+**Room** Keller 413
 
 **Office Hours** Tuesday/Wednesday/Thursday 10:30–11:30, or by appointment
 
