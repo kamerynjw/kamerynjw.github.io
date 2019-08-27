@@ -29,4 +29,8 @@ Announcements
 Homework
 --------
 
-* (None yet!)
+A subselection of the starred problems will be graded. You must still do all problems for completion points.
+
+* Week 2 (Due Thursday, Sept 5) Section 6.1: 17, **18**, **21**, 22, 24, **39**; Section 6.2\*: 2, **10**, 17, 18, **25**, 28, **33**, 37, 66, **69**.
+
+
