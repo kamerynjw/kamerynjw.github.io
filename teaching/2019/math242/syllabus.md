@@ -90,7 +90,7 @@ You are expected to attend every class, for that is an important part of learnin
 Homework Policy
 ========
 
-Assigned homework can be found on the [course website]({{ site.baseurl }}/teaching/2019/math244/). Homework will be collected once a week, on Thursdays. The work you turn in is expected to be your own.
+Assigned homework can be found on the [course website]({{ site.baseurl }}/teaching/2019/math242/). Homework will be collected once a week, on Thursdays. The work you turn in is expected to be your own.
 
 Homework will be graded 20% on completion, and 80% based upon a selection of problems from the assignment. For each homework assignment I tell you a small subset of the assigned problems that I will choose from for grading. You must still do all the assignment for the 20% completion points! 
 
