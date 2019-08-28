@@ -24,7 +24,11 @@ Course Outline
 Announcements
 -------------
 
-* (None yet!)
+* The tutor program resumes operation startion today, in the Learning Emporium, located in Bilger Addition 209. Tutors will be available Monday–Friday, noon–4:30 pm (but only one tutor per period). 
+The full program with expanded hours and more tutors per period will be announced later.
+A precise schedule will be posted in K418, on the Bulletin Board outside  K401A, on the door of BA209 and at various strategic locations.
+
+
 
 Homework
 --------
