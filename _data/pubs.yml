@@ -9,7 +9,7 @@
 - href: "least-models"
   authors: "Kameryn J. Williams"
   title: "Minimum models of second-order set theories"
-  othercite: "*to appear in* Journal of Symbolic Logic"
+  othercite: "Journal of Symbolic Logic (2019)"
 
 - href: "diss"
   authors: "Kameryn J. Williams"
@@ -39,6 +39,11 @@
 - href: ""
   authors: "Joel David Hamkins, Russell Miller, and Kameryn J. Williams"
   title: "Forcing as a computational process"
+  othercite: "*in preparation*"
+
+- href: ""
+  authors: "Victoria Gitamn, Michał Tomasz Godziszewsky, Toby Meadows, and Kameryn J. Williams"
+  title: "On axioms for multiverses of set theory"
   othercite: "*in preparation*"
 
 # - href: ""
