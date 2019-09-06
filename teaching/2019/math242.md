@@ -24,6 +24,18 @@ Course Outline
 Announcements
 -------------
 
+* (9/6) The schedule for the extra recitation sessions for the Early Access Program is now available. You do not need to attend multiple sessions per week. Each week you'll be dealing with one worksheet, cyclying to the next worksheet every Thursday. All sessions meet in Keller 403.
+
+    * Monday: 3–4pm
+
+    * Tuesday: 4–5pm
+
+    * Wednesday: 4–5pm
+
+    * Thursday: 3–4pm
+
+    * Friday: 4–5pm
+
 * (8/28) The tutor program resumes operation startion today, in the Learning Emporium, located in Bilger Addition 209. Tutors will be available Monday–Friday, noon–4:30 pm (but only one tutor per period). 
 The full program with expanded hours and more tutors per period will be announced later.
 A precise schedule will be posted in K418, on the Bulletin Board outside  K401A, on the door of BA209 and at various strategic locations.
