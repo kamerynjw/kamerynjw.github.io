@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (9/9) I have elected to not count your quiz from last week (week 2) toward your final grade in the class.
+
 * (9/6) The schedule for the extra recitation sessions for the Early Access Program is now available. You do not need to attend multiple sessions per week. Each week you'll be dealing with one worksheet, cyclying to the next worksheet every Thursday. All sessions meet in Keller 403.
 
     * Monday: 3–4pm
