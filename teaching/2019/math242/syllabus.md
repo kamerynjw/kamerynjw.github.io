@@ -29,9 +29,9 @@ Class Information
 
 **Teaching Assistant** Lance Ferrer
 
-**TA Office Hours** TBA
+**TA Office Hours** Wednesday 11:00–12:00, 1:50–2:50
 
-**TA Office** TBA
+**TA Office** Keller 412
 
 **Textbook** *Calculus*, 8th ed., James Stewart.<a name="back" href="#footnote"><sup>[1]</sup></a> (ISBN: 978-1285740621)
 
