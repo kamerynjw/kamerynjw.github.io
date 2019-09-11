@@ -49,6 +49,8 @@ Homework
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
 
+* Week 4 (Due Thursday, Sept 19) Section 6.5: **9**, 14, **18**; Section 6.6: 12, 23, **24**, 30, 45, **59**, 63, **67**.
+
 * Week 3 (Due Thursday, Sept 12) Section 6.3\*: 4, **7**, 18, **26**, 33, **48**, 62; Section 6.4\*: 17, **25**, **37**; Section 6.5: **3**.
 
 * Week 2 (Due Thursday, Sept 5) Section 6.1: 17, **18**, **21**, 22, 24, **39**; Section 6.2\*: 2, **10**, 17, 18, **25**, 28, **33**, 37, 66, **69**.
