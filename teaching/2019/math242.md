@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (9/9) I have elected to not count your quiz from last week (week 2) toward your final grade in the class.
+
 * (9/6) The schedule for the extra recitation sessions for the Early Access Program is now available. You do not need to attend multiple sessions per week. Each week you'll be dealing with one worksheet, cyclying to the next worksheet every Thursday. All sessions meet in Keller 403.
 
     * Monday: 3–4pm
@@ -46,6 +48,8 @@ Homework
 --------
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
+
+* Week 4 (Due Thursday, Sept 19) Section 6.5: **9**, 14, **18**; Section 6.6: 12, 23, **24**, 30, 45, **59**, 63, **67**.
 
 * Week 3 (Due Thursday, Sept 12) Section 6.3\*: 4, **7**, 18, **26**, 33, **48**, 62; Section 6.4\*: 17, **25**, **37**; Section 6.5: **3**.
 
