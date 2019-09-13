@@ -4,6 +4,8 @@ title: Online CV
 permalink: /cv/
 ---
 
+See [here]({{ page.url }}kwilliams-cv.pdf) for a fuller pdf CV.
+
 Academic History
 ====
 
