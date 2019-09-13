@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brief CV
+title: Online CV
 permalink: /cv/
 ---
 
@@ -40,9 +40,30 @@ Publications
 Teaching and Educational Experience
 ====
 
+* (2018–present) University of Hawaiʻi at Mānoa. Temporary Assistant Professor. As part of my duties I taught classes ranging from freshman calculus to graduate-level.
+
 * (2017–2018) Bronx Community College, CUNY. Quantitative reasoning fellow. In this interdisciplinary program I partnered with non-mathematics faculty to promote the teaching of quantitative reasoning and the use of mathematics across the curriculum.
 
 * (2013–2017) Brooklyn College, CUNY. Graduate teaching fellow and lecturer. I was instructor of record for my classes, mainly calculus and precalculus. My final year at Brooklyn College I taught classes in their Brooklyn College Academy program, an early college program where high school juniors and seniors take college classes for credit.
+
+Classes taught:
+
+* Graduate-level set theory
+
+* Advanced undergraduate set theory
+
+* Undergraduate differential equations
+
+* Calculus IV (multivariable calculus)
+
+* Calculus II
+
+* Calculus I
+
+* Pre-calculus
+
+* Math for liberal arts majors
+
 
 Conference Talks
 ====
@@ -60,6 +81,8 @@ Seminar Talks
 
 Service
 ====
+
+* Co-organizer (with B. Kjos-Hanssen and D. Ross) *Logic Seminar*, University of Hawaiʻi at Mānoa. (2018–present)
 
 * Co-organizer (with V. Gitman), *MAMLS Logic Friday*, Mid-Atlantic Mathematical Logic Seminar, The Graduate Center, CUNY. (Oct 2017)
 
