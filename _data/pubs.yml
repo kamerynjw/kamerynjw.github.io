@@ -1,5 +1,9 @@
 
 #info about publications
+# order, each by date:
+#  1. fully reviewed and published
+#  2. under review
+#  3. other published (e.g. diss)
 
 - href: "least-models"
   authors: "Kameryn J. Williams"
@@ -11,10 +15,10 @@
   title: "Set-theoretic blockchains"
   othercite: "Archive for Mathematical Logic (2019)"
 
-- href: "diss"
-  authors: "Kameryn J. Williams"
-  title: "The Structure of Models of Second-order Set Theories"
-  othercite: "PhD Dissertation, The Graduate Center, CUNY (2018)"
+- href: "universal-finite-sequence"
+  authors: "Joel David Hamkins and Kameryn J. Williams"
+  title: "The Sigma_1-definable universal finite sequence"
+  othercite: "*under review*"
 
 - href: "inner-mantles"
   authors: "Jonas Reitz and Kameryn J. Williams"
@@ -26,15 +30,15 @@
   title: "The exact strength of the class forcing theorem"
   othercite: "*under review*"
 
+- href: "diss"
+  authors: "Kameryn J. Williams"
+  title: "The Structure of Models of Second-order Set Theories"
+  othercite: "PhD Dissertation, The Graduate Center, CUNY (2018)"
+
 
 # papers currently being written
 # put href = "" for all of them
 # this makes the formatting in research.md work correctly
-
-- href: ""
-  authors: "Joel David Hamkins, Philip Welch, and Kameryn J. Williams"
-  title: "The Sigma_1 universal finite sequence"
-  othercite: "*in preparation*"
 
 - href: ""
   authors: "Joel David Hamkins, Russell Miller, and Kameryn J. Williams"
