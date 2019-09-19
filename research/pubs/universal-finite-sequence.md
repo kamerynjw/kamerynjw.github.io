@@ -2,6 +2,7 @@
 layout: page
 title: "The Sigma_1-definable universal finite sequence"
 permalink: /research/pubs/universal-finite-sequence/	
+excerpt: "The Sigma_1-definable universal finite sequnece, Joel David Hamkins and Kameryn J. Williams. **Abstract** We introducte the $\Sigma_1$-definbale universal finite sequence and prove that it exhibits the universal extension property amongst the countable models of set theory under end-extension..."
 ---
 
 Joint with Joel David Hamkins.
