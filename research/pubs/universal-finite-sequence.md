@@ -7,7 +7,7 @@ permalink: /research/pubs/universal-finite-sequence/
 Joint with Joel David Hamkins.
 <!--more-->
 
-[[PDF]({{ page.url }}universal-finite-sequence.pdf)] [arXiv (forthcoming)]
+[[PDF]({{ page.url }}universal-finite-sequence.pdf)] [[arXiv](https://arxiv.org/abs/1909.09100)]
 
 > **Abstract** We introduce the $\Sigma_1$-definable universal finite sequence and prove that it exhibits the universal extension property amongst the countable models
 of set theory under end-extension. That is, (i) the sequence is $\Sigma_1$-definable and
