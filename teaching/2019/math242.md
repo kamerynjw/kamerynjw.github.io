@@ -24,6 +24,30 @@ Course Outline
 Announcements
 -------------
 
+* (9/24) As a reminder, the first midterm will be next Thursday, October 3, at 6pm in Webster Hall Room 203. Here are the topics you should understand:
+
+    * How a function $f$ and its inverse function $f^{-1}$ relate. Be able to use both formulae and graphs to calculate $f^{-1}(a)$, $(f^{-1})'(a)$, and the domain/range of $f^{-1}$. 
+
+    * How to simplify expressions involving logarithms and exponential functions.
+
+    * How to differentiate and integrate logarithms and exponential functions.
+
+    * How to simply expressions involving trig functions and inverse trig functions.
+
+    * How to differentiate and integrate functions involving inverse trig functions.
+
+    * How to analyze exponential growth/decay.
+
+    * When and how to apply L'Hôpital's rule.
+
+    * How to use integration by parts.
+
+    * How to solve integrals involving products of powers of trig functions.
+
+    * How to solve integrals using trigonometric substitution.
+
+    * You are also expected to remember material from calculus I, especially the chain rule, the product rule, and how to do integration by substitution.
+
 * (9/18) Quizes will be on Thursdays hereon out.
 
 * (9/9) I have elected to not count your quiz from last week (week 2) toward your final grade in the class.
