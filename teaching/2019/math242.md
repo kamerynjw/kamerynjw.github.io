@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (9/30) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet you will be given for the first midterm.
+
 * (9/27) [Here]({{ page.url }}spring19-midterm1.pdf) is the first midterm from last semester's math 242. It is similar to what you should expect for your upcoming exam.
 
 * (9/24) As a reminder, the first midterm will be next Thursday, October 3, at 6pm in Webster Hall Room 203. Here are the topics you should understand:
