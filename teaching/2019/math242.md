@@ -79,6 +79,8 @@ Homework
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
 
+* Week 8 (Due Thursday, Oct 17) Section 7.4: 2, 4, 6, 7, **10**, 13, **21**, 26, 41, 45, **46**; Section 7.5: Any five of 1--20, **33**, **55**, 77.
+
 * Week 6 (Due Thursday, Oct 3) Section 7.1: **6**, 16, 26; Section 7.2: 2, **4**, **11**, 20, **23**, **32**; Section 7.3: 1, 3, **4**, **11**, 20.
 
 * Week 5 (Due Thursday, Sept 26) Section 6.8: Any six of 8--26, **30**, **43**, **57**, 63; Section 7.1: **3**, 10, **23**.
