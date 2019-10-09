@@ -24,6 +24,24 @@ Course Outline
 Announcements
 -------------
 
+* (10/9) As you may recall from the syllabus, as part of the Early Access Program, learning assistants for Math 242 are offering extra recitations starting after the first midterm. The schedule for the extra recitations is:
+
+    * Monday: 3:00–4:30pm in Keller 403
+
+    * Tuesday: 4:10–5:15pm in Keller 303
+
+    * Wednesday: 4:10–5:30pm in Keller 302 
+
+    * Thursday: 3:00–4:00pm in Keller 403
+
+    * Friday: 4:00–6:00pm in Keller 302
+
+    These will run from Wednesday Oct 9 to Wednesday Oct. 23, and focus on material covered up to the first exam.
+
+    Students who under-performed on the midterm and attend these extra recitations may be permitted to retake the first midterm, for a maximum replacement score of 46. To take part in the retake, a student needs to have scored less than 46 on the first midterm, and needs to attend a total of  five hours of extra recitations (over the 2 week period). 
+
+    The retake will take place on the evening of Thursday Oct. 24 at a time and place to be announced. Following the retake of the exam, additional recitations will still be offered, although the schedule will change.
+
 * (10/8) I have elected to put the curve in the distribution for assigning letter grades, rather than in your exam scores. See the syllabus for the new distribution.
 
 * (9/30) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet you will be given for the first midterm.
