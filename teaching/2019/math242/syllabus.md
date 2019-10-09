@@ -42,31 +42,31 @@ Class Information
 Grading Policy
 =======
 
-Grades will be assigned based upon the standard F to A scale: 
+Grades will be assigned based upon the following F to A scale. I reserve the right to make later adjustments to the scale.
 
-* [93,100] A; 
+* [90,100] A; 
 
-* [90,93) A-; 
+* [85,90) A-; 
 
-* [87,90) B+; 
+* [80,85) B+; 
 
-* [83,87) B; 
+* [70,80) B; 
 
-* [80,83) B-; 
+* [65,70) B-; 
 
-* [77,80) C+; 
+* [60,65) C+; 
 
-* [73,77) C; 
+* [50,60) C; 
 
-* [70,73) C-; 
+* [45,50) C-; 
 
-* [67,70) D+; 
+* [40,45) D+; 
 
-* [63,67) D; 
+* [30,40) D; 
 
-* [60,63) D-; 
+* [25,30) D-; 
 
-* [0,60) F. 
+* [0,25) F. 
 
 The breakdown for your grade is as follows:
 

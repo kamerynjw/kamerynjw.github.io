@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (10/8) I have elected to put the curve in the distribution for assigning letter grades, rather than in your exam scores. See the syllabus for the new distribution.
+
 * (9/30) [Here]({{ page.url }}formula-sheet.pdf) is the formula sheet you will be given for the first midterm.
 
 * (9/27) [Here]({{ page.url }}spring19-midterm1.pdf) is the first midterm from last semester's math 242. It is similar to what you should expect for your upcoming exam.
