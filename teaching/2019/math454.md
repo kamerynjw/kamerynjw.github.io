@@ -22,6 +22,8 @@ See the syllabus for information about my grading policy for the class, and a te
 
 **Please do not use blue ink for your assignments. I would like to reserve blue for grading and writing comments. If you use blue, I will be forced to switch to the angrier, more aggressive red.**
 
+* [Homework 7]({{ page.url }}h7.pdf) Due Thurs, Oct 17
+
 * [Homework 5]({{ page.url }}h5.pdf) Due Thurs, Oct 3
 
 * [Homework 4]({{ page.url }}h4.pdf) Due Thurs, Sept 26
