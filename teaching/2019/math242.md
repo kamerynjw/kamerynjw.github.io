@@ -99,6 +99,8 @@ Homework
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
 
+* Week 9 (Due Thursday, Oct 24) Section 7.7: **6**, **10**, **16**, 19bc, **20bc**, 22; Section 7.8: 1, 2, 9, **10**, **13**.
+
 * Week 8 (Due Thursday, Oct 17) Section 7.4: 2, 4, 6, 7, **10**, 13, **21**, 26, 41, 45, **46**; Section 7.5: Any five of 1--20, **33**, **55**, 77.
 
 * Week 6 (Due Thursday, Oct 3) Section 7.1: **6**, 16, 26; Section 7.2: 2, **4**, **11**, 20, **23**, **32**; Section 7.3: 1, 3, **4**, **11**, 20.
