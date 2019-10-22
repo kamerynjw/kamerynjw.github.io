@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (10/21) You may find [this flowchart from xkcd](https://xkcd.com/2117/) about integration helpful.
+
 * (10/9) As you may recall from the syllabus, as part of the Early Access Program, learning assistants for Math 242 are offering extra recitations starting after the first midterm. The schedule for the extra recitations is:
 
     * Monday: 3:00–4:30pm in Keller 403
