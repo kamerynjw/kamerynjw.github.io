@@ -15,15 +15,16 @@
   title: "Set-theoretic blockchains"
   othercite: "Archive for Mathematical Logic (2019)"
 
+- href: "inner-mantles"
+  authors: "Jonas Reitz and Kameryn J. Williams"
+  title: "Inner mantles and iterated HOD"
+  othercite: "to appear in: Mathematical Logic Quarterly"
+
 - href: "universal-finite-sequence"
   authors: "Joel David Hamkins and Kameryn J. Williams"
   title: "The Sigma_1-definable universal finite sequence"
   othercite: "*under review*"
 
-- href: "inner-mantles"
-  authors: "Jonas Reitz and Kameryn J. Williams"
-  title: "Inner mantles and iterated HOD"
-  othercite: "*under review*"
 
 - href: "class-forcing-theorem"
   authors: "Victoria Gitman, Joel David Hamkins, Peter Holy, Philipp Schlicht, and Kameryn Williams"
