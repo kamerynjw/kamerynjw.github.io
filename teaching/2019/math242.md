@@ -101,6 +101,8 @@ Homework
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
 
+* Week 10 (Due Thursday, Oct 31) Section 11.1: 1, 2, **10**, 12, 34, **48**, 51; Section 11.2: 1, 2, **15**, 16, 35, **39**, **49**, **58**.
+
 * Week 9 (Due Thursday, Oct 24) Section 7.7: **6**, **10**, **16**, 19bc, **20bc**, 22; Section 7.8: 1, 2, 9, **10**, **13**.
 
 * Week 8 (Due Thursday, Oct 17) Section 7.4: 2, 4, 6, 7, **10**, 13, **21**, 26, 41, 45, **46**; Section 7.5: Any five of 1--20, **33**, **55**, 77.
