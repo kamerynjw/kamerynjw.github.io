@@ -24,6 +24,14 @@ Course Outline
 Announcements
 -------------
 
+* (10/28) Starting today, the LAs for Math 242 will be offering extra recitations focusing on material recently covered in class. Any student is invited to participate. The extra recitations will meet in Keller 403. The schedule is:
+
+    * Monday and Thursday 3:00–4:00pm.
+
+    * Tuesday, Wednesday and Friday 4:00–5:00pm. 
+
+    These will run for the rest of the semester (subject to change, in which case you'll get another announcement).
+
 * (10/21) You may find [this flowchart from xkcd](https://xkcd.com/2117/) about integration helpful.
 
 * (10/9) As you may recall from the syllabus, as part of the Early Access Program, learning assistants for Math 242 are offering extra recitations starting after the first midterm. The schedule for the extra recitations is:
