@@ -1,7 +1,15 @@
 
 # selected talks to display in research.md
 
+- href: "2019-july-estc"
+  title: "The Sigma_1 universal finite sequence"
+  other: "contributed talk, 7th biannual European Set Theory Conference"
+  date: "July 2019"
 
+- href: "2019-may-asl"
+  title: "Inner mantles and iterated HOD"
+  other: "contributed talk, 2019 ASL North American Annual Meeting"
+  date: "May 2019"
 
 - href: "2019-jan-surgery"
   title: "Amalgamating generic reals, a surgical approach"
