@@ -84,7 +84,11 @@ Seminar Talks
 Service
 ====
 
-* Co-organizer (with B. Kjos-Hanssen and D. Ross) *Logic Seminar*, University of Hawaiʻi at Mānoa. (2018–present)
+* Referee, Contemporary Mathematics, forthcoming volume.
+
+* Referee, Mathematical Logic Quarterly.
+
+* Co-organizer (with A. Beros, B. Kjos-Hanssen, and D. Ross) *Logic Seminar*, University of Hawaiʻi at Mānoa. (2018–present)
 
 * Co-organizer (with V. Gitman), *MAMLS Logic Friday*, Mid-Atlantic Mathematical Logic Seminar, The Graduate Center, CUNY. (Oct 2017)
 

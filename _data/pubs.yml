@@ -4,6 +4,7 @@
 #  1. fully reviewed and published
 #  2. under review
 #  3. other published (e.g. diss)
+#  4. in progress
 
 - href: "least-models"
   authors: "Kameryn J. Williams"
@@ -20,16 +21,17 @@
   title: "Inner mantles and iterated HOD"
   othercite: "to appear in: Mathematical Logic Quarterly"
 
+
 - href: "universal-finite-sequence"
   authors: "Joel David Hamkins and Kameryn J. Williams"
   title: "The Sigma_1-definable universal finite sequence"
   othercite: "*under review*"
 
-
 - href: "class-forcing-theorem"
   authors: "Victoria Gitman, Joel David Hamkins, Peter Holy, Philipp Schlicht, and Kameryn Williams"
   title: "The exact strength of the class forcing theorem"
   othercite: "*under review*"
+
 
 - href: "diss"
   authors: "Kameryn J. Williams"
