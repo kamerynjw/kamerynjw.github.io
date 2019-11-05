@@ -24,6 +24,32 @@ Course Outline
 Announcements
 -------------
 
+* (11/4) As a reminder, the first midterm will be next Thursday, November 7, at 6pm in Webster Hall Room 203. Here are the topics you should understand:
+
+    * How to decompose a rational expression into partial fraction form.
+
+    * How to use partial fraction decomposition to integrate a rational function.
+
+    * How to approximately calculate a definite integral using the midpoint rule, the trapezoidal rule, and Simpson's rule.
+
+    * How to calculate error bounds for the approximations by these three rules.
+
+    * How to calculate improper integrals.
+
+    * What it means for a sequence to converge and how to determine the limit of a sequence.
+
+    * What a series is and how it differs from a sequence, what it means for a series to converge.
+
+    * How to tell whether a $p$-series or geometric series is convergent, and if convergent how to calculate its sum.
+
+    * What a telescoping series is and how to calculate its sum.
+
+    * How to use the integral test to determine whether a series converges.
+
+    * How to use the comparison test and limit comparison test to check whether a series converges or diverges.
+
+    For the exam you will not be allowed notes nor a calculator. However, you will be given a formula sheet, which you can see [here]({{ page.url }}exam2-formulae.pdf). And [here]({{ page.url }}exam2-practice.pdf) is a selection of practice problems for the exam.
+
 * (10/28) Starting today, the LAs for Math 242 will be offering extra recitations focusing on material recently covered in class. Any student is invited to participate. The extra recitations will meet in Keller 403. The schedule is:
 
     * Monday and Thursday 3:00–4:00pm.
