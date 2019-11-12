@@ -135,6 +135,8 @@ Homework
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
 
+* Week 13 (Due Thursday, Nov 21) Section 11.5: 1, 4, 7, **12**, 17, **18**, **28**, 30; Section 11.6: 8, **10**, 11, 14, **26**, 38; Section 11.7: Any four of 1–18. 
+
 * Week 11 (Due Thursday, Nov 7) Section 11.2: **44**, 46, 47; Section 11.3: 2, 6, **8**, 23, **24**; Section 11.4: 1, 2, **6**, **10**, 16, 20, 30.
 
 * Week 10 (Due Thursday, Oct 31 🎃) Section 11.1: 1, 2, **10**, 12, 34, **48**, 51; Section 11.2: 1, 2, **15**, 16, 35, **39**, **49**, **58**.
