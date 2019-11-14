@@ -1,6 +1,11 @@
 
 # selected talks to display in research.md
 
+- href: "2019-nov-rims"
+  title: "On axioms for multiverses of set theory"
+  other: "contributed talk, RIMS Set Theory Workshop 2019"
+  date: "Nov 2019"
+
 - href: "2019-july-estc"
   title: "The Sigma_1 universal finite sequence"
   other: "contributed talk, 7th biannual European Set Theory Conference"
