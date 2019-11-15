@@ -24,6 +24,20 @@ Course Outline
 Announcements
 -------------
 
+* (11/15) Starting next week (Nov. 18) the LAs for Math 242 will have to adjust the meeting times for the extra recitations. The schedule is:
+
+    * Tuesday 3-5.
+
+    * Wednesday 4-5.
+
+    * Thursday 3-4.
+
+    *Friday 4-5.
+
+    All extra recitations will be in Keller 403. Any student is invited to participate.
+
+
+
 * (11/4) As a reminder, the first midterm will be next Thursday, November 7, at 6pm in Webster Hall Room 203. Here are the topics you should understand:
 
     * How to decompose a rational expression into partial fraction form.
