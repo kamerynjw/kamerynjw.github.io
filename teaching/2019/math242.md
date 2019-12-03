@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (12/2) **The final exam will be Wednesday, December 18 at 12:00–2:00pm.** You can find final exams from previous semesters [here](http://math.hawaii.edu/wordpress/calculus-final-exams-and-review-problems/). The formula sheet you get will be the same as on the most recent final.
+
 * (11/15) Starting next week (Nov. 18) the LAs for Math 242 will have to adjust the meeting times for the extra recitations. The schedule is:
 
     * Tuesday 3-5.
@@ -148,6 +150,8 @@ Homework
 --------
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
+
+* Week 15 (Due Thursday, Dec 12) Section 11.11: 4, **7**, **19**, 28 (you don't have to graph); Section 9.3: 2, **4**, 10, **16**, 18; Section 9.5: 5, **6**, **18**, 21 (you don't have to graph).
 
 * Week 14 (Due Thursday, Dec 5) Section 11.8: 4, 6, **8**, 18; Section 11.9: 2, 4, **6**, 12, 15; Section 11.10: 5, **6**, 13, 15.
 
