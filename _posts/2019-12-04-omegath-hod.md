@@ -14,21 +14,23 @@ Let me start with the background context. It is well-known that there is a class
 
 As such it is sensible to iterated $\mathrm{HOD}$. Let $\mathrm{HOD}^0 = V$, $\mathrm{HOD}^{\alpha+1} = \mathrm{HOD}^{\mathrm{HOD}^\alpha}$ and $\mathrm{HOD}^\gamma = \bigcap_{\alpha < \gamma} \mathrm{HOD}^\alpha$ for limit ordinals $\gamma$. As this definition takes place in the metatheory, it is natural to inquire as to whether $\mathrm{HOD}^\alpha$ is definable. Of course, the sticking point is that you need uniform access to the sequence of iterated $\mathrm{HOD}$s below a limit ordinal, because the successor stage preserves definability. 
 
-> **Theorem** (Grigorieff) If the universe is constructible from a set then $\mathrm{HOD}^\alpha$ is uniformly definable for all $\alpha$. 
+> **Theorem** (Grigorieff): If the universe is constructible from a set then $\mathrm{HOD}^\alpha$ is uniformly definable for all $\alpha$. 
 
 In general, however, even the $\omega$-th $\mathrm{HOD}$ may fail to be definable. This is a consequence of the following proposition and theorem.
 
-> **Proposition** If the sequence $\langle \mathrm{HOD}^\alpha : \alpha < \lambda \rangle$ is definable, then for each $\alpha < \lambda$ we have $\mathrm{HOD}^\alpha$ satisfies ZF.
+> **Proposition**: If the sequence $\langle \mathrm{HOD}^\alpha : \alpha < \lambda \rangle$ is definable, then for each $\alpha < \lambda$ we have $\mathrm{HOD}^\alpha$ satisfies ZF.
 
-*Proof*: We have to see that the iterated $\mathrm{HOD}$s are transitive, closed under the Gödel operations, and almost universal. The first two of these are obvious, so let us check the third. The only substantive case is if $\gamma < \lambda$ is limit. Suppose that $X$ is a sub*set* of $\mathrm{HOD}^\gamma$. We want to find a set $Y \in \mathrm{HOD}^\gamma$ which covers $X$. Let $\beta$ be large enough so that $X \subseteq V_\beta$. Then $Y = V_\beta \cap \mathrm{HOD}^\gamma = V_\beta \cap \bigcap_{\alpha < \gamma} \mathrm{HOD}^\alpha$ is in $V_{\beta+1} \cap \mathrm{HOD}^\gamma$ covers $X$, as desired. QED
+*Proof*: We have to see that the iterated $\mathrm{HOD}$s are transitive, closed under the Gödel operations, and almost universal. The first two of these are obvious, so let us check the third. The only substantive case is if $\gamma < \lambda$ is limit. Suppose that $X$ is a sub*set* of $\mathrm{HOD}^\gamma$. We want to find a set $Y \in \mathrm{HOD}^\gamma$ which covers $X$. Let $\beta$ be large enough so that $X \subseteq V_\beta$. Then $Y = V_\beta \cap \mathrm{HOD}^\gamma = V_\beta \cap \bigcap_{\alpha < \gamma} \mathrm{HOD}^\alpha$ is in $V_{\beta+1} \cap \mathrm{HOD}^\gamma$ and covers $X$, as desired. **QED**
 
-> **Theorem** (Harrington) There is a (transitive) model of ZFC whose $\omega$-th $\mathrm{HOD}$ does not satisfy $\ZF$. 
+> **Theorem** (Harrington): There is a (transitive) model of ZFC whose $\omega$-th $\mathrm{HOD}$ does not satisfy ZF. 
+
+Putting these together, in Harrington's model the $\omega$-th $\mathrm{HOD}$ is not definable.
 
 ----
 
 The background now made clear, let me move to the result I want to talk about.
 
-> **Theorem** (McAloon) There is a set-forcing extension of $L$ whose $\omega$-th $\mathrm{HOD}$ lacks a well-ordering of its reals. 
+> **Theorem** (McAloon): There is a set-forcing extension of $L$ whose $\omega$-th $\mathrm{HOD}$ lacks a well-ordering of its reals. 
 
 Note that since McAloon's model is constructible from a set that the sequence of iterated $\mathrm{HOD}$s over his model is definable and thus $\mathrm{HOD}^\omega$ satisfies ZF. 
 
@@ -46,14 +48,14 @@ Let me summarize the situation and explain how we will apply these coding forcin
 
 We don't actually want to go all the way to $L[G][H]$. It has too much information and so its $\mathrm{HOD}$ is too big, being all of $L[G][H]$. We have to thin it out. Inside $L[G][H]$, let $B = \bigcup_{k < \omega} A_k^{(k)}$ and for $\ell \in \omega$ let $B_\ell = \bigcup_{k < \omega} A_{\ell + k}^{(k)} = \bigcup_{\ell \le k < \omega} A_k^{(k-\ell)}$. In particular, $B = B_0$. Our desired model is $L[B]$.
 
-*Claim:* In $L[B]$, $\mathrm{HOD}^\ell = L[B_\ell]$ for $\ell < \omega$.
+*Claim:* In $L[B]$, we have $\mathrm{HOD}^\ell = L[B_\ell]$ for $\ell < \omega$.
 
-This is seen by induction. Work inside $(\mathrm{HOD}^{\ell})^{L[B]} = L[B_\ell]$. Observe that $B_{\ell+1}$ is ordinal definable, because an ordinal $i$ is in $B_{\ell+1}$ if and only if $i$ is in one of the coding blocks, say the $k$-th one, and there is a subset of $(\kappa_k)_k$ which is Cohen-generic over $L$. Thus, $L[B_{\ell+1}] \subseteq \mathrm{HOD}^{L[B_\ell]}$. For the other inclusion, note that $L[B_\ell]$ is generic over $L[B_{\ell+1}]$ for a forcing that adds Cohen-generic subsets to certain cardinals. So by a standard homogeneity argument we get that $\mathrm{HOD}^{L[B_\ell]} \subseteq L[B_{\ell+1}]$.
+This is seen by induction. Work inside $(\mathrm{HOD}^{\ell})^{L[B]} = L[B_\ell]$. Observe that $B_{\ell+1}$ is ordinal definable, because an ordinal $i$ is in $B_{\ell+1}$ if and only if $i$ is in one of the coding blocks, say the $k$-th one, and there is a subset of $(\kappa_k)\_k$ which is Cohen-generic over $L$. Thus, $L[B_{\ell+1}] \subseteq \mathrm{HOD}^{L[B_\ell]}$. For the other inclusion, note that $L[B_\ell]$ is generic over $L[B_{\ell+1}]$ for a forcing that adds Cohen-generic subsets to certain cardinals. So by a standard homogeneity argument we get that $\mathrm{HOD}^{L[B_\ell]} \subseteq L[B_{\ell+1}]$.
 
 Thus, we get that in $L[B]$ that the $\ell$-th iterated $\mathrm{HOD}$s are all different, for $k < \omega$. Since $L[B]$ is constructible from a set $(\mathrm{HOD}^\omega)^{L[B]} = \bigcap_{\ell < \omega} L[B_\ell]$ is a definable class over $L[B]$ and by the above proposition must satisfy ZF. It remains only to see that this model, call it $N$ so as to not have to write out $(\mathrm{HOD}^\omega)^{L[B]}$ ever again, does not have a well-order of its reals. 
 
 Each of the models $L[B_\ell]$ satisfies the $\mathrm{GCH}$ and agrees with $L$ about which ordinals are cardinals. So if $N$ did have a well-order of its reals then it would have a well-order of ordertype ${\omega_1}^L$. Thus there would be $X \subseteq {\omega_1}^L$ in $N$ so that every real in $N$ is in $L[X]$. As such, to show that $N$ does not have a well-order of its reals it suffices to prove there is no such $X$. Toward this, fix $X \subseteq \omega_1$ in $N$.
 
-Observe that $L[G][B] = L[B]$ because $A_0 = G \in L[B]$. But the forcing to add $B$ over $L[G]$ doesn't add new subsets of $\omega_1$, because we did all the coding above $\omega_1$. So it must be that $X \in L[G]$. Because $G$ is generic for the forcing to add $\omega_1$ many Cohen reals, a standard ccc argument gives that there is some countable ordinal $\alpha$ so that $X \in L[G \cap (\omega \times \alpha)]$. That is, we only needed a countable piece of $G$ to add $X$. Now let $c$ be the $\alpha$-th row of $G$, i.e. $c = \{ n \in \omega : (n,\alpha) \in G \}$. Then $c$ is a Cohen real over $L[G \cap (\omega \times \alpha)]$ and so in particular $c \not \in L[X]$. Notice, however, that $c \in L[B_\ell]$ for each $\ell$, because a tail of $x$ is the $\alpha$-th row of $A_\ell \in L[B_\ell]$. So $c \in N$, witnessing that there is a real in $N$ which is not constructible from $X$. This completes the argument that $N$ does not have a well-order of its reals. QED
+Observe that $L[G][B] = L[B]$ because $A_0 = G \in L[B]$. But the forcing to add $B$ over $L[G]$ doesn't add new subsets of $\omega_1$, because we did all the coding above $\omega_1$. So it must be that $X \in L[G]$. Because $G$ is generic for the forcing to add $\omega_1$ many Cohen reals, a standard ccc argument gives that there is some countable ordinal $\alpha$ so that $X \in L[G \cap (\omega \times \alpha)]$. That is, we only needed a countable piece of $G$ to add $X$. Now let $c$ be the $\alpha$-th row of $G$, i.e. $c = \{ n \in \omega : (n,\alpha) \in G \}$. Then $c$ is a Cohen real over $L[G \cap (\omega \times \alpha)]$ and so in particular $c \not \in L[X]$. Notice, however, that $c \in L[B_\ell]$ for each $\ell$, because a tail of $x$ is the $\alpha$-th row of $A_\ell \in L[B_\ell]$. So $c \in N$, witnessing that there is a real in $N$ which is not constructible from $X$. This completes the argument that $N$ does not have a well-order of its reals. **QED**
 
 
