@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (12/4) You can see your tentative grades going into the final [here]({{ page.url }}242-grades-prefinal.pdf). This does not yet include your last three homework assignments nor the recitation for next week, nor have I yet dropped your lowest two homework grades/two recitation absences. Nevertheless, this should give you a pretty accurate view of where you currently are in the class.
+
 * (12/2) **The final exam will be Wednesday, December 18 at 12:00–2:00pm.** You can find final exams from previous semesters [here](http://math.hawaii.edu/wordpress/calculus-final-exams-and-review-problems/). The formula sheet you get will be the same as on the most recent final.
 
 * (11/15) Starting next week (Nov. 18) the LAs for Math 242 will have to adjust the meeting times for the extra recitations. The schedule is:
