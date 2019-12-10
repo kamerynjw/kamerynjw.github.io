@@ -13,6 +13,8 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 =============
 
+* (9/10) **The final exam will be Tuesday, December 17 at 12pm in Keller 413.**
+
 * (9/23) I have been asked to pass on information to you about the Putnam exam. See [here](http://www.math.hawaii.edu/~pavel/putnam/) for more details.
 
 Homework
