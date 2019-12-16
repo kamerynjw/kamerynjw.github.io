@@ -13,13 +13,9 @@ See [here]({{ page.url }}syllabus) for the syllabus.
 Announcements
 -------------
 
-* (12/13) Your final grades for the course can be seen [here]({{ page.url }}final-grades.pdf). I will be officially submitting them early next week. 
-
 * (12/6) The final exam will be Monday, December 10 from 9:45am to 11:45am. The final will be held in the usual classroom. See [here](http://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/) for the full final schedule.
 
 * (12/4) [Here]({{ page.url }}302-final-formulae.pdf) is the formula sheet you will have for the final. Remember that no notes are permitted!
-
-* (11/28) [Here]({{ page.url }}pre-final-grades.pdf) are your grades going into the final. ~~This does not account for the last homework assignment, which would have a small effect.~~ Now taking into account the final homework assignment.
 
 * (11/27) Here are a bunch of practice questions from the textbook to prepare for the final exam:
 
