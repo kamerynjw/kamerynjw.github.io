@@ -26,7 +26,7 @@ Announcements
 
 * (12/11) **The final exam will be held in Hawaii Institute of Geophysics, Room 110.** It will not be held in Keller 302, the usual room for lecture.
 
-* (12/4) You can see your tentative grades going into the final [here]({{ page.url }}242-grades-prefinal.pdf). This does not yet include your last three homework assignments nor the recitation for next week, nor have I yet dropped your lowest two homework grades/two recitation absences. Nevertheless, this should give you a pretty accurate view of where you currently are in the class.
+* (12/4) You can see your tentative grades going into the final [here]({{ page.url }}242-grades-prefinal.pdf). ~~This does not yet include your last three homework assignments nor the recitation for next week, nor have I yet dropped your lowest two homework grades/two recitation absences. Nevertheless, this should give you a pretty accurate view of where you currently are in the class.~~ Now taking into account all homework and recitations.
 
 * (12/2) **The final exam will be Wednesday, December 18 at 12:00–2:00pm.** You can find final exams from previous semesters [here](http://math.hawaii.edu/wordpress/calculus-final-exams-and-review-problems/). The formula sheet you get will be the same as on the most recent final.
 
