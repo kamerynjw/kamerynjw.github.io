@@ -24,6 +24,8 @@ Course Outline
 Announcements
 -------------
 
+* (12/20) You can see your final grades [here]({{ page.url }}final-grades.pdf). Please note that the grade for the final here is a percentage, i.e. out of 100. And this takes into account that I replaced your midterm 2 grade with your grade on the midterm 2 material on the final (only, of course, if this was higher than midterm 2 grade). 
+
 * (12/11) **The final exam will be held in Hawaii Institute of Geophysics, Room 110.** It will not be held in Keller 302, the usual room for lecture.
 
 * (12/4) You can see your tentative grades going into the final [here]({{ page.url }}242-grades-prefinal.pdf). ~~This does not yet include your last three homework assignments nor the recitation for next week, nor have I yet dropped your lowest two homework grades/two recitation absences. Nevertheless, this should give you a pretty accurate view of where you currently are in the class.~~ Now taking into account all homework and recitations.
