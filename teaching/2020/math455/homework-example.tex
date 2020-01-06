@@ -1,0 +1,36 @@
+\documentclass{amsart}
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+%% for the exercise and solution environements
+\theoremstyle{plain}
+\ifdefined\exercise \else \newtheorem{exercise}{Exercise} \fi
+\newenvironment{solution}{\begin{proof}[Solution]}{\end{proof}}
+
+
+\newcommand\Nbb{\mathbb{N}}
+\newcommand\Rbb{\mathbb{R}}
+\newcommand\powerset{\mathcal{P}}
+
+
+\title{Math455: Homework 0}
+\author{Kameryn J Williams}
+
+\date{January 10, 2019}
+
+\begin{document}
+
+\maketitle
+
+\begin{exercise}
+Show that there is no bijection between $\Nbb$ and $\Rbb$.
+\end{exercise}
+
+\begin{solution}
+It was proven in class on Monday, January 6 that $\Rbb$ is in bijective correspondence with $\powerset(\Nbb)$. Accordingly, it suffices to prove that there is no bijection between $\Nbb$ and $\powerset(\Nbb)$. To this end, consider an arbitrary function $f \colon \Nbb \to \powerset(\Nbb)$. Define $D \subseteq \Nbb$ as $D = \{ n \in \Nbb : n \not \in f(n) \}$. I claim that $D$ is not in the range of $f$. To see this, suppose it were the case that $D = f(n)$ for some $n$. If $n \in D$, then by the definition of $D$ we would have that $n \not \in f(n) = D$, a contradiction. On the other hand, if $n \not \in D = f(n)$, then again by by the definition of $D$ we would have that $n \in D$. Either way, we get a contradiction. So it must be that our arbitrary $f$ is not surjective, and hence fails to be bijective.
+\end{solution}
+
+\end{document}
