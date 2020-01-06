@@ -4,15 +4,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Fall 2019)
+Current Semester (Spring 2020)
 ================
+
+[Math 455: Logic]({{ page.url }}2020/math455/)
+
+[Math 372: Elementary Probability and Statistics]({{ page.url }}2020/math372/)
+
+Previous Semesters 
+==================
+
+Fall 2019
+---------
 
 [Math 454: Axiomatic Set Theory]({{ page.url }}2019/math454/)
 
 [Math 242: Calculus II]({{ page.url }}2019/math242/)
 
-Previous Semesters 
-==================
 
 Spring 2019
 -----------
