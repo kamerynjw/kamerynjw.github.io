@@ -11,7 +11,7 @@ Class Information
 
 **Instructor** Kameryn Williams
 
-**Website** [http://kamerynjw.net/teaching/2020/math372/]({{ site.baseurl }}/teaching/2020/math455/)
+**Website** [http://kamerynjw.net/teaching/2020/math455/]({{ site.baseurl }}/teaching/2020/math455/)
 
 **Email** `kamerynw [ at ] hawaii ( period ) edu`
 
