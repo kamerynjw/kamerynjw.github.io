@@ -34,15 +34,15 @@ Grading Policy
 
 The break-down for your grade is as follows:
 
-* Final exam 25%
+* 25% Final exam
 
-* Midterm 1 25%
+* 25% Midterm 1 
 
-* Midterm 2 25%
+* 25% Midterm 2 
 
-* Written homework 15%
+* 15% Written homework 
 
-* Online quizes 10%
+* 10% Online quizes 
 
 Grades will be assigned based upon the standard F to A scale. I do not anticipate this happening, but I reserve the right to make later adjustments to the scale.
 
