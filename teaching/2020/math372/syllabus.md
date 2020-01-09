@@ -2,6 +2,7 @@
 layout: page
 title: "Math 372 Syllabus (Spring 2020)"
 permalink: /teaching/2020/math372/syllabus/
+parent: /teaching/2020/math372/
 ---
 
 Class Information
@@ -91,7 +92,7 @@ There will be two midterms and one cumulative final exam.
 Group project
 =====
 
-As part of this class you will apply your knowledge in a group project. You will apply the statistical tools learned in class to analyze real-world data. Further information about the expectations for the project can be found [on the group project page]({{ page.dir }}group-project/).
+As part of this class you will apply your knowledge in a group project. You will apply the statistical tools learned in class to analyze real-world data. Further information about the expectations for the project can be found [on the group project page]({{ page.parent }}group-project/).
 
 
 Online homework
