@@ -34,15 +34,17 @@ Grading Policy
 
 The break-down for your grade is as follows:
 
-* 25% Final exam
+* 20% Final exam
 
-* 25% Midterm 1 
+* 20% Midterm 1 
 
-* 25% Midterm 2 
+* 20% Midterm 2 
 
-* 15% Written homework 
+* 20% Group project
 
-* 10% Online quizes 
+* 10% Written homework 
+
+* 10% Online homework
 
 Grades will be assigned based upon the standard F to A scale. I do not anticipate this happening, but I reserve the right to make later adjustments to the scale.
 
@@ -82,21 +84,26 @@ There will be two midterms and one cumulative final exam.
 
 * Midterm 1: (tentatively) Friday, Feb 21
 
-* Midterm 2: (tentatively) Friday, Apr 10
+* Midterm 2: (tentatively) Wednesday, Apr 8
 
 * Final: Monday, May 11, 12:00–2:00
 
+Group project
+=====
 
-Online quizes
+As part of this class you will apply your knowledge in a group project. You will apply the statistical tools learned in class to analyze real-world data. Further information about the expectations for the project can be found [on the group project page]({{ page.dir }}group-project/).
+
+
+Online homework
 ======
 
-You will have weekly online quizes through WeBWorK, in a manner that will be explained in the final version of this syllabus.
+You will have weekly online homework through WeBWorK, in a manner that will be explained in the final version of this syllabus.
 
 
-Homework
-========
+Written Homework
+=======
 
-Assigned homework can be found on the [course website]({{ site.baseurl }}/teaching/2019/math242/). Homework will be collected once a week, on Fridays. The work you turn in is expected to be your own.
+Assigned written homework can be found on the [course website]({{ site.baseurl }}/teaching/2019/math242/). It will be collected once a week, on Fridays. You are encouraged to discuss homework problems with your classmates, but the work you turn in is expected to be your own.
 
 Homework will be graded 20% on completion, and 80% based upon a selection of problems from the assignment. For each homework assignment I tell you a small subset of the assigned problems that I will choose from for grading. You must still do all the assignment for the 20% completion points! 
 
