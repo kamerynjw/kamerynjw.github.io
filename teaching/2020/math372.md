@@ -31,6 +31,11 @@ Course Outline
 
 * Chapter 12
 
+Group Projects
+-----
+
+The group projects page is [here]({{ page.url }}group-project/).
+
 Announcements
 -------------
 
