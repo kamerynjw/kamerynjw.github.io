@@ -47,4 +47,4 @@ Written Homework
 
 A subselection of the bolded problems will be graded. You must still do all problems for completion points.
 
-(Nothing yet!)
+* Week 2 (Due Friday, Jan 24) Section 2.1: 3, 5, 7; Section 2.2: **14**, 17, **24**; Section 2.3: 30, **36**; Section 2.4: **49**, **56**, 57.
