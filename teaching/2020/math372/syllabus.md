@@ -98,7 +98,8 @@ As part of this class you will apply your knowledge in a group project. You will
 Online homework
 ======
 
-You will have weekly online homework through WeBWorK, in a manner that will be explained in the final version of this syllabus.
+
+You will have weekly online homework through WeBWorK. The first week of class I will email you instructions on how to access WeBWorK, and I will update this syllabus to also include that information. The first homework will be due no sooner than Friday, Jan 24.
 
 
 Written Homework
