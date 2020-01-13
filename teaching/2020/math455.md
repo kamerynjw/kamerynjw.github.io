@@ -32,5 +32,5 @@ Announcements
 Homework
 -------
 
-* [Homework 0]({{ page.url }}h0.pdf) (Due Friday, Jan 17)
+* [Homework 0]({{ page.url }}h0.pdf) (Due Friday, Jan 24)
 
