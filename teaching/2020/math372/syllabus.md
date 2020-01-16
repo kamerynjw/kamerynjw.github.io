@@ -99,7 +99,7 @@ Online homework
 ======
 
 
-You will have weekly online homework through WeBWorK. The first week of class I will email you instructions on how to access WeBWorK, and I will update this syllabus to also include that information. The first homework will be due no sooner than Friday, Jan 24.
+You will have weekly online homework through WeBWorK, a free-to-use and open source online homework system. See under announcements on the course webpage for information about how to access the WeBWorK site.
 
 
 Written Homework

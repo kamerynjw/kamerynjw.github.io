@@ -39,7 +39,9 @@ The group projects page is [here]({{ page.url }}group-project/).
 Announcements
 -------------
 
-(Nothing yet!)
+* (1/16) The webpage for the online homework can be found [here](https://webwork.oer.hawaii.edu/webwork2/Math_372_Spring_2020_Williams/). Your username is your UH username and your password is initially set to your student ID. Please change your password as soon as possible! Online homework will be due weekly at Sunday 11:59pm, starting next week.
+
+* (1/16) UH is closed next Monday (1/20) in observence of Martin Luther King Day, so class will not be meeting.
 
 
 Written Homework
