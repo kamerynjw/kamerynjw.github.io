@@ -20,9 +20,17 @@ Class Information
 
 **Room** Keller Hall 402
 
-**Office Hours** Monday/Wednesday 14:30–15:30; Friday 9:00–10:00
+**Office Hours** Monday/Wednesday 14:30–15:30; Friday 9:00–10:00; or by appointment
 
 **Office** Physical Science Building 305
+
+**TA** Minh Nguyen
+
+**TA Email** `minh [ at ] math ( period ) hawaii [ dot ] edu`
+
+**TA Office Hours** Monday/Wednesday 8:25–9:25am; or by appointment
+
+**TA Office** Keller Hall 312A
 
 **Textbook** *Probability and Statistics for Engineering and the Sciences*, 9th ed., Jay Devore (ISBN: 978-1-305-25180-9)
 
