@@ -35,3 +35,5 @@ Homework
 * [Homework 0]({{ page.url }}h0.pdf) (Due Friday, Jan 24)
 
 * [Homework 1]({{ page.url }}h1.pdf) (Due Friday, Jan 31)
+
+* [Homework 2]({{ page.url }}h2.pdf) (Due Friday, Feb 7)
