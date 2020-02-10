@@ -26,6 +26,8 @@ For material outside the text I will strive to post supplemnetary notes on this 
 Announcements
 -------------
 
+* (2/10) Next Monday, February 17, is a federal holiday. The university is closed and class will not be meeting.
+
 * (1/29) If you are a resident of Hawaiʻi and want to vote in the presidential primary, important dates are coming up soon. The Hawaiʻi Republican party is not running a primary this year [[link](https://thehill.com/homenews/campaign/474243-hawaii-gop-cancels-presidential-preference-poll-and-commits-delegates-to)], but the Democratic party is. Starting this year the primary is conducted by mail-in ballots. To vote in the primary you must be a registered voter in the state and a member of the Democratic Party of Hawaiʻi. You can register to vote [here](https://olvr.hawaii.gov) and enroll in the party [here](https://hawaiidemocrats.org). To receive an early ballot in the mail you must register and enroll by February 18. The final deadline to receive a ballot in the mail is March 8. In-person voting and same-day registration options will also be available on April 4.
 
 
