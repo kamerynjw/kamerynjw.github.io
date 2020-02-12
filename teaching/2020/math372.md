@@ -45,6 +45,8 @@ Announcements
 
     * Counting techniques: permutations, combinations.
 
+    * Bayes's theorem.
+
     * Discrete random variables: calculating probabilities, expected values, variances. Probability distribution functions and cumulative distribution functions.
 
     * Binomial and Poisson discrete random variables. Poisson processes.
