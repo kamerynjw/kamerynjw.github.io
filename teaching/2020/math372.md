@@ -39,6 +39,21 @@ The group projects page is [here]({{ page.url }}group-project/).
 Announcements
 -------------
 
+* (2/12) Here are the topics you should know for the first midterm:
+
+    * Basic definitions and properties of sample spaces, events, probability functions, conditional probability, and independent events.
+
+    * Counting techniques: permutations, combinations.
+
+    * Discrete random variables: calculating probabilities, expected values, variances. Probability distribution functions and cumulative distribution functions.
+
+    * Binomial and Poisson discrete random variables. Poisson processes.
+
+    * Continuous random variables: calculating probabilities, expected values, variances. Probability distribution functions and cumulative distribution functions.
+
+    * Uniform and Normal continuous random variables.
+
+
 * (2/11) Here is the schedule for important upcoming dates: **The first midterm will be Wednesday, February 26.** It will cover material up to the homework due on Friday, February 21. I have pushed back the due date for the first preliminary report for your projects to Friday, March 6. In the near future I will put up information about what to expect for the exam and this first preliminary report.
 
 * (2/10) Next Monday, February 17, is a federal holiday. The university is closed and class will not be meeting.
