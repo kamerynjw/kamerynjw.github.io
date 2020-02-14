@@ -29,9 +29,9 @@ Timeline
 
 * Jan 31: Groups finalized, decide on project topics and titles.
 
-* Feb 28: Submit first preliminary report.
+* ~~Feb 28~~ Mar 6: Submit first preliminary report.
 
-* Mar 27: Submit second preliminary report.
+* ~~Mar 27~~ Apr 3: Submit second preliminary report.
 
 * Apr 29: Submit final reports.
 

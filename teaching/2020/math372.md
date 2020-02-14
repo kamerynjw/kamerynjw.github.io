@@ -39,6 +39,8 @@ The group projects page is [here]({{ page.url }}group-project/).
 Announcements
 -------------
 
+* (2/14) The study guide for the first midterm is [here]({{ page.url}}sg1.pdf).
+
 * (2/12) Here are the topics you should know for the first midterm:
 
     * Basic definitions and properties of sample spaces, events, probability functions, conditional probability, and independent events.
