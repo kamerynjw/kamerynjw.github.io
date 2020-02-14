@@ -79,3 +79,7 @@ A subselection of the bolded problems will be graded. You must still do all prob
 * Week 4 (Due Friday, Feb 7) Section 2.5: 73, **76**, **86**; Section 3.1: 2, 4, **5**, **7**; Section 3.2: **11**, 18, 21.
 
 * Week 5 (Due Friday, Feb 14 💘) Section 3.3: **32**, 37, 44a, 45; Section 3.4: **46**, 50, 62; Section 3.6: 81, **85**.
+
+* Week 6 (Due Friday, Feb 21) Section 4.1: **1**, **5**, 8; Section 4.2: **11**, 14, 19, **21**.
+
+* Week 7 **No homework.** Study for your midterm instead!
