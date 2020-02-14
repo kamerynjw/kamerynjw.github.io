@@ -39,6 +39,8 @@ The group projects page is [here]({{ page.url }}group-project/).
 Announcements
 -------------
 
+* (2/14) Here are some resources about using a calculator or computer to do calculations about normal random variables. [This video tutorial](https://www.youtube.com/watch?v=6kPmX3nNlyw) explains how to use a TI-83 calculator for the calculations. [This WolframAlpha widget](https://www.wolframalpha.com/widgets/gallery/view.jsp?id=98b17f068d5d9b7668e19fb8ae470841) can be used to calculate probabilities like $P(a < X  < b)$ where $X$ is normally distributed. You may find these useful for homework questions involving normal random variables.
+
 * (2/14) The study guide for the first midterm is [here]({{ page.url}}sg1.pdf).
 
 * (2/12) Here are the topics you should know for the first midterm:
