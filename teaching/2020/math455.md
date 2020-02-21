@@ -46,3 +46,5 @@ Homework
 
 * [Homework 4]({{ page.url }}h4.pdf) (Due Friday, Feb 21)
 
+* [Homework 5]({{ page.url }}h5.pdf) (Due Friday, Feb 28)
+
