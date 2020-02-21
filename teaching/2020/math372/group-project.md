@@ -2,6 +2,7 @@
 layout: page
 title: "Math 372 Group Projects (Spring 2020)"
 permalink: /teaching/2020/math372/group-project/
+parent: /teaching/2020/math372/	
 ---
 
 You will work in groups of five students to apply what you learn in this class to real-world data. Your group may choose any subject, subject to my approval. The overall goal of your project is to answer some question about the data. 
@@ -29,7 +30,7 @@ Timeline
 
 * Jan 31: Groups finalized, decide on project topics and titles.
 
-* ~~Feb 28~~ Mar 6: Submit first preliminary report.
+* ~~Feb 28~~ Mar 6: Submit first preliminary report. See the rubric [here]({{ page.parent }}prelim-report1.pdf)
 
 * ~~Mar 27~~ Apr 3: Submit second preliminary report.
 
