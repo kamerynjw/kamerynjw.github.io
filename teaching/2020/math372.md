@@ -91,3 +91,5 @@ A subselection of the bolded problems will be graded. You must still do all prob
 * Week 6 (Due Friday, Feb 21) Section 4.1: **1**, **5**, 8; Section 4.2: **11**, 14, 19, **21**.
 
 * Week 7 **No homework.** Study for your midterm instead!
+
+* Week 8 **No homework.**
