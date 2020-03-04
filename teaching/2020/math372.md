@@ -39,6 +39,8 @@ The group projects page is [here]({{ page.url }}group-project/).
 Announcements
 -------------
 
+* (3/4) [Here]({{ page.url }}sample_means.R) is the R code I used to generate the handout from class today.
+
 * (2/24) [Here]({{ page.url }}formula-sheet-exam1.pdf) is the formula sheet you will have for the first midterm.
 
 * (2/19) [Here](https://www.r-project.org/) is the home page for the R project. You can find download links and documentation on that site. And [here]({{ page.url }}monte-carlo-pi.r) is the sample program from class today.
