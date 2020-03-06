@@ -95,3 +95,7 @@ A subselection of the bolded problems will be graded. You must still do all prob
 * Week 7 **No homework.** Study for your midterm instead!
 
 * Week 8 **No homework.**
+
+* Week 9 (Due Friday, Mar 13) Section 5.4: **46**, 47, **52**, 56; Section 5.5: 58, **64**, 72.
+
+* Spring Break!
