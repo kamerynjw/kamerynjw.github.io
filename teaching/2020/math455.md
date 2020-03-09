@@ -26,6 +26,8 @@ For material outside the text I will strive to post supplemnetary notes on this 
 Announcements
 -------------
 
+* (3/9) [Here]({{ page.url }}compactness.pdf) is the hand-out from class today. You can turn in a solution to one of the problems from the hand-out—one we did not do together in class!—for up to 2 points back on Homework 6.
+
 * (2/13) See [here]({{ page.url }}proofs.pdf) for a hand-out with a list of sequent rules.
 
 * (2/10) Next Monday, February 17, is a federal holiday. The university is closed and class will not be meeting.
