@@ -99,3 +99,6 @@ A subselection of the bolded problems will be graded. You must still do all prob
 * Week 9 (Due Friday, Mar 13) Section 5.4: **46**, 47, **52**, 56; Section 5.5: 58, **64**, 72.
 
 * Spring Break!
+
+* Week 10 (Due Friday, Mar 27) See [this pdf]({{ page.url }}6.1hw.pdf).
+
