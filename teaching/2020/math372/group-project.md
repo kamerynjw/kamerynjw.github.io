@@ -30,7 +30,7 @@ Timeline
 
 * Jan 31: Groups finalized, decide on project topics and titles.
 
-* ~~Feb 28~~ Mar 6: Submit first preliminary report. See the rubric [here]({{ page.parent }}prelim-report1.pdf)
+* ~~Feb 28~~ Mar 6: Submit first preliminary report. See the rubric [here]({{ page.parent }}prelim-report1.pdf).
 
 * ~~Mar 27~~ Apr 3: Submit second preliminary report.
 
@@ -65,7 +65,7 @@ Preliminary reports
 You will submit two preliminary reports, the first one month after the deadline to form groups and the second two months after. The purpose of these are to be progress reports, and to ensure that you are on-track to successfully complete your project. 
 Approximately one month and two mo the final report for your project is due you will submit preliminary reports. These reports should give an overview of your project, explain the work you have already carried out, and explain what work you have left and how you plan to go about finishing. While much of the content in your preliminary reports can be reused for your final reports, these are not simply early drafts of your final report. Rather, they are progress reports.
 
-Details as to the requirements and grading for these reports will be announced later.
+See the Timeline section of this page for a link to the rubrics.
 
 Final reports
 =====
