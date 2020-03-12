@@ -5,6 +5,9 @@ permalink: /teaching/2020/math372/group-project/
 parent: /teaching/2020/math372/	
 ---
 
+**Group projects are canceled on account of UH changes to classes in light of the COVID-19 pandemic.**
+
+
 You will work in groups of five students to apply what you learn in this class to real-world data. Your group may choose any subject, subject to my approval. The overall goal of your project is to answer some question about the data. 
 
 * Your project must involve a dataset on which you apply statistical tools. You are not asked to gather data by hand, and instead to use publicly available sources.
