@@ -31,10 +31,15 @@ Course Outline
 
 * Chapter 12
 
+Changes due to the coronavirus pandemic
+-------
+
+See [this page]({{ page.url }}coronavirus/) for information about the changes to this class due to UH going online-only.
+
 Group Projects
 -----
 
-The group projects page is [here]({{ page.url }}group-project/).
+The group projects page is [here]({{ page.url }}group-project/). **Group projects are canceled on account of global pandemic.**
 
 Announcements
 -------------
@@ -100,5 +105,5 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Spring Break!
 
-* Week 10 (Due Friday, Mar 27) See [this pdf]({{ page.url }}6.1hw.pdf).
+* Week 10 (Due Friday, Mar 27) TBA ~~See [this pdf]({{ page.url }}6.1hw.pdf).~~
 

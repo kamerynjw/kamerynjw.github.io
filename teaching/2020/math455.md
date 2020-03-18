@@ -23,6 +23,11 @@ Course Outline
 
 For material outside the text I will strive to post supplemnetary notes on this page.
 
+Changes due to the coronavirus pandemic
+-------
+
+See [this page]({{ page.url }}coronavirus/) for information about the changes to this class due to UH going online-only.
+
 Announcements
 -------------
 

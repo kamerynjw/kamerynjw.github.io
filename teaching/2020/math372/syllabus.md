@@ -16,27 +16,29 @@ Class Information
 
 **Email** `kamerynw [ at ] hawaii ( period ) edu`
 
-**Class Hours ** Monday/Wednesday/Friday 11:30–12:20
+**Class Hours** ~~Monday/Wednesday/Friday 11:30–12:20~~
 
-**Room** Keller Hall 402
+**Room** ~~Keller Hall 402~~
 
-**Office Hours** Monday/Wednesday 14:30–15:30; Friday 9:00–10:00; or by appointment
+**Office Hours** Monday/Wednesday/Friday 11:30–12:00 via Zoom ~~Monday/Wednesday 14:30–15:30; Friday 9:00–10:00; or by appointment~~
 
-**Office** Physical Science Building 305
+**Office** Do not come to my physical office. ~~Physical Science Building 305~~
 
 **TA** Minh Nguyen
 
 **TA Email** `minh [ at ] math ( period ) hawaii [ dot ] edu`
 
-**TA Office Hours** Monday/Wednesday 8:25–9:25am; or by appointment
+**TA Office Hours** ~~Monday/Wednesday 8:25–9:25am; or by appointment~~
 
-**TA Office** Keller Hall 312A
+**TA Office** ~~Keller Hall 312A~~
 
 **Textbook** *Probability and Statistics for Engineering and the Sciences*, 9th ed., Jay Devore (ISBN: 978-1-305-25180-9)
 
 **Course Description** Problem-oriented introduction to the basic concepts of probability and statistics, providing a foundation for applications and further study.
 
 **Prerequisite** 216 or 242 or 252A or consent. 
+
+**This syllabus has undergone significant change due to the coronavirus. I reserve the right to make additional changes. In the case that that happens, I will communicate with you to ensure you know about the changes.**
 
 Grading Policy
 =======
@@ -49,7 +51,9 @@ The break-down for your grade is as follows:
 
 * 20% Midterm 2 
 
-* 20% Group project
+* 5% Group project [aborted due to coronavirus]
+
+* 15% Blecture participation
 
 * 10% Written homework 
 
@@ -84,7 +88,11 @@ Grades will be assigned based upon the standard F to A scale. I do not anticipat
 Attendance Policy
 ==========
 
-You are expected to attend every class, for that is an important part of learning the material. I advise you to exchange contact info with classmates so that you can share notes in case you have to miss class.
+As we have moved to online-only, traditional lectures will be replaced with asynchronous blectures (= "web lectures", compare blog = "web log"). You are expected to participate in these, and this participation will account for 15% of your overall grade for the class. 
+
+The pace will match that of the pre-coronavirus class, with three blectures per week on Monday, Wednesday, and Friday. Each blecture will consist of a reading augmented with short videos, and this will be communicated to you via the Laulima site for the course. Participation will be assessed in two ways. First, worth two thirds of the overall blecture grade, you will turn in short writing assignments for each blecture. These will be due by 11:59pm on Monday/Wednesday/Friday. Second, worth one third of the overall blecture grade, you will be required to participate in the Laulima forum for each week. You need to make at least 2 posts per week—asking questions, answering classmates' questions, or similar—to get full points.
+
+~~You are expected to attend every class, for that is an important part of learning the material. I advise you to exchange contact info with classmates so that you can share notes in case you have to miss class.~~
 
 Exams
 =====
@@ -97,15 +105,17 @@ There will be two midterms and one cumulative final exam.
 
 * Final: Monday, May 11, 12:00–2:00
 
+
 Group project
 =====
 
-As part of this class you will apply your knowledge in a group project. You will apply the statistical tools learned in class to analyze real-world data. Further information about the expectations for the project can be found [on the group project page]({{ page.parent }}group-project/).
+**The group projects have been canceled in light of coronavirus. You will receive credit for the portion of the work already done.**
+
+~~As part of this class you will apply your knowledge in a group project. You will apply the statistical tools learned in class to analyze real-world data. Further information about the expectations for the project can be found [on the group project page]({{ page.parent }}group-project/).~~
 
 
 Online homework
 ======
-
 
 You will have weekly online homework through WeBWorK, a free-to-use and open source online homework system. See under announcements on the course webpage for information about how to access the WeBWorK site.
 
@@ -123,6 +133,10 @@ I do not accept late homework. If you will miss class, make arrangements to eith
 
 That said, I understand that life gets in the way and sometimes homework doesn't get done on time. To accommodate this, I will drop your lowest two homework scores from the final calculation for your grade. If there is something that will cause you to miss more than two weeks worth of homework, please get in contact with me as early as possible.
 
+Virtual Office Hours
+=======
+
+Virtual office hours will be held via zoom thrice a week at 11:30–12:00 Monday/Wednesday/Friday. See the Laulima site for information on how to access.
 
 Academic Honesty
 ========

@@ -15,13 +15,13 @@ Class Information
 
 **Email** `kamerynw [ at ] hawaii ( period ) edu`
 
-**Class Hours** Monday/Wednesday/Friday 13:30–14:20
+**Class Hours** ~~Monday/Wednesday/Friday 13:30–14:20~~
 
-**Room** Keller Hall 301
+**Room** ~~Keller Hall 301~~
 
-**Office Hours** Monday/Wednesday 14:30–15:30; Friday 9:00–10:00
+**Office Hours** Monday/Wednesday/Friday 13:30–14:00 via Zoom ~~Monday/Wednesday 14:30–15:30; Friday 9:00–10:00~~
 
-**Office** Physical Science Building 305
+**Office** Do not come to my physical office.  ~~Physical Science Building 305~~
 
 **Textbook** *Mathematical Logic*, 2nd ed., Ebbinghaus, Flum, and Thomas (ISBN: 978-1-4757-2357-1)
 
@@ -29,10 +29,20 @@ Class Information
 
 **Prerequisite** 321 or graduate standing in a related field or consent. Recommended: 454.
 
+**This syllabus has undergone significant changes due to the coronavirus. I reserve the right to make additional changes as necessary.**
+
 Grading Policy
 =======
 
-There will be three portions of your final grade, each worth one third of the total: one midterm exam, one final exam, and homework.
+There will be four portions of your final grade: one midterm exam, one final exam, and homework, and blecture participation. The breakdown of your overall grade is as follows.
+
+* 30% Final
+
+* 30% Midterm
+
+* 30% Homework
+
+* 10% Blecture participation
 
 Grades will be assigned based upon the standard F to A scale. I do not anticipate this happening, but I reserve the right to make later adjustments to the scale.
 
@@ -63,7 +73,11 @@ Grades will be assigned based upon the standard F to A scale. I do not anticipat
 Attendance Policy
 ==========
 
-You are expected to attend every class, for that is an important part of learning the material. I advise you to exchange contact info with classmates so that you can share notes in case you have to miss class.
+As we have moved to online-only, traditional lectures will be replaced with asynchronous blectures (= "web lectures", compare blog = "web log"). You are expected to participate in these, and this participation will account for 10% of your overall grade for the class. 
+
+The pace will match that of the pre-coronavirus class, with three blectures per week on Monday, Wednesday, and Friday. Each blecture will consist of a reading augmented with short videos, and this will be communicated to you via the Laulima site for the course. Each blecture will also ask you to answer a few questions about the material. You must turn in your answers by 11:59pm of the day of the blecture to receive the grade for participation.
+
+~~You are expected to attend every class, for that is an important part of learning the material. I advise you to exchange contact info with classmates so that you can share notes in case you have to miss class.~~
 
 Exams
 =====
@@ -95,6 +109,10 @@ That said, I understand that life gets in the way and sometimes homework doesn't
 
 [Here]({{ site.baseurl }}/teaching/2020/math455/homework-example.pdf) is a short example of how I would like to see homework written up. In case you want to use it as a template, [here]({{ site.baseurl }}/teaching/2020/math455/homework-example.tex) is the .tex source file. 
 
+Virtual Office Hours
+=======
+
+Virtual office hours will be held via zoom thrice a week at 1:30–2:00 Monday/Wednesday/Friday. See the Laulima site for information on how to access.
 
 Academic Honesty
 ========
