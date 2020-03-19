@@ -7,7 +7,7 @@ parent: /teaching/2020/math372/
 
 Dear class,
 
-With the coronavirus pandemic UH is moving all classes to being online-only. Tentatively, UH is scheduled to resume in-person classes on Monday, April 13. But this is contingent on what happens with the pandemic. I am working under the assumption that we will be online-only for the remainder of the semester; if that turns out to be inaccurate 🤞 then we will as much as possible go back to the original plan for the class.
+With the coronavirus pandemic UH is moving all classes to being online-only. This will last for the entire semester.
 
 Below you will find detailed information about the changes this class will go through. Please read through thoroughly. But first I want to make some general comments.
 
@@ -33,8 +33,11 @@ Communication
 
 The main source of communication for the class will be the Laulima site. You can find it by going through [myuh.hawaii.edu](https://myuh.hawaii.edu). That is where blectures will be posted, and where you can find the forums for the class. I will continue to use the main class website to post written homework, and WeBWorK homework will remain the same.
 
-Email will be the primary means to communicate directly and/or privately with me. Due to the anticipated influx of email, I ask you to take some steps to make it easier for me to manage my inbox, and not have your messages get lost in the stream. All emails to me should be addressed to `kamerynw+372@hawaii.edu`. For emails submitting homework or blecture work you should send to both me and my TA Minh. 
-For written homework your subject line should begin "Week *N* homework" (where *N* of course is the week number). For blecture work your subject line should begin "MM/DD blecture" (where MM/DD is the month/day of the blecture). 
+Email will be the primary means to communicate directly and/or privately with me. Due to the anticipated influx of email, I ask you to take some steps to make it easier for me to manage my inbox, and not have your messages get lost in the stream. All emails to me should be addressed to `kamerynw+372@hawaii.edu`. For emails submitting homework or blecture work you should send to both me and my TA Minh, at `minh@math.hawaii.edu`.
+
+For written homework your subject line should begin "Week *N* homework" (where *N* of course is the week number). And you should name the file you attach for your homework according to the following schema: lastname_weekN_homework.fileextension. For example: williams_week10_homework.pdf
+
+For blecture work your subject line should begin "MM/DD blecture" (where MM/DD is the month/day of the blecture). You should put your answers to the questions directly in the body of the email, rather than as an attachment.
 
 Grading changes
 =======

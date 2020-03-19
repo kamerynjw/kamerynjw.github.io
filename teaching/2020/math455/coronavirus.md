@@ -7,7 +7,7 @@ parent: /teaching/2020/math455/
 
 Dear class,
 
-With the coronavirus pandemic UH is moving all classes to being online-only. Tentatively, UH is scheduled to resume in-person classes on Monday, April 13. But this is contingent on what happens with the pandemic. I am working under the assumption that we will be online-only for the remainder of the semester; if that turns out to be inaccurate 🤞 then we will as much as possible go back to the original plan for the class.
+With the coronavirus pandemic UH is moving all classes to being online-only. This will last through the end of the semester.
 
 Below you will find detailed information about the changes this class will go through. Please read through thoroughly. But first I want to make some general comments.
 
