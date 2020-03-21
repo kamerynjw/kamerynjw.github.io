@@ -105,5 +105,5 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Spring Break!
 
-* Week 10 (Due Friday, Mar 27) TBA ~~See [this pdf]({{ page.url }}6.1hw.pdf).~~
+* Week 10 **No homework.** Canceled this week as we acclimate to the new set-up.
 
