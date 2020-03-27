@@ -57,4 +57,5 @@ Homework
 
 * [Homework 6]({{ page.url }}h6.pdf) (Due Friday, Mar 6)
 
-* No homework due Mar 27. 
+* [Homework 7]({{ page.url }}h7.pdf) (Due Friday, Apr 3)
+
