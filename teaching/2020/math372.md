@@ -107,4 +107,5 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Week 10 **No homework.** Canceled this week as we acclimate to the new set-up.
 
-* Week 11 (Due Friday, Apr 3) Section 7.1: **1**, **3**, 5, 7.
+* Week 11 (Due Friday, Apr 3) Section 7.1: **1**, **3**, 5, 7. (Note: there will be ne WeBWorK homework this week. Expect it to return starting next week.)
+
