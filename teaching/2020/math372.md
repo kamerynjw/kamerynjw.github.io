@@ -109,3 +109,6 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Week 11 (Due Friday, Apr 3) Section 7.1: **1**, **3**, 5, 7. (Note: there will be ne WeBWorK homework this week. Expect it to return starting next week.)
 
+* Week 12 (Due Friday, Apr 10) Section 7.2: **12**, 13, 15; Section 7.3: 28, **34**, **37**.
+
+
