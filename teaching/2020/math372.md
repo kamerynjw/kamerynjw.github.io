@@ -44,6 +44,22 @@ The group projects page is [here]({{ page.url }}group-project/). **Group project
 Announcements
 -------------
 
+* (4/6) [Here]({{ page.url }}sg2.pdf) is a study guide for the second midterm. The two csv files are [`bigsample.csv`]({{ page.url }}bigsample.csv) and [`normalsample.csv`]({{ page.url }}normalsample.csv). You can do calculations on the random samples either by importing the csv files to a spreadsheet or by using R. (Or another programming language, if you prefer.) For R, the command to import a csv file is `read.csv("filename.csv")`. This imports the csv file as a dataframe. For the csv files I gave, the column of values is labeled as `x`, so if you do `xs <- read.csv("bigsample.csv")` to store the dataframe to a variable `xs`, then `xs$x` will give you the list of values, which you can then use for your calculations.
+
+* (4/6) Here's what you should know for the second midterm:
+
+    * How to compute probabilities involving normally distributed random variables.
+	
+	* How to check whether random variables are independent.
+	
+	* How to use the central limit theorem to approximately computable probabilities involving sample means.
+	
+	* How to compute probabilities involving linear combinations of normal random variables.
+	
+	* Basic concepts about point estimators---what does it mean to be unbiased, what the MVUE is, and so on.
+	
+	* How to use computer tools to compute confidence and prediction intervals.
+
 * (3/4) [Here]({{ page.url }}sample_means.R) is the R code I used to generate the handout from class today.
 
 * (2/24) [Here]({{ page.url }}formula-sheet-exam1.pdf) is the formula sheet you will have for the first midterm.
@@ -110,5 +126,6 @@ A subselection of the bolded problems will be graded. You must still do all prob
 * Week 11 (Due Friday, Apr 3) Section 7.1: **1**, **3**, 5, 7. (Note: there will be ne WeBWorK homework this week. Expect it to return starting next week.)
 
 * Week 12 (Due Friday, Apr 10) Section 7.2: **12**, 13, 15; Section 7.3: 28, **34**, **37**.
+
 
 
