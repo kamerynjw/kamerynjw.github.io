@@ -127,5 +127,7 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Week 12 (Due Friday, Apr 10) Section 7.2: **12**, 13, 15; Section 7.3: 28, **34**, **37**.
 
+* Week 13 **No homework.** Work on your midterm instead!
 
+* Week 14 (Due Friday, Apr 24) Section 7.4: 43, **47**, 49, 54; Section 8.1: 2, **3**, 8.
 
