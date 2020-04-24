@@ -131,3 +131,6 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Week 14 (Due Friday, Apr 24) Section 7.4: 43, **47**, 49, 54; Section 8.1: 2, **3**, 8.
 
+* Week 15 (Due Friday, May 1) Section 8.2: 15, **19**, **24**; Section 12.1: 4; Section 12.2: **12**, 16.
+
+
