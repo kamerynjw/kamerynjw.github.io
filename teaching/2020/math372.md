@@ -44,6 +44,18 @@ The group projects page is [here]({{ page.url }}group-project/). **Group project
 Announcements
 -------------
 
+* (4/30) [Here]({{ page.url }}sg.pdf) is a study guide for the final exam. For the exam, you should know everything you were expected to know for the two midterms, as well as the material we covered after the second midterm. In particular, the new material you should know is:
+
+    * Using chi squared distributions to get confidence intervals for the variance of normal distributions from a random sample.
+	
+	* The concepts of hypothesis testing.
+	
+	* How to do z tests for hypothesis tests involving the mean, and to calculate facts about the test.
+	
+	* The concepts of linear regressions.
+	
+	* How to calculate the least squares regression line for a scatterplot and determine information about it.
+
 * (4/6) [Here]({{ page.url }}sg2.pdf) is a study guide for the second midterm. The two csv files are [`bigsample.csv`]({{ page.url }}bigsample.csv) and [`normalsample.csv`]({{ page.url }}normalsample.csv). You can do calculations on the random samples either by importing the csv files to a spreadsheet or by using R. (Or another programming language, if you prefer.) For R, the command to import a csv file is `read.csv("filename.csv")`. This imports the csv file as a dataframe. For the csv files I gave, the column of values is labeled as `x`, so if you do `xs <- read.csv("bigsample.csv")` to store the dataframe to a variable `xs`, then `xs$x` will give you the list of values, which you can then use for your calculations.
 
 * (4/6) Here's what you should know for the second midterm:
