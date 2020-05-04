@@ -145,4 +145,6 @@ A subselection of the bolded problems will be graded. You must still do all prob
 
 * Week 15 (Due Friday, May 1 ✊) Section 8.2: 15, **19**, **24**; Section 12.1: 4; Section 12.2: **12**, 16.
 
+* Week 16 **No homework.** Study for the final!
+
 
