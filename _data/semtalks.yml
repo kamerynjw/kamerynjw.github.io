@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2020-may-inner-mantles"
+  title: "The geology of inner mantles"
+  other: "Virtual Set Theory Seminar, CUNY"
+  date: "May 2020"
+
 - href: "2019-may-computable-structure-theory-of-forcing"
   title: "The computable structure theory of forcing"
   other: "*Seminari de lògica de Barcelona, Universitat de Barcelona*"
