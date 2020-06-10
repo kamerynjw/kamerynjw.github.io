@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#ShutDownSTEM: calculus classes as racial gatekeeper"
-date: 2019-12-04
+date: 2020-06-10
 ---
 
 Today many academics are participating in #ShutDownSTEM, forgoing our usual academic work to instead work on how to improve the current dismal state of STEM (Science, Technology, Engineering, and Mathematics) with regard to racism, especially as it harms black people. This is part of a larger reaction to the uprising sparked by the police murder of George Floyd. If, as we say in the slogan, black lives matter, then black lives matter in the academy and we should back up our words with action.
