@@ -13,44 +13,8 @@ In US institutions it is common for the calculus sequence to act as the gatekeep
 
 The hypothesis I wish to look at—and which I think the preliminary data support—is that this calculus gatekeeper is not racially neutral. That is, the hypothesis is that mathematics departments are overseeing part of why black people are underrepresented in STEM fields. From one perspective, this may seem like bad news; not only are mathematicians culpable for racism in mathematics, but in STEM as a whole! But I think that perspective is bullocks. There is a real problem here, and to solve it we must be willing to face its reality. If that requires giving up the false idea that mathematicians are detached from the political world—detached from culpability in the problems society faces—so much the better. 
 
-This blog post is laid out as follows. I first survey the data I looked at, and discuss the limitations of my limited look. I then discuss some factors I think contribute to calculus—and mathematics more broadly—as racial gatekeeper to STEM. I conclude with some thoughts on how we might begin to change things for the better.
+This blog post is laid out as follows. I discuss some factors I think contribute to calculus—and mathematics more broadly—as racial gatekeeper to STEM. I then give some thoughts on how we might begin to change things for the better. As an appendix I discuss the bit of analysis I did to get some preliminary support for thinking this is a factor.
 
-Some preliminary data analysis
-====
-
-To make the data analysis manageable for a one day project, I chose to look at just the CUNY (City University of New York) system. My reasons were: (1) CUNY is large enough and has enough black students that I should be able to get a large enough sample size without having to aggregate data across multiple sources and (2) I did my grad work at CUNY, so it holds a special place in my heart. I also chose to restrict to looking only at black students and white students. I chose black students because (1) to limit the amount of work necessary from me and (2) this comes out of the context of Black Lives Matter. Presumably similar analysis applies for other racial minorities. And white students were chosen as the "control group"; they represent how students would act in the absence of racism. 
-
-The CUNY Office of Institutional Research publishes [data about CUNY demographics](https://www.cuny.edu/about/administration/offices/oira/institutional/data/current-student-data-book-by-subject/). In particular I looked at two sources: 
-
-* [Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Race/Ethnicity: Fall 2017](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/oira/institutional/data/current-student-data-book-by-subject/STEM_enr_major_race-1.pdf)
-
-* [Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Race/Ethnicity: 2016-2017](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/oira/institutional/data/current-student-data-book-by-subject/STEM_deg_major_race-1.pdf)
-
-I then had to augment these sources with information about the number of credits of calculus required for those majors. This required looking at academic catalogs for CUNY schools, where I used the 2017–2018 catalogs to match the year for the enrollment data. For most majors I used City College, the flagship college of CUNY, as a representative sample. For a few I had to use other schools: Forensic Science is only taught at John Jay College; Statistics and Actuarial Science aren't majors at CC, so I used Baruch College which does offer them; For Technology majors I used the Bachelors of Technology degrees from NYC College of Technology. I also excluded from consideration a few majors in the list: Plant Science, Neuroscience, and Fire Science were excluded for having too small of enrollment; General Science and Other CIS were excluded because I could not tell which majors were grouped into these categories. I should also mention for full disclosure that City College does not have an Engineering major, but rather many different Engineering majors—civil, mechanical, etc. Fortunately they all have the same calculus requirement.
-
-[Here is a csv file with the data I used.]({{ site.baseurl }}/files/gatekeeping.csv)
-
-The tests I used were simple. I looked at the correlation between the number of calculus credits required and measures of inclusiveness for black students. For the latter I used three measures:
-
-* The Enrollment Ratio (ER), the number of black students enrolled in the major divided by the number of enrolled white students.
-
-* The Degree Ratio (DR), the number of black students getting degrees in the major divided by the number of white students getting degrees.
-
-* The Persistence Ratio (PR). For both black and white students I looked at the ratio of degrees versus enrollment, and then I took the ratio of those two ratios.
-
-I think the first two measures need no explanation, but let me say something about the third. Assuming it takes four years to complete a degree then the number of degrees awarded in one year for a major should be approximately one fourth of the number of students enrolled in that major. If that ratio is smaller than 0.25 it suggests a friction between students entering the major and eventually leaving—dropping out, switching majors, or taking a long time to graduate. By comparing these ratios here for black and white students I get a measure of how much this friction is racially biased. 
-
-For the correlation coefficients I used the standard Pearson's *r* method. This gives a number between –1 and 1, with 0 representing no correlation, 1 representing a strongest possible positive correlation, and –1 representing a strongest possible negative correlation. My hypothesis is that for all three ratios (ER, DR, and PR) the correlation coefficient will be negative. Indeed, that is what I found.
-
-| Ratio | *r* | *p*-value |
-|-------|-----|-----------|
-| ER | –0.620 | 0.018 |
-| DR | –0.660 | 0.010 |
-| PR | –0.321 | 0.264 |
-
-Accordingly, I find that this preliminary data suggests the correctness of my hypothesis. Of course, these *p*-values are not great—unsurprising given the limitations of my data. For a stronger answer one would want to look at more data; especially, one would want to look at more than just CUNY, and also look at other racial minorities. It would also be useful to compare to non-STEM majors. 
-
-Also interesting would be to expand this from just undergraduate calculus to look at mathematics requirements more generally. For instance, some graduate programs, e.g. physics and economics, require substantive mathematics. Do those requirements function as racial gatekeepers?
 
 Why is calculus a gatekeeper?
 ===
@@ -97,3 +61,41 @@ As I said, the problems are big, bigger than just what happens in mathematics de
 Black lives matter. Black mathematicians matter. Let's try to act like it, and not just say it.
 
 
+----
+
+Some preliminary data analysis
+====
+
+To make the data analysis manageable for a one day project, I chose to look at just the CUNY (City University of New York) system. My reasons were: (1) CUNY is large enough and has enough black students that I should be able to get a large enough sample size without having to aggregate data across multiple sources and (2) I did my grad work at CUNY, so it holds a special place in my heart. I also chose to restrict to looking only at black students and white students. I chose black students because (1) to limit the amount of work necessary from me and (2) this comes out of the context of Black Lives Matter. Presumably similar analysis applies for other racial minorities. And white students were chosen as the "control group"; they represent how students would act in the absence of racism. 
+
+The CUNY Office of Institutional Research publishes [data about CUNY demographics](https://www.cuny.edu/about/administration/offices/oira/institutional/data/current-student-data-book-by-subject/). In particular I looked at two sources: 
+
+* [Enrollment in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Race/Ethnicity: Fall 2017](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/oira/institutional/data/current-student-data-book-by-subject/STEM_enr_major_race-1.pdf)
+
+* [Degrees Granted in Science, Technology, Engineering, and Math (STEM) Disciplines by Major and Race/Ethnicity: 2016-2017](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/oira/institutional/data/current-student-data-book-by-subject/STEM_deg_major_race-1.pdf)
+
+I then had to augment these sources with information about the number of credits of calculus required for those majors. This required looking at academic catalogs for CUNY schools, where I used the 2017–2018 catalogs to match the year for the enrollment data. For most majors I used City College, the flagship college of CUNY, as a representative sample. For a few I had to use other schools: Forensic Science is only taught at John Jay College; Statistics and Actuarial Science aren't majors at CC, so I used Baruch College which does offer them; For Technology majors I used the Bachelors of Technology degrees from NYC College of Technology. I also excluded from consideration a few majors in the list: Plant Science, Neuroscience, and Fire Science were excluded for having too small of enrollment; General Science and Other CIS were excluded because I could not tell which majors were grouped into these categories. I should also mention for full disclosure that City College does not have an Engineering major, but rather many different Engineering majors—civil, mechanical, etc. Fortunately they all have the same calculus requirement.
+
+[Here is a csv file with the data I used.]({{ site.baseurl }}/files/gatekeeping.csv)
+
+The tests I used were simple. I looked at the correlation between the number of calculus credits required and measures of inclusiveness for black students. For the latter I used three measures:
+
+* The Enrollment Ratio (ER), the number of black students enrolled in the major divided by the number of enrolled white students.
+
+* The Degree Ratio (DR), the number of black students getting degrees in the major divided by the number of white students getting degrees.
+
+* The Persistence Ratio (PR). For both black and white students I looked at the ratio of degrees versus enrollment, and then I took the ratio of those two ratios.
+
+I think the first two measures need no explanation, but let me say something about the third. Assuming it takes four years to complete a degree then the number of degrees awarded in one year for a major should be approximately one fourth of the number of students enrolled in that major. If that ratio is smaller than 0.25 it suggests a friction between students entering the major and eventually leaving—dropping out, switching majors, or taking a long time to graduate. By comparing these ratios here for black and white students I get a measure of how much this friction is racially biased. 
+
+For the correlation coefficients I used the standard Pearson's *r* method. This gives a number between –1 and 1, with 0 representing no correlation, 1 representing a strongest possible positive correlation, and –1 representing a strongest possible negative correlation. My hypothesis is that for all three ratios (ER, DR, and PR) the correlation coefficient will be negative. Indeed, that is what I found.
+
+| Ratio | *r* | *p*-value |
+|-------|-----|-----------|
+| ER | –0.620 | 0.018 |
+| DR | –0.660 | 0.010 |
+| PR | –0.321 | 0.264 |
+
+Accordingly, I find that this preliminary data suggests the correctness of my hypothesis. Of course, these *p*-values are not great—unsurprising given the limitations of my data. For a stronger answer one would want to look at more data; especially, one would want to look at more than just CUNY, and also look at other racial minorities. It would also be useful to compare to non-STEM majors. 
+
+Also interesting would be to expand this from just undergraduate calculus to look at mathematics requirements more generally. For instance, some graduate programs, e.g. physics and economics, require substantive mathematics. Do those requirements function as racial gatekeepers?
