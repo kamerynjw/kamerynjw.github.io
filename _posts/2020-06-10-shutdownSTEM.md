@@ -63,7 +63,7 @@ Black lives matter. Black mathematicians matter. Let's try to act like it, and n
 
 ----
 
-Some preliminary data analysis
+Appendix: Some preliminary data analysis
 ====
 
 To make the data analysis manageable for a one day project, I chose to look at just the CUNY (City University of New York) system. My reasons were: (1) CUNY is large enough and has enough black students that I should be able to get a large enough sample size without having to aggregate data across multiple sources and (2) I did my grad work at CUNY, so it holds a special place in my heart. I also chose to restrict to looking only at black students and white students. I chose black students because (1) to limit the amount of work necessary from me and (2) this comes out of the context of Black Lives Matter. Presumably similar analysis applies for other racial minorities. And white students were chosen as the "control group"; they represent how students would act in the absence of racism. 
