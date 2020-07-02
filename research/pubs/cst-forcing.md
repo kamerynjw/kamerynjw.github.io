@@ -2,7 +2,8 @@
 layout: page
 title: "Forcing as a computational process"
 permalink: /research/pubs/cst-forcing/	
-image: cst-forcing.png	
+image: cst-forcing.png
+excerpt: "We investigate how set-theoretic forcing can be seen as a computational process on the models of set theory. Given an oracle for information about a model of set theory..."
 ---
 
 This a joint paper with Joel David Hamkins and Russell Miller.
