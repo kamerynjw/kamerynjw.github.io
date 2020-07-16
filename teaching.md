@@ -4,15 +4,24 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Spring 2020)
+Current Semester (Fall 2020)
 ================
+
+[Math 321: Introduction to Advanced Mathematics]({{ page.url }}2020/math321/)
+
+[Math 243: Calculus III]({{ page.url }}2020/math243/)
+
+
+Previous Semesters 
+==================
+
+Spring 2020
+-----------
 
 [Math 455: Logic]({{ page.url }}2020/math455/)
 
 [Math 372: Elementary Probability and Statistics]({{ page.url }}2020/math372/)
 
-Previous Semesters 
-==================
 
 Fall 2019
 ---------
