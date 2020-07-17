@@ -12,7 +12,7 @@ Class Information
 
 **Instructor** Kameryn Williams
 
-**Website** [http://kamerynjw.net/teaching/2020/math243/]({{ site.baseurl }}/teaching/2020/math321/)
+**Website** [http://kamerynjw.net/teaching/2020/math321/]({{ site.baseurl }}/teaching/2020/math321/)
 
 **Email** `kamerynw [ at ] hawaii ( period ) edu`
 
@@ -86,7 +86,7 @@ Exams
 
 There will be one midterm and one final exam. Exams will be taken at an on-campus testing center.
 
-* Midterm: To be announced
+* Midterm: Tuesday, October 13
 
 * Final: To be announced
 
