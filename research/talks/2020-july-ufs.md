@@ -8,6 +8,8 @@ image: ufs.png
 
 This is a talk in the [virtual CUNY Models of Peano Arithmetic seminar](https://nylogic.github.io/MOPA.html), on 2020 July 29. It is about joint work with Joel David Hamkins. Our paper can be found [here]({{ site.baseurl }}/research/pubs/universal-finite-sequence/).
 
+[[Slides]({{ page.url }}ee-ufs-stp.pdf)]
+
 Recall that if $M \subseteq N$ are models of set theory then $N$ end-extends $M$ if $N$ does not have new elements for sets in $M$. In this talk I will discuss a $\Sigma\_1$-definable finite sequence which is universal for end extensions in the following sense. Consider a computably axiomatizable extension $\overline{\mathsf{ZF}}$ of $\mathsf{ZF}$. There is a $\Sigma\_1$-definable finite sequence
 
 $a\_0, a\_1, \ldots, a\_n$
