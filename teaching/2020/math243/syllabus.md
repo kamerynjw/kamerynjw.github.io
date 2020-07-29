@@ -85,7 +85,7 @@ You learn math by doing it. As class time will be spent on you doing math, this 
 Exams
 =====
 
-There will be two midterms and one cumulative final exam. Exams will be taken at an on-campus testing center.
+There will be two midterms and one cumulative final exam. Exams must be taken at [a proctored UH Test Center](https://www.uhonline.hawaii.edu/testcenters), or other proctored site or service (physical or online) approved by the instructor.  
 
 * Midterm 1: (tentatively) Thursday, October 1
 

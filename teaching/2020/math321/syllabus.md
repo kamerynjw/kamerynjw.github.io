@@ -84,7 +84,7 @@ It is important that you attend class and participate, for that is a key part of
 Exams
 =====
 
-There will be one midterm and one final exam. Exams will be taken at an on-campus testing center.
+There will be one midterm and one final exam. Exams must be taken at [a proctored UH Test Center](https://www.uhonline.hawaii.edu/testcenters), or other proctored site or service (physical or online) approved by the instructor.  
 
 * Midterm: Tuesday, October 13
 
