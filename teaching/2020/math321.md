@@ -71,7 +71,10 @@ Announcements
 Homework
 --------
 
-[Nothing yet!]
+Homework is due every Thursday by 11:59pm. Each assignment will cover the material from Tuesday of that week and Thursday of the previous week.
+
+* [Homework 0]({{ page.url }}hw0.pdf) **Due Thursday, Sept 1**
+
 
 
 
