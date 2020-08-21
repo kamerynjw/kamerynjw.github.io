@@ -11,7 +11,7 @@ permalink: /teaching/2020/math321/
 
 * See [here]({{ page.url }}zoom) for information about how the Zoom class meetings are structured. 
 
-* The meeting id and password for the Zoom meeting can be found on the Laulima site for the course. The Laulima site also has the reading assignments and short videos to accompany each class meeting.
+* The meeting id and password for the Zoom meeting can be found on the Laulima site for the course. The Laulima site also has the reading assignments and occasional short videos to accompany each class meeting.
 
 
 Course Outline
