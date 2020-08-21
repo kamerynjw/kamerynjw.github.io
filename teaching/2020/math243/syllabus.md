@@ -75,12 +75,14 @@ Grades will be assigned based upon the standard F to A scale. I do not anticipat
 Class Structure
 =====
 
-This class will held virtually, due to the ongoing COVID-19 pandemic. Class will be held synchronously via zoom at the scheduled times, via a "flipped classroom" approach. Class time will be spent mainly on problem sessions, giving you hands-on experience with the concepts you need to master for the course. I will post supplemental videos and assign readings for you to complete outside of class. Additionally, there will be weekly online homework thrugh WeBWorK.
+This class will held virtually, due to the ongoing COVID-19 pandemic. Class will be held synchronously via zoom at the scheduled times, via a "flipped classroom" approach. Class time will be spent mainly on group work with problem sessions, giving you hands-on experience with the concepts you need to master for the course. I will post supplemental videos and assign readings for you to complete outside of class. Additionally, there will be weekly online homework thrugh WeBWorK.
 
-Attendance Policy
+Participation Policy
 ==========
 
-You learn math by doing it. As class time will be spent on you doing math, this means it is important for you to attend class. Accordingly, a fraction of your overall grade for the class will come from participation in class activities.
+You learn math by doing it. As class time will be spent on you doing math, this means it is important for you to attend and participate in class. Accordingly, a fraction of your overall grade for the class will come from participation in class activities.
+
+Participation will be assessed in two ways, of equal weight toward your grade. First, is your group's completion of each problem session. Second, for each problem from the in-class work one student will be assigned to write up a full solution to post on the Laulima site, with everyone rotating through to have turns. 
 
 Exams
 =====

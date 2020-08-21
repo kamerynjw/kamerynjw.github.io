@@ -44,6 +44,8 @@ The break-down for your grade is as follows:
 
 * 25% Homework
 
+A key goal of this class is to teach you how to write mathematics. A portion of the in-class work and homework will be writing assignments. For these assignments, you will have the opportunity to rewrite your work in response to feedback from me and your peers. Students must adequately complete all writing assignments to pass the course with a ‘D’ or better. Students who do not complete all writing assignments will get a D- or an F and will not earn W Focus credit.
+
 Grades will be assigned based upon the standard F to A scale. I do not anticipate this happening, but I reserve the right to later move the intervals downward if I decide a curve is necessary.
 
 * [93,100] A; 
@@ -106,7 +108,7 @@ Academic Honesty
 ========
 
 Cheating, plagiarism, and other forms of academic dishonesty will not be tolerated.
-
+This holds for every class, but I want to especially emphasize it here. This class is the gateway to most upper division mathematics classes. If you cheat here it will only come back to hurt you in future classes. 
 
 KOKUA Program and Accessibility
 =====
