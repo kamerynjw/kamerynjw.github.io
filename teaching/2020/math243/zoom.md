@@ -26,7 +26,25 @@ Put simply, you should treat this like attending class in-person as much as poss
 
 Please be on time to class. I know you are busy and have other classes, so I will strive to start and end class at the scheduled times. 
 
-For Zoom specific information: please mute your mic when you are not speaking. If you have a question, please wait until the speaker pauses to ask it. The class is small enough that I anticipate the use of Zoom's hand raising feature should not be necessary. If this turns out not to be the case, we can switch.
+Guidelines for behavior:
 
-If you feel comfortable having your webcam on during class, then please do, as I find that being able to see the audience helps me with getting feedback and ensuring you are following along. But it would be invasive to ask you to always have your camera on, so it will not be required.
+* If you feel comfortable having your webcam on during class, then please do, as I find that being able to see the audience helps me with getting feedback and ensuring you are following along. But it would be invasive to ask you to always have your camera on, so it will not be required.
+
+* Please make sure you have your username and profile picture correctly set.
+
+* When the whole class is in the Zoom room, please mute your mic when you are not speaking. This should not be necessary in the breakout rooms. 
+
+* When speaking, I will strive to have lots of short pauses to give you a chance to interrupt with questions. Please feel free to do so, or use Zoom's raise hand feature if you prefer.
+
+* Use of the chat is strongly encouraged, whether that be to ask questions or to answer your classmates' questions.
+
+* I encourage you to set the Zoom view to grid view, instead of speaker view.
+
+* There is no dress code. (Beyond the obvious—be clothed, etc.)
+
+* There is no ban on food/drink. But please mute your mic so others don't have to hear you chew/slurp.
+
+
+
+
 
