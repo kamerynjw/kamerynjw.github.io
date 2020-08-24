@@ -14,7 +14,7 @@ Class Information
 
 **Website** [http://kamerynjw.net/teaching/2020/math321/]({{ site.baseurl }}/teaching/2020/math321/)
 
-**Email** `kamerynw [ at ] hawaii ( period ) edu`
+**Email** `kamerynw+321 [ at ] hawaii ( period ) edu`
 
 **Class Hours** Tuesday/Thursday 10:30–11:45
 
