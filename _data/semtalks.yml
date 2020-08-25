@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2020-dec-inner-mantles"
+  title: "The geology of inner mantles"
+  other: "Oxford Set Theory Seminar"
+  date: "Dec 2020"
+
 - href: "2020-july-ufs"
   title: "End-extensions of models of set theory and the Sigma_1 universal finite sequence"
   other: "Virtual MOPA Seminar, CUNY"
