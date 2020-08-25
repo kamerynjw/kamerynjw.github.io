@@ -66,7 +66,7 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
-[Nothing yet!]
+* You can see the slides from the first class [here]({{ page.url }}intro.pdf).
 
 Homework
 --------
