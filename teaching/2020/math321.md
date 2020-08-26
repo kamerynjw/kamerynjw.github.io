@@ -46,15 +46,15 @@ Tentative Weekly Schedule
 
 8. (Oct 13&15) Midterm; The universality of the logical connectives
 
-9. (Oct 20&22) Proof strategies: conjunctions, disjunctions, and biconditionals
+9. (Nov 20&22) Induction
 
-10. (Oct 27&29) Relations and orders
+10. (Oct 27&29) Proof strategies: conjunctions, disjunctions, and biconditionals
 
-11. (Nov 5) Functions
+11. (Nov 5) Relations orders
 
-12. (Nov 10&12) Equivalence relations
+12. (Nov 10&12) Orders and Functions
 
-13. (Nov 17&19) Induction
+13. (Nov 17&19) Equivalence relations
 
 14. (Nov 24) Cardinality
 
