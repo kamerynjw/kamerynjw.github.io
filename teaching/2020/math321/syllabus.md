@@ -8,7 +8,7 @@ parent: /teaching/2020/math321/
 Class Information
 =====
 
-**Course Title** Math 321 (Section 002): Calculus III
+**Course Title** Math 321 (Section 002): Introduction to Advanced Mathematics
 
 **Instructor** Kameryn Williams
 
