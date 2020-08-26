@@ -50,9 +50,9 @@ Tentative Weekly Schedule
 
 10. (Oct 27&29) Proof strategies: conjunctions, disjunctions, and biconditionals
 
-11. (Nov 5) Relations orders
+11. (Nov 5) Relations 
 
-12. (Nov 10&12) Orders and Functions
+12. (Nov 10&12) Orders and functions
 
 13. (Nov 17&19) Equivalence relations
 
