@@ -20,9 +20,9 @@ Class Information
 
 **Room** Virtually via Zoom
 
-**Office Hours** TBA
+**Office Hours** Tuesday/Thursday 14:00–15:00, or by appointment
 
-**Office** Virtual
+**Office** Virtually via Zoom
 
 **Textbook** James Stewart, *Calculus*, 8th ed. 
 
