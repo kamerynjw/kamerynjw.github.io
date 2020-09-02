@@ -79,6 +79,7 @@ Homework is due every Thursday by 11:59pm. Each assignment will cover the materi
 
 * [Homework 0]({{ page.url }}hw0.pdf) **Due Thursday, Sept 3**
 
+* [Homework 1]({{ page.url }}hw1.pdf) **Due Thursday, Sept 10**
 
 
 
