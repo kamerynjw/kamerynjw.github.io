@@ -82,7 +82,7 @@ Participation Policy
 
 You learn math by doing it. As class time will be spent on you doing math, this means it is important for you to attend and participate in class. Accordingly, a fraction of your overall grade for the class will come from participation in class activities.
 
-Participation will be assessed in two ways, of equal weight toward your grade. First, is your group's completion of each problem session. Second, for each problem from the in-class work one student will be assigned to write up a full solution to post on the Laulima site, with everyone rotating through to have turns. 
+Participation will be assessed in two ways, of equal weight toward your grade. First, is your group's completion of each problem session. Second, for each problem from the in-class work one student will be assigned to write up a full solution to post on the Laulima site, with everyone rotating through to have turns. Info about the schedule for writing solutions can be found on the Laulima site.
 
 Exams
 =====
