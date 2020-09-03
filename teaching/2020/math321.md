@@ -46,7 +46,7 @@ Tentative Weekly Schedule
 
 8. (Oct 13&15) Midterm; The universality of the logical connectives
 
-9. (Nov 20&22) Induction
+9. (Oct 20&22) Induction
 
 10. (Oct 27&29) Proof strategies: conjunctions, disjunctions, and biconditionals
 
