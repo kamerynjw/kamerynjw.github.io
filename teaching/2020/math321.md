@@ -75,11 +75,12 @@ Announcements
 Homework
 --------
 
-Homework is due every Thursday by 11:59pm. Each assignment will cover the material from Tuesday of that week and Thursday of the previous week.
+Homework is due every Thursday by 11:59pm. For Homework 1 onward, please submit via the Laulima site for the course. Each assignment will cover the material from Tuesday of that week and Thursday of the previous week. 
 
 * [Homework 0]({{ page.url }}hw0.pdf) **Due Thursday, Sept 3**
 
 * [Homework 1]({{ page.url }}hw1.pdf) **Due Thursday, Sept 10**
 
+* [Homework 2]({{ page.url }}hw2.pdf) **Due Thursday, Sept 17**
 
 
