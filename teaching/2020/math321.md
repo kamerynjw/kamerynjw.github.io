@@ -83,5 +83,5 @@ Homework is due every Thursday by 11:59pm. For Homework 1 onward, please submit 
 
 * [Homework 2]({{ page.url }}hw2.pdf) **Due Thursday, Sept 17**
 
-* Homework 3: Do the exercises from the [9-17 & 9-22 in-class worksheet](9-17.pdf). **Due Thursday, Sept 22**
+* Homework 3: Do the exercises from the [9-17 & 9-22 in-class worksheet](9-17.pdf). **Due Thursday, Sept 24**
 
