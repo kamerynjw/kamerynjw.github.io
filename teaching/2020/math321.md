@@ -66,6 +66,8 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
+* You can find the slides for the lectures about proof strategies: [9-24 here]({{ page.url }}proofs1.pdf) and [9-27 here]({{ page.url }})proofs2.pdf).
+
 * For homework, you are strongly encouraged to use LaTeX. LaTeX is a program for typesetting mathematics, and is the standard in academic math, physics, and compsci. The learning curve can be a bit tough to start, but once you pick up the basics it can be much faster than mucking about with an equation editor. If you haven't used LaTeX before, I suggest using [Overleaf](https://www.overleaf.com/), a free online LaTeX editor. To help get you started, I made a [template for homework](https://www.overleaf.com/read/ypsrcqntbcrs). 
 
     The way LaTeX works is, you have a plaintext file which is complied into a pdf. (Overleaf does this part automatically for you.) The commands you put in the plaintext file then determine what shows up in the pdf. For example, to display the inequality $\sqrt[3]{x} \le \frac{x+1}{x^2+1}$ you would write `\sqrt[3]{x} \le \frac{x+1}{x^2+1}$`. The dollar signs say that what goes inside should be typeset as math, not as ordinary English. The various symbols =, +, 1, etc. are interpreted normally, while `\frac` is the fraction command. The next two inputs, as inclosed in braces, are typset to be the numerator and denominator of the fraction. Similarly, `\sqrt` is the square root command. It has an optional input, inclosed in square brackets. In this case, the optional input was used to make it a cube root.
@@ -84,4 +86,6 @@ Homework is due every Thursday by 11:59pm. For Homework 1 onward, please submit 
 * [Homework 2]({{ page.url }}hw2.pdf) **Due Thursday, Sept 17**
 
 * Homework 3: Do the exercises from the [9-17 & 9-22 in-class worksheet](9-17.pdf). **Due Thursday, Sept 24**
+
+* [Homework 4]({{ page.url }}hw4.pdf) **Due Thursday, Oct 1**
 
