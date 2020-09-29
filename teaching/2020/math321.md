@@ -66,7 +66,7 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
-* You can find the slides for the lectures about proof strategies: [9-24 here]({{ page.url }}proofs1.pdf) and [9-27 here]({{ page.url }})proofs2.pdf).
+* You can find the slides for the lectures about proof strategies: [9-24 here]({{ page.url }}proofs1.pdf) and [9-27 here]({{ page.url }}proofs2.pdf) and [10-1 here]({{ page.url }}proofs2.pdf).
 
 * For homework, you are strongly encouraged to use LaTeX. LaTeX is a program for typesetting mathematics, and is the standard in academic math, physics, and compsci. The learning curve can be a bit tough to start, but once you pick up the basics it can be much faster than mucking about with an equation editor. If you haven't used LaTeX before, I suggest using [Overleaf](https://www.overleaf.com/), a free online LaTeX editor. To help get you started, I made a [template for homework](https://www.overleaf.com/read/ypsrcqntbcrs). 
 
