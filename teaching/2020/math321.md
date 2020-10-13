@@ -68,10 +68,6 @@ Announcements
 
 * I wrote up a sample snippet of mathematical writing, to demonstrate how mathematicians organize their writing. It's similar to what I asked you to do for homework 5, but simpler (since I asked some of you to revise and resubmit homework 5, so I didn't want to spoil the answer). You can find the [pdf here]({{ page.url}}sol5.pdf) and the [LaTeX source here]({{ page.url}}sol5.pdf).
 
-* The midterm for the class will be next week (week of October 12). It will have two components, equally weighted in your grade. One component will be a written, take-home exam. In this, I will ask you to write a few proofs. Your final submission should adhere to the standards of written mathematics. You should use complete sentences, write in paragraphs, clearly explain each step, and so on. (See also the guidelines linked in the announcement below.) 
-
-    The other component will be an oral exam. We will meet for 5 to 10 minutes for me to ask you a few brief questions about the material, and for me to see how you think about them. This will take place over the two class meetings for the week. I've emailed you a signup sheet to schedule your time. The way we will do it is, we will meet at the usual zoom meeting for the class. While I meet with you individually for the oral exams, you will meet in groups to read each others' proofs for homework 5, and give each other feedback. 
-
 * Here are some resources on guidelines for writing mathematics:
 
     * [From Francis Su at Harvey Mudd College.](https://math.hmc.edu/su/writing-math-well/)
@@ -83,6 +79,10 @@ Announcements
     * [A blog post by Terence Tao at UCLA.](https://terrytao.wordpress.com/advice-on-writing-papers/)
 
     * [A book by Donald Knuth, Tracy Larrabee, and Paul Roberts.](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+
+* The midterm for the class will be next week (week of October 12). It will have two components, equally weighted in your grade. One component will be a written, take-home exam. In this, I will ask you to write a few proofs. Your final submission should adhere to the standards of written mathematics. You should use complete sentences, write in paragraphs, clearly explain each step, and so on. (See also the guidelines linked in the announcement below.) 
+
+    The other component will be an oral exam. We will meet for 5 to 10 minutes for me to ask you a few brief questions about the material, and for me to see how you think about them. This will take place over the two class meetings for the week. I've emailed you a signup sheet to schedule your time. The way we will do it is, we will meet at the usual zoom meeting for the class. While I meet with you individually for the oral exams, you will meet in groups to read each others' proofs for homework 5, and give each other feedback. 
 
 * [Here]({{ page.url }}mod-arith.pdf) are the 10-6 slides about modular arithmetic.
 
