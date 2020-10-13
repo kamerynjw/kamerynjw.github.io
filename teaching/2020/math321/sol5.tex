@@ -1,0 +1,49 @@
+\documentclass[10pt]{amsart}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+\usepackage{enumitem}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+
+
+\title{Math 321: Sample write-up for a HW5-type problem}
+
+\begin{document}
+
+\maketitle
+
+The goal of this short writing is to prove that $\sqrt2$ is irrational. First, however, let us state and prove a lemma we will make use of.
+
+\begin{lemma}
+Let $n$ be an integer. Then $n$ is even if and only if $n^2$ is even.\footnote{Remark: Of course, this lemma is obviously true. I include it not because I think you might doubt it, but rather to demonstrate how mathematicians might organize writing up a theorem that uses a lemma. It's a bit artificial, but whatevs.}
+\end{lemma}
+
+\begin{proof}
+$(\Longrightarrow)$\footnote{Because proving if-and-only-ifs is almost always done the same way---independently proving the two directions---mathematicians will often just mark the two directions are being proved by having $(\Longrightarrow)$ before the proof of the forward direction and $(\Longleftarrow)$ before the proof of the backward direction.
+
+I know I tell you that it's considered bad style to use logical symbols in written proofs, rather than writing things out in words. But it's not my fault that this exception is so common from mathematicians. *shrug*}
+Suppose $n$ is even. That is suppose $n = 2k$ for some integer $k$. Then $n^2 = 4k^2 = 2(2k^2)$ is also even.
+
+$(\Longleftarrow)$ We prove this by contrapositive. Suppose $n$ is odd, and so let $n = 2k+1$ for some integer $k$. Then $n^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$ is also odd.
+\end{proof}
+
+\begin{theorem}
+$\sqrt 2$ is irrational.
+\end{theorem}
+
+\begin{proof}
+Assume toward a contradiction that $\sqrt 2$ is rational. Then we can write $\sqrt 2 = a/b$ where $a$ and $b$ are integers whose greatest common divisor is $1$. Some algebra then gives $a^2 = 2b^2$. By the lemma we can conclude that $a$ is even, i.e. that $a = 2k$ for some integer $k$. Substituting this into the prior equation and reducing then gives $2a^2 = b^2$. So we have seen $b^2$ is even, and again by the lemma may conclude that $b$ is even. Altogether, we have seen that $2$ is a common factor of $a$ and $b$, contradicting that their greatest common factor is $1$.
+\end{proof}
+
+
+
+\end{document}
+
