@@ -72,7 +72,17 @@ Announcements
 
     The other component will be an oral exam. We will meet for 5 to 10 minutes for me to ask you a few brief questions about the material, and for me to see how you think about them. This will take place over the two class meetings for the week. I've emailed you a signup sheet to schedule your time. The way we will do it is, we will meet at the usual zoom meeting for the class. While I meet with you individually for the oral exams, you will meet in groups to read each others' proofs for homework 5, and give each other feedback. 
 
-* [Here](https://math.hmc.edu/su/writing-math-well/) you can find some guidelines about writing mathematics from Prof. Francis Su at Harvey Mudd College.
+* Here are some resources on guidelines for writing mathematics:
+
+    * [From Francis Su at Harvey Mudd College.](https://math.hmc.edu/su/writing-math-well/)
+
+    * [From Kevin Lee at UC Davis.](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
+
+    * [From Kevin Houston at University of Leeds.](https://www1.maths.leeds.ac.uk/~khouston/pdf/htwm.pdf)
+
+    * [A blog post by Terence Tao at UCLA.](https://terrytao.wordpress.com/advice-on-writing-papers/)
+
+    * [A book by Donald Knuth, Tracy Larrabee, and Paul Roberts.](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 
 * [Here]({{ page.url }}mod-arith.pdf) are the 10-6 slides about modular arithmetic.
 
