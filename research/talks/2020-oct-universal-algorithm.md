@@ -3,6 +3,7 @@ layout: page
 title: "The universal algorithm and arithmetic potentialism"
 permalink: /research/talks/2020-oct-universal-algorithm/
 excerpt: "This is a talk in the Analysis, Logic And Physics Seminar at Virginia Commonwealth University on 2020 October 30..."
+image: ghost-in-computer.jpg
 ---
 
 This is a talk in the [Analysis, Logic And Physics Seminar](https://sites.google.com/a/vcu.edu/alps/) at Virginia Commonwealth University on 2020 October 30.
