@@ -66,6 +66,8 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
+* [Here]({{ page.url }}ind1.pdf) are the 10-22 slides about mathematical induction.
+
 * I wrote up a sample snippet of mathematical writing, to demonstrate how mathematicians organize their writing. It's similar to what I asked you to do for homework 5, but simpler (since I asked some of you to revise and resubmit homework 5, so I didn't want to spoil the answer). You can find the [pdf here]({{ page.url}}sol5.pdf) and the [LaTeX source here]({{ page.url}}sol5.tex).
 
 * Here are some resources on guidelines for writing mathematics:
