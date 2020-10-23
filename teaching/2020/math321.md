@@ -114,3 +114,5 @@ Homework is due every Thursday by 11:59pm. For Homework 1 onward, please submit 
 * [Homework 5]({{ page.url }}hw5.pdf) **Due Thursday, Oct 8**
 
 * *No homework due Thursday, Oct 22*
+
+* [Homework 6]({{ page.url }}hw6.pdf) **Due Thursday, Oct 29**
