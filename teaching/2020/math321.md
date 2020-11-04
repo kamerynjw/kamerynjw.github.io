@@ -66,6 +66,8 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
+* [Here]({{ page.url }}induction-proofs.pdf) is a pdf with some examples of how to write induction proofs.
+
 * Reminder: No class on Tuesday, November 3!
 
 * [Here]({{ page.url }}ind1.pdf) are the 10-22 slides about mathematical induction.
