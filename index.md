@@ -6,7 +6,7 @@ title: Welcome!
 My name is Kameryn J Williams. I am a mathematician and logician. I am currently a postdoctoral scholar in the mathematics department at [University of Hawai‘i at Mānoa](https://math.hawaii.edu/). My PhD is from [The Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics) of The City University of New York. 
 
 <center>
-<img src="/pics/kameryn.jpg" width="400" alt="A picture of me.">
+<img src="/pics/kameryn.jpg" width="300" height="400" alt="A picture of me.">
   
 <p><small>they/them</small></p>
 </center>
