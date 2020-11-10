@@ -48,25 +48,6 @@ Teaching and Educational Experience
 
 * (2013–2017) Brooklyn College, CUNY. Graduate teaching fellow and lecturer. I was instructor of record for my classes, mainly calculus and precalculus. My final year at Brooklyn College I taught classes in their Brooklyn College Academy program, an early college program where high school juniors and seniors take college classes for credit.
 
-Classes taught:
-
-* Graduate-level set theory
-
-* Advanced undergraduate set theory
-
-* Undergraduate differential equations
-
-* Calculus IV (multivariable calculus)
-
-* Calculus II
-
-* Calculus I
-
-* Pre-calculus
-
-* Math for liberal arts majors
-
-
 Conference Talks
 ====
 
@@ -80,23 +61,6 @@ Seminar Talks
 {% for talk in site.data.semtalks %}
 * [{{ talk.title }}]({{ site.baseurl }}/research/talks/{{ talk.href }}), {{ talk.other }} ({{ talk.date }}).
 {% endfor %}
-
-Service
-====
-
-* Referee, Contemporary Mathematics, forthcoming volume.
-
-* Referee, Mathematical Logic Quarterly.
-
-* Co-organizer (with A. Beros, B. Kjos-Hanssen, and D. Ross) *Logic Seminar*, University of Hawaiʻi at Mānoa. (2018–present)
-
-* Co-organizer (with V. Gitman), *MAMLS Logic Friday*, Mid-Atlantic Mathematical Logic Seminar, The Graduate Center, CUNY. (Oct 2017)
-
-* Co-organizer (with V. Gitman), *Set Theory Seminar*, The Graduate Center, CUNY. (2017–2018)
-
-* Co-organizer (with A. Dolich), *Models of Peano Arithmetic Seminar*, The Graduate Center, CUNY. (2017–2018)
-
-* Organizer, *Student Set Theory Seminar*, The Graduate Center, CUNY. (2017–2018)
 
 Technical Experience
 ====
