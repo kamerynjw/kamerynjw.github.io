@@ -17,6 +17,8 @@ permalink: /teaching/2020/math243/
 Announcements
 -------------
 
+* **The second midterm will be Thursday, November 19.** [Here]({{ page.url }}p2.pdf) is a practice exam. The questions on the exam will be similar to the ones on the practice exam. You can also use the in-class problem sessions to study, links for which can be found on the Laulima site. The format for the exam will be the same as for the previous midterm.
+
 * **The first midterm will be Thursday, October 1.** [Here]({{ page.url}}p1.pdf) is a practice exam. The questions on the exam will be similar to the ones on the practice exam. You can also use the in-class problem sessions to study, links for which can be found on the Laulima site. 
 
     Here is the format for the exam. It will be available on Laulima starting 15 minutes before the usual class time on October 1, and will be due on Laulima 15 minutes after the usual end of class. That is, it will be available at 11:45am and due at 1:30pm, with the extra 30 minutes from the usual 75 minutes of class to give you time to upload your answers and handle any technical difficulties. The exam is closed book, closed notes, and no electronic devices may be used (besides of course using your computer or other device to download and view the exam). To be clear, this means the exam was designed with that in mind. You are given a formula sheet—which can be seen on the practice exam—and the questions are written so that you do not need a calculator. In particular, some questions will ask you to set up an integral but not solve it.
