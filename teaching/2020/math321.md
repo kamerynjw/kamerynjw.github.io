@@ -66,6 +66,8 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
+* [Here]({{ page.url }}rel2.pdf) are the 11-17 slides about relations.
+
 * [Here]({{ page.url }}rel1.pdf) are the 11-12 slides about relations.
 
 * [Here]({{ page.url }}induction-proofs.pdf) is a pdf with some examples of how to write induction proofs.
