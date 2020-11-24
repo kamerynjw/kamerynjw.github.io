@@ -66,6 +66,8 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
+* [Here]({{ page.url }}rel4.pdf) are the 11-24 slides about equivalence relations.
+
 * [Here]({{ page.url }}rel3.pdf) are the 11-19 slides about equivalence relations.
 
 * [Here]({{ page.url }}rel2.pdf) are the 11-17 slides about order relations.
