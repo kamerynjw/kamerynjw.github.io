@@ -65,6 +65,7 @@ Tentative Weekly Schedule
 
 Announcements
 -------------
+* [Here]({{ page.url }}fn1.pdf) are the 12-1 slides about functions.
 
 * [Here]({{ page.url }}rel4.pdf) are the 11-24 slides about equivalence relations.
 
