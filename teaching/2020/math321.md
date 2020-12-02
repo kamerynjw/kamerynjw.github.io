@@ -134,4 +134,4 @@ Homework is due every Thursday by 11:59pm. For Homework 1 onward, please submit 
 
 * [Homework 8]({{ page.url }}hw8.pdf) **Due Tuesday, Nov 24**
 
-* [Homework 9]({{ page.url }}hw9.pdf) **Due Thurshay, Dec 3**
+* [Homework 9]({{ page.url }}hw9.pdf) **Due Sunday, Dec 6**
