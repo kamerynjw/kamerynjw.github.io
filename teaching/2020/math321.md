@@ -66,7 +66,7 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
-* [Here]({{ page.url }}fn1.pdf) are the 12-3 slides about equinumerosity.
+* [Here]({{ page.url }}fn2.pdf) are the 12-3 slides about equinumerosity.
 
 * [Here]({{ page.url }}fn1.pdf) are the 12-1 slides about functions.
 
