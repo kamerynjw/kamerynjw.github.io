@@ -1,4 +1,4 @@
-n---
+---
 layout: page
 title: "Math 243: Calculus III (Fall 2020)"
 permalink: /teaching/2020/math243/
