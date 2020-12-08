@@ -66,6 +66,8 @@ Tentative Weekly Schedule
 Announcements
 -------------
 
+* [Here]({{ page.url }}countable.pdf) are the 12-8 slides about cardinality.
+
 * [Here]({{ page.url }}fn2.pdf) are the 12-3 slides about equinumerosity.
 
 * [Here]({{ page.url }}fn1.pdf) are the 12-1 slides about functions.
