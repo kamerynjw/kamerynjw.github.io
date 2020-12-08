@@ -1,4 +1,4 @@
----
+n---
 layout: page
 title: "Math 243: Calculus III (Fall 2020)"
 permalink: /teaching/2020/math243/
@@ -16,6 +16,8 @@ permalink: /teaching/2020/math243/
 
 Announcements
 -------------
+
+* **The final exam will be Thursday, December 17 at 12:00–2:00.** [Here]({{ page.url }}practice-final.pdf) is a practice exam. The questions on the exam will be similar to the ones on the practice exam. You can also use the midterms and in-class problem sessions to study, links for which can be found on the Laulima site. The format for the final will be the same as the midterms. The Laulima assignment will be available at 11:45 on December 17, and the due time will be 2:15.
 
 * **The second midterm will be Thursday, November 19.** [Here]({{ page.url }}p2.pdf) is a practice exam. The questions on the exam will be similar to the ones on the practice exam. You can also use the in-class problem sessions to study, links for which can be found on the Laulima site. The format for the exam will be the same as for the previous midterm.
 
