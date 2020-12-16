@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Varieties of class theoretic potentialism"
-permalink: /research/talks/2020-dec-inner-mantles/
+permalink: /research/talks/2020-dec-class-potentialism/
 excerpt: "This is a talk in the Oxford set theory seminar, on 2020 December 2..."
 ---
 
