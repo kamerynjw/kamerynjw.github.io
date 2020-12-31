@@ -4,16 +4,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Fall 2020)
+Current Semester (Spring 2021)
 ================
+
+[Math 321: Introduction to Advanced Mathematics]({{ page.url }}2021/math321/)
+
+[Math 302: Differential Equations]({{ page.url }}2021/math302/)
+
+Previous Semesters 
+==================
+
+Fall 2020
+---------
 
 [Math 321: Introduction to Advanced Mathematics]({{ page.url }}2020/math321/)
 
 [Math 243: Calculus III]({{ page.url }}2020/math243/)
 
-
-Previous Semesters 
-==================
 
 Spring 2020
 -----------

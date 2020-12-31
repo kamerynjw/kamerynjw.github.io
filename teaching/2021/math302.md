@@ -1,0 +1,58 @@
+---
+layout: page
+title: "Math 302: Introduction to Differential Equations I (Fall 2021)"
+permalink: /teaching/2021/math302/
+---
+
+**Class Meets** Mondays/Wednesdays/Fridays 9:30–10:20
+
+* See [here]({{ page.url }}syllabus) for the syllabus.
+
+* Class meetings will be conducted over Zoom. Access info can be found on the Laulima site or the Discord for the class.
+
+* Outside of Zoom there are three main ways I will communicate with you: (1) This site, the public site for the class, where I will post announcements and any lecture notes; (2) a Discord channel, where I will also post announcements, where you can ask questions and discuss things with your classmates; and (3) a Laulima site for the class, which will be used for submitting work and any announcements containing info I don't wish to be publicly available. Additionally, online homework will be done through UHM's WeBWorK site.
+
+
+Announcements
+-------------
+
+(Nothing yet!)
+
+Schedule
+--------
+
+(Tentative, may change)
+
+* Week 1 (Jan 11) Introduction: Chapters 1, 3, 5
+
+* Week 2 (Jan 18) Separable equations: Chapters 4, 6
+
+* Week 3 (Jan 25) Equations with homogeneous coefficients: Chapters 7, 8
+
+* Week 4 (Feb 1) Exact equations: Chapters 9, 10
+
+* Week 5 (Feb 8) Linear first-order equations: Chapter 11
+
+* Week 6 (Feb 15) Review and midterm 1
+
+* Week 7 (Feb 22) Linear ODEs of degree > 1: Chapters 18, 19
+
+* Week 8 (Mar 1) Homogeneous linear ODEs: Chapter 20
+
+* Week 9 (Mar 8) Nonhomogeneous linear ODEs, I: Chapter 21
+
+* *Spring break!*
+
+* Week 10 (Mar 22) Nonhomogeneous linear ODEs, II: Chapter 22
+
+* Week 11 (Mar 29) Operators: Chapters 24, 25
+
+* Week 12 (Apr 5) The Laplace transform: Chapter 27
+
+* Week 13 (Apr 12) Series solutions: Chapter 37
+
+* Week 14 (Apr 19) Overspill, review, and midterm 2
+
+* Week 15 (Apr 26) Existence and uniqueness theorems, I
+
+* Week 16 (May 3) Existence and uniqueness theorems, II
