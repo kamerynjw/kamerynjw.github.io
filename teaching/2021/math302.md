@@ -25,15 +25,9 @@ Lecture notes
 
 In-class worksheets
 
-* 1/15: Direction fields.
+* [1/15: Direction fields.]({{page.url}}week1.pdf)
 
-    Go to [this webpage](https://www.geogebra.org/m/W7dAdgqc) (or a different online direction field plotter). 
-
-    1. Use the direction field plotter to graph direction fields for differential equations of the form $y' = Ky$ for different constants $K$. When does the differential equation have an asymptotically stable equilibrium solution as $x \to \infty$, and what value is approached? Building on this, find a differential equation with an asymptotically stable equilibrium solution as $x \to \infty$ which approaches the value $3$. And do the same for approaching an arbitrary value $v$.
-
-    2. Use the direction field plotter to graph direction fields for differential equations of the form $y' = Ky(M - y)$, where $K$ and $M$ are positive constants. These are logistic differential equations, which are used to model population growth given a maximum carrying capacity $M$. If you have the initial value $y(0)$ is positive, what value is approached as $x \to \infty$? Compare this behavior to what happens with the differential equations $y' = Ky$, and discuss the relative merits/dismerits of the two kinds of differential equations for modeling population growth.
-
-    3. Use the direction field plotter to graph direction fields for differential equations of the form $y' = f(x)$, for the following choices for $f(x)$: $f(x) = e^x$, $f(x) = \cos(x)$, and $f(x) = 1/x$. Use your knowledge of calculus to determine the general solutions for these three differential equations.
+    For this worksheet you will need to use a direction field plotter, such as the one found [here](https://www.geogebra.org/m/W7dAdgqc) (or a different online direction field plotter). 
 
 Schedule
 --------
