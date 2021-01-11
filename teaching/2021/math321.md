@@ -19,6 +19,23 @@ Course Outline
 
 The main goal of this class is to teach you the basic methods and language of mathematics. In particular, the keystone of the class is the notion of proof, the means by which we justify mathematical statements as true. This class forms the foundation for upper division math classes, and what you learn here will serve you in further mathematical investigations. 
 
+Announcements
+-------------
+
+* For homework, you are strongly encouraged to use LaTeX. LaTeX is a program for typesetting mathematics, and is the standard in academic math, physics, and compsci. The learning curve can be a bit tough to start, but once you pick up the basics it can be much faster than mucking about with an equation editor. If you haven't used LaTeX before, I suggest using [Overleaf](https://www.overleaf.com/), a free online LaTeX editor. To help get you started, I made a [template for homework](https://www.overleaf.com/read/ypsrcqntbcrs). 
+
+    The way LaTeX works is, you have a plaintext file which is complied into a pdf. (Overleaf does this part automatically for you.) The commands you put in the plaintext file then determine what shows up in the pdf. For example, to display the inequality $\sqrt[3]{x} \le \frac{x+1}{x^2+1}$ you would write `\sqrt[3]{x} \le \frac{x+1}{x^2+1}$`. The dollar signs say that what goes inside should be typeset as math, not as ordinary English. The various symbols =, +, 1, etc. are interpreted normally, while `\frac` is the fraction command. The next two inputs, as inclosed in braces, are typset to be the numerator and denominator of the fraction. Similarly, `\sqrt` is the square root command. It has an optional input, inclosed in square brackets. In this case, the optional input was used to make it a cube root.
+
+Homework
+--------
+
+(Nothing yet!)
+
+Lecture Notes
+-------
+
+* [1/11: Introduction]({{ page.url }}intro.pdf)
+
 Schedule
 --------
 
@@ -57,19 +74,4 @@ Schedule
 * Week 15 (Apr 26) Order Theory: Chapter 14
 
 * Week 16 (May 3) The Limits of Mathematics: *No chapter*
-
-Announcements
--------------
-
-(Nothing yet!)
-
-Homework
---------
-
-(Nothing yet!)
-
-Lecture Notes
--------
-
-* [1/11: Introduction]({{ page.url }}intro.pdf)
 

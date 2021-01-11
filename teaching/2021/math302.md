@@ -24,6 +24,7 @@ Lecture notes
 * [1/11: Introduction]({{ page.url }}intro.pdf)
 
 In-class worksheets
+--------
 
 * [1/15: Direction fields.]({{page.url}}week1.pdf)
 
