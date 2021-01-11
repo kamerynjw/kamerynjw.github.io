@@ -11,7 +11,7 @@ permalink: /teaching/2021/math321/
 
 * Class meetings will be conducted over Zoom. Access info can be found on the Laulima site or the Discord for the class.
 
-* Outside of Zoom there are three main ways I will communicate with you: (1) This site, the public site for the class, where I will post homework, announcements, and any lecture notes; (2) a Discord channel, where I will also post announcements, where you can ask questions and discuss things with your classmates; and (3) a Laulima site for the class, which will be used for homework submission and any announcements containing info I don't wish to be publicly available.
+* Outside of Zoom there are two main ways I will communicate with you: (1) This site, the public site for the class, where I will post homework, announcements, and any lecture notes; (2) a Discord channel, where I will also post announcements, where you can ask questions and discuss things with your classmates. Assignment submission will be done through Gradescope.
 
 
 Course Outline
@@ -67,3 +67,9 @@ Homework
 --------
 
 (Nothing yet!)
+
+Lecture Notes
+-------
+
+* [1/11: Introduction]({{ page.url }}intro.pdf)
+
