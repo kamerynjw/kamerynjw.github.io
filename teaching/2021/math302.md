@@ -23,6 +23,8 @@ Lecture notes
 
 * [1/11: Introduction]({{ page.url }}intro.pdf)
 
+* [1/13: Introduction, part II]({{ page.url }}intro2.pdf)
+
 In-class worksheets
 --------
 
