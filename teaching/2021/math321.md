@@ -29,7 +29,7 @@ Announcements
 Homework
 --------
 
-(Nothing yet!)
+* Homework 1 **Due Friday, January 22** Do the following exercises from page 8 of the textbook: 1.1, 1.3, 1.4, 1.9, 1.10.
 
 Lecture Notes
 -------
