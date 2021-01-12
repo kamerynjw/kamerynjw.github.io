@@ -36,6 +36,8 @@ Lecture Notes
 
 * [1/11: Introduction]({{ page.url }}intro.pdf)
 
+* [1/13: Introduction, II]({{ page.url }}intro2.pdf)
+
 Schedule
 --------
 
