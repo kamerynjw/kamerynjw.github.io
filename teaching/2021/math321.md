@@ -31,6 +31,11 @@ Homework
 
 * Homework 1 **Due Friday, January 22** Do the following exercises from page 8 of the textbook: 1.1, 1.3, 1.4, 1.9, 1.10.
 
+In-class Worksheets
+--------
+
+* [Week 1 Friday, January 15]({{ page.url }}ic1.pdf)
+
 Lecture Notes
 -------
 
