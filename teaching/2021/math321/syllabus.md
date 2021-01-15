@@ -20,7 +20,7 @@ Class Information
 
 **Room** Virtually via Zoom
 
-**Office Hours** TBA
+**Office Hours** MW 8:30–9:20, F 11:30–12:20
 
 **Office** Virtually via Zoom and Discord
 
