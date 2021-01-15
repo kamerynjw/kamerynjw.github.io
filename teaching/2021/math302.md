@@ -16,7 +16,7 @@ permalink: /teaching/2021/math302/
 Announcements
 -------------
 
-(Nothing yet!)
+* **No class Monday, January 18th an account of MLK Day**
 
 Lecture notes
 -------
