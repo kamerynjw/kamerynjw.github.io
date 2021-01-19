@@ -25,6 +25,8 @@ Lecture notes
 
 * [1/13: Introduction, part II]({{ page.url }}intro2.pdf)
 
+* [1/20: Separable differential equations]({{ page.url }}separable.pdf)
+
 In-class worksheets
 --------
 
