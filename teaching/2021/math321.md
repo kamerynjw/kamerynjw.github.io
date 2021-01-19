@@ -45,6 +45,8 @@ Lecture Notes
 
 * [1/13: Introduction, II]({{ page.url }}intro2.pdf)
 
+* [1/20, 1/25, 1/27: Some number theory]({{ page.url }}nt.pdf)
+
 Schedule
 --------
 
