@@ -30,11 +30,11 @@ Lecture notes
 In-class worksheets
 --------
 
-* [1/22: Dilution problems.]({{page.url}}week2.pdf)
-
 * [1/15: Direction fields.]({{page.url}}week1.pdf)
 
     For this worksheet you will need to use a direction field plotter, such as the one found [here](https://www.geogebra.org/m/W7dAdgqc) (or a different online direction field plotter). 
+
+* [1/22: Dilution problems.]({{page.url}}week2.pdf)
 
 Schedule
 --------
