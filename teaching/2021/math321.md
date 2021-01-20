@@ -22,6 +22,19 @@ The main goal of this class is to teach you the basic methods and language of ma
 Announcements
 -------------
 
+
+* (1/20) Here are some resources on guidelines for writing mathematics:
+
+    * [From Francis Su at Harvey Mudd College.](https://math.hmc.edu/su/writing-math-well/)
+
+    * [From Kevin Lee at UC Davis.](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
+
+    * [From Kevin Houston at University of Leeds.](https://www1.maths.leeds.ac.uk/~khouston/pdf/htwm.pdf)
+
+    * [A blog post by Terence Tao at UCLA.](https://terrytao.wordpress.com/advice-on-writing-papers/)
+
+    * [A book by Donald Knuth, Tracy Larrabee, and Paul Roberts.](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+
 * (1/20) In lecture, we discuss the fundamental theorem of arithmetic, stating that every positive integer has a unique prime factorization. You may think that this is an obvious fact which could not possibly be in need of a proof. If you think that, I suggest reading [this blog post](https://gowers.wordpress.com/2011/11/13/why-isnt-the-fundamental-theorem-of-arithmetic-obvious/) by Tim Gowers. If you don't think it's obvious, I'd suggest reading the post anyway. It is a nice little peak into how what we are talking about with the integers can be generalized, and why that generalization can be difficult.
 
 * **No class Monday, January 18th an account of MLK Day**
