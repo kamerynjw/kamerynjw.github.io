@@ -27,6 +27,8 @@ Lecture notes
 
 * [1/20: Separable differential equations]({{ page.url }}separable.pdf)
 
+* [1/25: ODEs with homogeneous coefficients]({{ page.url }}homo.pdf)
+
 In-class worksheets
 --------
 
