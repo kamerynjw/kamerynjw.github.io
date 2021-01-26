@@ -29,6 +29,8 @@ Lecture notes
 
 * [1/25: ODEs with homogeneous coefficients]({{ page.url }}homo.pdf)
 
+* [1/27: ODEs with linear coefficients]({{ page.url }}line.pdf)
+
 In-class worksheets
 --------
 
