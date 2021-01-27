@@ -57,6 +57,8 @@ In-class Worksheets
 
 * [Week 2 Friday, January 22]({{ page.url }}ic2.pdf)
 
+* [Week 3 Friday, January 29]({{ page.url }}ic3.pdf)
+
 Lecture Notes
 -------
 
