@@ -40,6 +40,8 @@ In-class worksheets
 
 * [1/22: Dilution problems.]({{page.url}}week2.pdf)
 
+* [1/29: Orthogonal trajectories.]({{page.url}}week3.pdf)
+
 Schedule
 --------
 
