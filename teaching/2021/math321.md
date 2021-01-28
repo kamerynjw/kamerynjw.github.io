@@ -50,6 +50,8 @@ Homework
 
 * [Homework 2]({{ page.url }}hw2.pdf) **Due Friday, January 29**
 
+* [Homework 3]({{ page.url }}hw3.pdf) **Due Friday, February 5**
+
 In-class Worksheets
 --------
 
