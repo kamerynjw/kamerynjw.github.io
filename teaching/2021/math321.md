@@ -72,6 +72,7 @@ Lecture Notes
 
 * [2/1, 2/3: Some logic]({{ page.url }}logic.pdf)
 
+
 Schedule
 --------
 
