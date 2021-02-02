@@ -31,6 +31,10 @@ Lecture notes
 
 * [1/27: ODEs with linear coefficients]({{ page.url }}line.pdf)
 
+* [2/1: Exact differential equations]({{ page.url }}exact.pdf)
+
+
+
 In-class worksheets
 --------
 
@@ -41,6 +45,8 @@ In-class worksheets
 * [1/22: Dilution problems.]({{page.url}}week2.pdf)
 
 * [1/29: Orthogonal trajectories.]({{page.url}}week3.pdf)
+
+* *2/5 No worksheet this week*
 
 Schedule
 --------
