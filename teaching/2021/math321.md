@@ -61,6 +61,8 @@ In-class Worksheets
 
 * [Week 3 Friday, January 29]({{ page.url }}ic3.pdf)
 
+* *Week 4: No worksheet this week*
+
 Lecture Notes
 -------
 
