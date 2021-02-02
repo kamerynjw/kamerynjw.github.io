@@ -72,7 +72,7 @@ Lecture Notes
 
 * [1/20, 1/25, 1/27: Some number theory]({{ page.url }}nt.pdf)
 
-* [2/1, 2/3: Some logic]({{ page.url }}logic.pdf)
+* [2/1, 2/3: Some logic]({{ page.url }}logic.pdf) See [here]({{page.url}}tt.pdf) for the filled-out truth tables.
 
 
 Schedule
