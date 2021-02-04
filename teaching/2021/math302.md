@@ -33,6 +33,7 @@ Lecture notes
 
 * [2/1: Exact differential equations]({{ page.url }}exact.pdf)
 
+* [2/3: Integrating factors]({{ page.url }}if.pdf)
 
 
 In-class worksheets
