@@ -52,6 +52,8 @@ Homework
 
 * [Homework 3]({{ page.url }}hw3.pdf) **Due Monday, February 8** <s>Due Friday, February 5</s>
 
+* [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 22**
+
 In-class Worksheets
 --------
 
