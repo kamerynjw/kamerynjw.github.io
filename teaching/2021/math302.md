@@ -35,6 +35,8 @@ Lecture notes
 
 * [2/3: Integrating factors]({{ page.url }}if.pdf)
 
+* [2/8: Linear ODEs]({{ page.url }}bernoulli.pdf)
+
 
 In-class worksheets
 --------
