@@ -76,7 +76,7 @@ Lecture Notes
 
 * [2/1, 2/3: Some logic]({{ page.url }}logic.pdf) See [here]({{page.url}}tt.pdf) for the filled-out truth tables.
 
-* [2/8, 2/10: Induction, I]({{ page.url }}ind.pdf)
+* [2/8, 2/10: Induction, I]({{ page.url }}ind.pdf) See [here]({{page.url}}lnp.pdf) for a write-up of the proof that the least number principle and induction are equivalent.
 
 
 Schedule
