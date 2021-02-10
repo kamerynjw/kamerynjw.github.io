@@ -41,6 +41,8 @@ Lecture notes
 
 * [2/8: Linear ODEs]({{ page.url }}bernoulli.pdf)
 
+* [2/10: More on solving first-order ODEs]({{ page.url }}more-examples.pdf)
+
 
 In-class worksheets
 --------
