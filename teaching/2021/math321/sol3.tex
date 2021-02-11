@@ -1,0 +1,39 @@
+\documentclass[10pt]{amsart}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+\usepackage{enumitem}
+
+%% make the problem environment look how I want
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+
+\title{Math 321: Homework 3 Solution}
+
+\begin{document}
+
+\maketitle
+
+% get the numbering right since I'm only showing Problem 4
+\setcounter{problem}{3}
+\begin{problem}[Exercise 3.12 from the textbook]
+Prove that a positive integer is square-free if and only if all the exponents in its prime factorization are $1$.
+\end{problem}
+
+\begin{proof}[Solution]
+I prove both directions by contrapositive.
+
+$(\Rightarrow)$ Consider a positive integer $n$ and suppose that there is a prime $p$ in its prime factorization which has an exponent $m>1$. Then, $n$ is a multiple of $p^m$ which in turn is a multiple of $p^2$. So $n$ is not square-free.
+
+$(\Leftarrow)$ Suppose that $n$ is not square-free. That is, $n = a^2b$ for some integers $a > 1$ and $b$. Suppose $p$ is in the prime factorization of $a$, with some exponent $m$. And let $\ell$ be the largest integer so that $p^\ell$ divides $b$. (Possibly $\ell = 0$, which happens when $p$ does not divide $b$.) Then, $p^{2m+\ell}$ appears in the prime factorization of $n$. So $n$ has a prime in its factorization whose exponent is not $1$.
+\end{proof}
+
+
+\end{document}
+

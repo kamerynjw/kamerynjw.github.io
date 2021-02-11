@@ -50,7 +50,7 @@ Homework
 
 * [Homework 2]({{ page.url }}hw2.pdf) **Due Friday, January 29**
 
-* [Homework 3]({{ page.url }}hw3.pdf) **Due Monday, February 8** <s>Due Friday, February 5</s>
+* [Homework 3]({{ page.url }}hw3.pdf) **Due Monday, February 8** <s>Due Friday, February 5</s> [Here]({{page.url}}sol3.pdf) is a write-up of a solution for problem 4. (And [here]({{page.url}}sol3.tex) is the LaTeX source, in case it's helpful to see.)
 
 * [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 19**
 
