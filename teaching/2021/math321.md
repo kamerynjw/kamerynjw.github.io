@@ -52,7 +52,7 @@ Homework
 
 * [Homework 3]({{ page.url }}hw3.pdf) **Due Monday, February 8** <s>Due Friday, February 5</s>
 
-* [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 22**
+* [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 19**
 
 In-class Worksheets
 --------
@@ -64,6 +64,8 @@ In-class Worksheets
 * [Week 3 Friday, January 29]({{ page.url }}ic3.pdf)
 
 * *Week 4: No worksheet this week*
+
+* [Week 5 Friday, February 12]({{ page.url }}ic5.pdf)
 
 Lecture Notes
 -------
