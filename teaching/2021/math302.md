@@ -16,6 +16,8 @@ permalink: /teaching/2021/math302/
 Announcements
 -------------
 
+* [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
+
 * The first midterm will be a take-home exam. I will release it on gradescope on Wednesday, February 17th after class, and it will be due by the end of Sunday, February 21st.
 
 * **No class Monday, February 15th on account of Presidents Day**
