@@ -59,7 +59,7 @@ In-class worksheets
 
 * *2/5 No worksheet this week*
 
-* [2/12: Cooling.]({{page.url}}week5.pdf)
+* [2/12: Newton's Law of Cooling.]({{page.url}}week5.pdf)
 
 Schedule
 --------
