@@ -26,16 +26,16 @@
   title: "The exact strength of the class forcing theorem"
   othercite: "to appear in: The Journal of Symbolic Logic"
 
-  
+- href: "universal-finite-sequence"
+  authors: "Joel David Hamkins and Kameryn J. Williams"
+  title: "The Sigma_1-definable universal finite sequence"
+  othercite: "to appear in: The Journal of Symbolic Logic"
+
 - href: "cst-forcing"
   authors: "Joel David Hamkins, Russell Miller, and Kameryn J. Williams"
   title: "Forcing as a computational process"
   othercite: "*under review*"
 
-- href: "universal-finite-sequence"
-  authors: "Joel David Hamkins and Kameryn J. Williams"
-  title: "The Sigma_1-definable universal finite sequence"
-  othercite: "*under review*"
 
 
 - href: "diss"
@@ -53,10 +53,10 @@
   title: "The omega-th inner mantle"
   othercite: "*in preparation*"
 
-- href: ""
-  authors: "Victoria Gitamn, Michał Tomasz Godziszewsky, Toby Meadows, and Kameryn J. Williams"
-  title: "On axioms for multiverses of set theory"
-  othercite: "*in preparation*"
+# - href: ""
+#  authors: "Victoria Gitamn, Michał Tomasz Godziszewsky, Toby Meadows, and Kameryn J. Williams"
+#  title: "On axioms for multiverses of set theory"
+#  othercite: "*in preparation*"
 
 # - href: ""
 #   authors: "Kameryn J. Williams"
