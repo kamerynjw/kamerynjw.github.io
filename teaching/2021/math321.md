@@ -80,6 +80,8 @@ Lecture Notes
 
 * [2/8, 2/10: Induction, I]({{ page.url }}ind.pdf) See [here]({{page.url}}lnp.pdf) for a write-up of the proof that the least number principle and induction are equivalent.
 
+* [2/17: Induction, II]({{ page.url }}ind2.pdf)
+
 
 Schedule
 --------
