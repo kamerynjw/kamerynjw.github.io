@@ -45,6 +45,8 @@ Lecture notes
 
 * [2/10: More on solving first-order ODEs]({{ page.url }}more-examples.pdf)
 
+* [2/19: The catenary]({{ page.url }}catenary.pdf)
+
 
 In-class worksheets
 --------
