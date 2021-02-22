@@ -54,6 +54,8 @@ Homework
 
 * [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 19**
 
+* Homework 5 **Due Friday, February 26** Do the following exercises from pages 55–56 of the textbook: 5.1, 5.3, 5.9.
+
 In-class Worksheets
 --------
 
