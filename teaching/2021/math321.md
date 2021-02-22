@@ -86,6 +86,7 @@ Lecture Notes
 
 * [2/17: Induction, II]({{ page.url }}ind2.pdf)
 
+* [2/22: Induction, III]({{ page.url }}ind3.pdf)
 
 Schedule
 --------

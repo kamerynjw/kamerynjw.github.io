@@ -47,6 +47,7 @@ Lecture notes
 
 * [2/19: The catenary]({{ page.url }}catenary.pdf)
 
+* [2/22, 2/24: Complex numbers and linear independence]({{ page.url }}complex.pdf)
 
 In-class worksheets
 --------
