@@ -88,6 +88,8 @@ Lecture Notes
 
 * [2/22: Induction, III]({{ page.url }}ind3.pdf)
 
+* [2/24: Discrete Math]({{ page.url }}discrete.pdf)
+
 Schedule
 --------
 
