@@ -52,7 +52,7 @@ Homework
 
 * [Homework 3]({{ page.url }}hw3.pdf) **Due Monday, February 8** <s>Due Friday, February 5</s> [Here]({{page.url}}sol3.pdf) is a write-up of a solution for problem 4. (And [here]({{page.url}}sol3.tex) is the LaTeX source, in case it's helpful to see.)
 
-* [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 19**
+* [Homework 4]({{ page.url }}hw4.pdf) **Due Friday, February 19** [Here]({{page.url}}sol4.pdf) is a write-up of a solution for problem 5. (And [here]({{page.url}}sol4.tex) is the LaTeX source, in case it's helpful to see.)
 
 * Homework 5 **Due Friday, February 26** Do the following exercises from pages 55–56 of the textbook: 5.1, 5.3, 5.9.
 
