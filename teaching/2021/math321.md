@@ -56,6 +56,8 @@ Homework
 
 * Homework 5 **Due Friday, February 26** Do the following exercises from pages 55–56 of the textbook: 5.1, 5.3, 5.9.
 
+* [Homework 6]({{ page.url }}hw6.pdf) **Due Friday, March 5**
+
 In-class Worksheets
 --------
 
@@ -71,7 +73,7 @@ In-class Worksheets
 
 * [Week 6 Friday, February 19]({{ page.url }}ic6.pdf)
 
-* [Week 6 Friday, February 26]({{ page.url }}ic7.pdf)
+* [Week 7 Friday, February 26]({{ page.url }}ic7.pdf)
 
 Lecture Notes
 -------
