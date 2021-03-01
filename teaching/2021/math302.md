@@ -66,6 +66,8 @@ In-class worksheets
 
 * [2/12: Newton's Law of Cooling.]({{page.url}}week5.pdf)
 
+* [2/26: Wronskians.]({{page.url}}week7.pdf)
+
 Schedule
 --------
 

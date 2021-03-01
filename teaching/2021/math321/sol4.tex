@@ -1,0 +1,43 @@
+\documentclass[10pt]{amsart}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+\usepackage{enumitem}
+
+%% make the problem environment look how I want
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+
+\title{Math 321: Homework 4 Solution}
+
+\begin{document}
+
+\maketitle
+
+% get the numbering right since I'm only showing Problem 5
+\setcounter{problem}{4}
+\begin{problem}[Exercise 4.11 from the textbook]
+Prove that every natural number has a unique base-$3$ representation.
+\end{problem}
+
+\begin{proof}[Solution]
+A base-$3$ representation for a number is just a compact way to represent a number $n$ as a sum of the form
+\[
+n = a_1 3^{m_1} + \cdots + a_k 3^{m_k},
+\]
+where each coefficient $a_i$ is either $1$ or $2$ and $m_1 < \cdots < m_k$. So what we need to see is that every natural number can we written uniquely as such a sum. I will abuse notation and also refer to this sum as a base-$3$ representation.
+Let's prove the $n=0$ case and then separately prove the $n>0$ case by strong induction. For the $n=0$ case, observe that the only way to write $0$ as a sum of positive integers is as the empty sum, which gives the unique base-$3$ representation $0$.
+
+Now let's do the $n>0$ case. Assume that each natural number $k < n$ has a unique base-$3$ representation. Let $m$ be the largest integer so that $3^m \le n$. I claim that $n = a\cdot 3^m + r$ for unique $a$ and $r$ satisfying that $a$ is either $1$ or $2$ and $r < 3^m$. That such $a$ and $r$ with $r < 3^m$ are unique is an instance of the Euclidean division lemma, so we just have to see that $a$ is either $1$ or $2$. First, observe that $a \ge 3$ is impossible, as in that case $3^{m+1} \le a \cdot 3^m \le n$, contradicting the leastness of $m$. And $r < 3^m$ implies that $a$ cannot be $0$, as if $a=0$ that would be saying that $n = r < 3^m \le n$, which is absurd. 
+
+By inductive hypothesis, $r$ can be uniquely written in a base-$3$ representation. Adding $a \cdot 3^m$ to the base-$3$ representation for $r$ thus gives a base-$3$ representation for $n$. It remains only to see that this representation is unique. It must contain a copy of $3^m$, as the sum $\sum_{i=0}^{m-1}2 \cdot 3^i = 3^m - 1$ is strictly less than $n$. If $a=1$, it cannot contain two copies of $3^m$, as in this case $2\cdot 3^m > a\cdot 3^m + r = n$. If $a=2$, then it must contain two copies of $3^m$, as in this case $3^m + \sum_{i=0}^{m-1}2 \cdot 3^i = 2\cdot 3^m - 1$ is strictly less than $n$. So we have seen that in either case the base-$3$ representation for $m$ must contain $a\cdot 3^m$. With this fact established, the uniqueness for $n$ now follows from the uniqueness for $r$; there is only one way to write $r = n - a\cdot 3^m$ as a base-$3$ representation, and that's exactly what we must add to get the representation for $n$.
+\end{proof}
+
+\end{document}
+
