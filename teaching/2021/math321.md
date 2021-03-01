@@ -94,6 +94,8 @@ Lecture Notes
 
 * [2/24: Discrete Math]({{ page.url }}discrete.pdf)
 
+* [3/1, 3/3: Games]({{ page.url }}games.pdf)
+
 Schedule
 --------
 
