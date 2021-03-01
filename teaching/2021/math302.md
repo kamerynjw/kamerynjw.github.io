@@ -49,6 +49,8 @@ Lecture notes
 
 * [2/22, 2/24: Complex numbers and linear independence]({{ page.url }}complex.pdf)
 
+* [3/1, 3/3: Homogeneous linear ODEs]({{ page.url }}lho.pdf)
+
 In-class worksheets
 --------
 
