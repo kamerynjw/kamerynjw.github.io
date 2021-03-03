@@ -75,6 +75,8 @@ In-class Worksheets
 
 * [Week 7 Friday, February 26]({{ page.url }}ic7.pdf)
 
+* [Week 8 Friday, March 5]({{ page.url }}ic8.pdf)
+
 Lecture Notes
 -------
 
