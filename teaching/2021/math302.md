@@ -68,6 +68,8 @@ In-class worksheets
 
 * [2/26: Wronskians.]({{page.url}}week7.pdf)
 
+* [3/5: Simple harmonic motion.]({{page.url}}week8.pdf)
+
 Schedule
 --------
 
