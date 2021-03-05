@@ -51,6 +51,8 @@ Lecture notes
 
 * [3/1, 3/3: Homogeneous linear ODEs]({{ page.url }}lho.pdf)
 
+* [3/8, 3/10: The method of undetermined coefficients]({{ page.url }}un-coeff.pdf)
+
 In-class worksheets
 --------
 
