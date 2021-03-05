@@ -99,6 +99,8 @@ Lecture Notes
 
 * [3/1, 3/3: Games]({{ page.url }}games.pdf)
 
+* [3/8: Induction, IV]({{ page.url }}ind4.pdf)
+
 Schedule
 --------
 
