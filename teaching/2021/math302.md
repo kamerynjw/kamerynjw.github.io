@@ -72,6 +72,8 @@ In-class worksheets
 
 * [3/5: Simple harmonic motion.]({{page.url}}week8.pdf)
 
+* [3/12: Damped harmonic motion.]({{page.url}}week9.pdf)
+
 Schedule
 --------
 
