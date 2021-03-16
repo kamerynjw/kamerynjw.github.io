@@ -101,6 +101,8 @@ Lecture Notes
 
 * [3/8: Induction, IV]({{ page.url }}ind4.pdf)
 
+* [3/22, 3/24: Functions and Relations, I]({{ page.url }}rel1.pdf)
+
 Schedule
 --------
 
