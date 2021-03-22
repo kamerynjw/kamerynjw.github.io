@@ -59,6 +59,8 @@ Homework
 
 * [Homework 6]({{ page.url }}hw6.pdf) **Due Friday, March 5**
 
+* [Homework 7]({{ page.url }}hw7.pdf) **Due Monday, March 29** (Note the change in date!)
+
 In-class Worksheets
 --------
 
