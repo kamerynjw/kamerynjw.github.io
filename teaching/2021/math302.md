@@ -53,6 +53,8 @@ Lecture notes
 
 * [3/8, 3/10: The method of undetermined coefficients]({{ page.url }}un-coeff.pdf)
 
+* [3/22, 3/24: The method of variation of parameters]({{ page.url }}varpar.pdf)
+
 In-class worksheets
 --------
 
