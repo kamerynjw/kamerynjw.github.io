@@ -22,6 +22,8 @@ The main goal of this class is to teach you the basic methods and language of ma
 Announcements
 -------------
 
+* (3/22) [Here]({{ page.url}}sol.pdf) are solutions to the exam problems.
+
 * (3/5) The midterm is a take-home exam. It will be handed out next Monday (3/8) and be due the following Sunday (3/14). There will be no homework during midterm week.
 
 * (1/20) Here are some resources on guidelines for writing mathematics:
