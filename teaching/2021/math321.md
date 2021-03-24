@@ -107,6 +107,8 @@ Lecture Notes
 
 * [3/22, 3/24: Functions and Relations, I]({{ page.url }}rel1.pdf)
 
+* [3/29, 3/31: Functions and Relations, II]({{ page.url }}rel2.pdf)
+
 Schedule
 --------
 
