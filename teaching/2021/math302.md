@@ -16,6 +16,10 @@ permalink: /teaching/2021/math302/
 Announcements
 -------------
 
+* **No class Friday, April 3rd on account of Good Friday**
+
+* **No class Friday, March 26th on account of Prince Kūhiō Day**
+
 * [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
 
 * The first midterm will be a take-home exam. I will release it on gradescope on Wednesday, February 17th after class, and it will be due by the end of Sunday, February 21st.
@@ -54,6 +58,8 @@ Lecture notes
 * [3/8, 3/10: The method of undetermined coefficients]({{ page.url }}un-coeff.pdf)
 
 * [3/22, 3/24: The method of variation of parameters]({{ page.url }}varpar.pdf)
+
+* [3/29, 3/31: Operators]({{ page.url }}op.pdf)
 
 
 In-class worksheets
