@@ -21,6 +21,8 @@ This talk is self-contained and does not assume any background in computability 
 <center>
 <img src="turing-flowers-[CC-BY-SA-4.0].jpg" alt="Flowers at the Alan Turing Memorial">
 
-[Copyright: [Flowers for Turing](http://www.flowersforturing.equalitytime.co.uk/?page_id=5311), released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)]
+<br>
+
+[Copyright: <a href="http://www.flowersforturing.equalitytime.co.uk/?page_id=5311">Flowers for Turing</a>, released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</a>]
 
 </center>
