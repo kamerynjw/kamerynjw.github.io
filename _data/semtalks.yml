@@ -1,6 +1,10 @@
 
 # seminar talks to display in talks.md
 
+- href: "2021-apr-hofstra"
+  title: "Incompleteness and the universal algorithm"
+  date: "Apr 2021"
+
 - href: "2020-dec-class-potentialism"
   title: "Varieties of class theoretic potentialism"
   other: "Konstanz Philosophy of Math Seminar"
