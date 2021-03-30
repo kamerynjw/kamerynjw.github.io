@@ -19,7 +19,10 @@ This talk is self-contained and does not assume any background in computability 
 <br> 
 
 <center>
-<img src="turing-flowers-[CC-BY-SA-4.0].jpg" alt="Flowers at the Alan Turing Memorial">
+<img src="turing-flowers-[CC-BY-SA-4.0].jpg" alt="Alan Turing surrounded by a multiverse of models of arithmetic (= flowers)">
+
+<br>
+Alan Turing surrounded by a multiverse of models of arithmetic in full bloom
 
 <br>
 
