@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Incompleteness and the universal algorithm"
-permalink: /research/talks/2020-sept-tmwyf/
+permalink: /research/talks/2021-apr-hofstra/
 image: turing-flowers-[CC-BY-SA-4.0].jpg
 excerpt: "This is a talk in the Hofstra Mathematics seminar on 2021 April 21..."
 ---
