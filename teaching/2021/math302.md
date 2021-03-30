@@ -16,6 +16,8 @@ permalink: /teaching/2021/math302/
 Announcements
 -------------
 
+* See [here]({{ page.url }}project) for info about the final project for the class.
+
 * **No class Friday, April 3rd on account of Good Friday**
 
 * **No class Friday, March 26th on account of Prince Kūhiō Day**
