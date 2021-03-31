@@ -16,6 +16,8 @@ permalink: /teaching/2021/math302/
 Announcements
 -------------
 
+* For your convenience, [here]({{ page.url }}laplace_transforms.pdf) is a pdf with a table of Laplace transforms.
+
 * See [here]({{ page.url }}project) for info about the final project for the class.
 
 * **No class Friday, April 3rd on account of Good Friday**
