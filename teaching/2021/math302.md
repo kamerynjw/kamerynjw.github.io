@@ -91,6 +91,8 @@ In-class worksheets
 
 * [3/12: Damped harmonic motion.]({{page.url}}week9.pdf)
 
+* [4/9: Forced undamped harmonic motion.]({{page.url}}week12.pdf)
+
 Schedule
 --------
 
