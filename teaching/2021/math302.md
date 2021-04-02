@@ -67,6 +67,8 @@ Lecture notes
 
 * [3/31: The Laplace transform, part I]({{ page.url }}laplace.pdf)
 
+* [4/5, 4/7: The Laplace transform, part II]({{ page.url }}laplace2.pdf)
+
 
 In-class worksheets
 --------

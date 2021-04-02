@@ -117,6 +117,8 @@ Lecture Notes
 
 * [3/29, 3/31: Functions and Relations, II]({{ page.url }}rel2.pdf)
 
+* [4/5, 4/7: Graph Theory]({{ page.url }}graphs.pdf)
+
 Schedule
 --------
 
