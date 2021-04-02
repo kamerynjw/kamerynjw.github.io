@@ -67,6 +67,8 @@ Homework
 
 * [Homework 7]({{ page.url }}hw7.pdf) **Due Monday, April 5** (Note the change in date!)
 
+* [Homework 8]({{ page.url }}hw8.pdf) **Due Friday, April 9** 
+
 In-class Worksheets
 --------
 
@@ -85,6 +87,8 @@ In-class Worksheets
 * [Week 7 Friday, February 26]({{ page.url }}ic7.pdf)
 
 * [Week 8 Friday, March 5]({{ page.url }}ic8.pdf)
+
+* *Weeks 9–11: No worksheets these weeks*
 
 Lecture Notes
 -------
