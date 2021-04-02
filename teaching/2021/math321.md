@@ -90,6 +90,8 @@ In-class Worksheets
 
 * *Weeks 9–11: No worksheets these weeks*
 
+* [Week 12 Friday, April 9]({{ page.url }}ic12.pdf)
+
 Lecture Notes
 -------
 
