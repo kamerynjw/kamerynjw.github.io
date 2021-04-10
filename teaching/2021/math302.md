@@ -69,6 +69,8 @@ Lecture notes
 
 * [4/5, 4/7: The Laplace transform, part II]({{ page.url }}laplace2.pdf)
 
+* [4/12, 4/14: Series methods]({{ page.url }}series.pdf)
+
 
 In-class worksheets
 --------
