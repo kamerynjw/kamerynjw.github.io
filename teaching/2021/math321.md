@@ -69,6 +69,8 @@ Homework
 
 * [Homework 8]({{ page.url }}hw8.pdf) **Due Friday, April 9** 
 
+* [Homework 9]({{ page.url }}hw9.pdf) **Due Friday, April 16** 
+
 In-class Worksheets
 --------
 
