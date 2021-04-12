@@ -16,6 +16,8 @@ permalink: /teaching/2021/math302/
 Announcements
 -------------
 
+* Here is the schedule for the second midterm, which will be a take-home exam. Wednesday, April 21 we will use class time for a review session. The exam will be available on gradescope starting at the end of class. **It will be due by 11pm on Sunday, April 25.** I will post a study guide for the exam soon.
+
 * For your convenience, [here]({{ page.url }}laplace_transforms.pdf) is a pdf with a table of Laplace transforms.
 
 * See [here]({{ page.url }}project) for info about the final project for the class.
