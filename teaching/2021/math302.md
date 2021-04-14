@@ -99,6 +99,8 @@ In-class worksheets
 
 * [4/9: Forced undamped harmonic motion.]({{page.url}}week12.pdf)
 
+* [4/16: Error with approximating solutions.]({{page.url}}week13.pdf)
+
 Schedule
 --------
 
