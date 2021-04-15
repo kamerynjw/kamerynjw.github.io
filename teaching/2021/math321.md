@@ -22,6 +22,8 @@ The main goal of this class is to teach you the basic methods and language of ma
 Announcements
 -------------
 
+* (4/15) [Here](http://www.logic.univie.ac.at/~ykhomski/ST2013/Hodges.pdf) is an article by logician Wilfrid Hodges relevant to this week's Friday worksheet. He looks at a variety of "disproofs" of Cantor's theorem which had been sent to him as editor of mathematics journal, analyzes where the mistakes are, and discusses some subtleties in logic and how teach mathematical argumentation which might underlie why some wrongly believe they've overturned Cantor's theorem.
+
 * **No class Friday, April 3rd on account of Good Friday**
 
 * **No class Friday, March 26th on account of Prince Kūhiō Day**
