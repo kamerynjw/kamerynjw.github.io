@@ -94,6 +94,8 @@ In-class Worksheets
 
 * [Week 12 Friday, April 9]({{ page.url }}ic12.pdf)
 
+* [Week 13 Friday, April 16]({{ page.url }}ic13.pdf)
+
 Lecture Notes
 -------
 
