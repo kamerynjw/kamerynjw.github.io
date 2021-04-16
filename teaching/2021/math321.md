@@ -129,6 +129,8 @@ Lecture Notes
 
 * [4/12, 4/14: Infinity, I]({{ page.url }}infinity.pdf)
 
+* [4/19, 4/21: Infinity, II]({{ page.url }}infinity2.pdf)
+
 Schedule
 --------
 
