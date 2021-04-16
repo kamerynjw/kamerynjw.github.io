@@ -75,6 +75,8 @@ Lecture notes
 
 * [4/12, 4/14: Series methods]({{ page.url }}series.pdf)
 
+* [4/19: Series methods, II]({{ page.url }}series2.pdf)
+
 
 In-class worksheets
 --------
