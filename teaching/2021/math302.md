@@ -77,6 +77,8 @@ Lecture notes
 
 * [4/19: Series methods, II]({{ page.url }}series2.pdf)
 
+* [4/23: The Legendre equation]({{ page.url }}legendre.pdf)
+
 
 In-class worksheets
 --------
