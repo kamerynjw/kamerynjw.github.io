@@ -73,7 +73,7 @@ Homework
 
 * [Homework 9]({{ page.url }}hw9.pdf) **Due Friday, April 16** 
 
-* [Homework 10]({{ page.url }}hw10.pdf) **Due Friday, April 23** 
+* [Homework 10]({{ page.url }}hw10.pdf) **Due Wednesday, April 28** ~~Due Friday, April 23~~
 
 In-class Worksheets
 --------
