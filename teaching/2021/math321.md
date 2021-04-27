@@ -135,6 +135,8 @@ Lecture Notes
 
 * [4/19, 4/21: Infinity, II]({{ page.url }}infinity2.pdf)
 
+* [4/28, 4/30: Order theory]({{ page.url }}order.pdf)
+
 Schedule
 --------
 
