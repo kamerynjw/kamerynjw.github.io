@@ -79,7 +79,7 @@ Lecture notes
 
 * [4/23: The Legendre equation]({{ page.url }}legendre.pdf)
 
-* [4/26: Existence and uniqueneness, I]({{ page.url }}exist.pdf)
+* [4/26, 4/28: Existence and uniqueneness]({{ page.url }}exist.pdf)
 
 In-class worksheets
 --------
