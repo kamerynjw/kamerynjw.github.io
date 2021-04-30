@@ -106,6 +106,8 @@ In-class worksheets
 
 * [4/16: Error with approximating solutions.]({{page.url}}week13.pdf)
 
+* [4/30: The Lotka–Volterra model.]({{page.url}}week15.pdf)
+
 Schedule
 --------
 
