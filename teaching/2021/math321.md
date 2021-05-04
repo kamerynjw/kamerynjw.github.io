@@ -139,6 +139,8 @@ Lecture Notes
 
 * [4/28, 4/30: Order theory]({{ page.url }}order.pdf)
 
+* [5/5: Summing things up]({{ page.url }}end.pdf)
+
 Schedule
 --------
 
