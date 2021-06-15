@@ -1,6 +1,11 @@
 
 # conference talks to display in talks.md
 
+- href: "2021-june-best"
+  title: "Coding sets into inner mantles"
+  other: "contributed talk, BEST 2021"
+  date: "June 2021"
+
 - href: "2019-nov-rims"
   title: "On axioms for multiverses of set theory"
   other: "contributed talk, RIMS Set Theory Workshop 2019"
