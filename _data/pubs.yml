@@ -6,6 +6,21 @@
 #  3. other published (e.g. diss)
 #  4. in progress
 
+- href: "momega"
+  authors: "Kameryn J. Williams"
+  title: "The omega-th inner mantle"
+  othercite: "*preprint* available"
+
+- href: "class-forcing-theorem"
+  authors: "Victoria Gitman, Joel David Hamkins, Peter Holy, Philipp Schlicht, and Kameryn Williams"
+  title: "The exact strength of the class forcing theorem"
+  othercite: "The Journal of Symbolic Logic (2020)"
+
+- href: "inner-mantles"
+  authors: "Jonas Reitz and Kameryn J. Williams"
+  title: "Inner mantles and iterated HOD"
+  othercite: "Mathematical Logic Quarterly (2019)"
+
 - href: "least-models"
   authors: "Kameryn J. Williams"
   title: "Minimum models of second-order set theories"
@@ -16,16 +31,6 @@
   title: "Set-theoretic blockchains"
   othercite: "Archive for Mathematical Logic (2019)"
 
-- href: "inner-mantles"
-  authors: "Jonas Reitz and Kameryn J. Williams"
-  title: "Inner mantles and iterated HOD"
-  othercite: "to appear in: Mathematical Logic Quarterly"
-
-- href: "class-forcing-theorem"
-  authors: "Victoria Gitman, Joel David Hamkins, Peter Holy, Philipp Schlicht, and Kameryn Williams"
-  title: "The exact strength of the class forcing theorem"
-  othercite: "to appear in: The Journal of Symbolic Logic"
-
 - href: "universal-finite-sequence"
   authors: "Joel David Hamkins and Kameryn J. Williams"
   title: "The Sigma_1-definable universal finite sequence"
@@ -34,7 +39,8 @@
 - href: "cst-forcing"
   authors: "Joel David Hamkins, Russell Miller, and Kameryn J. Williams"
   title: "Forcing as a computational process"
-  othercite: "*under review*"
+  othercite: "to appear in: Computability"
+
 
 
 
@@ -48,10 +54,6 @@
 # put href = "" for all of them
 # this makes the formatting in research.md work correctly
 
-- href: ""
-  authors: "Kameryn J. Williams"
-  title: "The omega-th inner mantle"
-  othercite: "*in preparation*"
 
 # - href: ""
 #  authors: "Victoria Gitamn, Michał Tomasz Godziszewsky, Toby Meadows, and Kameryn J. Williams"
