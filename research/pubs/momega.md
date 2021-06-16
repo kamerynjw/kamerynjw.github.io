@@ -6,7 +6,7 @@ image: yggdrasil.jpg
 excerpt: "This article investigates pathological behavior at the first limit stage in the sequence of inner mantles..."
 ---
 
-[[PDF]({{ page.url }}momega.pdf)] 
+[[PDF]({{ page.url }}momega.pdf)]  [[arXiv](https://arxiv.org/abs/2106.07812)]
 
 > **Abstract** This article investigates pathological behavior at the first limit stage in the sequence of inner mantles, obtained by iterating the definition of the mantle to get smaller and smaller inner models. I show: (A) it is possible that the $\omega$-th inner mantle is not a definable class; and (B) it is possible that the $\omega$-th inner mantle is a definable class but does not satisfy the axiom of choice. This answers a pair of questions of Fuchs, Hamkins, and Reitz.
 
