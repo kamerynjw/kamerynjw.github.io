@@ -6,10 +6,11 @@
 #  3. other published (e.g. diss)
 #  4. in progress
 
-- href: "momega"
-  authors: "Kameryn J. Williams"
-  title: "The omega-th inner mantle"
-  othercite: "*preprint* available"
+
+- href: "universal-finite-sequence"
+  authors: "Joel David Hamkins and Kameryn J. Williams"
+  title: "The Sigma_1-definable universal finite sequence"
+  othercite: "The Journal of Symbolic Logic (2020)"
 
 - href: "class-forcing-theorem"
   authors: "Victoria Gitman, Joel David Hamkins, Peter Holy, Philipp Schlicht, and Kameryn Williams"
@@ -31,16 +32,21 @@
   title: "Set-theoretic blockchains"
   othercite: "Archive for Mathematical Logic (2019)"
 
-- href: "universal-finite-sequence"
-  authors: "Joel David Hamkins and Kameryn J. Williams"
-  title: "The Sigma_1-definable universal finite sequence"
-  othercite: "to appear in: The Journal of Symbolic Logic"
 
 - href: "cst-forcing"
   authors: "Joel David Hamkins, Russell Miller, and Kameryn J. Williams"
   title: "Forcing as a computational process"
   othercite: "to appear in: Computability"
 
+- href: "class-potentialism"
+  authors: "Neil Barton and Kameryn J. Williams"
+  title: "Varieties of class-theoretic potentialism"
+  othercite: "*preprint* available"
+
+- href: "momega"
+  authors: "Kameryn J. Williams"
+  title: "The omega-th inner mantle"
+  othercite: "*preprint* available"
 
 
 
