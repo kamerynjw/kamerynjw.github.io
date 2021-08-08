@@ -10,11 +10,17 @@ See [here]({{ page.url }}kwilliams-cv.pdf) for a pdf CV with fuller details.
 Academic History
 ====
 
+Sam Houston State University
+----
+Visiting Assistant Professor, Department of Mathematics and Statistics
+
+Fall 2021 to present
+
 University of Hawaiʻi at Mānoa
 ----
-Temporary Assistant Professor
+Temporary Assistant Professor, Department of Mathematics
 
-Fall 2018 to present
+Fall 2018 to Spring 2021
 
 Education
 ====
@@ -43,7 +49,9 @@ Publications
 Teaching and Educational Experience
 ====
 
-* (2018–present) University of Hawaiʻi at Mānoa. Temporary Assistant Professor. As part of my duties I taught classes ranging from freshman calculus to graduate-level.
+* (2021–present) Sam Houston State University. Visiting Assistant Professor. I taught undergraduate classes at a variety of levels.
+
+* (2018–2021) University of Hawaiʻi at Mānoa. Temporary Assistant Professor. As part of my duties I taught classes ranging from freshman calculus to graduate-level.
 
 * (2017–2018) Bronx Community College, CUNY. Quantitative reasoning fellow. In this interdisciplinary program I partnered with non-mathematics faculty to promote the teaching of quantitative reasoning and the use of mathematics across the curriculum.
 
