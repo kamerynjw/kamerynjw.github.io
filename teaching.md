@@ -4,15 +4,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Spring 2021)
+Current Semester (Fall 2021)
 ================
+
+[Math 1332: College Mathematics]({{ page.url }}2021/math1332/)
+
+[Math 1410: Elementary Functions]({{ page.url }}2021/math1410/)
+
+Previous Semesters 
+==================
+
+Spring 2021
+-----------
 
 [Math 321: Introduction to Advanced Mathematics]({{ page.url }}2021/math321/)
 
 [Math 302: Differential Equations]({{ page.url }}2021/math302/)
 
-Previous Semesters 
-==================
 
 Fall 2020
 ---------
