@@ -108,7 +108,7 @@ Office hours are held three times a week, to give you an opportunity to ask ques
 Covid Policy
 =====
 
-Per the governor's orders, the university is not allowed to require you to vaccinate nor institute a mask mandate. That aside, I encourage you to get vaccinated, if you have not yet already done so. You can get vaccinated through the [Student Health Center](https://www.shsu.edu/dept/student-health-centetr/), who also offer covid testing. **Both vaccines and testing through the SHC are free of cost.**
+Per the governor's orders, the university is not allowed to require you to vaccinate nor institute a mask mandate. That aside, I encourage you to get vaccinated, if you have not yet already done so. You can get vaccinated through the [Student Health Center](https://www.shsu.edu/dept/student-health-center/), who also offer covid testing. **Both vaccines and testing through the SHC are free of cost.**
 
 The CDC recommends indoor masking in areas with high transmission rates. This includes (at the beginning of the semester—perhaps this will change in the future) Walker County. I will be wearing a mask for class and office hours. I encourage you to do the same, especially if you are not yet vaccinated.
 
