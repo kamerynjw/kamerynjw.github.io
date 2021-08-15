@@ -13,7 +13,7 @@ Class Information
 
 **Website** [http://kamerynjw.net/teaching/2021/math1410/]({{ site.baseurl }}/teaching/2021/math1410/)
 
-**Email** `kjw059 [ at ] shsu ( period ) edu`
+**Email** `kameryn.j.w [ at ] shsu ( period ) edu`
 
 **Class Hours** MWF 3:30–4:45
 
@@ -85,7 +85,7 @@ Homework will be assigned weekly (except for exam weeks) through the free, open 
 Exam Policy
 ====
 
-There will be two midterms and one final exam. Each midterm will consist of an in-class portion, worth 75% of the overall grade, and a take-home portion, worth 25% of the grade and due the following Monday.
+There will be two midterms and one final exam. Each midterm will consist of an in-class portion, worth 80% of the overall grade, and a take-home portion, worth 20% of the grade and due the following Monday.
 
 Tentative midterm dates:
 

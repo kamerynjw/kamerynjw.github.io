@@ -13,7 +13,7 @@ Class Information
 
 **Website** [http://kamerynjw.net/teaching/2021/math1332/]({{ site.baseurl }}/teaching/2021/math1332/)
 
-**Email** `kjw059 [ at ] shsu ( period ) edu`
+**Email** `kameryn.j.w [ at ] shsu ( period ) edu`
 
 **Class Hours** MWF 8:00–8:50 (Section 01) or MWF 10:00–10:50 (Section 81)
 
