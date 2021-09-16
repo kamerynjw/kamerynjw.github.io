@@ -85,7 +85,7 @@ Homework will be assigned weekly (except for exam weeks) through the free, open 
 Exam Policy
 ====
 
-There will be two midterms and one final exam. Each midterm will consist of an in-class portion, worth 80% of the overall grade, and a take-home portion, worth 20% of the grade and due the following Monday.
+There will be two midterms and one final exam. 
 
 Tentative midterm dates:
 
