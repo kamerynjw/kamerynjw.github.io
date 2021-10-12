@@ -1,6 +1,11 @@
 
 # selected talks to display in research.md
 
+- href: "2021-oct-ecw"
+  title: "Potentialism about sets, potentialism about classes"
+  other: "invited talk, Early Career Researcher Workshop 2021"
+  date: "Oct 2021"
+
 - href: "2021-apr-hofstra"
   title: "Incompleteness and the universal algorithm"
   other: "Hofstra Mathematics Seminar"

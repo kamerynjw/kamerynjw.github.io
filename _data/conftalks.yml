@@ -1,6 +1,12 @@
 
 # conference talks to display in talks.md
 
+- href: "2021-oct-ecw"
+  title: "Potentialism about sets, potentialism about classes"
+  other: "invited talk, Early Career Researcher Workshop 2021"
+  date: "Oct 2021"
+
+
 - href: "2021-june-best"
   title: "Coding sets into inner mantles"
   other: "contributed talk, BEST 2021"
