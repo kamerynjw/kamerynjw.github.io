@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2021-oct-cuny"
+  title: "Potentialism about classes"
+  other: "CUNY Set Theory Seminar"
+  date: "Oct 2021"
+
 - href: "2021-apr-hofstra"
   title: "Incompleteness and the universal algorithm"
   other: "Hofstra Mathematics Seminar"
