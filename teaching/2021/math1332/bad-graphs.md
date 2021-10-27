@@ -43,12 +43,12 @@ Or with the x-axis
 
 <br>
 
-![xaxis2](x-axis2.ping)
+![xaxis2](x-axis2.png)
 
 Pie Charts are especially susceptible to being awful
 ----------
 
-![pie1](pie-chart1.jpg)
+![pie1](pie-chart-1.jpg)
 
 <br>
 
