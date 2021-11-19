@@ -93,7 +93,7 @@ Tentative midterm dates:
 
 * Midterm 2: Friday, November 5
 
-* Final exam: TBA
+* Final exam: Monday, December 6, 12:45–2:45
 
 
 Communication Policy and Office Hours
