@@ -4,15 +4,21 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Fall 2021)
+Current Semester (Spring 2022)
 ================
+
+[Math 1316: Plane Trigonometry]({{ page.url }}2022/math1316/)
+
+Previous Semesters 
+==================
+
+Fall 2021
+---------
 
 [Math 1332: College Mathematics]({{ page.url }}2021/math1332/)
 
 [Math 1410: Elementary Functions]({{ page.url }}2021/math1410/)
 
-Previous Semesters 
-==================
 
 Spring 2021
 -----------
