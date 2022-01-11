@@ -17,19 +17,19 @@ Class Information
 
 **Class Hours and Room** Tuesday/Thursday
 
-    * (Section 06) 8:00–9:15am, LDB 
+* (Section 06) 8:00–9:15am, LDB 
 	
-    * (Section 07) 12:30–1:45pm, LDB 
+* (Section 07) 12:30–1:45pm, LDB 
 		
-    * (Section 08) 2:00–3:15pm, LDB
+* (Section 08) 2:00–3:15pm, LDB
 
 **Office Hours** 
 
-    * Tuesday/Thursday 9:30–10:30am
+* Tuesday/Thursday 9:30–10:30am
 	
-	* Wednesday 2:00–3:00pm
+* Wednesday 2:00–3:00pm
 	
-    * Other times, by appointment
+* Other times, by appointment
 
 **Office** LDB 413
 
@@ -41,13 +41,13 @@ Class Information
 
 **Course Learning Objectives** Through this class you should improve on the following skills.
 
-    * Analyze trigonemetric functions and equations.
+* Analyze trigonemetric functions and equations.
 	
-	* Use trigonemetry to find quantitative information about triangles.
+* Use trigonemetry to find quantitative information about triangles.
 	
-	* Interpret trigonemetric graphs.
+* Interpret trigonemetric graphs.
 	
-	* Apply this knowledge to solve real-world problems.
+* Apply this knowledge to solve real-world problems.
 
 Grading Policy
 =======
