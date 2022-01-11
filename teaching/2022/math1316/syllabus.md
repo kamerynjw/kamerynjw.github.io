@@ -17,11 +17,11 @@ Class Information
 
 **Class Hours and Room** Tuesday/Thursday
 
-* (Section 06) 8:00–9:15am, LDB 
+* (Section 06) 8:00–9:15am, LDB 209
 	
-* (Section 07) 12:30–1:45pm, LDB 
+* (Section 07) 12:30–1:45pm, LDB 402
 		
-* (Section 08) 2:00–3:15pm, LDB
+* (Section 08) 2:00–3:15pm, LDB 218
 
 **Office Hours** 
 
