@@ -107,7 +107,7 @@ Quiz Policy
 
 Each module will conclude with a quiz, to give you a chance to assess your mastery of the module's material. 
 
-For each quiz, you are allowed up to two retakes, and I will use your highest grade among them as your grade for the quiz. %%say more
+For each quiz, you are allowed up to two retakes, and I will use your highest grade among them as your grade for the quiz. You can schedule retakes either during office hours or during the quiz time for a later module.
 
 Exam Policy
 ====
