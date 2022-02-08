@@ -33,6 +33,10 @@ Class Information
 
 **Office** LDB 413
 
+**Graduate Assistant** Catalino Quentero
+
+**GA Office Hours** Wednesday 12:00–1:30pm, LDB 332E
+
 **Textbook** See below.
 
 **Course Description** Topics include coordinate systems, circular functions, solutions of triangles, identities, trigonometric equations, and inverse functions.
