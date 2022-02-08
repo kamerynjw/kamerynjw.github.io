@@ -33,7 +33,7 @@ Class Information
 
 **Office** LDB 413
 
-**Graduate Assistant** Catalino Quentero
+**Graduate Assistant** Catalino Quintero
 
 **GA Office Hours** Wednesday 12:00–1:30pm, LDB 332E
 
