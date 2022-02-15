@@ -82,7 +82,7 @@ Textbook Information
 ========
 
 The official textbook for this class is *Trigonometry*, 8th ed., McKeague and Turner. Texas state law requires official textbooks to be chosen well in advance of the semester, and it was chosen by others before I knew I would be teaching this class. 
-**This textbook is optional.** No homework will be assigned from it, nor will I ever require you to have access to it. Homework will be done through the free online system MyOpenMath. And if you want a textbook to reference, I suggest the free online OpenStax book [*Algebra and Trigonemetry*](https://openstax.org/books/algebra-and-trigonometry), rather than pay money for the official textbook. 
+**This textbook is optional.** No homework will be assigned from it, nor will I ever require you to have access to it. Homework will be done through the free online system MyOpenMath. And if you want a textbook to reference, I suggest the free online OpenStax book [*Algebra and Trigonemetry*](https://openstax.org/details/books/algebra-and-trigonometry), rather than pay money for the official textbook. 
 
 **In sum, the cost of required books, materials, etc. for this class is \$0.** I suggest you look into what your books for other classes cost and, if it would save you money overall, opt out of the bookstore's Bearkat Bundle program. This program charges you a flat fee based on your total credits taken each semester to provide you with required textbooks, etc. If you have other classes which, like this one, cost significantly less than the Bearkat Bundle credit fee (approx. \$27 per credit), you could save money by opting out of the program and buying your books yourself.
 
