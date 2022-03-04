@@ -6,17 +6,17 @@ date: 2022-03-04
 
 This blogpost arose from me looking at Kanovei and Shelah's paper "[A definable nonstandard model of the reals](https://arxiv.org/abs/math/0311165)", and thinking about ultraproducts over spaces more general than powerset boolean algebras.
 
-Everyone is familiar with ultrapowers, but<!--more--> let me recall the highlights to set up the generalization. We have a first-order structure $M$, which for convenience I will assume to be relational. Additionally, we have a powerset boolean algebra $\mathcal B = \mathcal P(X)$ over a set $X$, and an ultrafilter $U$ on $\mathcal B$. We will construct the ultraproduct of $M$ by $U$ using the set $\mathcal F$ of functions $X \to M$ as points. We identify two functions $f,g \in \mathcal F$ if the set $\{x \in X : f(x) = g(x)\}$ is $U$-big. Similarly, we define the relations $R\_U$ for the ultrapower for each $R$ in the signature of $M$.
+Everyone is familiar with ultrapowers, but<!--more--> let me recall the highlights to set up the generalization. We have a first-order structure $M$, which for convenience I will assume to be relational. Additionally, we have a powerset boolean algebra $\mathcal B = \mathcal P(X)$ over a set $X$, and an ultrafilter $U$ on $\mathcal B$. We will construct the ultraproduct of $M$ by $U$ using the set $\mathcal F$ of functions $X \to M$ as points. We identify two functions $f,g \in \mathcal F$ if the set $\\{x \in X : f(x) = g(x)\\}$ is $U$-big. Similarly, we define the relations $R\_U$ for the ultrapower for each $R$ in the signature of $M$.
 
 With this setup, it's an exercise to check that the identification $=\_U$ of functions is an equivalence relation, and that every relation $R\_U$ is well-defined on the equivalence classes. The key lemma, which implies that $M$ elementarily embeds into its ultrapower, is Łoś's theorem.
 
-> **Theorem** (Łoś): Let $N$ denote the ultrapower of $M$ by $U$. Then $N \models \varphi[\bar f]$ iff the set $\{ x \in X : M \models \varphi[\bar f(x)] \}$ is $U$-big.
+> **Theorem** (Łoś): Let $N$ denote the ultrapower of $M$ by $U$. Then $N \models \varphi[\bar f]$ iff the set $\\{ x \in X : M \models \varphi[\bar f(x)] \\}$ is $U$-big.
 
 ----
 
 If you take a close look at the proof of Łoś's theorem, you can reason out what facts about $\mathcal B$ and $\mathcal F$ you need to prove it. Zeroth off, of course, you need that $\mathcal B$ is a boolean algebra, so the logical boolean operators don't take you outside of $\mathcal B$. Moreover, you need that the subset of $X$ on the right-hand side of the iff in the theorem is always in $\mathcal B$, lest it not fall in the range of being measured by $U$. 
 
-> (Def) For every $\varphi$ in the language of $M$ and all $\bar f$ from $\mathcal F$, the set $\{ x \in X : M \models \varphi[\bar f(x)] \}$ is in $\mathcal B$.
+> (Def) For every $\varphi$ in the language of $M$ and all $\bar f$ from $\mathcal F$, the set $\\{ x \in X : M \models \varphi[\bar f(x)] \\}$ is in $\mathcal B$.
 
 Just these alone, however, won't be enough to prove Łoś's theorem. The sticking point is the quantifier step of the induction. To prove the backward implication of this step, you need to pick a single function $g$ which provides witnesses for the existential formula $\exists y\ \varphi[y,\bar f(x)]$ for different choices of inputs to $\bar f$. (Indeed, this step is why Łoś's theorem needs a fragment of AC to prove.) Let's call this the (Skolem) property, since it's basically saying $\mathcal F$ is closed under Skolem functions.
 
@@ -68,7 +68,7 @@ The corresponding functions $\mathcal F$ are those $f : {}^A\omega \to M$ which 
 It's an easy exercise that $\mathcal B$ forms a boolean algebra. And with a small amount of detail chasing you can see that if a set (function) is concentrated on $u$ and $v$ then it's concentrated on their intersection and on any superset of them.
 Consequently, any set (function) has a *least* set on which it is concentrated, call it the *stem* of the set (respectively function). We have a canonical choice of concentration to look at for every set (function), which matters for definability purposes later.
 
-That (Def) and (Skolem) are satisfied comes down to the fact that each instance of satisfaction is finitary. If you know the parameters $\bar f$, then looking at the unions of their stems is enough to find a concentration for the set $\{ x \in X : M \models \varphi[\bar f(x)] \}$. So by the general machinery, we can take ultrapowers using $\mathcal B$ and $\mathcal F$.
+That (Def) and (Skolem) are satisfied comes down to the fact that each instance of satisfaction is finitary. If you know the parameters $\bar f$, then looking at the unions of their stems is enough to find a concentration for the set $\\{ x \in X : M \models \varphi[\bar f(x)] \\}$. So by the general machinery, we can take ultrapowers using $\mathcal B$ and $\mathcal F$.
 
 Knowing this, let's define the Kanovei–Shelah ultrafilter $D$ on $\mathcal B$. The point is, for each $a \in A$ we have an associated ultrafilter $D\_a$ on $\omega$. And we can extend this to finite $u \subseteq A$ by taking a sort of product of the $D\_a$ for $a \in u$: define $D\_u$ on ${}^u\omega$ to be those $X$ whose projection to each coordinate is in $D\_a$. Finally, define $D$ to consist of all sets $X$ whose restriction to their stem $u$ is in $D\_u$. There's some work to check that this really does give an ultrafilter, but I'll skip that tedium.
 
