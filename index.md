@@ -11,6 +11,8 @@ My name is Kameryn J Williams. I am a mathematician and logician. I am currently
 <p><small>they/them</small></p>
 </center>
 
+[Click here for some about me info.]({{ site.baseurl }}/about-me/)
+
 [Click here for information about my research.]({{ site.baseurl }}/research/)
 
 [Click here for information about the classes I am teaching.]({{ site.baseurl }}/teaching/)
