@@ -1,6 +1,12 @@
 
 # seminar talks to display in talks.md
 
+- href: "2022-mar-leeds"
+  title: "The potentialist multiverse of classes"
+  other: "Leeds Models and Sets Seminar"
+  date: "Mar 2022"
+
+
 - href: "2021-oct-cuny"
   title: "Potentialism about classes"
   other: "CUNY Set Theory Seminar"
