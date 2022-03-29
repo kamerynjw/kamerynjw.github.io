@@ -122,7 +122,13 @@ The schedule for the exams is:
 
 * Thursday, March 10th: Midterm
 
-* TBA: Final Exam
+* Final Exam date/time varies by section:
+
+    * Section 06 (8:00): Tuesday, May 6, 8:00–10:00
+	
+	* Section 07 (12:30): Monday, May 5, 3:00–5:00
+	
+	* Section 08 (2:00): Wednesday, May 7, 12:45–2:45
 
 
 Communication Policy and Office Hours
