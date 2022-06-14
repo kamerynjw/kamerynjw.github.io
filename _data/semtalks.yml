@@ -1,6 +1,12 @@
 
 # seminar talks to display in talks.md
 
+- href: "2022-june-barcelona"
+  title: "Inner mantles: good, bad, and ugly"
+  other: "Barcelona Set Theory Seminar"
+  date: "June 2022"
+
+
 - href: "2022-mar-leeds"
   title: "The potentialist multiverse of classes"
   other: "Leeds Models and Sets Seminar"
