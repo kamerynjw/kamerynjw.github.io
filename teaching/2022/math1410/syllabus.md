@@ -99,7 +99,7 @@ Exam dates:
 
 * Unit 3 Midterm: Thursday, November 10
 
-* Cumulative Final: TBA
+* Cumulative Final: Thursday, December 8, 8:00–10:00
 
 Minor Assessment Policy
 ========
