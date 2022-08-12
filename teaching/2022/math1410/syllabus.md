@@ -108,7 +108,7 @@ Homework will be given online through the free and open source MyOpenMath system
 
 **Info about how to access the MyOpenMath site for the class can be found on the Blackboard site and the class discord.**
 
-For online homework, at the end of the semester I will drop your 5 lowest homework scores. Additionally, MyOpenMath is set up to give each of your 10 "late passes". These allow you to extend the due date on one topic by 48 hours, giving you a no-questions-asked extension. 
+For online homework, at the end of the semester I will drop your 8 lowest homework scores. Additionally, MyOpenMath is set up to give each of your 10 "late passes". These allow you to extend the due date on one topic by 48 hours, giving you a no-questions-asked extension. 
 
 Written homework is graded based on completion. At the end of the semester I will drop your 4 lowest written homework scores, so only your highest 10 contribute to the grade.
 
