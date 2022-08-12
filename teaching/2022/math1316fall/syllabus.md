@@ -11,7 +11,7 @@ Class Information
 
 **Instructor** Kameryn Williams
 
-**Website** [http://kamerynjw.net/teaching/2022/math1316/]({{ site.baseurl }}/teaching/2022/math1316fall/)
+**Website** [http://kamerynjw.net/teaching/2022/math1316fall/]({{ site.baseurl }}/teaching/2022/math1316fall/)
 
 **Email** `kameryn.j.w [ at ] shsu ( period ) edu`
 
