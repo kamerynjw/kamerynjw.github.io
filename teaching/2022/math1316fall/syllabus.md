@@ -49,21 +49,24 @@ Grading Policy
 
 See [here]({{ site.baseurl }}/teaching/2022/math1316fall/grading/) for full information about grading. Below is a summary on how grades are earned in this class, showing the minimum level of mastery you need for each topic.
 
-|Grade|topic 1|topic 2|topic 3|topic 4|topic 5|topic 6|topic 7|topic 8|homework|
-|A|3|3|3|?|?|3|?|?|≥90%|
-|B|3|2|3|?|?|2|?|?|≥70%|
-|C|3|2|3|?|?|2|?|?|≥70%|
-|D|2|?|2|?|?|?|?|?|≥50%|
-|F|0|0|0|0|0|0|0|0|≥0%|
+First, a table showing the number of different topics you acheived a mastery level in to get each grade, as well as the homework scores need.
 
-|Grade|Summary of topic grades|
-|A|Six 3s, one more 2 or higher|
-|A|OR 3s in all topics, any homework score|
-|B|Three 3s, three more 2s or higher|
-|C|3s in topics 1 and 3, three more 2s or higher|
-|D|Five 2s or higher|
-|F| |
+|Grade|Mastery levels needed across different topics|Homework grade|
+|A|3, 3, 3, 3, 3, 3, 2, 0|≥90%|
+|A|OR: 3s in all topics|≥0%|
+|B|3, 3, 3, 3, 2, 2, 0, 0|≥70%|
+|C|3, 3, 2, 2, 2, 0, 0, 0|≥70%|
+|D|2, 2, 2, 2, 2, 0, 0, 0|≥50%|
+|F|0, 0, 0, 0, 0, 0, 0, 0|≥0%|
 
+Second, a table showing the minimum mastery levels needed in the most important topics (1, 2, 3, and 6) for each grade. For the other topics there is no minimum mastery level for an individual topic.
+
+|Grade|topic 1|topic 2|topic 3|topic 6|
+|A|3|3|3|3|
+|B|3|2|3|2|
+|C|3|2|3|2|
+|D|2|0|2|0|
+|F|0|0|0|0|
 
 And a summary of the mastery levels.
 
