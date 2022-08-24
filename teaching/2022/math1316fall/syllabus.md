@@ -17,7 +17,7 @@ Class Information
 
 **Class Hours and Room** Tuesday/Thursday
 
-* (Section 07) 12:30–1:45, LDB 415
+* (Section 07) 12:30–1:45, DRCB 319
 	
 * (Section 08) 9:30–10:45, CHSS 226
 		
