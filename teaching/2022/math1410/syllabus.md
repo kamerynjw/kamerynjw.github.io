@@ -23,7 +23,7 @@ Class Information
 
 **Office Hours** 
 
-* TBA
+* M/W 9:00–1:00, T 2:00–3:00, or by appointment.
 
 **Office** LDB 413
 
