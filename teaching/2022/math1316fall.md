@@ -11,7 +11,7 @@ permalink: /teaching/2022/math1316fall/
 Announcements
 -------------
 
-(Nothing yet!)
+* [Here]({{ page.url}}sq.pdf) is a sample quiz. The questions are about geometry, not trigonometry, but it should give you an idea of what to expect.
 
 
 Schedule
