@@ -11,6 +11,8 @@ permalink: /teaching/2022/math1316fall/
 Announcements
 -------------
 
+* [Here]({{ page.url}}q12a-answers.pdf) is the answer key for quizzes 1 and 2.
+
 * [Here]({{ page.url}}sq.pdf) is a sample quiz. The questions are about geometry, not trigonometry, but it should give you an idea of what to expect.
 
 
