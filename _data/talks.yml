@@ -1,6 +1,16 @@
 
 # selected talks to display in research.md
 
+- href: "2022-oct-mopa"
+  title: "Tightness in second-order arithmetic"
+  other: "CUNY MOPA Seminar"
+  date: "Oct 2022"
+
+- href: "2022-mar-leeds"
+  title: "The potentialist multiverse of classes"
+  other: "Leeds Models and Sets Seminar"
+  date: "Mar 2022"
+
 - href: "2021-oct-ecw"
   title: "Potentialism about sets, potentialism about classes"
   other: "invited talk, Early Career Researcher Workshop 2021"
