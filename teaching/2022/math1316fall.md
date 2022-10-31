@@ -11,6 +11,8 @@ permalink: /teaching/2022/math1316fall/
 Announcements
 -------------
 
+* [Here]({{ page.url}}q56a-answers.pdf) is the answer key for quizzes 5 and 6.
+
 * (10/3) Note that the schedule has been adjusted! I've scheduled time for a retake of quiz three on Thursday 10/6, and the schedule afterward has been adjusted to fit this in.
 
 * [Here]({{ page.url}}q34a-answers.pdf) is the answer key for quizzes 3 and 4.
