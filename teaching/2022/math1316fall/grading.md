@@ -30,19 +30,17 @@ Earning grades
 
 Here are the requirements to earn the different possible grades in this class.
 
-* **(A)** Acheive mastery (3) in topics 1, 2, 3, and 6 plus two more topics, and have at least approaching mastery (2) in one more topic, and acheive ≥90% on homework; OR acheive mastery (3) on all eight topics.
+* **(A)** Acheive mastery (3) in six topics, have at least approaching mastery (2) in one more topic, and acheive ≥90% on homework; OR acheive mastery (3) on all eight topics.
 
-* **(B)** Not meet the standards for an A, and: Acheive mastery (3) in topics 1 and 3 plus two more topics, have at least approaching mastery (2) in two more topics, with topics 2 and 6 at least at approaching mastery (2), and acheive ≥70% on homework.
+* **(B)** Not meet the standards for an A, and: Acheive mastery (3) four topics, have at least approaching mastery (2) in two more topics, and acheive ≥70% on homework.
 
-* **(C)** Not meet the standards for a B, and: Acheive mastery (3) in topics 1 and 3, have at least approaching mastery (2) in topics 2 and 6 plus one more topics, and acheive ≥70% on homework.
+* **(C)** Not meet the standards for a B, and: Acheive mastery (3) in two topics, have at least approaching mastery (2) in three topics, and acheive ≥70% on homework.
 
-* **(D)** Not meet the standards for a C, and: have at least approaching mastery (2) in topics 1 and 3 plus three more topics, and acheive ≥50% on homework.
+* **(D)** Not meet the standards for a C, and: have at least approaching mastery (2) in five topics, and acheive ≥50% on homework.
 
 * **(F)** Not meet the standards for a D.
 
-The requirements tell you what topics are most important. Topics 1 and 3 are the central topics for this course. Everyone who has taken a trig class should understand how the trig functions relate to right triangles and the unit circle. The next most important are topics 2 and 6, with the remaining topics of tertiary importance.
-
-Here's the same information summarized in two tables. First, a table showing the number of different topics you acheived a mastery level in to get each grade, as well as the homework scores need.
+Here's the same information summarized in a table showing the number of different topics you acheived a mastery level in to get each grade, as well as the homework scores need.
 
 |Grade|Mastery levels needed across different topics|Homework grade|
 |A|3, 3, 3, 3, 3, 3, 2, 0|≥90%|
@@ -51,16 +49,6 @@ Here's the same information summarized in two tables. First, a table showing the
 |C|3, 3, 2, 2, 2, 0, 0, 0|≥70%|
 |D|2, 2, 2, 2, 2, 0, 0, 0|≥50%|
 |F|0, 0, 0, 0, 0, 0, 0, 0|≥0%|
-
-Second, a table showing the minimum mastery levels needed in the most important topics (1, 2, 3, and 6) for each grade. For the other topics there is no minimum mastery level for an individual topic.
-
-|Grade|topic 1|topic 2|topic 3|topic 6|
-|A|3|3|3|3|
-|B|3|2|3|2|
-|C|3|2|3|2|
-|D|2|0|2|0|
-|F|0|0|0|0|
-
 
 
 Quiz Periods and Mastery Quizzes.

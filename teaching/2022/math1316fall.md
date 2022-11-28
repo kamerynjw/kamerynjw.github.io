@@ -63,7 +63,7 @@ The planned schedule for class meetings is below. For homework, there is an onli
 |  11/8: Quiz Period | 11/10: Topic 8 |
 | 11/15: Topic 8 | 11/17: Topic 8 |
 | 11/22: Quiz Period  | 11/24: *No class* |
-| 11/29: Quiz Period | 12/1: Review |
+| 11/29: Review | 12/1: Quiz Period |
 | Finals Week | Quiz Period | 
 
 The schedule has seven quiz periods, including the one scheduled during the final exam time. Each quiz period is an opportunity to take mastery quizzes for each mastery topic we've covered so far. You can retake the quiz for a topic each quiz period, and once you've demonstrated mastery in a topic you no longer need to take the corresponding quiz.
