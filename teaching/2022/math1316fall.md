@@ -11,6 +11,8 @@ permalink: /teaching/2022/math1316fall/
 Announcements
 -------------
 
+* [Here]({{ page.url}}q8a-answers.pdf) is the answer key for quiz 8.
+
 * [Here]({{ page.url}}q7a-answers.pdf) is the answer key for quiz 7.
 
 * [Here]({{ page.url}}q56a-answers.pdf) is the answer key for quizzes 5 and 6.
