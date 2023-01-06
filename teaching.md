@@ -4,15 +4,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Spring 2022)
+Current Semester (Spring 2023)
 ================
+
+[Math 1410: Elementary Functions]({{ page.url }}2023/math1410/)
+
+[Math 1420: Calculus I]({{ page.url }}2023/math1420/)
+
+Previous Semesters 
+==================
+
+Fall 2022
+---------
 
 [Math 1316: Plane Trigonometry]({{ page.url }}2022/math1316fall/)
 
 [Math 1410: Elementary Functions]({{ page.url }}2022/math1410/)
 
-Previous Semesters 
-==================
 
 Spring 2022
 -----------
