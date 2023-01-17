@@ -103,6 +103,8 @@ Exam dates:
     * Section 09 (11:00 class): **Monday, 5/8, 10:15–12:15**
 	
     * Section 03 (2:00 class): **Wednesday, 5/10, 3:00–5:00**
+	
+The 1420 instructors have organized bi-weekly calculus study sessions. (See the pdf linked in the announcements section.) To encourage you to attend for the extra calculus practice, each session you attend will net you 2% extra credit on one learning objective for one exam. (The different objectives are weighted equally so for grade calculations it doesn't matter which objective the extra credit is applied to.) For example, if you attended 5 sessions and got 92% on the Formal Understanding learning objective, I would put 102% = 92% + 10% in my gradebook.
 
 Minor Assessment Policy
 =====
@@ -129,6 +131,8 @@ Attendance Policy
 ==========
 
 No portion of your grade is directly based on attendance, but exams are in-person and you do have to be present for them. That said, I strongly advise you to attend every class. Like most math classes, the material in this class builds upon itself, so that if you fall behind early it is very difficult to get back on track.
+
+Attendance will be taken daily. The department wants information about attendance in calculus so we can better understand how to ensure student success. But this will not be used in any way to determine your grade. It's just information gathering.
 
 **If you must miss an exam period please contact me in advance so we can schedule an alternative. It is prohibitively difficult for me to arrange an alternate if you wait to contact me.**
 
