@@ -19,7 +19,7 @@ Class Information
 
 * Section 03: MWF 2:00–3:15 LDB 218
 
-* Section 09: MWF 11:00–12:15 LDB 218
+* Section 09: MWF 11:00–12:15 LDB 400
 
 **Office Hours** TBA
 
