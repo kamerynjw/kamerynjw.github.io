@@ -17,7 +17,7 @@ Class Information
 
 **Class Hours and Room** MWF 8:00–9:15 LDB 208
 
-**Office Hours** WF 9:30--10:30; W 3:30--4:30; or by appointment
+**Office Hours** WF 9:30–10:30; W 3:30–4:30; or by appointment
 
 **Office** LDB 413
 

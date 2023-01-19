@@ -21,7 +21,7 @@ Class Information
 
 * Section 09: MWF 11:00–12:15 LDB 400
 
-**Office Hours** WF 9:30--10:30; W 3:30--4:30; or by appointment
+**Office Hours** WF 9:30–10:30; W 3:30–4:30; or by appointment
 
 **Office** LDB 413
 
