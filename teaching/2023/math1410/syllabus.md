@@ -17,7 +17,7 @@ Class Information
 
 **Class Hours and Room** MWF 8:00–9:15 LDB 208
 
-**Office Hours** TBA
+**Office Hours** WF 9:30--10:30; W 3:30--4:30; or by appointment
 
 **Office** LDB 413
 
@@ -66,7 +66,7 @@ A major purpose for this class is to prepare you with the skills you need to suc
 	
 	* How to read information about a function off its graph
 
-* (D) Function algebra
+* (E) Function algebra
 
     * How functions can be built algebraically from simpler functions
 	
@@ -146,7 +146,7 @@ Communication Policy and Office Hours
 
 Announcements will be posted to the public course website and class discord. I will use blackboard only for the gradebook feature.
 
-There is a discord server for this course, which is a place to contact me, ask questions, and discuss course material with your classmates. You can also email me, but that is less likely to be seen as quickly. If you do email me, please mention the class number (Math 1420) in the subject of the message.
+There is a discord server for this course, which is a place to contact me, ask questions, and discuss course material with your classmates. You can also email me, but that is less likely to be seen as quickly. If you do email me, please mention the class number (Math 1410) in the subject of the message.
 
 Office hours are held multiple times in the week, to give you an opportunity to ask questions and receive help in-person outside of class time. If you prefer to meet virtually via zoom, or to meet at a different time, please contact me to arrange that.
 
