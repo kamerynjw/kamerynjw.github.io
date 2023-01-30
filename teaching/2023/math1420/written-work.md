@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Math 1420 Written Homework Information (Spring 2023)"
-permalink: /teaching/2022/math1420/written-work/
-uplevel: /teaching/2022/math1420/
+permalink: /teaching/2023/math1420/written-work/
+uplevel: /teaching/2023/math1420/
 ---
 
 Here are some guidelines on what to expect for the written homework.
