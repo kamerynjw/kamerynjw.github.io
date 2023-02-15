@@ -107,6 +107,8 @@ Exam dates:
 	
 The 1420 instructors have organized bi-weekly calculus study sessions. (See the pdf linked in the announcements section.) To encourage you to attend for the extra calculus practice, each session you attend will net you 2% extra credit on one learning objective for one exam. (The different objectives are weighted equally so for grade calculations it doesn't matter which objective the extra credit is applied to.) For example, if you attended 5 sessions and got 92% on the Formal Understanding learning objective, I would put 102% = 92% + 10% in my gradebook.
 
+The final is cumulative and also broken up by learning objective. At the end of the semester, I will compare your grade on the learning objectives on the final to your lowest grade on each objective from the midterms. If the final's grade is higher than the lowest midterm grade, then I will replace the midterm grade in the gradebook with the final grade. For example, if you got a 90% on Formal Understanding on the final but your lowest midterm grade for Formal Understanding was 80%, then I would replace the 80% with 90% in my gradebook.
+
 Minor Assessment Policy
 =====
 
