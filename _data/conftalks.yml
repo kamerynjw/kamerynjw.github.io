@@ -1,6 +1,12 @@
 
 # conference talks to display in talks.md
 
+- href: "2023-mar-asl"
+  title: "Non-tightness in class theory"
+  other: "contributed talk, ASL North America Annual Meeting 2023"
+  date: "Mar 2023"
+
+
 - href: "2021-oct-ecw"
   title: "Potentialism about sets, potentialism about classes"
   other: "invited talk, Early Career Researcher Workshop 2021"
