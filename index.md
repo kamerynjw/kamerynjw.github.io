@@ -3,7 +3,7 @@ layout: page
 title: Welcome!
 ---
 
-My name is Kameryn J Williams. I am a mathematician and logician. I am currently a visiting assistant professor in the mathematics and statistics department at [Sam Houston State University](https://www.shsu.edu/academics/mathematics-and-statistics/). My PhD is from [The Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics) of The City University of New York. 
+My name is Kameryn J Williams. I am a mathematician and logician. I am faculty of mathematics at [Bard College at Simon's Rock](https://simons-rock.edu/academics/program-overview/mathematics/index.php). My PhD is from [The Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics) of The City University of New York. 
 
 <center>
 <img src="/pics/kameryn.jpg" width="300" height="400" alt="A picture of me.">
