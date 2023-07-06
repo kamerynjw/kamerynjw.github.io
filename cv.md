@@ -10,11 +10,16 @@ See [here]({{ page.url }}kwilliams-cv.pdf) for a pdf CV with fuller details.
 Academic History
 ====
 
+Bard College at Simon's Rock
+----
+
+Faculty of Mathematics, Division of Science, Computing, and Mathematics
+
 Sam Houston State University
 ----
 Visiting Assistant Professor, Department of Mathematics and Statistics
 
-Fall 2021 to present
+Fall 2021 to Spring 2023
 
 University of Hawaiʻi at Mānoa
 ----
@@ -49,13 +54,15 @@ Publications
 Teaching and Educational Experience
 ====
 
-* (2021–present) Sam Houston State University. Visiting Assistant Professor. I taught undergraduate classes at a variety of levels.
+* (2023–present) Bard College at Simon's Rock. Faculty of Mathematics. 
 
-* (2018–2021) University of Hawaiʻi at Mānoa. Temporary Assistant Professor. As part of my duties I taught classes ranging from freshman calculus to graduate-level.
+* (2021–2023) Sam Houston State University. Visiting Assistant Professor.
 
-* (2017–2018) Bronx Community College, CUNY. Quantitative reasoning fellow. In this interdisciplinary program I partnered with non-mathematics faculty to promote the teaching of quantitative reasoning and the use of mathematics across the curriculum.
+* (2018–2021) University of Hawaiʻi at Mānoa. Temporary Assistant Professor.
 
-* (2013–2017) Brooklyn College, CUNY. Graduate teaching fellow and lecturer. I was instructor of record for my classes, mainly calculus and precalculus. My final year at Brooklyn College I taught classes in their Brooklyn College Academy program, an early college program where high school juniors and seniors take college classes for credit.
+* (2017–2018) Bronx Community College, CUNY. Quantitative reasoning fellow. 
+
+* (2013–2017) Brooklyn College, CUNY. Graduate teaching fellow.
 
 Conference Talks
 ====

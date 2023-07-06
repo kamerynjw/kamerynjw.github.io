@@ -6,6 +6,15 @@
 #  3. other published (e.g. diss)
 #  4. in progress
 
+- href: "non-tightness"
+  authors: "Alfredo Roque Freire and Kameryn J. Williams"
+  title: "Non-tightness in class theory and second-order arithmetic"
+  othercite: "The Journal of Symbolic Logic (to appear)"
+
+- href: "class-potentialism"
+  authors: "Neil Barton and Kameryn J. Williams"
+  title: "Varieties of class-theoretic potentialism"
+  othercite: "The Review of Symbolic Logic (to appear)"
 
 - href: "universal-finite-sequence"
   authors: "Joel David Hamkins and Kameryn J. Williams"
@@ -38,23 +47,12 @@
   title: "Forcing as a computational process"
   othercite: "*preprint* available"
 
-
-- href: "class-potentialism"
-  authors: "Neil Barton and Kameryn J. Williams"
-  title: "Varieties of class-theoretic potentialism"
-  othercite: "*preprint* available"
+  
 
 - href: "momega"
   authors: "Kameryn J. Williams"
   title: "The omega-th inner mantle"
   othercite: "*preprint* available"
-
-- href: "non-tightness"
-  authors: "Alfredo Roque Freire and Kameryn J. Williams"
-  title: "Non-tightness in class theory and second-order arithmetic"
-  othercite: "*preprint* available"
-
-
 
 - href: "diss"
   authors: "Kameryn J. Williams"
