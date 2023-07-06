@@ -7,12 +7,20 @@ permalink: /teaching/
 Current Semester (Spring 2023)
 ================
 
+[Math 210: Calculus I]({{ page.url }}2023/math210/)
+
+[Math 211: Calculus II]({{ page.url }}2023/math211/)
+
+Previous Semesters 
+==================
+
+Spring 2023
+-----------
+
 [Math 1410: Elementary Functions]({{ page.url }}2023/math1410/)
 
 [Math 1420: Calculus I]({{ page.url }}2023/math1420/)
 
-Previous Semesters 
-==================
 
 Fall 2022
 ---------
