@@ -27,7 +27,7 @@ Class Information
 
 **Office Hours** TBA
 
-**Office** TBA
+**Office** 2T Hall College Center
 
 **Textbook** The free online OpenStax text [*Calculus: Volume 1*](https://openstax.org/details/books/calculus-volume-1). ISBN: 978-1-947172-13-5
 

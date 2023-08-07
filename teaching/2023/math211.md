@@ -60,10 +60,10 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 	
     * Week 14: Overspill, review
 	
-Exam dates:
+Important dates:
 
-* Midterm 1: **Friday, Sept 29**
+* **Friday, Sept 29**: Midterm 1 and first diary due
 	
-* Midterm 2: **Friday, Nov 17**
+* **Friday, Nov 17**: Midterm 2 and second diary due
 	
 * Oral Final: Scheduled individually with me, TBA
