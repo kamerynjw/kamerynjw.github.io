@@ -19,9 +19,9 @@ Class Information
 
 **Primary out of class contact** course website or email me
 
-**Class Hours and Room** MWF 1:35-2:30 PM in CL1-01
+**Class Hours and Room** MWF 1:35–2:30 PM in CL1-01
 
-**Office Hours** TBA
+**Office Hours** WF 9:00–10:00, W 2:30–3:30
 
 **Office** 2T, Hall College Center
 

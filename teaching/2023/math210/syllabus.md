@@ -25,7 +25,7 @@ Class Information
 
 * Section B: MWF 11:10-12:05 PM in CL1-01
 
-**Office Hours** TBA
+**Office Hours** WF 9:00–10:00, W 2:30–3:30
 
 **Office** 2T Hall College Center
 
