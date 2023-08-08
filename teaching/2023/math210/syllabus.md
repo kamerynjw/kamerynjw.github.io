@@ -55,7 +55,7 @@ Your learning outcomes for this class will be assessed with exams and homework. 
 
 * **10%**: Metacognition
 
-Grades will be assigned on the standard A through F scale. 
+Grades will be assigned on the standard A through F scale. I reserve the right to make adjustments upward to account for individual circumstance.
 	
 Homework
 ========
