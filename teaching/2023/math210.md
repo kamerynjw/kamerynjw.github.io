@@ -22,6 +22,8 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 In-class Worksheets
 --------
 
+* [9/1: Section 2.2](ws9-1.pdf)
+
 * [8/30: Chapter 1 review](w8-30.pdf)
 
 Schedule
