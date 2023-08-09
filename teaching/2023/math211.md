@@ -17,7 +17,14 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
-(Nothing yet!)
+* *Week 1 (due Monday 9/4):* 1.4 (p73) 209, 210; 1.5 (p90) **255**, 276; 1.6 (p103) 320, **328**; 1.7 (p111) 392; 5, **6**, **9**, **35**.
+
+In-class Worksheets
+--------
+
+* [9/1: Section 2.1](ws9-1.pdf)
+
+* [8/30: Chapter 1 review](ws8-30.pdf)
 
 Schedule
 --------
