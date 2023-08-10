@@ -125,9 +125,9 @@ Mathematics has a reputation for being removed from social concerns and identiti
 Communication Policy and Office Hours
 =============
 
-Announcements will be posted to the course website.
+Announcements and homework will be posted to the course website. For the gradebook we will use google classroom. 
 
-Further specifics TBA.
+The best way to contact me outside of class is by email. Please put "math 211" in the subject line of your email.
 
 Office hours are held multiple times in the week, to give you an opportunity to ask questions and receive help in-person outside of class time. If you prefer to meet at a different time, please contact me to arrange that.
 
