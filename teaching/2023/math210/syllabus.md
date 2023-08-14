@@ -25,9 +25,9 @@ Class Information
 
 * Section B: MWF 11:10-12:05 PM in CL1-01
 
-**Office Hours** TBA
+**Office Hours** WF 9:00–10:00, W 2:30–3:30
 
-**Office** TBA
+**Office** 2T Hall College Center
 
 **Textbook** The free online OpenStax text [*Calculus: Volume 1*](https://openstax.org/details/books/calculus-volume-1). ISBN: 978-1-947172-13-5
 
@@ -55,7 +55,7 @@ Your learning outcomes for this class will be assessed with exams and homework. 
 
 * **10%**: Metacognition
 
-Grades will be assigned on the standard A through F scale. 
+Grades will be assigned on the standard A through F scale. I reserve the right to make adjustments upward to account for individual circumstance.
 	
 Homework
 ========
@@ -129,9 +129,9 @@ Mathematics has a reputation for being removed from social concerns and identiti
 Communication Policy and Office Hours
 =============
 
-Announcements will be posted to the course website.
+Announcements and homework will be posted to the course website. For the gradebook we will use google classroom. 
 
-Further specifics TBA.
+The best way to contact me outside of class is by email. Please put "math 210" in the subject line of your email.
 
 Office hours are held multiple times in the week, to give you an opportunity to ask questions and receive help in-person outside of class time. If you prefer to meet at a different time, please contact me to arrange that.
 
