@@ -10,7 +10,7 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
-(Nothing yet!)
+* [Here]({{ page.url }}day1.pdf) are the introduction slides from day 1.
 
 Homework
 --------
