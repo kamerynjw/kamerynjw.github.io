@@ -47,7 +47,7 @@ Your learning outcomes for this class will be assessed with exams and homework. 
 
 * **20%**: Midterm 2
 
-* **20%**: Oral Final
+* **20%**: Oral Final Discussion
 
 * **10%**: Metacognition
 
@@ -81,10 +81,12 @@ Exam dates:
 
 * Midterm 2: **Friday, 11/17**
 
-Oral Final
+Oral Final Discussion
 ====
 
-The final exam will be an oral exam, scheduled individually with me. Dates TBA.
+In place of a final exam, I will do oral final discussions. These will be individually scheduled, one-on-one sessions in my office. You will demonstrate how you work through a couple problems, and we will discuss how the class went overall.
+
+For the problems: I will provide a problem list before the sessions. For the demonstration I will ask you to demonstrate one problem of your choice plus one problem of my choice.
 
 Metacognition
 =============
@@ -93,7 +95,7 @@ Metacognition is the process of thinking about one's own thought process. This i
 
 A portion of your grade will be based on you demonstrating consistent engagement in metacognitive reflection on your learning. There are two parts to how this is implemented. The two parts are equally weighted, and graded based on completion.
 
-* **Diary** You are expected to keep a diary, either written or electronic, of your reflections on your learning. For Units 1 and 2, you will submit a copy of this to me on the Friday of the end of each unit, by the end of the day. Entries may be short or long, but you should have one per class meeting. In particular, your latest entry should be for that Friday, reflecting on how you feel about the midterm and the unit as a whole. For Unit 3, you will submit this before your oral final.
+* **Diary** You are expected to keep a diary, either written or electronic, of your reflections on your learning. For Units 1 and 2, you will submit a copy of this to me on the Friday of the end of each unit, by the end of the day. Entries may be short or long, but you should have one per class meeting. In particular, your latest entry should be for that Friday, reflecting on how you feel about the midterm and the unit as a whole. For Unit 3, you will submit this before your oral final discussion.
 
 * **Meeting** In the last week of each unit, you are expected to meet with me during office hours to discuss your progress in the class and make sure we are on the same page. You are encouraged to go to office hours outside of this, but it is only the one meeting that counts toward your grade.
 

@@ -29,7 +29,7 @@ In-class Worksheets
 Schedule
 --------
 
-This course is organized into three units. Units 1 and 2 each end in a midterm, while unit 3 ends in an oral final. Homework is assigned weekly (except on exam weeks), and is due Monday the following week.
+This course is organized into three units. Units 1 and 2 each end in a midterm, while unit 3 ends in an oral final discussion. Homework is assigned weekly (except on exam weeks), and is due Monday the following week.
 
 The schedule below is tentative; we might have small adjustments in the dates. For each week I've included which sections from the textbook we will be covering.
 
@@ -73,4 +73,4 @@ Important dates:
 	
 * **Friday, Nov 17**: Midterm 2 and second diary due
 	
-* Oral Final: Scheduled individually with me, TBA
+* Oral Final Discussion: Scheduled individually with me, TBA
