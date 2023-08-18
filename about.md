@@ -14,7 +14,7 @@ Hi! I am a logician and mathematician, currently at the Department of Mathematic
 
 When citing me or otherwise talking about me in professional contexts, please use they/them/their for pronouns.
 
-My research interests specialize in set theory, with much of my work motivated by aspects of the multiversist view of set theory, advocated by Hamkins and others. Outside of pure set theory, I'm interested in its connections to other areas of logic and to philosophy of mathematics. For my teaching, while logic is an interdiscpilinary subject, so far I have only had opportunity to teach in mathematics departments. In such, I've taught a broad range of classes, from freshman pre-calculus to the graduate level.
+My research interests specialize in set theory, with much of my work motivated by aspects of the multiversist view of set theory, advocated by Hamkins and others. Outside of pure set theory, I'm interested in its connections to other areas of logic and to philosophy of mathematics. For my teaching, while logic is an interdisciplinary subject, so far I have only had opportunity to teach in mathematics departments. In such, I've taught a broad range of classes, from freshman pre-calculus to the graduate level.
 
 Some miscellaneous factoids:
 
