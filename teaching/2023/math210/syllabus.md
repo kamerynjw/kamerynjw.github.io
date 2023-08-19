@@ -38,7 +38,7 @@ Class Information
 Learning Outcomes
 ========
 
-This is the first semester in the calculus sequence. We will cover limits, continuity, derivatives, and an introduction to integrals. When you leave this class you should be able to calculate derivatives and some integrals, have a strong conceptual understanding of the important notions of calculus, and understand how these notions are formalized mathematically.
+This is the first semester in the calculus sequence. We will cover limits, continuity, derivatives, and an introduction to integrals. When you leave this class you should be able to calculate derivatives and some integrals, demonstrate a strong conceptual understanding of the important notions of calculus, and explain how these notions are formalized mathematically.
 
 Grading Policy
 =======
