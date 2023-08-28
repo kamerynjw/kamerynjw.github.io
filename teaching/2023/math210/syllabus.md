@@ -4,7 +4,6 @@ title: "Math 210 Syllabus (Fall 2023)"
 permalink: /teaching/2023/math210/syllabus/
 ---
 
-THIS SYLLABUS IS TENTATIVE; SOME DETAILS MIGHT CHANGE BEFORE THE FINAL VERSION.
 
 Class Information
 =====

@@ -4,7 +4,6 @@ title: "Math 211 Syllabus (Fall 2023)"
 permalink: /teaching/2023/math211/syllabus/
 ---
 
-THIS SYLLABUS IS TENTATIVE; SOME DETAILS MIGHT CHANGE BEFORE THE FINAL VERSION.
 
 Class Information
 =====
