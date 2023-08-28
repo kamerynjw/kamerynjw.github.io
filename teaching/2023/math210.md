@@ -35,7 +35,7 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 
 * Unit 1 (8/28–9/29): **Limits, continuity, and introduction to the derivative**
 
-    * Week 1: Introduction, the concept of the limit [2.2]
+    * Week 1: Introduction, the concept of the limit [Ch 1, 2.2]
 	
     * Week 2: Limit laws, continuity [2.3, 2.4, 4.6]
 	
