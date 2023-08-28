@@ -41,7 +41,7 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 	
     * Week 3: Arc length, surface area, applications to physics [2.4, 2.5]
 	
-    * Week 4: Moments, center of pass, integration and logarithms [2.6, 2.7, 2.8]
+    * Week 4: Moments, center of mass, integration and logarithms [2.6, 2.7, 2.8]
 	
     * Week 5: Overspill, review, exam
 	
