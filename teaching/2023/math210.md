@@ -34,6 +34,12 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 In-class Worksheets
 --------
 
+* [9/8: Section 2.4](w9-8.pdf)
+
+* [9/6: Sections 2.3 & 4.6](w9-6.pdf)
+
+* [9/4: Section 2.3](w9-4.pdf)
+
 * [9/1: Section 2.2](w9-1.pdf)
 
 * [8/30: Chapter 1 review](w8-30.pdf)
