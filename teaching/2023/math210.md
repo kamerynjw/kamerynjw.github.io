@@ -27,7 +27,7 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
     4.6 (p436) 261, **266**, 279, 287
 
-    2.4 (p191) 133, **141**, 145, 161, 165, **167**
+    2.4 (p191) 133, **141**, 145, 158, 161
 
 * *Week 1 (due Monday 9/4):*
 
