@@ -15,7 +15,19 @@ Announcements
 Homework
 --------
 
-For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
+For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
+
+* *Week 2 (due Monday 9/11):*
+
+    2.3 (p176) 87, 91, **93**, 99, **102**, 106, 108
+
+    *** Use the limit rules in Theorem 2.5 (p161) to compute the limit $\lim\_{x \to 3} (2x - 1)^2$. Give a step by step argument, identifying the rule used at each step.
+
+    *** Use the squeeze theorem to compute the limit $\lim\_{x \to 0} x^2 \cos(1/x)$. Give your answer as a paragraph along with your calculations, explaining why your calculations demonstrate what the limit is.
+
+    4.6 (p436) 261, **266**, 279, 287
+
+    2.4 (p191) 133, **141**, 145, 161, 165, **167**
 
 * *Week 1 (due Monday 9/4):*
 
