@@ -40,9 +40,9 @@ In-class Worksheets
 
 * [9/8: Section 2.3](ws9-8.pdf)
 
-* [9/1: Section 2.2](ws9-6.pdf)
+* [9/6: Section 2.2](ws9-6.pdf)
 
-* [9/1: Section 2.2](ws9-4.pdf)
+* [9/4: Section 2.2](ws9-4.pdf)
 
 * [9/1: Section 2.1](ws9-1.pdf)
 
