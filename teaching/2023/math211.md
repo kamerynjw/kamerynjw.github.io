@@ -10,7 +10,7 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
-(Nothing yet!)
+* The tutor for calc 2, Cathy Zhang, will be holding review sessions on Fridays 6–7pm. 
 
 Homework
 --------
