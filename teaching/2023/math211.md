@@ -17,6 +17,12 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 3 (due Monday 9/18):*
+
+    2.4 (p180) 166, **168**, 170, 176, 180, 185, **196**, 205, **216**
+
+    2.5 (p199) 223, **226**, 239
+
 * *Week 2 (due Monday 9/11):*
 
     2.2 (p150) 62, **68**, 75, **77**, 83, 88, **100**
@@ -37,6 +43,12 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
 In-class Worksheets
 --------
+
+* [9/15: Section 2.5](ws9-15.pdf)
+
+* [9/13: Section 2.4](ws9-14.pdf)
+
+* [9/11: Section 2.4](ws9-11.pdf)
 
 * [9/8: Section 2.3](ws9-8.pdf)
 
