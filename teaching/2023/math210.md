@@ -17,6 +17,14 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 3 (due Monday 9/18)*:
+
+   2.4 (p191) 163, 164, 165
+
+   3.1 (p228) 13, **14**, **16**, **44**
+
+   3.2 (p243) 54, **62**, 66, 67, 78, **96**, 97
+
 * *Week 2 (due Monday 9/11):*
 
     2.3 (p176) 87, 91, **93**, 99, **102**, 106, 108
@@ -46,6 +54,12 @@ For each assignment I will pick among the bolded or starred problems to grade an
 In-class Worksheets
 --------
 
+* [9/15: Section 3.2](w9-15.pdf)
+
+* [9/13: Section 3.1](w9-13.pdf)
+
+* [9/11: Section 2.4](w9-11.pdf)
+
 * [9/8: Section 2.4](w9-8.pdf)
 
 * [9/6: Sections 2.3 & 4.6](w9-6.pdf)
@@ -69,7 +83,7 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 	
     * Week 2: Limit laws, continuity [2.3, 4.6, 2.4]
 	
-    * Week 3: Precise defintions of limits and derivatives [2.5, 3.1, 3.2]
+    * Week 3: The IVT, the definition of the derivative [2.5, 3.1, 3.2]
 	
     * Week 4: Rules for differentiating [3.3, 3.5, 3.6, 3.7, 3.9]
 	
