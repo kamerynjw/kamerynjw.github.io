@@ -19,7 +19,7 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 * *Week 3 (due Monday 9/18)*:
 
-   2.4 (p191) 163, 164, 165
+   2.4 (p191) 133, **141**, 145, 163, 164, 165
 
    3.1 (p228) 13, **14**, **16**, **44**
 
@@ -35,7 +35,7 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
     4.6 (p436) 261, **266**, 279, 287
 
-    2.4 (p191) 133, **141**, 145, 158, 161
+    2.4 (p191) 158(i--iii only), 161
 
 * *Week 1 (due Monday 9/4):*
 
