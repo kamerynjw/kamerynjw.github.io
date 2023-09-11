@@ -10,6 +10,8 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* The tutor for calc 1, Theo Lack, will be hodling review sessions on Sunday 6–7.
+
 * [Here]({{ page.url }}day1.pdf) are the introduction slides from day 1.
 
 Homework
