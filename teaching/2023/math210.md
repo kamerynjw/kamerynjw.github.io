@@ -21,6 +21,24 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 4 (due Monday 9/25)*:
+
+   *** Use the limit definition of the derivative to show that the derivative of $\sqrt x$ is $\frac{1}{2\sqrt x}$.
+
+   *** Use the quotient rule and the rules for the derivatives of $\sin x$ and $\cos x$ to determine the derivatives of $\sec x$ and $\cot x$.
+
+   *** Use the chain rule and the product rule to derive the quotient rule.
+
+   3.3 (p263) 106, 110, 114, 115
+
+   3.5 (p285) **192**, 195
+
+   3.6 (p297) 218, 220, **234**
+
+   3.7 (p306) 280, 283
+
+   3.9 (p331) 331, **338**
+
 * *Week 3 (due Monday 9/18)*:
 
    2.4 (p191) 133, **141**, 145, 163, 164, 165
