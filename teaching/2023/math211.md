@@ -21,7 +21,7 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
     2.6 (p217) 261, 262, **268**
 
-    *** The *uniform* probability distribution on an interval $[a,b]$ is the one given by the distribution function $\rho(x) = \frac{1}{b-a}$, with the domain $a \le x \le b$. Check that this really is a probability distribution function and determine its mean. Write a sentence or two giving an intuitive explanation for why its mean should be what you calculated.
+    *** The uniform probability distribution on an interval $[a,b]$ is the one given by the distribution function $\rho(x) = \frac{1}{b-a}$, with the domain $a \le x \le b$. Check that this really is a probability distribution function and determine its mean. Write a sentence or two giving an intuitive explanation for why its mean should be what you calculated.
 
     2.7 (p230) 296, 298, 299, **322**, **332**, 333
 
