@@ -10,6 +10,8 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* [Here]({{ page.url }}diff-rules.pdf) is a sheet of the rules for derivatives. (Note: These rules are spread across sections 3.3, 3.5, 3.6, 3.7, and 3.9 of the textbook.)
+
 * The tutor for calc 1, Theo Lack, will be hodling review sessions on Sunday 6–7.
 
 * [Here]({{ page.url }}day1.pdf) are the introduction slides from day 1.
@@ -55,6 +57,12 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [9/22: Rules for Derivatives 3](w9-22.pdf)
+
+* [9/20: Rules for Derivatives 2](w9-20.pdf)
+
+* [9/18: Rules for Derivatives 1](w9-18.pdf)
 
 * [9/15: Section 3.2](w9-15.pdf)
 
