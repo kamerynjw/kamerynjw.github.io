@@ -10,6 +10,10 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
+* **Remember that the first midterm is Friday, September 29th.**
+
+* [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
+
 * The tutor for calc 2, Cathy Zhang, will be holding review sessions on Fridays 6–7pm. 
 
 Homework
