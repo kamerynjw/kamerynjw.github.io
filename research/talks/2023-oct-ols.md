@@ -5,7 +5,7 @@ permalink: /research/talks/2023-oct-ols/
 excerpt: "This is a talk in the Online Logic Seminar on 2023 October 5..."	
 ---
 
-This is a talk in the [Online Logic Seminar](http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html) on 2023 October 15.
+This is a talk in the [Online Logic Seminar](http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html) on 2023 October 5.
 
 <!-- [[slides]({{ page.url }}tight.pdf)] -->
 
