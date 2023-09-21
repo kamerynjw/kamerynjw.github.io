@@ -10,6 +10,10 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* **Remember that the first midterm is Friday, September 29th.**
+
+* [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
+
 * [Here]({{ page.url }}diff-rules.pdf) is a sheet of the rules for derivatives. (Note: These rules are spread across sections 3.3, 3.5, 3.6, 3.7, and 3.9 of the textbook.)
 
 * The tutor for calc 1, Theo Lack, will be hodling review sessions on Sunday 6–7.
