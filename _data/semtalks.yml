@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2023-oct-ols"
+  title: "Interpretations and bi-interpretations in second-order arithmetic"
+  other: "Online Logic Seminar"
+  date: "Oct 2023"
+
 - href: "2023-feb-shsu"
   title: "The universal algorithm, the universal finite sequence, and potentialism"
   other: "SHSU Colloquium"
