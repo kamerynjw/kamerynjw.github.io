@@ -10,6 +10,8 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
+* For the midterm, you will get a formula sheet with the formulas for arc length and surface area. For the other formulas you need: if you can remember the picture for breaking the problem up into infinitely small pieces, that picture gives you the formula.
+
 * **Remember that the first midterm is Friday, September 29th.**
 
 * [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
