@@ -25,6 +25,8 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 5:* No homework due to midterm Friday.
+
 * *Week 4 (due Monday 9/25):*
 
     2.6 (p217) 261, 262, **268**
