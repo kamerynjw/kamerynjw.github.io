@@ -10,7 +10,7 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
-* (9/25) For the midterm week I am holding extra office hours. In addition to the times on the syllabus, I'll be in my office M 2:30–3:30, T 9:00–11:00, W 8:30–9:00.
+* (9/25) For the midterm week I am holding extra office hours. In addition to the times on the syllabus, I'll be in my office M 2:30–3:30, T 9:00–11:00, W 8:30–9:00 and 3:30–4:00.
 
 * (9/19) **Remember that the first midterm is Friday, September 29th.**
 
