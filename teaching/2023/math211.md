@@ -10,13 +10,15 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
-* For the midterm, you will get a formula sheet with the formulas for arc length and surface area. For the other formulas you need: if you can remember the picture for breaking the problem up into infinitely small pieces, that picture gives you the formula.
+* (9/25) For the midterm week I am holding extra office hours. In addition to the times on the syllabus, I'll be in my office M 2:30–3:30, T 9:00–11:00, W 8:30–9:00.
 
-* **Remember that the first midterm is Friday, September 29th.**
+* (9/22) For the midterm, you will get a formula sheet with the formulas for arc length and surface area. For the other formulas you need: if you can remember the picture for breaking the problem up into infinitely small pieces, that picture gives you the formula.
 
-* [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
+* (9/19) **Remember that the first midterm is Friday, September 29th.**
 
-* The tutor for calc 2, Cathy Zhang, will be holding review sessions on Fridays 6–7pm. 
+* (9/19) [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
+
+* (9/11) The tutor for calc 2, Cathy Zhang, will be holding review sessions on Fridays 6–7pm. 
 
 Homework
 --------

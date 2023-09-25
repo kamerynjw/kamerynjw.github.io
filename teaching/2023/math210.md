@@ -10,15 +10,17 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
-* **Remember that the first midterm is Friday, September 29th.**
+* (9/25) For the midterm week I am holding extra office hours. In addition to the times on the syllabus, I'll be in my office M 2:30–3:30, T 9:00–11:00, W 8:30–9:00.
 
-* [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
+* (9/19) **Remember that the first midterm is Friday, September 29th.**
 
-* [Here]({{ page.url }}diff-rules.pdf) is a sheet of the rules for derivatives. (Note: These rules are spread across sections 3.3, 3.5, 3.6, 3.7, and 3.9 of the textbook.)
+* (9/19) [Here]({{ page.url }}sg1.pdf) is a study guide for the first midterm.
 
-* The tutor for calc 1, Theo Lack, will be hodling review sessions on Sunday 6–7.
+* (9/18) [Here]({{ page.url }}diff-rules.pdf) is a sheet of the rules for derivatives. (Note: These rules are spread across sections 3.3, 3.5, 3.6, 3.7, and 3.9 of the textbook.)
 
-* [Here]({{ page.url }}day1.pdf) are the introduction slides from day 1.
+* (9/11) The tutor for calc 1, Theo Lack, will be hodling review sessions on Sunday 6–7.
+
+* (8/28) [Here]({{ page.url }}day1.pdf) are the introduction slides from day 1.
 
 Homework
 --------
