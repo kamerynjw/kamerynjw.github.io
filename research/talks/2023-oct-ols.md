@@ -7,7 +7,7 @@ excerpt: "This is a talk in the Online Logic Seminar on 2023 October 5..."
 
 This is a talk in the [Online Logic Seminar](http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html) on 2023 October 5.
 
-<!-- [[slides]({{ page.url }}tight.pdf)] -->
+[[slides]({{ page.url }}bi-int.pdf)]
 
 The notion of tightness, introduced by Visser, gives a notion of semantic completeness for a theory. Specifically, a theory *T* is tight if any two distinct extensions of *T* cannot be bi-interpretable. Important foundational theories like PA and ZF are tight. Consequently interpretations of extensions of these theories must lose information. For example, ZF + ¬AC can interpret ZFC by restricting to the constructible universe while ZFC can interpret ZF + ¬AC via, essentially, forcing. But these interpretations destroy information about the original universe, and the tightness of ZF implies there are no alternative interpretations which avoid this problem.
 
