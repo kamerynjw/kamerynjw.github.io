@@ -27,6 +27,16 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 6 (due Monday 10/16):*
+
+    3.1 (p270) 6, 7, **16**, 41
+
+    *** Can you use integration by parts to evaluate $\int x^{1000}e^x \,\mathrm{d}x$? If so, explain what the process would be and why you know your process would eventually give an answer. If not, explain why the process won't ever give an answer. (Please don't actually try to compute this integral!)
+
+   *** Same question but for $\int e^x \ln x \,\mathrm{d}x$. (Again, please don't try to actually compute it!)
+
+   3.2 (p283) 73, **74**, **96**, 121, **124**, 125
+
 * *Week 5:* No homework due to midterm Friday.
 
 * *Week 4 (due Monday 9/25):*
@@ -65,6 +75,12 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
 In-class Worksheets
 --------
+
+* [10/13: Section 3.2](ws10-13.pdf)
+
+* [10/11: Section 3.1](ws10-11.pdf)
+
+* [10/9: Section 3.1](ws10-9.pdf)
 
 * [9/22: Section 2.8](ws9-22.pdf)
 
