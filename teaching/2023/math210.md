@@ -29,6 +29,16 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 6 (due Monday 10/16)*:
+
+   *** Do (A) of [the 10/9 worksheet](w10-9.pdf).
+
+   *** Do (B) of [the 10/9 worksheet](w10-9.pdf).
+
+   3.8 (p317) 302, 307, **312**, **328**
+
+   3.9 (p331) 346, **348**, 351, 357
+
 * *Week 5:* No homework due to midterm Friday.
 
 * *Week 4 (due Monday 9/25)*:
@@ -85,6 +95,12 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [10/13: Rules for Derivatives 3](w10-13.pdf)
+
+* [10/11: Rules for Derivatives 3](w10-11.pdf)
+
+* [10/9: Rules for Derivatives 3](w10-9.pdf)
 
 * [9/22: Rules for Derivatives 3](w9-22.pdf)
 
