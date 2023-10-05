@@ -10,6 +10,10 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (10/5) You have a chance to make up lost points on the last two questions of the midterm. **For each problem, if you want to earn points you lost on the midterm: do both parts of the problem and submit it to me by Friday, 10/13.** If you give full correct solutions to both parts then I will update your exam grade to give you full points for the problem. Remember, the point of these problems is for you to understand the process from which the rules for derivatives come from. I will not give you points if you don't show all steps of the process. See [here](problems10-11.pdf) for a clean pdf with just those two problems.
+
+* (10/5) [Here](e1answers.pdf) is the answer key for midterm 1, excluding the last two problems.
+
 * (9/27) To turn in your unit 1 metacognition diary on Friday, 9/29: after the exam you should have one final entry, reflecting on the unit as a whole. After you finish that, either email me your diary or drop off a physical copy at my office. (If I'm not there, leave it in the mailbox.)
 
 * (9/25) For the midterm week I am holding extra office hours. In addition to the times on the syllabus, I'll be in my office M 2:30–3:30, T 9:00–11:00, W 8:30–9:00 and 3:30–4:00.
