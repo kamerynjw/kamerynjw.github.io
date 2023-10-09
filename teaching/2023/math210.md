@@ -100,11 +100,11 @@ For each assignment I will pick among the bolded or starred problems to grade an
 In-class Worksheets
 --------
 
-* [10/13: Rules for Derivatives 3](w10-13.pdf)
+* [10/13: Section 3.9](w10-13.pdf)
 
-* [10/11: Rules for Derivatives 3](w10-11.pdf)
+* [10/11: Section 3.8](w10-11.pdf)
 
-* [10/9: Rules for Derivatives 3](w10-9.pdf)
+* [10/9: Section 3.4](w10-9.pdf)
 
 * [9/22: Rules for Derivatives 3](w9-22.pdf)
 
