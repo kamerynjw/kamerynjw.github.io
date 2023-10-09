@@ -37,7 +37,7 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
    *** Do (A) of [the 10/9 worksheet](w10-9.pdf).
 
-   *** Do (B) of [the 10/9 worksheet](w10-9.pdf).
+   *** OR: Do (B) of [the 10/9 worksheet](w10-9.pdf).
 
    3.8 (p317) 302, 307, **312**, **328**
 
