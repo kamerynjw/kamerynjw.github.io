@@ -41,9 +41,9 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
    4.8 (p470) **358**, 359, 360, 362, **388**
 
-   *** Check that if $a < b$ are positive numbers then a runtime of $O(n^a)$ is faster than a runtime of $O(n^b)$.
+   *** Check that if $a < b$ are positive numbers then a runtime of $O(n^a)$ is asymptotically faster than a runtime of $O(n^b)$.
 
-   *** Check that if $a$ is any positive number then a runtime of $O(\log n)$ is faster than a runtime of $O(n^a)$.
+   *** Check that if $a$ is any positive number then a runtime of $O(\log n)$ is asymptotically faster than a runtime of $O(n^a)$.
 
    4.4 (p388) 148, 149.
 
