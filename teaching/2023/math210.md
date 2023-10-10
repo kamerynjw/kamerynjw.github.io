@@ -33,6 +33,20 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 7 (due Monday 10/23)*:
+
+   4.1 (p350) 2, **4**, 9, 10
+
+   *** do (1) of [the 10/16 worksheet](w10-16.pdf).
+
+   4.8 (p470) **358**, 359, 360, 362, **388**
+
+   *** Check that if $a < b$ are positive numbers then a runtime of $O(n^a)$ is faster than a runtime of $O(n^b)$.
+
+   *** Check that if $a$ is any positive number then a runtime of $O(\log n)$ is faster than a runtime of $O(n^a)$.
+
+   4.4 (p388) 148, 149.
+
 * *Week 6 (due Monday 10/16)*:
 
    *** Do (A) of [the 10/9 worksheet](w10-9.pdf).
@@ -99,6 +113,10 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [10/18: Section 4.8](w10-18.pdf)
+
+* [10/16: Section 4.1](w10-16.pdf)
 
 * [10/13: Section 3.9](w10-13.pdf)
 

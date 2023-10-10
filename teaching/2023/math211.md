@@ -86,6 +86,10 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 In-class Worksheets
 --------
 
+* [10/18 and 10/20: Section 3.4](ws10-18.pdf)
+
+* [10/16: Section 3.7](ws10-16.pdf)
+
 * [10/13: Section 3.2](ws10-13.pdf)
 
 * [10/11: Section 3.1](ws10-11.pdf)
