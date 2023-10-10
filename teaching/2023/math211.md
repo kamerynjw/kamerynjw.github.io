@@ -141,7 +141,7 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 
     * Week 6: Integration by parts, trig integrals [3.1, 3.2]
 	
-    * Week 7: Trig substitution, partial fractions, improper integrals [3.3, 3.4, 3.7]
+    * Week 7: Improper integrals, partial fractions [3.4, 3.7]
 	
     * Week 8: Intro to sequences and series [5.1, 5.2, 5.3]
 	
