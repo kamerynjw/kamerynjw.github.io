@@ -33,7 +33,7 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
     3.7 (p343) 348, 353, 355, **358**, 401, **404**.
 
-    3.4 (p308) **184**, 190, **198**, 199, 211.
+    3.4 (p308) **184**, 190, **198**, 199.
 
     *** Without actually computing it, explain the steps you would take to evaluate the integral $\int_{-1}^1 \frac{x^5 + 5x}{(x^2 - 4)^2(x^2 + 4)} \,\mathrm{d}x$. As part of your answer, determine the denominators that appear in the partial fraction decomposition (but don't compute their numerators!). And explain for each term in the partial fraction decomposition what method you would use to integrate that part.
 
