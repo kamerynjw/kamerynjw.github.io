@@ -35,6 +35,16 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 8 (due Monday 10/30)*:
+
+   4.3 (p376) **90**, 93, 95, **140**
+
+   *** Find the numbers $x$ and $y$, subject to the constraint that the two numbers are both non-negative and sum to $15$, which maximize the quantity $x^2y$. [Hint: If you can describe that quantity in terms of just $x$ then you want to find the maximum on the interval $[0,15]$.]
+
+   4.5 (p403) 194, 196, 206, 219, **220**, **226**
+
+   4.7 (p452) **324**
+
 * *Week 7 (due Monday 10/23)*:
 
    4.1 (p350) 2, **4**, 9, 10
@@ -115,6 +125,10 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [10/27: Section 4.5](w10-27.pdf)
+
+* [10/23: Section 4.3](w10-23.pdf)
 
 * [10/18: Section 4.8](w10-18.pdf)
 
