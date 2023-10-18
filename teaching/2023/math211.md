@@ -29,6 +29,16 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 8 (due Monday 10/30):*
+
+   5.1 (p447) **2**, 3, 29, **32**, 38
+
+   5.2 (p466) 68, 70, **80**, 87, 88, **90**
+
+   *** Write the number $0.142857142857\ldots$ as a geometric series, and use this to write it as a fraction.
+
+   *** Determine whether the series $\sum_{n=1}^\infty \frac{1}{\sqrt n}$ converges or diverges by comparing it to an appropriate improper integral.
+
 * *Week 7 (due Monday 10/23):*
 
     3.7 (p343) 348, 353, 355, **358**, 401, **404**.
@@ -85,6 +95,8 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
 In-class Worksheets
 --------
+
+* [10/27: Sections 5.2 and 5.3](ws10-27.pdf)
 
 * [10/18 and 10/20: Section 3.4](ws10-18.pdf)
 
