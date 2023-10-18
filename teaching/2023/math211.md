@@ -10,6 +10,8 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
+* (10/18) If you want to know more about what Galois did to show the unsolvability of the quintic and aren't happy with a brief "this would be an entire algebra class", the [wikipedia page for Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois#Galois_theory) has a short statement of what he showed. And clicking some of the links will give you an idea of how much theory needs to be built up to get at Galois's proof.
+
 * (10/5) [Here](e1answers.pdf) is the answer key for midterm 1.
 
 * (9/27) To turn in your unit 1 metacognition diary on Friday, 9/29: after the exam you should have one final entry, reflecting on the unit as a whole. After you finish that, either email me your diary or drop off a physical copy at my office. (If I'm not there, leave it in the mailbox.)
