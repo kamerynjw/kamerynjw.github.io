@@ -10,6 +10,8 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (10/23) Remember there is no class Wednesday 10/25.
+
 * (10/18) [Here]({{ page.url }}e1-fullanswers.pdf) is the full answer key for midterm 1, including the two problems from the make-up.
 
 * (10/16) [Here]({{ page.url }}answers10-9.pdf) is an answer key to the 10-9 worksheet.

@@ -10,6 +10,8 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
+* (10/23) Remember there is no class Wednesday 10/25.
+
 * (10/18) If you want to know more about what Galois did to show the unsolvability of the quintic and aren't happy with a brief "this would be an entire algebra class", the [wikipedia page for Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois#Galois_theory) has a short statement of what he showed. And clicking some of the links will give you an idea of how much theory needs to be built up to get at Galois's proof.
 
 * (10/5) [Here](e1answers.pdf) is the answer key for midterm 1.
