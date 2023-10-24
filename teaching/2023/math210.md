@@ -39,6 +39,14 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 9 (due Monday 11/5)*:
+
+   4.10 (p497) 466, 468, **470**, **478**, 481, 484
+
+   *** Consider the sum, for different values of $N$, given as $\displaystyle \sum_{i=1}^N \frac1{2^i}$. Compute the values of this sum for $N = 2, 3, 4, 5$. Work out a general formula for the sum for arbitrary $N$.
+
+   5.1 (p523) 14, **20**, **24**, 36
+
 * *Week 8 (due Monday 10/30)*:
 
    4.3 (p376) **90**, 93, 95, **140**
@@ -129,6 +137,12 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [11/3: Section 5.1](w11-3.pdf)
+
+* [11/1: Section 5.1](w11-1.pdf)
+
+* [10/30: Section 4.10](w10-30.pdf)
 
 * [10/27: Section 4.5](w10-27.pdf)
 
