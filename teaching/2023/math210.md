@@ -39,7 +39,7 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
-* *Week 9 (due Monday 11/5)*:
+* *Week 9 (due Monday 11/6)*:
 
    4.10 (p497) 466, 468, **470**, **478**, 481, 484
 
