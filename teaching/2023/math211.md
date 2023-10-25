@@ -33,6 +33,16 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 9 (due Monday 11/6):*
+
+   5.3 (p482) 144, 153, **161**
+
+   5.4 (p493) **198**, 211, **218**, 246
+
+   5.5 (p505) 250, **264**, 298, **299**
+
+   5.6 (p522) 323, **332**, **341**
+
 * *Week 8 (due Monday 10/30):*
 
    5.1 (p447) **2**, 3, 29, **32**, 38
@@ -99,6 +109,12 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
 In-class Worksheets
 --------
+
+* [11/3: Section 5.6](ws11-3.pdf)
+
+* [11/1: Section 5.5](ws11-1.pdf)
+
+* [10/30: Section 5.4](ws10-30.pdf)
 
 * [10/27: Sections 5.2 and 5.3](ws10-27.pdf)
 
