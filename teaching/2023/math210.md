@@ -10,6 +10,8 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (10/27) If you want to play around with the Desmos graph for the quadratic with its tangent lines, you can find it [here](https://www.desmos.com/calculator/enemqzaqo5).
+
 * (10/23) Remember there is no class Wednesday 10/25.
 
 * (10/18) [Here]({{ page.url }}e1-fullanswers.pdf) is the full answer key for midterm 1, including the two problems from the make-up.
