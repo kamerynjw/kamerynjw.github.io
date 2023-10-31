@@ -41,6 +41,14 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 10 (due Monday 11/13)*:
+
+   5.2 (p544) 71, 73, **78**, 88, 90, 92
+
+   5.3 (p562) 144, 146, 150, **155**, 170, **172**, **174**, 186
+
+   *** Let $k$ be an arbitrary positive integer. Figure out formulas in terms of $k$ which give the values of the definite integrals $\displaystyle \int_0^1 x^k \, \mathrm{d} x$ and $\displaystyle \int_{-1}^1 x^k \, \mathrm{d} x$.
+   
 * *Week 9 (due Monday 11/6)*:
 
    4.10 (p497) 466, 468, **470**, **478**, 481, 484
@@ -139,6 +147,13 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [11/10: Section 5.3](w11-10.pdf)
+
+* [11/8: Section 5.3](w11-8.pdf)
+
+* [11/6: Section 5.2](w11-6.pdf)
+
 
 * [11/3: Section 5.1](w11-3.pdf)
 
