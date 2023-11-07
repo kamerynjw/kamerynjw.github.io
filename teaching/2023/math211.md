@@ -10,6 +10,10 @@ permalink: /teaching/2023/math211/
 Announcements
 -------------
 
+* (11/7) **Remember that the second midterm is Friday, November 17th.** You will also need to turn in your unit 2 metacognition on the 17th after the exam, and you will need to do a check-in with me during office hours that week.
+
+* (11/7) [Here]({{ page.url }}sg2.pdf) is a study guide for the second midterm. You are allowed a one-page note sheet for the exam; see the study guide for full information. 
+
 * (10/23) Remember there is no class Wednesday 10/25.
 
 * (10/18) If you want to know more about what Galois did to show the unsolvability of the quintic and aren't happy with a brief "this would be an entire algebra class", the [wikipedia page for Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois#Galois_theory) has a short statement of what he showed. And clicking some of the links will give you an idea of how much theory needs to be built up to get at Galois's proof.
