@@ -10,6 +10,10 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (11/7) **Remember that the second midterm is Friday, November 17th.** You will also need to turn in your unit 2 metacognition on the 17th after the exam, and you will need to do a check-in with me during office hours that week.
+
+* (11/7) [Here]({{ page.url }}sg2.pdf) is a study guide for the second midterm. You are allowed a note card for the exam; see the study guide for full information. 
+
 * (10/27) If you want to play around with the Desmos graph for the quadratic with its tangent lines, you can find it [here](https://www.desmos.com/calculator/enemqzaqo5).
 
 * (10/23) Remember there is no class Wednesday 10/25.
