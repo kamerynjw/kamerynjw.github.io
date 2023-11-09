@@ -1,6 +1,12 @@
 
 # seminar talks to display in talks.md
 
+- href: "2023-nov-taters"
+  title: "A nonstandard approach to integer combinatorics"
+  other: "Boise State TATERS"
+  date: "Nov 2023"
+
+
 - href: "2023-oct-ols"
   title: "Interpretations and bi-interpretations in second-order arithmetic"
   other: "Online Logic Seminar"
