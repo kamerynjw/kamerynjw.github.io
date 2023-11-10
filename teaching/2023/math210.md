@@ -10,6 +10,16 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (11/10) I'm holding extra office hours the week of the midterm, so you have plenty of opportunity for last minute questions before the exam and for your metacognition meetings:
+
+    Monday 8:30–9:30, 2:30–3:30
+    
+    Tuesday 2:00–4:00
+    
+    Wednesday 8:30–10:00, 2:30–4:00
+    
+    Friday 9:00–10:00
+
 * (11/7) **Remember that the second midterm is Friday, November 17th.** You will also need to turn in your unit 2 metacognition on the 17th after the exam, and you will need to do a check-in with me during office hours that week.
 
 * (11/7) [Here]({{ page.url }}sg2.pdf) is a study guide for the second midterm. You are allowed a note card for the exam; see the study guide for full information. 
