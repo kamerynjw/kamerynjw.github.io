@@ -55,6 +55,26 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 12 (due Monday 12/4)*:
+
+   5.4 (p575) **216**, 224, 231
+
+   5.5 (p592) 254, 255, 262, **274**, **282**, **292**, 296
+
+   *** A common form where you use substitution is when $u = kx$ for some constant $k$. In this problem you will work out the general rule for what to do in this situation.
+
+   * If $u = kx$ determine $\mathrm{d}u$.
+
+   * What is $\displaystyle \int e^{2x} \,\mathrm{d}x$?
+
+   * What is $\displaystyle \int e^{kx} \,\mathrm{d}x$? ($k$ is a fixed constant)
+
+   * What is $\displaystyle \int \sin(kx) \,\mathrm{d}x$?
+
+   * What is the general rule to calculate $\displaystyle \int f(kx) \,\mathrm{d}x$, if $f$ is some function?
+
+* *Week 11:* No homework due to exam.
+
 * *Week 10 (due Monday 11/13)*:
 
    5.2 (p544) 71, 73, **78**, 88, 90, 92
@@ -162,12 +182,17 @@ For each assignment I will pick among the bolded or starred problems to grade an
 In-class Worksheets
 --------
 
+* [12/1: Section 5.5](w12-1.pdf)
+
+* [11/29: Section 5.5](w11-29.pdf)
+
+* [11/27: Section 5.4](w11-27.pdf)
+
 * [11/10: Section 5.3](w11-10.pdf)
 
 * [11/8: Section 5.3](w11-8.pdf)
 
 * [11/6: Section 5.2](w11-6.pdf)
-
 
 * [11/3: Section 5.1](w11-3.pdf)
 
