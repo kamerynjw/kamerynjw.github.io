@@ -49,7 +49,19 @@ Homework
 
 For each assignment I will pick 2 to 4 of the bolded problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
-* *Week 10 (due Monday 11/13:*
+* *Week 12 (due Monday 12/4):*
+
+  4.1 (p362) 8, 18, **20**, 33
+
+  4.3 (p391) 123, **128**, 133
+
+  *** Do problem (6) from the 11-29 worksheet, reproduced here: You have an outdoor saltwater pool, as is normal in the Berkshires. The pool has a volume of  15,000 gallons. You want it to have the salinity of seawater, 35 parts per thousand of salt per water, which comes out to .3 lb of salt for each gallon of water. You miscalculated the size of your pool and put in 5500 lb of salt, which is too much. To fix this, you drain the pool at the rate of 5 gallons per minute while simultaneously filling it with fresh water at the rate of 5 gallons per minute. Meanwhile, you constantly stir the water to keep it the salt distribution uniform. Write a differential equation which describes the change in the quantity s of salt in the pool (in pounds) at time t (in minutes). Solve this differential equation to determine how long you need to drain the pool and refill it with fresh water to reach the optimal salt level of 4500 lb.
+
+  7.1 (p623) 49, **50**, 54
+
+* *Week 11:* No homework due to exam.
+
+* *Week 10 (due Monday 11/13):*
 
    6.1 (p541) 1, 2, 3, **8**
 
@@ -135,6 +147,12 @@ For each assignment I will pick 2 to 4 of the bolded problems to grade and give 
 
 In-class Worksheets
 --------
+
+* [12/1: Section 7.1](ws12-1.pdf)
+
+* [11/29: Section 4.3](ws11-29.pdf)
+
+* [11/27: Section 4.1](ws11-27.pdf)
 
 * [11/8 and 11/10: Section 6.3 and 6.4](ws11-8.pdf)
 
