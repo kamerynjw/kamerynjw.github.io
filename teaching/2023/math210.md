@@ -10,6 +10,8 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (11/28) [Here]({{ page.url }}final.pdf) are the questions for the oral final. You will schedule a time to meet with me to present your solutions to two of the problems. Full instructions, including the grading rubric for the final, are in the pdf. The link to the sign-up sheet will be sent via email.
+
 * (11/10) I'm holding extra office hours the week of the midterm, so you have plenty of opportunity for last minute questions before the exam and for your metacognition meetings:
 
     Monday 8:30–9:30, 2:30–3:30
