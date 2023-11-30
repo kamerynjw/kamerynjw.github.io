@@ -59,6 +59,12 @@ Homework
 
 For each assignment I will pick among the bolded or starred problems to grade and give you feedback on. That will comprise 80% of your grade for the assignment, with the remaining 20% being based on completion.
 
+* *Week 13 (due Monday 12/11 [drop off at my office]):*
+
+   5.5 (p592) 298, 299, 301, **304**, 305, **313**, **316**, 317
+
+   5.6 (p605) **320**, 324, 326, 329, 337, 344, 345
+
 * *Week 12 (due Monday 12/4)*:
 
    5.4 (p575) **216**, 224, 231
@@ -185,6 +191,10 @@ For each assignment I will pick among the bolded or starred problems to grade an
 
 In-class Worksheets
 --------
+
+* [12/6: Section 5.6](w12-6.pdf)
+
+* [12/4: Section 5.5](w12-4.pdf)
 
 * [12/1: Section 5.5](w12-1.pdf)
 
