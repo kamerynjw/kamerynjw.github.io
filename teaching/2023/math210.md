@@ -10,6 +10,8 @@ permalink: /teaching/2023/math210/
 Announcements
 -------------
 
+* (12/8) Next week I have modified office hours to allow time for oral finals. I will be in my office Wednesday 12/13 9:00–10:00 and 3:30–4:30 and Friday 12/15 9:00–10:00.
+
 * (11/29) [Here]({{ page.url }}e2answers.pdf) is the answer key for midterm 2.
 
 * (11/28) [Here]({{ page.url }}final.pdf) are the questions for the oral final. You will schedule a time to meet with me to present your solutions to two of the problems. Full instructions, including the grading rubric for the final, are in the pdf. The link to the sign-up sheet will be sent via email.
