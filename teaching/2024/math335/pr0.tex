@@ -1,0 +1,148 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Chapter 0 Problem Set},
+    hidelinks 
+]{hyperref}
+
+%% begin bibliography
+\usepackage[backend=bibtex,style=alphabetic,maxbibnames=15,maxcitenames=6,dateabbrev=false]{biblatex}
+\renewcommand{\UrlFont}{\sffamily\smaller} % makes url text smaller (used only in bibliography?)
+\renewbibmacro{in:}{\ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}} % removes "In:" in article format.
+\DeclareFieldFormat{url}{{\UrlFont\url{#1}}} % removes redundant "URL:" text, and just gives the url.
+\DeclareFieldFormat{urldate}{% improves setting of urldate
+  (version \thefield{urlday}\addspace%
+  \mkbibmonth{\thefield{urlmonth}}\addspace%
+  \thefield{urlyear}\isdot)}
+\DeclareFieldFormat{eprint:arxiv}{%   JDH format for arxiv info in bibliography
+  \ifhyperref
+    {\href{http://arxiv.org/abs/#1}{%
+        arXiv\addcolon\nolinkurl{#1}}\iffieldundef{eprintclass}{}{\UrlFont{\mkbibbrackets{\thefield{eprintclass}}}}}
+    {arXiv\addcolon\nolinkurl{#1}\iffieldundef{eprintclass}{}{\UrlFont{\mkbibbrackets{\thefield{eprintclass}}}}}}
+
+% actual bib file
+\bibliography{../../ref}
+%% end bibliography
+
+\input{../../macros.tex}
+
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+
+
+\title{Math 355 problem set \\ Chapter 0: Countable Sets}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+%% always do 10 problems per set
+
+\begin{problem}
+\emph{[This problem uses concepts from real analysis, so if you have not taken that class you will probably find it challenging.]}
+Follow this outline to reproduce Cantor's original 1874 proof that $\Rbb$ is not countable. 
+\begin{enumerate}
+\item Suppose you have a sequence $\seq{[a_n,b_n] : n \in \Nbb}$ of strictly nested closed intervals; that is, $[a_{n+1},b_{n+1}] \subsetneq [a_n,b_n]$. Prove that if $X = \bigcap_{n \in \Nbb} [a_n,b_n]$ then any $x \in X$ must not be any $a_n$ nor any $b_n$.
+\item Also prove that $X$ is nonempty.
+\item Explain how to produce a sequence $\seq{[a_n,b_n] : n \in \Nbb}$ of strictly nested closed intervals from a sequence $\seq{x_n : n \in \Nbb}$ of real numbers so that any number in the intersection $X$ must not be any $x_n$.
+\item Conclude that $\Rbb$ is not countable.
+\end{enumerate}
+\end{problem}
+
+\begin{problem}
+\emph{[This problem builds on the previous one and also uses concepts from real analysis.]}
+Show that if $\seq{x_n : n \in \Nbb}$ is \emph{dense} in $\Rbb$---meaning that for any open interval $(a,b)$ there's some $x_n \in (a,b)$---then the intersection $X$ you obtain has a single element. Explain why for any real number $y$ there's a sequence $\seq{q_n : n \in \Nbb}$ of rational numbers so that doing this process with that sequence produces $X = \{y\}$.
+\end{problem}
+
+
+\begin{problem}
+Prove the infinitary De Morgan's Laws:
+\begin{align*}
+C \setminus \bigcup_{A \in \Xcal} A &= \bigcap_{A \in \Xcal} C \setminus A \\
+C \setminus \bigcap_{A \in \Xcal} A &= \bigcup_{A \in \Xcal} C \setminus A \\
+\end{align*}
+\end{problem}
+
+
+\begin{problem}
+Prove that a countable union of countable sets is countable. That is, if $A_0, A_1, \ldots, A_n, \ldots$ are all countable sets, then so is
+\[
+\bigcup_{n \in \Nbb} A_n.
+\]
+\end{problem}
+
+
+\begin{problem}
+Consider the function $p : \Nbb^2 \to \Nbb$ defined as 
+\[
+p(a,b) = \frac{(a+b)(a+b+1)}{2} + b.
+\]
+Prove that $p$ is a bijection onto $\Nbb$. Prove that for any $n$ there is a bijection $p_n : \Nbb^n \to \Nbb$ which is a polynomial.
+\end{problem}
+
+
+\begin{problem}
+For an element $x$ in a linear order $(X,\le)$, the \emph{successor} of $x$, if it exists, is the smallest $y \in X$ so that $y > x$. Prove that if $(X,\le)$ is a linear order so that every element of $X$ has a successor then $\Nbb$ order embeds into $X$.
+\end{problem}
+
+\begin{problem}
+If $(X,\le)$ is a linear order with a minimum and so that every element of $X$ has a successor, then you can formulate a version of the $+1$ induction property for $X$. Let $z$ denote the minimum of $X$ and let $s(x)$ denote the successor of $x \in X$.
+\begin{itemize}
+\item ($+1$ induction property) For any $Y \subseteq X$, if $z \in x$ and for every $x \in X$ we have $x \in Y$ implies $s(x) \in Y$, then $Y = X$.
+\end{itemize}
+Prove that if $X$ has the $+1$ induction property then $X$ is order isomorphic to $\Nbb$.
+\end{problem}
+
+\begin{problem}
+A linear order $X$ is \emph{dense} if given any $x < y$ from $X$ there is $z \in X$ so that $x < z < y$. And $X$ has no endpoints if it has neither a minimum nor a maximum. Prove that if $X$ is a countable dense linear order without endpoints then $X$ is order isomorphic to $\Qbb$. 
+\end{problem}
+
+\newcommand\E{\mathbin{E}}
+\newcommand\notE{\mathbin{\not\!\!E}}
+\begin{problem}
+\emph{[This problem uses some terminology from graph theory.]}
+The Rado graph is the unique up to isomorphism countable graph $(G,E)$ satisfying the following property:
+\begin{itemize}
+\item If $A,B$ are finite and disjoint sets of vertices in $G$ then there is a vertex $v \in G \setminus (A \cup B)$ so that $a \E v$ for all $a \in A$ but $b \notE v$ for any $b \in B$.
+\end{itemize}
+Prove that any countable graph embeds into the Rado graph, where a graph embedding is a function $f : (H,E) \to (G,E)$ so that if $v \E_H w$ if and only if $f(v) \E_G f(w)$.
+\end{problem}
+
+\begin{problem}
+\emph{[This problem uses some terminology from algebra.]}
+Prove that for any complex number $z$ there is a countable algebraically closed field $K \subseteq \Cbb$ which contains $z$.
+\end{problem}
+
+
+
+\end{document}
+
+\begin{problem}
+
+\end{problem}

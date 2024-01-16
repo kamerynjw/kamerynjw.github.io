@@ -4,15 +4,25 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Spring 2023)
+Current Semester (Spring 2024)
 ================
+
+[Math 335: Set Theory]({{ page.url }}2024/math335/)
+
+[Math 02: Algebra IIT]({{ page.url }}2024/math02/)
+
+[Math 01B: Algebra II]({{ page.url }}2024/math01b/)
+
+Previous Semesters 
+==================
+
+Fall 2023
+---------
 
 [Math 210: Calculus I]({{ page.url }}2023/math210/)
 
 [Math 211: Calculus II]({{ page.url }}2023/math211/)
 
-Previous Semesters 
-==================
 
 Spring 2023
 -----------
