@@ -20,7 +20,7 @@ Class Information
 
 **Class Hours and Room** MWF 2:40–3:35 FSH-201
 
-**Office Hours** TBA
+**Office Hours** MT 3:30–5:00, W 2:00–2:30
 
 **Office** 2T Hall College Center
 
