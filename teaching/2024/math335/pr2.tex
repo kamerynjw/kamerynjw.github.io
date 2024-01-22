@@ -1,0 +1,116 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Chapter 2 Problem Set},
+    hidelinks 
+]{hyperref}
+
+
+\input{../../macros.tex}
+
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+
+
+\title{Math 355 problem set \\ Chapter 2: Cardinals}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+%% always do 10 problems per set
+
+\begin{problem}
+Show that all of these sets have the same cardinality:
+\begin{itemize}
+\item $\powerset(\Nbb)$;
+\item $\Rbb$;
+\item Any open interval $(a,b)$, i.e. with $a < b$; and
+\item Any closed interval $[a,b]$, i.e. with $a < b$.
+\end{itemize}
+\end{problem}
+
+\begin{problem}
+Prove that there are $2^{\aleph_0}$ many continuous functions $\Rbb \to \Rbb$. [Hint: first calculate how many functions $\Qbb \to \Rbb$ there are.] How many functions $\Rbb \to \Rbb$ are there?
+\end{problem}
+
+\begin{problem}
+Prove there are $2^{\aleph_0}$ many open sets in $\Rbb$, where an open subset of $\Rbb$ is a union of open intervals. A $G_\delta$-set is a set of reals which is a countable intersection of open sets. How many $G_\delta$-sets are there? A $G_{\delta\sigma}$-set is a set of reals which is a countable union of $G_\delta$-sets. How many $G_{\delta\sigma}$-sets are there?
+\end{problem}
+
+\begin{problem}
+Show that if $\kappa$ is an uncountable cardinal there is no order embedding $\kappa \to \Rbb$.
+\end{problem}
+
+\begin{problem}
+Prove the Cantor--Schroeder--Bernstein theorem without using Zermelo's well-ordering theorem, by following this outline.
+\begin{enumerate}
+\item Explain why it's enough to prove the special case that if $X \subseteq Y \subseteq Z$ and $\card X = \card Z$ then $\card X = \card Y$.
+\item Show that if a function $F : \powerset(Z) \to \powerset(Z)$ is monotone, meaning that $A \subseteq B$ implies $F(A) \subseteq F(B)$, then it has a fixed point---a set $P \subseteq Z$ so that $F(P) = P$.
+\item Given a bijection $f : Z \to X$ define $F : \powerset(Z) \to \powerset(Z)$ as $F(A) = (Z \setminus Y) \cup f''A$. Use a fixed point for $F$ to get a bijection $Z \to Y$.
+\end{enumerate}
+\end{problem}
+
+\begin{problem}
+Prove that cardinal trichotomy, the statement that the order relation on cardinals has trichotomy, implies Zermelo's well-ordering theorem. \emph{[Warning! Since you can't assume Zermelo's well-ordering theorem this means you can't use all of the stuff in section 2 and onward that builds on Zermelo.]}
+\end{problem}
+
+
+\begin{problem}
+Say that a set $X$ is \emph{$D$-finite} if every injection $X \to X$ is a bijection, and $X$ is \emph{$D$-infinite} otherwise. Say that a set $X$ is \emph{$I$-finite} if for any $\Acal \subseteq \powerset(X)$ there is $M \in \Acal$ so that there is no $A \in \Acal$ with $A \supsetneq M$. Otherwise, $X$ is \emph{$I$-infinite}.
+
+Prove that for a set $X$ the following are equivalent.
+\begin{enumerate}
+\item $X$ is infinite;
+\item $X$ is $D$-infinite;
+\item $X$ is $I$-infinite.
+\end{enumerate}
+\end{problem}
+
+\begin{problem}
+Prove the following basic exponentation facts hold for cardinal exponentiation.
+\begin{align*}
+\kappa^{\lambda + \mu} &= \kappa^\lambda \cdot \kappa^\mu \\
+\kappa^{\lambda \cdot \mu} &= \left(\kappa^\lambda\right)^\mu \\
+\kappa^\lambda \cdot \mu^\lambda &= (\kappa \cdot \mu)^\lambda
+\end{align*}
+\end{problem}
+
+\begin{problem}
+A \emph{beth fixed point} is a cardinal $\kappa$ so that $\kappa = \beth_\kappa$. Prove that for any cardinal $\lambda$ there is $\kappa > \lambda$ a beth fixed point. Prove that for any cardinals $\lambda$ and $\mu$ there is $\kappa > \lambda$ so that $\cof \kappa = \mu$ and $\kappa$ is a beth fixed point.
+\end{problem}
+
+\begin{problem}
+Generalizing the combinatorial definition of factorial for finite cardinals, define $\kappa !$ to be the cardinality of the set of bijections $\kappa \to \kappa$. Show that $\aleph_0! = 2^{\aleph_0}$. More generally, show that $\kappa ! = 2^\kappa$ for any infinite $\kappa$.
+\end{problem}
+
+
+
+\end{document}
+

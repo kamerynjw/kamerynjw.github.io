@@ -1,0 +1,704 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Lecture Notes: Chapter 2},
+    hidelinks 
+]{hyperref}
+
+\input{../../macros.tex}
+
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+
+
+\title{Math 355 lecture notes \\ Chapter 2: Cardinals}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{What is a number?}
+
+In this chapter we will learn how to count.
+
+What does it mean to have five apples? One way to answer is by counting: I point at the apples in turn saying ``one'', ``two'', ``three'', ``four'', ``five''. But this presupposes we already have numbers and know how to count. What does five mean?
+
+We need to reduce numbers to a more basic concept. What does it mean for two sets to have the same quantity of elements? 
+
+Let's start with a special case. What does it mean that I have the same number of fingers on my left hand as on my right hand? I could count them, but we're pretending we don't know how to count. To check without counting, I can match up fingers on one hand to fingers on the other hand. In mathematical terms, I exhibit a bijection between the two sets.
+
+We can do the same thing for any set.
+
+\begin{definition}[Cantor]
+Two sets are \emph{equinumerous} (also called \emph{equipotent} by some sources) if there is a bijection between them. We write $A \approx B$ if $A$ and $B$ are equinumerous.
+\end{definition}
+
+\begin{proposition}
+$\approx$ is an equivalence relation on sets.
+\end{proposition}
+
+\begin{proof}
+Exercise :)
+\end{proof}
+
+Once we have a notion of what it means for two sets to have the same quantity, we can abstract this to get a definition of number.
+
+\begin{definition}[Cantor]
+Let $A$ be a set. The \emph{cardinality} or \emph{cardinal number} of $A$, denoted $\card A$, is the equivalence class of all sets equinumerous with $A$. 
+\end{definition}
+
+For the name, think back to grammar and the distiction between an ordinal number like fifth and a cardinal number like five. Ordinals are about order or position while cardinals are about quantity. More precisely, they are about quantities of discrete collections; a quantity like $1/2$ or $\pi$ isn't a cardinal number because it measures a continuous quantity such as length.
+
+Cardinality is \emph{the} measure of the size of a set.\footnote{This means a set considered as a set, not as some other structure. For example, using calculus you can talk about the length of a set of points which form a curve; but that's the size of the \textit{curve}, not the size of the \textit{set}. One curve may have a longer length than another, but they have the same cardinality.} 
+When we talk about the size of a set, how many elements it has, or so on we mean cardinality every time.
+
+The finite cardinals are the familiar natural numbers. $0$ is the cardinality of the empty set, $1$ is the cardinality of a singleton set, say $\{0\}$, $2$ is the cardinality of an unordered pair, say $\{0,1\}$, $3$ is the cardinality of, e.g. $\{0,1,2\}$ and so on.
+
+There's a natural order on cardinal numbers.
+
+\begin{definition}
+Let $\card A$ and $\card B$ be two cardinal numbers. Write $\card A = \card B$ if the two equivalence classes are the same, i.e. there is a bijection $A \to B$. Write $\card A \le \card B$ if there is an injection $A \to B$. And write $\card A < \card B$ if $\card A \le \card B$ but $\card A \ne \card B$.
+\end{definition}
+
+Observe that $\le$ is a reflexive and transitive. We'll pull out some high powered tools in the next section to see it's moreover a linear order.
+\smallskip
+
+One of Cantor's big insights was that all of this makes sense for infinite sets. And he proved this is nontrivial for infinite sets: there is more than one cardinality of infinite sets.
+
+\begin{theorem}[Cantor]
+Let $X$ be a set. Then $\card X < \card{\powerset(X)}$.
+\end{theorem}
+
+\begin{proof}
+That $\card X \le \card{\powerset(X)}$ is witnessed by the injection $x \mapsto \{x\}$. To see the cardinalities are not equal, suppose otherwise that there is a bijection $f : \powerset(X) \to X$. We use $f$ to define a ``diagonal' subset of $X$: set $D = \{ f(Y): Y \subseteq X$ and $f(Y) \not \in Y\}$. Observe that this definition only makes sense because $f$ is injective. If there were $Y_0 \ne Y_1$ with $y = f(Y_0) = f(Y_1)$ then when asking whether to put $y$ in $D$ are we checking $y \not \in Y_0$ or $y \not \in Y_1$? 
+
+Now ask: is $f(D) \in D$? If yes, then by definition of $D$ we get $f(D) \not \in D$. If no, then we get $f(D) \in D$. Either way we get a contradiction, so we were wrong to assume such a bijection exists.
+\end{proof}
+
+\begin{remark}
+To get the contradiction we really only used that $f$ was an injection. We never used that it was a surjection.
+\end{remark}
+
+Consequently, the cardinal numbers don't go ``zero, one, two, three, \dots, infinity''. Instead, when we count into the transfinite we have different numbers for quantities.
+
+\begin{definition}
+$\aleph_0 = \card \Nbb$.
+\end{definition}
+
+\begin{definition}
+A set $X$ is \emph{uncountable} if it is not countable. 
+\end{definition}
+
+In terms of cardinality, $X$ being countable means that $\card X \le \aleph_0$. We will see in the next section that countable sets are the smallest infinite sets, so that $X$ being uncountable is equivalent to $\card X > \aleph_0$.
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Check that equinumerosity is an equivalence relation.
+\item Check that $\le$ is reflexive and transitive.
+\item Check that $X$ is countable if and only if $\card X \le \aleph_0$.
+\end{enumerate}
+
+\newpage
+
+\section{Cardinals}
+
+Last section gave the Cantorian definition of cardinal numbers. The modern approach is a little bit different. Like with ordinals it was convenient to identify an ordinal $\alpha$ with a certain set of ordertype $\alpha$ (namely the set of ordinals $<\alpha$), with cardinal numbers it's convenient to pick certain sets to work with. This makes arguments a lot smoother than solely working with equinumerosity classes and so forth.
+
+What makes this work is a theorem due to Ernst Zermelo.
+
+\begin{theorem}[Zermelo's well-ordering theorem]
+Any set can be well-ordered. That is, if $X$ is a set then there is a relation $\le$ with domain $X$ so that $(X,\le)$ is a well-order.
+\end{theorem}
+
+We will see the proof of this theorem in Chapter 3. For now let's take it as given.\footnote{To pre-emptively come clean: Zermelo's theorem is equivalent to the axiom of choice. So in a sense this theorem could just as well be called an axiom. But then why should we use this axiom? Let's talk after Chapter 3. For now, let's just do some math with it.}
+
+A consequence of Zermelo's theorem is that every set is equinumerous to some ordinal. And if a set is equinumerous to some ordinal then by well-foundedness there's a smallest ordinal to which it is equinumerous. This motivates our choice of sets to be the cardinals.
+
+\begin{definition}
+A \emph{cardinal} (also called a \emph{cardinal number}) is an ordinal $\kappa$ so that for all $\alpha < \kappa$ there is no bijection $\kappa \to \alpha$. We use Greek letters in the middle of the alphabet like $\kappa, \lambda, \mu$ for cardinals.
+\end{definition}
+
+For example, the ordinals $0$, $1$, $2$, and so on are all also cardinals; if $n$ is finite there's no bijection $n \to k$ for $k < n$. Another ordinal which is a cardinal is $\omega$. When we think of $\omega$ as a cardinal we give it another name, $\aleph_0$. ($\aleph$ is ``aleph'', the first Hebrew letter.) On the other hand, $\omega + 1$ is not a cardinal, as there's a bijection $\omega + 1 \to \omega$ (just move the $+1$ to the front). For another example, $\omega + \omega$ is not a cardinal (same idea as when we saw $\Zbb$ is countable).
+
+As ordinals are (identified with) certain sets of ordinals, elements of cardinals are also ordinals. We will see that for every cardinal except those just mentioned, they have lots of non-cardinal ordinal elements.
+
+Let's see how this definition corresponds to the cardinal number definition from the last section. If $X$ is a set, then by Zermelo the equivalence class $\card X$ contains ordinals. The smallest ordinal $\in \card X$ must be a cardinal. With that in mind, we now redefine cardinality.
+
+\begin{definition}
+Let $X$ be a set. The \emph{cardinality} or \emph{cardinal number} of $X$, denoted $\card X$, is the unique cardinal $\kappa$ which is equipotent with $X$.
+\end{definition}
+
+We know $\kappa$ must be unique because if $\kappa_0$ and $\kappa_1$ were both equipotent with $X$ then they'd be equipotent with each other but then the larger of the two wouldn't actually be a cardinal.
+
+With this new definition of cardinality we can use the same definitions of $\le$ and $=$ on cardinalities from last section.
+
+\begin{proposition}
+Looking at cardinals, the order $\le$ we defined on cardinalities last section matches with the order $\le$ on ordinals we defined last chapter. Thus, the order relation on cardinals is a well-order.
+\end{proposition}
+
+\begin{proof}
+%For the sake of this proof write $\le_C$ to be the cardinality order and $\le_O$ to mean the ordinal order. 
+Unfolding the definitions, we need to show that there is an injection $\kappa \to \lambda$ if and only if there is an order embedding $\kappa \to \lambda$.
+
+$(\Leftarrow)$ Part of the definition of being an order embedding is being an injection. Done.
+
+$(\Rightarrow)$ Suppose there is an injection $f : \kappa \to \lambda$.  an order embedding $g : \kappa \to \lambda$ by transfinite recursion. For the base case, $g(0) = f(0)$. In general, define $g(\alpha)$ to be the smallest element of $\lambda \setminus \{ g(\beta) : \beta < \alpha \}$. To see that there is always space to do the next step in this recursion, suppose not toward a contradiction. That is, suppose there is $\alpha \in \kappa$ so that $\{ g(\beta): \beta < \alpha \} = \lambda$. Then $g\inv$ is an injection from $\lambda$ onto $\alpha < \kappa \le \lambda$. But that's impossible.
+\end{proof}
+
+\begin{corollary}[Cantor--Schroeder--Bernstein theorem]
+Let $X$ and $Y$ be sets. If there are injections $X \to Y$ and $Y \to X$ then there is a bijection $X \to Y$.
+\end{corollary}
+
+\begin{proof}
+In other words, this theorem asserts that the order $\le$ on cardinals is antisymmetric. But the cardinal $\le$ matches the ordinal $\le$ which we already know is antisymmetric. Done.
+\end{proof}
+
+
+
+This theorem is hella useful. It says that if you want to show that two sets have the same cardinality, it's enough to construct injections in each direction. Since it's usually much easier to build an injection than an exact bijection, this makes your life much easier. You will experience this for yourself in the problem set for this chapter.
+
+You can prove the Cantor--Schroeder--Bernstein theorem without using Zermelo's theorem. But it's much harder. It's one of the problems for this chapter. 
+
+While we're on the topic of the order relation on cardinals, let's see another way of characterizing it.
+
+\begin{lemma}
+Let $A$ and $B$ be sets. Then $\card A \le \card B$ if and only if there is a surjection $B \to A$.
+\end{lemma}
+
+\begin{proof}
+Let $\kappa = \card A$ and $\lambda = \card B$. If $\kappa \le \lambda$ then the function $\lambda \to \kappa$ which sends $\alpha < \kappa$ to itself and sends $\alpha \ge \kappa$ to $31$ is a surjection. Conversely, if $f : \lambda \to \kappa$ is a surjection then $g : \kappa \to \lambda$ defined as $g(\alpha)$ is the smallest $\beta < \lambda$ so that $f(\beta) = \alpha$ is an injection.
+\end{proof}
+
+Let's finally see an official definition of finiteness.
+
+\begin{definition}
+A cardinal $\kappa$ is \emph{finite} if $\kappa < \aleph_0$. Otherwise, $\kappa$ is \emph{infinite}. And a set $X$ is \emph{finite} if $\card X$ is finite, and \emph{infinite} otherwise.
+\end{definition}
+
+In the problems for this chapter you investigate some other ways of defining finiteness.
+\smallskip
+
+With these basic facts established, let's give names to the infinite cardinals. Last section I claimed that $\aleph_0$ is the smallest infinite cardinal. This is easy to see from trichotomy: if $\kappa$ is uncountable then $\kappa \not \le \aleph_0$ and then $\kappa > \aleph_0$. Indeed, by well-foundedness there must be a smallest uncountable cardinal. It is called $\aleph_1$. 
+
+But $\aleph_1$ cannot be the largest cardinality, for $\card{\powerset(\aleph_1)} > \aleph_1$. Since there are cardinals $ > \aleph_1$ there must be a smallest one, call it $\aleph_2$. Hopefully it's now clear that we're doing a definition by recursion.
+
+\begin{definition}
+Let $\alpha$ be an ordinal. Then $\aleph_\alpha$ is defined as follows.
+\begin{itemize}
+\item $\aleph_0 = \omega$ is the smallest infinite cardinal.
+\item $\aleph_{\alpha+1}$ is the smallest cardinal $>\aleph_\alpha$.
+\item If $\gamma$ is limit then $\aleph_\gamma = \sup_{\alpha < \gamma} \aleph_\alpha$.
+\end{itemize}
+\end{definition}
+
+
+To illustrate this let's try to understand $\aleph_\omega$. It is the smallest ordinal $> \aleph_n$ for every $n < \omega$. To see it's also a cardinal requires a small extra step. If $\alpha < \aleph_\omega$ then $\alpha \le \aleph_n$ for some $n$. So if there were a bijection $\aleph_\omega \to \alpha$ then there would be an injection $\aleph_\omega \to \aleph_n$, which is impossible. 
+
+You can do the same argument for any limit $\gamma$ to get that $\aleph_\gamma$ really is a cardinal. Let's sum up what we know in a lemma.
+
+\begin{lemma}
+$\aleph_\alpha$ is always a cardinal. If $X$ is an infinite set then $\card X = \aleph_\alpha$ for some $\alpha$. \qed
+\end{lemma}
+
+So if you want to study cardinalities of infinite sets then you are studying the $\aleph_\alpha$'s. 
+
+Let's get an idea of how many $\aleph_\alpha$'s there are. There's one for every ordinal, but maybe that doesn't convey quite how many there are, whereas this proposition might.
+
+\begin{proposition}
+There is a cardinal $\kappa$ so that $\aleph_\kappa = \kappa$. Indeed, for any cardinal $\lambda$ there is such $\kappa > \lambda$. We call these cardinals \emph{aleph fixed points}.
+\end{proposition}
+
+$\kappa$ is so large that there are $\kappa$ many smaller cardinals. It has to be bigger than $\aleph_\omega$, which is above only countably many smaller cardinals. It's also bigger than $\aleph_{\aleph_1}$ and $\aleph_{\aleph_n}$ for every $n$.
+
+\begin{proof}
+Start with $\kappa_0 = \lambda$. Given $\kappa_n$, set $\kappa_{n+1} = \aleph_{\kappa_n}$. And set $\kappa = \sup_{n \in \omega} \kappa_n$. I claim $\kappa = \aleph_\kappa$. First, prove by induction that $\alpha \le \aleph_\alpha$ for any ordinal $\alpha$. Second, observe that by definition of $\kappa$ there are at least $\kappa$ many cardinals $< \kappa$. This is because there are $\kappa_n$ cardinals below $\kappa_{n+1}$ for every $n$. So $\kappa \ge \aleph_\kappa$ and we get the equality.
+\end{proof}
+
+Cardinals are also fruitfully studied as ordinals, and have different names in that guise.
+
+\begin{definition}
+Let $\alpha$ be an ordinal. Then $\omega_\alpha$ is another name for $\aleph_\alpha$. We use $\omega_\alpha$ when focusing on its properties as an ordinal, and $\aleph_\alpha$ when focusing on its properties as a cardinal. No one writes $\omega_0$, they just write $\omega$.
+\end{definition}
+
+One reason for having two names for the same object is historical. Cantor viewed ordinals as one step abstracted from sets---he thought of sets as being given by transfinite recursion, and an ordinal abstracted from the elements of the set to the ordertype of how they're given---and cardinals as another step abstracted---we don't care the order the set was given, only its total quantity of elements. 
+
+Another reason is that just like there's natural arithmetic operations on ordinals, there's natural arithmetic operations on cardinals. They don't entirely match up, so it's useful to have e.g. $2^{\aleph_0}$ for referring to cardinal exponentiation versus $2^\omega$ for ordinal exponentiation. 
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Prove that $\alpha \le \aleph_\alpha$ for all ordinals $\alpha$.
+\item Check that if $I \subseteq \omega_\alpha$ is a tail, i.e. $I = \{ \beta \in \omega_\alpha : \beta \ge \gamma\}$ for some $\gamma < \omega_\alpha$, then the ordertype of $I$ is $\omega_\alpha$.
+\end{enumerate}
+
+\newpage
+
+
+\section{Cardinal arithmetic}
+
+If cardinal numbers have a real claim at being genuine numbers then we should be able to do arithmetic with them. To see how, we will go back to elementary school and think about we learned to add and multiply.
+
+The sum $5 + 7 = 12$ means that if you have $5$ apples and $7$ oranges then you have $12$ fruits. In general, addition is about the quantity of a disjoint union. (If some apples are also oranges then you could have less than $12$ fruits.)
+
+\begin{definition}
+Let $\kappa$ and $\lambda$ be cardinals. Then $\kappa + \lambda$ is the cardinality of a disjoint union of a copy of $\kappa$ and a copy of $\lambda$. One way to do this is to take $\kappa \sqcup \lambda = \{0\} \times \kappa \cup \{1\} \times \lambda$.
+\end{definition}
+
+\begin{lemma}
+Let at least one of $\kappa$ and $\lambda$ be infinite. Then, 
+$\kappa + \lambda = \max(\kappa,\lambda)$. 
+\end{lemma}
+
+\begin{proof}
+Suppose without loss that $\kappa \le \lambda$. Since $\kappa + \lambda \le \kappa + \kappa$ it's sufficient to see that $\kappa + \kappa = \kappa$. For this we can use a similar idea as we did to see that the union of two countable sets is countable. Namely, construct a bijection $\kappa \sqcup \lambda \to \kappa$ by sending $(0,\alpha)$ to $2\alpha$ and $(1,\alpha)$ to $2\alpha+1$. 
+\end{proof}
+
+Next up is multiplication. One way it's defined is as repeated addition. That's how we defined ordinal multiplication by transfinite recursion. For cardinal multiplication we want to use the idea of multiplication as about area. The equation $4 \times 7 = 28$ means that if you have $4$ rows of $7$ chairs each then you have $28$ chairs in total. In general, cardinal multiplication is about the cardinality of a cartesian product.
+
+\begin{definition}
+Let $\kappa$ and $\lambda$ be cardinals. Then $\kappa \cdot \lambda$ is the cardinality of the cartesian product $\kappa \times \lambda$.
+\end{definition}
+
+\begin{lemma}
+Let at least one of $\kappa$ and $\lambda$ be infinite. Then,
+$\kappa \cdot \lambda = \max(\kappa,\lambda)$.
+\end{lemma}
+
+\begin{proof}
+Similar to the addition proof, it's enough to construct an injection $\kappa \cdot \kappa \to \kappa$ for arbitrary infinite $\kappa$. It's convenient to construct a single function that works simultaneously for all $\kappa$.
+
+Define a relation $\vartriangleleft$ on pairs of ordinals as $(\alpha,\beta) \vartriangleleft (\gamma,\delta)$ if
+\begin{itemize}
+\item $\max(\alpha,\beta) < \max(\gamma,\delta)$; or
+\item The maxima are equal and $\alpha < \gamma$; or
+\item The maxima are equal, $\alpha = \gamma$, and $\beta < \delta$.
+\end{itemize}
+It is clear that $\vartriangleleft$ is a well-order. Define the \emph{G\"odel pairing function} $g(\alpha,\beta)$ to be the ordertype of $\vartriangleleft$ restricted to the pairs $\vartriangleleft (\alpha,\beta)$. 
+
+Let's see now that if $\beta,\gamma < \omega_\alpha$ then $g(\beta,\gamma) < \aleph_\alpha$. This will then imply that $g$ restricted below $\aleph_\alpha$ is an injection $\kappa \cdot \kappa \to \kappa$. Suppose otherwise that this is not the case. Then let $(\beta,\gamma)$ be least in the $\vartriangleleft$-order so that $g(\beta,\gamma) \ge \omega_\alpha$. Indeed, it must be that $g(\beta,\gamma) = \omega_\alpha$ and so $g(\beta,\delta) < \omega_\alpha$ for all $\delta < \gamma$. Note that by the definition of $\vartriangleleft$ that $g''(\{\beta\} \times \gamma)$ must be a final segment of $\omega_\alpha$.  But then we get a bijection between $\omega_\alpha$ and $\gamma$ by sending $\xi < \omega_\alpha$ to the $\delta < \gamma$ which is the $\xi$-th element of $g''(\{\beta\} \times \gamma)$. This is a contradiction, because there is no bijection from $\omega_\alpha$ to a smaller ordinal.
+\end{proof}
+
+We next come to exponentiation. This one you probably didn't learn in elementary school, so let me remind you of the combinatorial definition of exponentiation. $3^4 = 81$ means that there are $81$ different functions from a set of $4$ elements to a set of $3$ elements. You can think in terms of picking objects with replacement: if you have $3$ marbles in a bag and you draw a marble $4$ times, each time replacing it in the bag, then there are $81$ different sequences of marbles you could've drawn. 
+
+\begin{definition}
+Let $\kappa$ and $\lambda$ be cardinals. Then $\kappa^\lambda$ is the cardinality of the set of functions $\lambda \to \kappa$.
+\end{definition}
+
+One sometimes sees ${}^XY$ to denote the set of functions $X \to Y$. Under this notation, $\kappa^\lambda = \card{{}^\lambda\kappa}$.
+
+Unlike with addition and multiplication, cardinal exponentiation makes bigger sets.
+
+\begin{proposition}
+$2^\kappa = \card{\powerset(\kappa)}$.
+\end{proposition}
+
+\begin{proof}
+We need a bijection from functions $\kappa \to 2$ and subsets of $\kappa$. This is straightforward: to each $X \subseteq \kappa$ associate its \emph{characteristic function}, the function $\chi_X : \kappa \to 2$ defined as $\chi_X(\alpha) = 1$ if $\alpha \in X$ and $\chi_X(\alpha) = 0$ if $\alpha \not \in X$.
+\end{proof}
+
+Cantor's thoerem recast in the language of cardinal arithmetic tells us that $\kappa < 2^\kappa$. 
+
+All of the basic properties of exponentation you know from high school apply to cardinal exponentation. 
+
+\begin{proposition}
+Let $\kappa, \lambda, \mu$ be cardinals. Then,
+\begin{align*}
+\kappa^{\lambda + \mu} &= \kappa^\lambda \cdot \kappa^\mu; \\
+\kappa^{\lambda \cdot \mu} &= \left(\kappa^\lambda\right)^\mu; \\
+\kappa^\lambda \cdot \mu^\lambda &= (\kappa \cdot \mu)^\lambda.
+\end{align*}
+\end{proposition}
+
+\begin{proof}
+One of the problems for this chapter :)
+\end{proof}
+
+Increasing the base or the exponent increases the value of the exponentation.
+
+\begin{proposition}
+Let $\kappa_0 \le \kappa_1$ and $\lambda_0 \le \lambda_1$ be cardinals. Then,
+\[
+\kappa_0^{\lambda_0} \le \kappa_1^{\lambda_1}.
+\]
+\end{proposition}
+
+\begin{proof}
+Exercise.
+\end{proof}
+
+Indeed we can say a bit more.
+
+\begin{proposition}
+Let $\kappa$ be infinite. Then $\kappa^\kappa = 2^\kappa$.
+\end{proposition}
+
+\begin{proof}
+We already know $2^\kappa \le \kappa^\kappa$. For the other direction, thinking of a function $f: \kappa \to \kappa$ as its graph, $f$ is a subset of $\kappa \times \kappa$. So $\kappa^\kappa \le 2^{\kappa \cdot \kappa} = 2^\kappa$. The inequality is because $2^{\kappa \cdot \kappa}$ is the cardinality of $\powerset(\kappa \times \kappa)$ and the equality is because $\kappa \cdot \kappa = \kappa$.
+\end{proof}
+
+How does cardinal exponentiation line up with the alephs? We know that $2^{\aleph_\alpha} \ge \aleph_{\alpha+1}$, but can we get a more precise bound?
+
+\begin{definition}
+The \emph{continuum hypothesis} ($\CH$) is the assertion that $2^{\aleph_0} = \aleph_1$. The \emph{generalized continuum hypothesis} ($\GCH$) is the assertion that $2^{\aleph_\alpha} = \aleph_{\alpha+1}$ for every $\alpha$.\footnote{$\CH$ is due to Cantor, and $\GCH$ was first considered in the literature in 1905 by Philip Jourdain. However his paper recevied little attention and it was Felix Hausdorff's 1908 paper where $\GCH$ first enjoyed wider notice. See \url{https://doi.org/10.2178\%2Fbsl\%2F1318855631} for the history of $\GCH$.}
+\end{definition}
+
+Circa 1940 Kurt G\"odel proved that $\GCH$ and hence also $\CH$ is consistent with the basic axioms of set theory. In 1963 Paul Cohen proved that the failure of $\CH$ is also consistent. Altogether, $\CH$ is independent of the basic axioms of set theory. You can neither prove nor disprove it without adding in extra axioms. We'll come back to this in Chapter 3 to understand the statements of what they proved.
+\smallskip
+
+In set theory, the first thing you ask after doing something finitely many times is whether you can do it transfinitely often. We can add and multiply two cardinals. Can we add and multiply infinitely many cardinals at once?
+
+Let's get a couple definitions down first.
+
+\begin{definition}
+Let $\seq{X_i : i \in I}$ be a sequence of sets indexed by $I$. The \emph{disjoint union} of these sets is a union of disjoint copies of them. You can implement it as:
+\[
+\bigsqcup_{i \in I} X_i = \bigcup_{i \in I} \{i\} \times X_i. 
+\]
+And the \emph{cartesian product} of them is the set of functions with domain $I$ which pick out points in each $X_i$:
+\[
+\prod_{i \in I} X_i = \{ f : f \text{ is a function with domain } I \text{ and } f(i) \in X_i \text{ for all } i \in I\}.
+\]
+\end{definition}
+
+This second definition likely looks weird if this is your first time seeing it. To understand it, try comparing to the more familiar cartesian product of finitely many sets. For example, $\Rbb^2$ is the set of triples $(x,y,z)$ of real numbers. But a triple is just a sequence of three elements, and such a sequence is a function $t : 3 \to \Rbb$. Then $t(0) = x$, $t(1) = y$, and $t(2) = z$ are the three coordinates. 
+
+By this definition $\Rbb^2$ and $\Rbb \times \Rbb$ are not the same set. This is because elements of $\Rbb^2$ are functions $2 \to \Rbb$ while elements of $\Rbb \times \Rbb$ are ordered pairs. But there's a natural way to move between the two, so this small quirk in implementation details will not matter.
+
+Using these we can define infinite products and sums.
+
+\begin{definition}
+Let $\seq{ \kappa_i : i \in I}$ be a sequence of cardinals. Then,
+\[
+\sum_{i \in I} \kappa_i = \card{\bigsqcup_{i \in I} \kappa_i}; \qquad\qquad\qquad
+\prod_{i \in I} \kappa_i = \card{\prod_{i \in I} \kappa_i}.
+\]
+Note that on the second, the left $\prod$ is a product of cardinals while the right $\prod$ is a cartesian product of sets. As is common in mathematics, we use the same symbols for different things.
+\end{definition}
+
+We can compute infinite sums straightforwardly.
+
+\begin{proposition}
+Let $\seq{ \kappa_i : i \in I}$ be a sequence of cardinals each $> 0$. Then,
+\[
+\sum_{i \in I} \kappa_i = \card I + \sup_{i \in I} \kappa_i.
+\]
+\end{proposition}
+
+Observe that we need to include $\card I$ on the right because if you add $1$ to itself $\card I$ many times you get $\card I$, even though the supremum of a sequence of $1$s is $1$.
+
+\begin{proof}
+$(\le)$ Without loss of generality suppose $I = \lambda$ is a cardinal.
+Let $\kappa = \sup_{i \in \lambda} \kappa_i$. Observe that $\bigsqcup_{i \in \lambda} \kappa_i \subseteq \lambda \times \kappa$ and so
+\[
+\sum_{i \in \lambda} \kappa_i \le \lambda \cdot \kappa = \max(\lambda,\kappa) = \lambda + \kappa.
+\]
+
+$(\ge)$ It's enough to find injections $\lambda \to \bigsqcup_{i \in \lambda} \kappa_i$ and $\kappa \to \bigsqcup_{i \in \lambda} \kappa_i$. For the former, send $i \in \lambda$ to $(i,0)$. For the latter, send $\alpha < \kappa$ to $(i,\alpha)$ where $i$ is least so that $\alpha < \kappa_i$. Done.
+\end{proof}
+
+Computing infinitary products isn't so straightforward, which makes sense once you know how infinite products relate to exponentation.
+
+\begin{proposition}
+Let $\kappa$ and $\lambda$ be cardinals. Then, $\prod_{i \in \lambda} \kappa = \kappa^\lambda$. In particular, $\kappa \cdot \kappa = \kappa^2$, and similarly for finite products.
+\end{proposition}
+
+\begin{proof}
+We need to see that the cartesian product $\prod_{i \in \lambda} \kappa$ has the same cardinality as the set of functions $\lambda \to \kappa$. But these are the same set, so they do have the same cardinality. Done.
+\end{proof}
+
+A reasonable question at this point is, why define cardinal sum and product if computing them is mostly trivial? The point is, it's useful for computing cardinalities of sets. That $\aleph_1 + 2^{\aleph_0} = 2^{\aleph_0}$ isn't very exciting. But knowing that the union of a set of cardinality $\aleph_1$ and a set of cardinality $2^{\aleph_0}$ is $2^{\aleph_0}$ can be useful.
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Draw a picture of the G\"odel pairing function $g(n,m)$ below $\omega$.
+\item Check that $\kappa + \lambda$ (cardinal sum) is the cardinality of $\kappa + \lambda$ (ordinal sum).
+\item Check that $\kappa \cdot \lambda$ (cardinal product) is the cardinality of $\kappa \cdot \lambda$ (ordinal product).
+\item Explain why $\kappa^\lambda$ (cardinal exponentiation) is not the cardinality of $\kappa^\lambda$ (ordinal exponentiation).
+\item Prove that $\kappa_0 \le \kappa_1$ and $\lambda_0 \le \lambda_1$ implies $\kappa_0^{\lambda_0} \le \kappa_1^{\lambda_1}$.
+\end{enumerate}
+
+\newpage
+
+\section{Cofinality}
+
+Way back in Chapter 0 you proved that a countable union of countable sets is countable. Applied to countable ordinals, that yields:
+
+\begin{proposition}
+Let $\seq{\alpha_n : n \in \omega}$ be a countable sequence of countable ordinals. Then $\sup_n \alpha_n < \omega_1$.
+\end{proposition}
+
+\begin{proof}
+Recall that the sup of a bunch of ordinals was defined as their union. So we are looking at a countable union of countable sets, whence it is countable. 
+\end{proof}
+
+This tells us that there is no short sequence that goes all the way to the end of $\omega_1$. On the other hand, there is a short sequence that goes all the way to the end of $\aleph_\omega$, namely the sequence $\seq{\aleph_n : n \in \omega}$. In this section we will understand this distinction, which turns out to be very important for understanding cardinals.
+
+\begin{definition}
+Let $(X,\le)$ and $(Y,\le)$ be linear orders. A \emph{cofinal} map $f : X \to Y$ is a function so that for any $y \in Y$ there is $x \in X$ so that $y \le f(x)$.
+\end{definition}
+
+\begin{definition}
+Let $(X,\le)$ be a linear order. The \emph{cofinality} of $X$, denoted $\cof X$, is the least ordinal $\lambda$ so that there is a cofinal map $\lambda \to X$.
+\end{definition}
+
+Restating earlier facts in this language, $\cof \aleph_1 = \aleph_1$ and $\cof \aleph_\omega = \aleph_0$. (Why can't there be a cofinal map from a finite cardinal to $\aleph_\omega$?)
+This definition is most commonly used in the context of ordinals and cardinals, but it's sometimes applied elsewhere. For example, you can check that the cofinality of $\Rbb$ is $\aleph_0$. But note that if a linear order has a maximum then its cofinality is $1$, so this is really only interesting for orders without a maximum.
+
+\begin{definition}
+For infinite cardinals $\kappa$, if $\cof \kappa = \kappa$ we call $\kappa$ \emph{regular}. Else we call $\kappa$ \emph{singular}.
+\end{definition}
+
+Observe that $\cof \kappa > \kappa$ is impossible (why?), so $\kappa$ is singular if and only if $\cof \kappa < \kappa$. Also observe that if $\alpha$ is not an cardinal then $\cof \alpha < \alpha$; this is because if $\alpha$ is not a cardinal then by definition there is $\kappa < \alpha$ and a bijection $\kappa \to \alpha$, but a bijection is always a cofinal map.
+
+\begin{lemma}
+For any limit ordinal $\alpha$ we have $\cof \alpha$ is a regular cardinal. In particular, $\cof(\cof \alpha) = \cof \alpha$ always.
+\end{lemma}
+
+\begin{proof}
+Let $\kappa = \cof \alpha$ with $f : \kappa \to \alpha$ cofinal. Suppose $\kappa$ is not regular. That is, suppose there is a cofinal map $g : \lambda \to \kappa$ for $\lambda < \kappa$. It's easy to see that $f \circ g : \lambda \to \alpha$ is cofinal, contradicting that $\kappa$ was supposed to be the cofinality of $\alpha$.
+\end{proof}
+
+\begin{definition}
+If $\kappa$ is a cardinal then $\kappa^+$ is the least cardinal $> \kappa$. Note that $\aleph_\alpha^+ = \aleph_{\alpha+1}$.
+\end{definition}
+
+\begin{definition}
+If $\kappa = \lambda^+$ we call $\kappa$ a \emph{succcessor} cardinal, otherwise $\kappa$ is a \emph{limit} cardinal.
+\end{definition}
+
+Warning! All cardinals are limit ordinals, but only some are also limit cardinals!
+
+\begin{proposition}
+$\aleph_\alpha$ is a successor cardinal if and only if $\alpha$ is a successor ordinal and $\aleph_\alpha$ is a limit cardinal if and only if $\alpha = 0$ or $\alpha$ is limit.
+\end{proposition}
+
+\begin{proof}
+Exercise :)
+\end{proof}
+
+The above proof that $\aleph_1$ is regular generalizes to show that every successor cardinal is regular. 
+
+\begin{lemma}
+Fix infinite $\kappa$. Then a union of $\le$ many sets of cardinality $\le \kappa$ has cardinality $\le \kappa$.
+\end{lemma}
+
+\begin{proof}
+Just like the proof that the countable union of countable sets is countable. For notational convenience, let's just prove the case of $\kappa$ many sets, as the general result obviously follows. Suppose $\seq{X_\alpha : \alpha < \kappa}$ is a sequence of sets with each $\card{X_\alpha} \le \kappa$. Note that $\bigcup_\alpha X_\alpha$ injects into $\kappa \times \kappa$. Namely, for each $X_\alpha$ pick an injection $f_\alpha : X_\alpha \to \kappa$ and send $i \in X_\alpha$ to $(\alpha,f(i))$. Composing with a pairing function $\kappa \times \kappa \to \kappa$ we get that this union injects into $\kappa$. Done.
+\end{proof}
+
+\begin{corollary}
+Every successor cardinal is regular.
+\end{corollary}
+
+\begin{proof}
+Let $\kappa = \lambda^+$. It's enough to see that there is no cofinal map $\lambda \to \kappa$. Consider any function $f : \lambda \to \kappa$. By the lemma we get that $\sup_{\alpha \in \lambda} f(\alpha)$ has cardinality $\lambda$, whence we get it is $< \kappa$. So $f$ was not cofinal.
+\end{proof}
+
+This corollary yields lots of examples of regular cardinals: $\aleph_1$, $\aleph_2$, $\aleph_{\omega+1}$, $\aleph_{\omega_1+1}$, $\aleph_{\omega_{17}+\omega^2+9}$, and so on. For singular cardinals we must look at limit cardinals. For example, $\aleph_{\omega}$ and $\aleph_{\omega_1}$ are both singular with, respectively, $\aleph_0$ and $\aleph_1$ as their cofinalities. 
+
+\begin{proposition}
+Let $\aleph_\gamma$ be a limit cardinal. Then $\cof \aleph_\gamma = \cof \gamma$. 
+\end{proposition}
+
+Note that this proposition is badly false for successor cardinals. If $\alpha$ is a successor ordinal then $\cof \alpha = 1$ (why?) but $\aleph_\alpha$ is regular.
+
+\begin{proof}
+Composing a cofinal map $\cof \gamma \to \gamma$ with the function $\alpha \mapsto \aleph_\alpha$ gives a cofinal map $\cof \gamma \to \aleph_\gamma$. Thus $\cof \aleph_\gamma \le \cof \gamma$. To see strict equality, suppose $\kappa < \cof \gamma$ and there is cofinal $f : \kappa \to \aleph_\gamma$. Note that for each $\beta < \kappa$ we have a unique $\alpha < \gamma$ so that $f(\beta)$ has cardinality $\aleph_\alpha$. If we set $g(\beta)$ equal to this $\alpha$ then we get that $g : \kappa \to \gamma$ is cofinal, a contradiction.
+\end{proof}
+
+Are there any regular limit cardinals? 
+
+It turns out the answer to this question is independent of the basic axioms of set theory. We'll see why that is in Chapter 3. For now, let's look at a stronger notion. To motivate this new definition, here's a fact about limit cardinals.
+
+\begin{proposition}
+$\kappa$ is a limit cardinal if and only if $\lambda^+ < \kappa$ for all $\lambda < \kappa$.
+\end{proposition}
+
+\begin{proof}
+Looking at the indices of alephs, this amounts to saying that $\gamma$ is a limit ordinal if and only if $\alpha + 1 < \gamma$ for all $\alpha < \gamma$. But that's obvious.
+\end{proof}
+
+In other words, a limit cardinal is one that is so big you can't approach it from below by the ${}^+$ operation. But that's not the only operation to make a bigger cardinal. What if we use a different operation?
+
+\begin{definition}
+A cardinal $\kappa$ is a \emph{strong limit} if $2^\lambda < \kappa$ for all $\lambda < \kappa$.
+\end{definition}
+
+Observe that every strong limit cardinal is a limit cardinal. The converse is consistently false, but that's much harder to see.
+
+To see that strong limits exist, it's helpful to consider the \emph{beth numbers}. (Like aleph was the first letter of the Hebrew alphabet, beth is the second letter.)
+
+\begin{definition}
+Fix a cardinal $\kappa$. Then $\beth_\alpha(\kappa)$ is defined recursively on $\alpha$ by iterating exponentation:
+\begin{itemize}
+\item $\beth_0(\kappa) = \kappa$;
+\item $\beth_{\alpha+1}(\kappa) = 2^{\beth_\alpha(\kappa)}$; and
+\item If $\gamma$ is limit then $\beth_\gamma(\kappa) = \sup_{\alpha < \gamma} \beth_\alpha(\kappa)$.
+\end{itemize}
+We write $\beth_\alpha$ for $\beth_\alpha(\aleph_0)$.
+\end{definition}
+
+\begin{proposition}
+Fix $\kappa$ and fix a limit ordinal $\gamma$. Then $\beth_\gamma(\kappa)$ is a strong limit.
+\end{proposition}
+
+\begin{proof}
+This may look like it's just the definition, but there is a small something to prove. We know that $2^{\beth_\alpha(\kappa)} = \beth_{\alpha+1}(\kappa) < \beth_\gamma(\kappa)$ for $\alpha < \gamma$. But what if there's a cardinal $< \beth_\gamma(\kappa)$ which isn't one of these? We have to handle it too.
+
+Fortunately this is easy. If $\lambda < \beth_\gamma(\kappa)$ then $\lambda < \beth_\alpha(\kappa)$ for some $\alpha < \gamma$. So $2^\lambda < 2^{\beth_\alpha(\kappa)} < \beth_\gamma(\kappa)$.
+\end{proof}
+
+Let me close off this section by mentioning an important result about cofinalities. 
+
+\begin{theorem}[K\H{o}nig's Lemma]
+Let $I$ be a set and suppose $\seq{\kappa_i : i \in I}$ and $\seq{\lambda_i : i \in I}$ are sequences of cardinals so that $\kappa_i < \lambda_i$ for every $i \in I$. Then,
+\[
+\sum_{i \in I} \kappa_i < \prod_{i \in I} \lambda_i.
+\]
+\end{theorem}
+
+This doesn't look like it's about cofinalities at all, so let's see a couple corollaries.
+
+\begin{corollary}
+Let $\kappa$ be an infinite cardinal. Then $\kappa < \kappa^{\cof \kappa}$.
+\end{corollary}
+
+\begin{proof}
+Apply K\H{o}nig's lemma with $I = \cof \kappa$, $\seq{\kappa_i : i \in I}$ a cofinal sequence in $\kappa$, and $\lambda_i = \kappa$ for every $i$. Then,
+\[
+\kappa = \sum_{i \in \cof \kappa} \kappa_i < \prod_{i \in \cof \kappa} \kappa = \kappa^{\cof \kappa}. \qedhere
+\]
+\end{proof}
+
+\begin{corollary}
+Let $\kappa$ be infinite and $\lambda \ge 2$. Then $\kappa < \cof \lambda^\kappa$. 
+\end{corollary}
+
+\begin{proof}
+Otherwise if $\kappa = \cof \lambda^\kappa$ then $\lambda^\kappa < (\lambda^\kappa)^\kappa = \lambda^{\kappa \cdot \kappa} = \lambda^\kappa$,
+a contradiction.
+\end{proof}
+
+\begin{proof}[Proof of K\H{o}nig's lemma]
+For each $i \in I$, let $A_i$ be a set of cardinality $\kappa_i$ so that all $A_i$ are disjoint from each other. We need to see there is no surjection $f : \bigcup_{i \in I} A_i \to \prod_{i \in I} \lambda_i$. To see this, take an $f$ with appropriate domain and codomain. For each $i \in I$ let $f_i$ be the composition of $f$ with the projection map onto the $i$-th coordinate, so that $f_i$ has codomain $\lambda_i$. Because $\card{A_i} < \lambda_i$ pick, for each $i \in I$, a point $\beta_i \in \lambda_i \setminus \ran f_i$. But then $\seq{\beta_i : i \in I}$ is not in the range of $f$, so $f$ couldn't be surjective onto the product.
+\end{proof}
+
+Cantor's theorem that $2^\kappa > \kappa$ gave one restriction on the behavior of cardinal exponentiation, and K\H{o}nig's lemma gives another restriction that $\cof 2^\kappa > \kappa$. Knowing that $\GCH$ is independent of the basic axioms, we know that some facts about cardinal exponentiation are independent. For example, K\H{o}nig rules out the possibility that $2^{\aleph_0} = \aleph_\omega$. Might there be any other provable restrictions? Yes, an obvious one: if $\kappa < \lambda$ then you cannot have $2^\kappa > 2^\lambda$, since any subset of $\kappa$ is also a subset of $\lambda$.
+
+But if you add in this third restriction then cardinal exponentation can be anything. We won't prove this, since it is far beyond the scope of this class.
+
+\begin{theorem}[Easton's theorem]
+Let $F$ be an function whose domain is the regular cardinals so that $F$ is increasing and consistent with both Cantor's theorem and K\H{o}nig's lemma. That is, 
+\begin{itemize}
+\item $\kappa < \lambda$ implies $F(\kappa) \le F(\lambda)$.
+\item $\kappa < F(\kappa)$ for all $\kappa$ and
+\item $\kappa < \cof F(\kappa)$ for all $\kappa$.
+\end{itemize}
+Then it's consistent with the basic axioms of set theory that $2^\kappa = F(\kappa)$ for every regular $\kappa$.
+\end{theorem}
+
+
+
+Let me remark that the first condition needs to have $\le$ on the right side of the implies. It's consistent, for example, to have $2^{\aleph_0} = 2^{\aleph_1}$ even though $\aleph_0 < \aleph_1$.
+
+The word ``regular'' in the theorem may look odd. It's a first hint at the empirical fact within set theory that singular cardinals are much harder to understand than regular cardinals. Indeed, Easton's result came in 1970, scant few years after Cohen established that it was consistent to have $2^{\aleph_0} > \aleph_1$. Whereas it wasn't until 1991 that Foreman and Woodin established that it's possible to have $2^\kappa \ne \kappa^+$ for all cardinals, including singular cardinals. 
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Write down a cofinal map $f : \omega \to \Rbb$.
+\item If we take the definition of regular/singular cardinals and apply them to the finite cardinals, which would be regular and which would be singular?
+\item Check that $\aleph_\alpha$ being a successor (respectively, limit) cardinal is equivalent to $\alpha$ being a successor (respectively, limit) ordinal.
+\item Explain why $\GCH$ is equivalent to saying $\aleph_\alpha = \beth_\alpha$ for all $\alpha$.
+\item Is $\GCH$ equivalent to saying that every limit cardinal is a strong limit? Why?
+\end{enumerate}
+
+\end{document}
+
+\newpage
+
+\section{Coda: Some corollaries of the continuum hypothesis}
+
+\begin{observation}
+The continuum is hypothesis is equivalent to saying that $\Rbb$ can be well-ordered in ordertype $\omega_1$.
+\end{observation}
+
+\begin{proof}
+$(\Rightarrow)$ $\CH$ says that $\card \Rbb = \aleph_1$. Given a bijection $f : \Rbb \to \aleph_1$, if you well-order $\Rbb$ by defining $x \preceq y$ if $f(x) \le f(y)$ you get the desired well-order. 
+
+$(\Leftarrow)$ The order isomorphism from $\Rbb$ with its well-order to $\aleph_1$ is a bijection.
+\end{proof}
+
+Because $\omega_1$ is the only uncountable ordinal so that every ordinal less than it is countable, this observation means that assuming $\CH$ makes certain kinds of constructions on $\Rbb$ possible. The general strategy is: well-order $\Rbb$ in ordertype $\omega_1$, then use transfinite recursion along that well-order to construct your object, using that at each stage you've only done countably many things. 
+
+Let's see a few examples. For all of these we assume $\CH$.
+
+\begin{theorem}
+Assume $\CH$. Then $\Rbb^3$ is a union of pairwise disjoint circles. 
+\end{theorem}
+
+We need a lemma.
+
+\begin{lemma}
+If you have a countable collection of planes in $\Rbb$ then their union cannot be all of $\Rbb$.
+\end{lemma}
+
+\begin{proof}
+
+\end{proof}
+
+
+\begin{proof}[Proof of theorem]
+Well-order $\Rbb^3$ in ordertype $\omega_1$. We do transfinite recursion along $\omega_1$ to define the circles. At stage $\alpha$ we have already defined circles $C_\beta$ with centers $z_\beta$ and radii $r_\beta$ for some $\beta < \alpha$. Each circle $C_\beta$ lies inside a plane $\P_\beta$. We are looking at the point $x_\alpha$, the $\alpha$-th one in the well-order. If $x_\alpha$ lies on one of the previous circles we do nothing this stage. If it doesn't then we will add a new circle to our collection. But this new circle has to be disjoint from all the previous circles. 
+\end{proof}
+
+For this next example we will use a topological definition, one which is also important in real analysis. 
+
+\begin{definition}
+A set $X$ of reals is \emph{dense} in a nonempty open interval $I$ if whenever $(a,b)$ is an open subinterval of $I$ there is $x \in X$ with $a < x < b$. A set $X$ is \emph{nowhere dense} if there is no nonempty open interval in which it is dense. A set $X$ is \emph{meager} if it is a countable union of meager sets.
+\end{definition}
+
+For example, $\Qbb$ is dense in any nonempty open interval, because between any two reals you can always find a rational number. 
+On the other hand, any finite set is nowhere dense because you can cut down an interval $I$ to avoid every point in it. You can also see $\Zbb$ is nowhere dense. Because any finite set is nowhere dense, any countable set is meager. There are uncountable meager sets, and you will see how to prove that in another class. 
+
+\begin{theorem}[Sierpinski]
+Assume $\CH$. Then there is an uncountable set $L \subseteq \Rbb$ so that if $X$ is any meager set then $L \cap X$ is countable.
+\end{theorem}
+
+I called the set $L$ because such a set is known as a \emph{Luzin set}.
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\end{document}

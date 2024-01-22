@@ -24,7 +24,7 @@ Lecture Notes
 
 * [Chapter 1: Ordinals and transfinite recursion]({{ page.url }}ch1.pdf) ([source]({{ page.url }}ch1.tex))
 
-* [Chapter 2: Cardinals]
+* [Chapter 2: Cardinals]({{ page.url }}ch2.pdf) ([source]({{ page.url }}ch2.tex))
 
 * [Chapter 3: The cumulative hierarchy and axioms]
 
@@ -39,7 +39,7 @@ Problem Sets
 
 * [Chapter 1: Ordinals and transfinite recursion]({{ page.url }}pr1.pdf) ([source]({{ page.url }}pr1.tex))
 
-* [Chapter 2: Cardinals]
+* [Chapter 2: Cardinals]({{ page.url }}pr2.pdf) ([source]({{ page.url }}pr2.tex))
 
 * [Chapter 3: The cumulative hierarchy and axioms]
 
