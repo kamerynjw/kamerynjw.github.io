@@ -1,0 +1,138 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Chapter 1 Problem Set},
+    hidelinks 
+]{hyperref}
+
+
+\input{../../macros.tex}
+
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+
+
+\title{Math 355 problem set \\ Chapter 1: Ordinals}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+%% always do 10 problems per set
+
+\begin{problem}
+Let $A$ be a set. Consider the collection of all ordinal numbers of well-orders whose domain is a subset of $A$, ordered by $\le$. Call this collection of ordinals $\aleph(A)$. Prove that there is no injection $\aleph(A) \to A$. As a corollary derive that there is a well-order whose domain is not countable.
+\end{problem}
+
+\begin{problem}
+Prove that a linear order satisfying induction implies it is well-founded. That is, consider a linear order $(X,\le)$. Assume that for any $Y \subseteq X$ if (for all  $x \in X$ we have [if every $y < x$ is in $X$ then $x \in X$]), then $Y = X$. (Brackets added to make the logical structure clear.) Prove that $X$ must be well-founded.
+\end{problem}
+
+\begin{problem}
+Prove that the definition of ordinal addition by transfinite recursion matches our first definition of ordinal addition.
+\end{problem}
+
+\begin{problem}
+Prove that the definition of ordinal multiplication by transfinite recursion matches our first definition of ordinal multiplication.
+\end{problem}
+
+
+%% prove some properties of ordinal sum mult and exp
+\begin{problem}
+Use the recursive definition of ordinal arithmetic to prove these properties.
+\begin{align*}
+0 \cdot \alpha &= 0; \\
+1 \cdot \alpha &= \alpha; \\
+(\alpha \cdot \beta) \cdot \gamma &= \alpha \cdot (\beta \cdot \gamma); \\
+\alpha \cdot (\beta + \gamma) &= \alpha \cdot \beta + \alpha \cdot \gamma;
+\end{align*}
+\end{problem}
+
+%% some more properties of ordinal arithmetic
+\begin{problem}
+Prove these properties of ordinal exponentation.
+\begin{align*}
+0^\beta &= 0, \qquad\qquad\text{if } \beta \ne 0; \\
+1^\beta &= 1; \\
+\alpha^\beta &< \alpha^\gamma, \qquad\qquad\text{if } 1 < \alpha \mand \beta < \gamma; \\
+\alpha^\gamma &\le \beta^\gamma, \qquad\qquad\text{if } \alpha \le \beta.
+\end{align*}
+\end{problem}
+
+
+
+\begin{problem}
+Prove these properties of ordinal exponentiation:
+\begin{align*}
+\alpha^{\beta + \gamma} &= \alpha^\beta \cdot \alpha^\gamma; \\
+\alpha^{\beta \cdot \gamma} &= \left(\alpha^\beta\right)^\gamma.
+\end{align*}
+\end{problem}
+
+\begin{problem}
+Prove that every ordinal can be written uniquely in the form
+\[
+\omega^{\alpha_0} \cdot n_0 + \omega^{\alpha_1} \cdot n_1 + \cdots + \omega^{\alpha_k} \cdot n_k,
+\]
+where $k$ is finite, each $n_0$ is a finite ordinal, and $\alpha_0 > \alpha_1 > \cdots > \alpha_k$ are ordinals. 
+\end{problem}
+
+
+\begin{problem}
+A function $f$ on the ordinals is \emph{increasing} if $\alpha \le f(\alpha)$ and $f$ is \emph{continuous} if given any sequence $\seq{\alpha_i : i \in \lambda}$ we have
+\[
+f\left(\sup_{i \in \lambda} \alpha_i\right) = \sup_{i \in \lambda} f(\alpha_i).
+\]
+Show that if $f : \Ord \to \Ord$ is increasing and continuous then there always is an ordinal $\alpha$ so that $f(\alpha) = \alpha$. Moreover show that if $\beta$ is any ordinal we can always find such $\alpha$ to be larger than $\beta$.
+\end{problem}
+
+
+\begin{problem}
+\emph{[This problem uses some ideas from real analysis or topology. If you've taken neither of those classes you may find it challenging.]}
+
+A set $C \subseteq \Rbb$ is called \emph{closed} if it contais all its accumulation points, where $x$ is an \emph{accumulation point} of $C$ if there are points in $C \setminus \{x\}$ abitrarily close to $x$.\footnote{That is, for any distance $\epsilon > 0$ there is $y \in C \setminus \{x\}$ so that $\abs{x - y} < \epsilon$. If you know another characterization of closed sets you're welcome to use it instead for this problem.}
+A set $P \subseteq \Rbb$ is called \emph{perfect} if it is equal to the set of its accumulation points. Follow this outline to prove that any closed set $C \subseteq \Rbb$ can be decomposed into a disjoint union of a perfect set and a countable set.
+\begin{enumerate}
+\item Define the \emph{derivative} of a set $A \subseteq \Rbb$ to be $A' = \{ x \in \Rbb : x$ is an accumulation point of $A\}$. Show that if $A$ is closed then so is $A'$.
+\item Starting from a closed set $C$ recursively define a sequence of closed sets $C_\alpha$:
+  \begin{itemize}
+  \item $C_0 = C$;
+  \item $C_{\alpha+1} = C_\alpha'$; and
+  \item If $\gamma$ is limit, then $C_\gamma = \bigcup_{\alpha < \gamma} C_\alpha$.
+  \end{itemize}
+Say why every $C_\alpha$ is closed and that if $C_\alpha = C_{\alpha+1}$ then $C_\alpha$ is perfect.
+\item Argue that $C_\alpha \setminus C_{\alpha+1}$ is always countable. [Hint: First see that if $x \in X \setminus X'$ then there is an open interval $U \ni x$ so that $U \cap X = \{x\}$.]
+\item Finally, show that no matter what closed $C$ you start with, there's a countable ordinal $\alpha$ so that $C_\alpha = C_{\alpha+1}$.
+\item Conclude that $C$ is the union of a perfect set and a countable set.
+\end{enumerate}
+\end{problem}
+
+
+\end{document}
+

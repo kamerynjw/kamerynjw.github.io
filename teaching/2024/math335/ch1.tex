@@ -1,0 +1,913 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Lecture Notes: Chapter 1},
+    hidelinks 
+]{hyperref}
+
+\input{../../macros.tex}
+
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+\DeclareMathOperator{\vspan}{span}
+
+\title{Math 355 lecture notes \\ Chapter 1: Ordinals}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Isomorphism types}
+
+Last chapter we saw an important definition. I repeat it here.
+
+\begin{definition}
+A linear order $(X,\le)$ is a \emph{well-order} if it satisfies the \emph{well-foundedness} property: if $Y \subseteq X$ is nonempty then $Y$ has a least element.
+\end{definition}
+
+In mathematics when studying an object of XYZ type what matters is its XYZ structure. The notion of an \emph{isomorphism} captures this idea, saying when two XYZs have the same XYZ structure. Different kinds of structures have corresponding notions of isomorphism. For orders, this was the definition.
+
+\begin{definition}
+Two linear orders $(X,\le)$ and $(Y,\le)$ are \emph{(order) isomorphic} if there an \emph{(order) isomorphism} between them: a bijection $f : X \to Y$ so that $x_0 \le_X x_1$ if and only if $f(x_0) \le_Y f(x_1)$. We write $X \cong Y$ to mean $X$ and $Y$ are isomorphic.
+\end{definition}
+
+It's an exercise to check that $\cong$ is an equivalence relation.
+
+Caution! Two objects might be isomorphic as XYZes but not as ABCs. For example, one of the problems in the Chapter 0 problem set was for you to show that any two countable dense linear orders without endpoints are isomorphic. For example, the rationals $\Qbb$ and the dyadic rationals $\Qbb_2$---those rationals which can be written with a denominator that is a power of $2$---are order isomorphic. But they are not isomorphic as arithmetic structures. This can be seen by noticing that $\Qbb$ is closed under division (except by $0$) whereas $\Qbb_2$ is not closed under division by $3$.\footnote{If you've taken modern algebra: these are not isomorphic as \emph{rings}.}
+
+Accordingly, when talking about XYZs we really want to talk about equivalence classes under isomorphism.
+
+\begin{protodefinition}
+Consider a type of mathematical structures, such as linear orders. An \emph{isomorphism type} is an equivalence class of these structures under isomorphism. For orders, we call these \emph{order types}. For example, for linear orders an order type is a collection
+\[
+[X] = \{ Y : Y \text{ is a linear order which is isomorphic to} X\}.
+\]
+\end{protodefinition}
+
+(This is a protodefinition because we will see in Chapter 3 that it has a technical issue to resolve. But morally this what you should be thinking about.)
+
+With that out of the way I can introduce one of the core concepts in set theory: the ordinal.
+
+\begin{definition}[Cantor, first definition of ordinal]
+An \emph{ordinal}, also called an \emph{ordinal number}, is an order type of well-orders. 
+\end{definition}
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Show that isomorphism of linear orders is an equivalence relation.
+\item Show that the only order type of linear orders which contains finitely many orders is the order type of the empty order (i.e. the unique linear order on the empty set). Any other order type must contain infinitely many isomorphic orders.
+\end{enumerate}
+
+\newpage
+
+\section{Ordinals, a first look}
+
+It's convenient to have more than one way to think about ordinals, so let's begin this chapter by seeing an equivalent way to formulate well-foundedness.
+
+\begin{lemma}
+Let $(X,\le)$ be a linear order. Then the following are equivalent.
+\begin{enumerate}
+\item $X$ is well-founded.
+\item There are no infinite descending sequences in $X$. That is, there are no sequences $\seq{x_n : n \in \Nbb}$ from $X$ so that $x_n > x_{n+1}$ for all $n$. 
+\end{enumerate}
+\end{lemma}
+
+\begin{proof}
+$(1 \Rightarrow 2)$ By contrapositive. Suppose $\seq{x_n : n \in \Nbb}$ is an infinite descending sequence in $X$. Then the nonempty set $\{ x_n : n \in \Nbb\}$ doesn't have a least element, so $X$ is not well-founded.
+
+$(2 \Rightarrow 1)$ Also by contrapositive. Suppose $X$ is ill-founded, so there is nonempty $Y \subseteq X$ with no least element. In particular, $X$ itself must be nonempty. We will build an infinite descending sequence by recursion. To start, fix nonempty $Y_0 \subseteq X$ so that $Y_0$ has no least element. Let $x_0$ be an element of $Y_0$. Note that $Y_1 = \{ y \in Y_0 : y < x_0 \}$ must also have no least element; if it did, such would also be the least element of $Y_0$.
+
+Inductively, we have constructed $x_0, \ldots, x_n$ with $x_n \in Y_n$ so that $Y_n$ has no least element. We continue on the same: set $Y_{n+1} = \{ y \in Y_n : y < x_n \}$ and then let $x_{n+1}$ be any element of $Y_{n+1}$. The recursion theorem tells us this recursive construction produces a sequence, which by construction is an infinite descending sequence in $X$.
+\end{proof}
+
+Now let's talk ordinals. In general, we'll use Greek letters at the beginning of the alphabet---$\alpha,\beta,\gamma,\ldots$---to refer to an arbitrary ordinal. When talking about ordinals, we will do a common notational abuse and e.g. use $\alpha$ to refer to both the ordinal (i.e. equivalence class under isomorphism) and an order of that ordertype. This is to avoid awkward locutions like ``let $A$ be an order of order type $\alpha$''. And later we will see that there is a canonical choice for an order isomorphic to $\alpha$.
+
+We also have special names for certain ordinals.
+
+\begin{example}
+$(\Nbb,\le)$ is a well-order. We denote the ordinal of its order type as $\omega$.
+\end{example}
+
+\begin{example}
+Let $n \in \Nbb$. Any linear order with $n$ elements is a well-order. We denote the ordinal of its order type as $n$.
+\end{example}
+
+Draw out these ordinals, say as a progression of points:
+\newcommand\mycirc{\mathord{\,\bigcirc\,}}
+\begin{align*}
+0 &= \\
+1 &= \mycirc \\
+2 &= \mycirc \mycirc \\
+3 &= \mycirc \mycirc \mycirc \\
+&\vdots \\
+\omega &= \mycirc \mycirc \mycirc \mycirc \mycirc \mycirc \mycirc \mycirc \mycirc \cdots
+\end{align*}
+These pictures should suggest that there's some sort of order on ordinals, where we can compare shorter versus longer ordinals. Indeed we can. But first let's talk a bit about ordinal arithmetic.
+
+\begin{example}
+Take $\omega$, and place another copy of $\omega$ to the right. This is a new ordinal:
+\[
+\omega + \omega = \mycirc \mycirc \mycirc \mycirc \ \mycirc \cdots \mycirc \mycirc \mycirc \mycirc \ \mycirc \cdots
+\]
+\end{example}
+
+This idea works more generally.
+
+\begin{definition}
+Let $\alpha$ and $\beta$ be ordinals. Then $\alpha + \beta$ is the linear order consisting of a copy of $\alpha$ followed by a copy of $\beta$. More precisely, you can define $\alpha + \beta$ as the ordertype of $\{0\} \times \alpha \cup \{1\} \times \beta$ ordered by $(i,x) \le (j,y)$ if $i < j$ or $i = j$ and $x \le y$.
+\end{definition}
+
+\begin{proposition}
+$\alpha + \beta$ is an ordinal when $\alpha$ and $\beta$ are ordinals.
+\end{proposition}
+
+\begin{proof}
+Suppose $X \subseteq \alpha + \beta$ is nonempty. If $X$ intersects the $\alpha$ part, then there's a least element of that intersection, which is the least element of $X$. Otherwise $X$ is disjoint from the $\alpha$ part. Since $X$ is entirely contained in the $\beta$ part and $\beta$ is well-founded there's a least element of $X$.
+\end{proof}
+
+\begin{proposition}
+Ordinal addition is associative: $(\alpha + \beta) + \gamma = (\alpha + \beta) + \gamma$.
+\end{proposition}
+
+\begin{proof}
+Draw a picture :)
+\end{proof}
+
+On the other hand, ordinal addition is not commutative. In general, $\alpha + \beta \ne \beta + \alpha$. For example, let's compare $\omega + 2$ to $2 + \omega$:
+\begin{align*}
+\omega + 2 &= \underbrace{\mycirc \mycirc \mycirc \mycirc \ \cdots}_{\omega} \underbrace{\mycirc \mycirc}_2 \ne \omega\\
+2 + \omega &= \underbrace{\mycirc \mycirc}_2 \underbrace{\mycirc \mycirc \mycirc \mycirc \ \cdots}_\omega = \omega
+\end{align*}
+
+We can also multiply. For example, $\omega \cdot \omega$ should be $\omega$ many copies of $\omega$. You can imagine laying them end to end, but it's sometimes clearer to think of it as a two dimensional grid.
+\begin{align*}
+&\vdots \\
+\mycirc \mycirc &\mycirc \mycirc \ \cdots \\
+\mycirc \mycirc &\mycirc \mycirc \ \cdots \\
+\mycirc \mycirc &\mycirc \mycirc \ \cdots \\
+\mycirc \mycirc &\mycirc \mycirc \ \cdots \\
+\end{align*}
+The order follows the usual order in English of top to bottom then left to right.
+
+\begin{definition}
+Let $\alpha$ and $\beta$ be ordinals. Then $\alpha \cdot \beta$ is the ordertype of the cartesian product$\alpha \times \beta$ equipped with the \emph{lexicographic order}: $(a_0,b_0) \le (a_1,b_1)$ if $b_0 < b_1$ or $b_0 = b_1$ and $a_0 \le a_1$.
+\end{definition}
+
+This is called lexicographic order because it's like how you compare words in a dictionary: look at the first letter, than the next and so on. But we start at the end of the word, rather than the beginning. One reason is to make this definition match the picture---the second coordinate is the vertical axis we go top-down before we go left-right. Another reason for this will become clear later when we see an alternate way to define multiplication by recursion. This order for comparing matches what you get from the recursive definition.
+
+\begin{proposition}
+$\alpha \cdot \beta$ is an ordinal.
+\end{proposition}
+
+\begin{proof}
+That it's a linear order is straightforward. To see it's well-founded, suppose $X \subseteq \alpha \times \beta$. Let $X_1 \subseteq \beta$ be the set of second coordinates of elements of $X$. Because $\beta$ is a well-order $X_1$ has a least element, call it $b$. Now let $X_0 \subseteq \alpha$ consist of all $a \in \alpha$ so that $(a,b) \in X$. Then $X_0$ has a least element, call it $a$. So then $(a,b)$ must be the least element of $X$.
+\end{proof}
+
+Read $\alpha \cdot \beta$ as $\beta$ many copies of $\alpha$. For example, let's compare $2 \cdot \omega$ and $\omega \cdot 2$. It's easier to see if we draw end-to-end instead of in a grid.
+\begin{align*}
+2 \cdot \omega &= \underbrace{\mycirc \mycirc}_2 \underbrace{\mycirc \mycirc}_2 \underbrace{\mycirc \mycirc}_2 \underbrace{\mycirc \mycirc}_2 \cdots = \omega \\
+\omega \cdot 2 &= \underbrace{\mycirc \mycirc \mycirc \mycirc \cdots }_\omega \underbrace{\mycirc \mycirc \mycirc \mycirc \cdots }_\omega \ne \omega
+\end{align*}
+This example shows that ordinal multiplication is not commutative. It is, however, associative.
+
+\begin{proposition}
+Ordinal multiplication is associative. If $\alpha,\beta,\gamma$ are ordinals then $(\alpha\beta)\gamma = \alpha(\beta\gamma)$.
+\end{proposition}
+
+\begin{proof}
+Draw a picture. If you go with the grid picture, you need to draw a three dimensional grid. If you go with the end-to-end picture it's a matter of reshuffling groupings. If this is hard to see pictorally, we'll later give a different but equivalent definition of multiplication and you'll produce a more symbolic proof as a problem for this chapter.
+\end{proof}
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Explicitly write down infinite descending sequences in each of these orders: $\Zbb$, $\Qbb$, and $\Rbb$. What kind of options do you have for each?
+\item Check that $\alpha + \beta$ and $\alpha \cdot \beta$ are linear orders.
+\item Draw pictures of the following ordinals:
+  \begin{itemize}
+  \item $\omega + 4$
+  \item $\omega \cdot 3 + 2$
+  \item $\omega \cdot \omega + \omega \cdot 2$
+  \item $\omega \cdot \omega \cdot \omega$
+  \item $\omega \cdot \omega \cdot \omega \cdot \omega + 1$
+  \end{itemize}
+%more?
+\end{enumerate}
+
+\newpage
+
+\section{Comparing ordinals}
+
+It seems like every math class has a part where you do a bunch of finicky work to prove a big theorem. This section is that part of this class. The big theorem we will see is that the natural ordering on ordinals is itself a well-order.
+
+Here's two ways you might try to compare ordinals. One would be to say that $\alpha$ is smaller than $\beta$ if you can find a copy of $\alpha$ inside $\beta$. Another would be more stringent and insist the copy of $\alpha$ has to be at the beginning of $\beta$, not somewhere in the middle. It will turn out that these two different ideas end up giving the same notion.
+
+This definition captures the first idea of how to compare orders.
+
+\begin{definition}
+Let $\alpha$ and $\beta$ be ordinals. Say that $\alpha \le \beta$ if there is an order embedding $f : \alpha \to \beta$. 
+\end{definition}
+
+Although I used a symbol $\le$ reserved for order, it's not immediately clear that this really is an order. That $\le$ is reflexive and transitive is straightforward (why?), but why is it antisemmetric? Why does it have trichotomy? 
+
+Maybe it's easier to check these properties if we instead insist that we embed $\alpha$ into the beginning of $\beta$. 
+
+\begin{definition}
+An \emph{initial segment} of an linear order $(X,\le)$ is a set $I \subseteq X$ so that $I$ is closed under $<$: if $x < y \in I$ then $x \in I$. If $I \ne X$ we call it a \emph{strict} initial segment.
+\end{definition}
+
+For example, the initial segments of $\Nbb$ are the sets
+\[
+\{x \in \Nbb : x < n\} = \{0,1,\ldots,n-1\}.
+\]
+
+\begin{lemma}
+For ordinals $\alpha$ and $\beta$, the following are equivalent:
+\begin{enumerate}
+\item $\alpha \le \beta$; and
+\item There is an order embedding of $\alpha$ into $\beta$ whose range is an initial segment of $\beta$. 
+\end{enumerate}
+\end{lemma}
+
+\begin{proof}
+$(2 \Rightarrow 1)$ Immediate. (Why?)
+
+$(1 \Rightarrow 2)$ It suffices to see that if $A \subseteq \beta$ then $A$, inhereting the order from $\beta$, is isomorphic to an initial segment of $\beta$. (Why?) I'll give two proofs of this. The first will go by \emph{tranfinite recursion} while the second will avoid this.
+
+\textit{Argument by transfinite recursion:}
+If $A = \emptyset$, this is trivial. So suppose $A$ is nonempty. Here's the idea: map the least element of $A$ to the least element of $\beta$, then the next element of $A$ to the next element of $\beta$, and so on until you run out of space. If $A$ is finite or a copy of $\omega$, then this is just ordinary recursion on $\Nbb$. But we might have to go further. We can do this: because $\beta$ is well-ordered, at any stage we haven't exhausted $A$ then there's always a smallest unused element $a$ of $A$. And there's a smallest unused $b \in \beta$ to be part of the range. So send $b$ to $a$ to continue building. Because we can always extend, this gives an embedding of $A$ onto an initial segment $I$ of $\beta$, so $A$ is isomorphic to $I$.
+
+\textit{Other argument:} Let $X$ be the set of all $x \in A$ so that there is \emph{no} embedding of $A \downarrow x = \{ a \in A : a \le x \}$ onto an initial segment of $\beta$. If $X = \emptyset$ then we're done. Suppose otherwise towards contradiction. Then, because $A$ is well-ordered there is a smallest element of $X$, call it $m$. By minimality, if $x < m$ there is an embedding $f_x$ of $A \downarrow x$ onto an initial segment $I_x$ of $\beta$.
+
+\begin{claim*}
+For any $x < m$ and any $y \in A \downarrow x$, we have $f_x(y) \le y$. 
+\end{claim*}
+
+\begin{proof}
+Suppose this isn't true for some $x$. Then there is a least $y \in A \downarrow x$ where this fails, i.e. where $f_x(y) > y$. By minimality if $y' < y$ then $f_x(y') \le y' < y < f_x(y)$. But then $I_x$ skips over $y$, and so cannot be an initial segment of $\beta$. Contradiction.
+\end{proof}
+
+\begin{claim*}
+For any $x_0,x_1 < m$ and any $y < x_0,x_1$ we have $f_{x_0}(y) = f_{x_1}(y)$.
+\end{claim*}
+
+\begin{proof}
+Again by contradiction. Suppose this isn't true for some $x_0$ and $x_1$. Then there's a least $y$ so that $f_{x_0}(y) \ne f_{x_1}(y)$. By minimality $f_{x_0}(y') = f_{x_1}(y')$ for all $y' < y$. In order for $I_{x_0}$ and $I_{x_1}$ to both be initial segments it must be that $f_{x_0}(y)$ is the smallest element of $\beta \setminus \{ f_{x_0}(y') : y' < y \}$, and similarly for $x_1$. But these are the same sets, so it must be $f_{x_0}(y) = f_{x_1}(y)$. Contradiction.
+\end{proof}
+
+As a consequence, if we define $f = \bigcup_{x < m} f_x$ then $f$ is a function with domain $\{x \in A : x < m\}$ and range some initial segment $I \subseteq \beta$. Indeed, $I$ must be a strict initial segment. Otherwise, some $x < m$ would get mapped to $m$, but then $f(x) > x$, a contradiction. But now we can see how to embed all of $A \downarrow m$ onto an initial segment of $\beta$: we already can just use $f$ for $x < m$ and then we map $m$ onto the least element of $\beta \setminus I$.
+
+By definition $m$ doesn't allow such an embedding of $A \downarrow m$, so our assumption that $X$ is nonempty must be false. In other words, for any $x \in X$ there is an embedding $f_x$ of $A \downarrow x$ onto an initial segment $I_x \subseteq \beta$.
+
+\begin{claim*}
+For any $x_0$ and $x_1$ in $A$ we have that $f_{x_0}$ and $f_{x_1}$ agree on their common domain.
+\end{claim*}
+
+\begin{proof}
+Exactly the same as the previous claim.
+\end{proof}
+
+Finally, we can see how to embed all of $A$ onto an initial segment of $\beta$: simply use $f = \bigcup_{x \in A} f_x$. This is a function by the claim, and it's an order isomorphism onto the initial segment $I = \bigcup_{x \in A} I_x$. Done, finally.
+\end{proof}
+
+I think these arguments demonstrate the utility of \emph{transfinite recursion}---recursion beyond the finite. We could avoid it, but at the cost of using well-foundedness over and over in proofs by contradiction within proofs by contradiction. To establish more basic facts about how to compare ordinals, it will be useful to use transfinite recursion again. To that end, let me introduce the idea. And we will circle back later to get a more rigorous footing.
+
+The short answer is that transfinite recursion is just like ordinary recursion on $\Nbb$, except longer. Less briefly, when we proved why recursion on $\Nbb$ is valid what we used is that $\Nbb$ is a well-order. The same works for any well-order. The way it works is, at a partial stage in the construction you have built some function $F$ up to a strict initial segment $I$ of an ordinal $\alpha$. By well-foundedness, there is a smallest unused stage $x \in \alpha \setminus I$. To continue the recursive construction you have to say what $F(x)$ is. To check that this process is valid and really does give a function $F$ with domain $\alpha$, we again use well-foundedness. If it didn't work, there would be a smallest stage $x \in \alpha$ for which it didn't work. But we know we can always continue one more step, so contradiction.
+
+Let's put this to use to prove some more facts about comparing ordinals. Let me introduce some new notation first.
+
+\begin{definition}
+Let $f : X \to Y$ be a function and $X_0 \subseteq X$. Then $f''X_0 = \{ y \in Y : y = f(x)$ for some $x \in X_0\}$ is the \emph{image} of $X_0$ under $f$. We use this notation, rather than $f(X_0)$ as you may have seen in another class, as later we will be dealing with lots of sets whose elements are also subsets. So we need to distinguish $f(x)$ as the function of the element $x$ of the domain versus the image $f''x$ of the subset $x$ of the domain.\footnote{Another notation one sees for the image of a set under a function is $f[X_0]$.} 
+\end{definition}
+
+\begin{proposition}
+$\le$ has trichotomy: if $\alpha$ and $\beta$ are ordinals then either $\alpha \le \beta$ or $\beta \le \alpha$.
+\end{proposition}
+
+\begin{proof}
+Suppose $\beta \not \le \alpha$, i.e. that there is no embedding of $\beta$ into $\alpha$. We now define an embedding of $\alpha$ into $\beta$ by transfinite recursion along $\alpha$. At a partial stage, we have constructed an embedding $f_I$ of an initial segment $I \subseteq \alpha$ onto an initial segment of $\beta$. We know that $\beta \setminus {f_I}''I$ must be nonempty; for if it were empty then $f_I\inv : \beta \to \alpha$ would be an embedding of $\beta$ into $\alpha$, contradicting that $\beta \not \le \alpha$. So we have space to keep going. If $x$ is the least element of $\alpha \setminus I$ and $y$ is the least element of $\beta \setminus {f_I}''I$, then map $x$ to $y$ to continue the construction onto the next step. 
+
+Continuing this process through all of $\alpha$ gives an embedding $f : \alpha \to \beta$, and so $\alpha \le \beta$.
+\end{proof}
+
+Let me remark on the utility of working with embeddings onto initial segments, rather than arbitrary embeddings. Consider trying to embed $\omega + \omega$ into itself. If you allowed an arbitrary embedding, you might map the first copy of $\omega$ into the second copy of $\omega$---send the $n$-th element to the $n$-th element of the second copy. But then when it comes time to deal with the second copy of $\omega$ there's no space left. This problem is avoided if we don't leave a bunch of blank space at the beginning of the construction.
+
+Just like recursion had a sister in induction, so too does transfinite recursion have a sister in \emph{transfinite induction}. 
+
+\begin{theorem}[Transfinite Induction]
+Suppose $\alpha$ is an ordinal and $X \subseteq \alpha$ is a set satisfying the property that for all $x \in \alpha$, if every $y < x$ is in $X$ then $x \in X$. Then $X = \alpha$.
+\end{theorem}
+
+This gives us a proof technique to prove a property $\phi(x)$ is true for all $x \in \alpha$. Namely, consider arbitrary $x \in \alpha$ and assume every $y < x$ has $\phi(y)$. If you can prove $\phi(x)$, then you are done.
+
+Like transfinite recursion this is a consequence of well-foundedness. Let's take this theorem on faith now, and circle back to its proof later.
+
+\begin{proposition}
+Let $\alpha \le \beta$ be ordinals. Then the embedding of $\alpha$ onto an initial segment of $\beta$ is unique.
+\end{proposition}
+
+\begin{proof}
+We prove this by transfinite induction. Suppose $f : \alpha \to \beta$ and $g : \alpha \to \beta$ are two embeddings of $\alpha$ onto an initial segment of $\beta$. Fix $x \in \alpha$ and suppose that $f(y) = g(y)$ for all $y < x$. In order for $\ran f$ to be an initial segment, it must be that $f(x)$ is the smallest element of $\beta \setminus \{ f(y) : y < x \}$. And similar is true for $g(x)$. Thus $f(x) = g(x)$. So by induction $f(x) = g(x)$ for all $x \in \alpha$.
+\end{proof}
+
+\begin{corollary}
+There is no embedding of an ordinal $\alpha$ onto a strict initial segment of itself.
+\end{corollary}
+
+\begin{proof}
+The identity is an  embedding of $\alpha$ onto an initial segment of itself, so it must be the only one.
+\end{proof}
+
+
+\begin{proposition}
+$\le$ is antisymmetric: if $\alpha \le \beta \le \alpha$ then $\alpha = \beta$. 
+\end{proposition}
+
+Note that $\alpha = \beta$ means that $\alpha$ and $\beta$ are isomorphic. (We're abusing notation a little here: the first $\alpha$ and $\beta$ refer to the equivalence classes while the second refer to arbitrary orders in those classes. It's fine.)
+
+\begin{proof}
+Suppose $\alpha$ and $\beta$ are not isomorphic.
+Let $f : \alpha \to \beta$ be an embedding of $\alpha$ onto an initial segment of $\beta$ and $g : \beta \to \alpha$ be an embedding of $\beta$ onto an initial segment of $\beta$. Because $\alpha \not \cong \beta$ at least one of these embeddings must be an embedding onto a strict initial segment. Without loss of generality say that it's $f$. Then $g \circ f : \alpha \to \alpha$ is an embedding of $\alpha$ onto a strict initial segment of itself. That's impossible.
+\end{proof}
+
+Altogether we have just finished proving:
+
+\begin{lemma}
+$\le$ is a linear order on the collection of ordinals. \qed
+\end{lemma}
+
+And now we come to a big result about ordinals. Let's call this one a theorem, to highlight its importance.
+
+\begin{theorem}
+Any ordinal $\alpha$ is isomorphic to the set of ordinals $< \alpha$ under the $\le$ relation on ordinals.
+\end{theorem}
+
+\begin{proof}
+Let $A$ be the set of ordinals $< \alpha$. By the previous proposition for each $\beta < \alpha$ there is a unique $b_\beta \in \alpha$ so that $\beta$ embeds onto $\{a \in \alpha : a < b_\beta\}$. Define $f : A \to \alpha$ as $f(\beta) = b_\beta$. I claim $f$ is an isomorphism.
+There's two things to check: $(1)$ the range of $f$ is all of $\alpha$, and $(2)$ that $\beta_0 \le \beta_1$ if and only if $f(\beta_0) \le f(\beta_1)$.
+
+$(1)$ If $b \in \alpha$ then $B = \{ a \in \alpha : a < b\}$ is a well-order $< \alpha$, call its ordertype $\beta$. The identity map on $B$ is an embedding of $B$ onto an initial segment of $\alpha$. Now use the uniqueness of embeddings of well-orders onto initial segments to conclude $f(\beta) = b$.
+
+$(2)$ Suppose $\beta_0 \le \beta_1$ but $f(\beta_0) > f(\beta_1)$. Because $\beta_i \cong \{ a \in \alpha : a < f(\beta_i)\}$, for $i = 0,1$, we get an embedding of $\beta_1$ onto a strict initial segment of $\beta_0$. Composing this embedding with the embedding of $\beta_0$ onto an initial segment of $\beta_1$ we get that $\beta_1$ embeds as a strict initial segment of itself. But we know that's impossible.
+
+Conversely, suppose $f(\beta_0) \le f(\beta_1)$. Again $\beta_i$ is isomorphic to $\{a \in \alpha : a < f(\beta_i)\}$, and so we get $\beta_0 \le \beta_1$.
+\end{proof}
+
+With this theorem in hand, we will identify an ordinal $\alpha$ with the set of ordinals $<\alpha$. Along with that we will use the letters reserved for ordinals--$\alpha,\beta,\ldots$---for elements of ordinals, because they themselves are ordinals! So, for example, $\beta \in \alpha$ means $\beta < \alpha$. Let me put this in a definition so that it stands out.
+
+\begin{definition}[Mostowski, Second definition of ordinal]
+An ordinal $\alpha$ is the set of all ordinals $<\alpha$.
+\end{definition}
+
+This definition may look circular, but once you know the order on ordinals is a well-order---the next corollary---you can think of it as a definition by transfinite recursion. At stage $0$ you have no ordinals yet, so your first ordinal $0$ is the empty set. Then at stage $1$ your new ordinal is $1 = \{0\}$, at stage $2$ your new ordinal is $2 = \{0,1\}$, at stage $\omega$ your new ordinal is $\{0,1,2,\ldots,n,\ldots\}$, and so on.
+
+\begin{corollary}
+The relation $\le$ is well-founded on the ordinals. Thus $\le$ is a well-order.
+\end{corollary}
+
+\begin{proof}
+Consider a nonempty collection $X$ of ordinals. Fix $\alpha \in X$ and look at $X \cap \alpha = \{ \beta \in X : \beta < \alpha\}$. If $X \cap \alpha$ is empty then $\alpha$ is the least element of $X$. Otherwise, $\alpha \cap X \subseteq \alpha$ has a least element $\beta$ because $\alpha$ is well-founded. Now let's see that $\beta$ is also the least element of $X$. To this end, fix arbitrary $\gamma \in X$. By trichotomy there are two options: $\gamma < \alpha$ or $\gamma \ge \alpha$. For the latter, we have $\beta < \alpha \le \gamma$. For the former, we have $\beta \le \gamma$ because $\beta$ is the least element of $X \cap \alpha$. Either way $\beta \le \gamma$ and so we have seen $\beta$ is the least element of $X$.
+\end{proof}
+
+This is huge. We now know that not only are individual ordinals well-orders, but that the ordering of ordinals is itself a well-order. Since we can do transfinite induction/recursion on well-orders, we can do transfinite induction/recursion on the collection of all ordinals.\footnote{If you're worried about a vicious circularity here, hold onto that worry. We'll address it in Chapter 3.}
+\smallskip
+
+We'll get a lot of use out of this important fact soon, but let's establish one final basic property of the order on ordinals to close out the section.
+If you've taken real analysis this definition should look familiar.
+
+\begin{definition}
+Let $X$ be a set of ordinals. The \emph{supremum} of $X$, if it exists, is the least upper bound of $X$. That is, it is the ordinal $\alpha$ so that $\beta \le \alpha$ for all $\beta \in X$ and if $\alpha'$ is any other ordinal with that property than $\alpha \le \alpha'$. Denote the supremum of $X$ as $\sup X$.
+\end{definition}
+
+\begin{lemma}
+Let $X$ be a set of ordinals. Then $\sup X$ exists.
+\end{lemma}
+
+This proof is an example of why identifying $\alpha$ with the set of ordinals $\mathord<\alpha$ is notationally convenient. 
+
+\begin{proof}
+For your set $X$ of ordinals set $\sup X = \bigcup_{\alpha \in X} \alpha$. Let's see that this is the supremum of $X$.
+
+First, let's see that it really is an ordinal, just to get comfortable with thinking of ordinals as sets of smaller ordinals. Each $\alpha \in X$ is closed under $<$, so $\sup X$ is as well. In other words, $\sup X = \{ \beta : \beta < \sup X\}$ and so it's an ordinal.
+
+To see it's an upper bound, we need to see that $\alpha < \sup X$ for all $\alpha \in X$. If $\alpha$ is the maximum of $X$, if it exists, then $\sup X = \alpha$ Otherwise, $\alpha < \beta$ for some $\beta \in X$ and so $\alpha < \sup X$.
+To see it's the least upper bound, suppose $\beta$ is an upper bound for $X$; that is, $\alpha \le \beta$ for all $\alpha \in X$.
+Suppose toward a contradiction that $\beta < \sup X$. Then $\beta \in \sup X$ and so $\beta \in \alpha$ for  some $\alpha \in X$. But that means $\beta < \alpha$, a contradiction. So $\sup X \le \beta$.
+\end{proof}
+
+Alternatively, you could have proved this by showing that the set of upper bounds for $X$ is nonempty and use well-foundedness to conclude there's a least upper bound. You can think of the union construction of $\sup X$ is a slick way to get an upper bound for $X$.
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Check that $\alpha < \alpha + \beta$ for any ordinals $\alpha,\beta$ with $\beta > 0$.
+\item Check that $\alpha < \alpha \cdot \beta$ for any ordinals $\alpha,\beta$ with $\beta > 1$.
+\item Are these true if you swap the order of the operation? That is, must $\alpha$ always be strictly less than $\beta + \alpha$ and $\beta \cdot \alpha$?
+\item What is the supremum of the set of finite ordinals? 
+\item Check that if a set $X$ of ordinals has a maximum $\alpha$ then $\sup X = \alpha$.
+\item Write down two different sets $X$ of ordinals so that $\sup X \not \in X$.
+\end{enumerate}
+
+\newpage
+
+
+\section{Transfinite induction and recursion, part 1: ordinal arithmetic}
+
+The big result last section was that the ordinals are well-ordered. Thus, we can do transfinite induction and recursion along all the ordinals. Let's do that now. Induction first, then recursion.
+
+\begin{definition}
+Let $\Ord$ denote the collection of all ordinals. So ``$\alpha \in \Ord$'' is shorthand for saying ``$\alpha$ is an ordinal''.
+\end{definition}
+
+\begin{theorem}[Transfinite Induction on $\Ord$, first form]
+Suppose $X$ is a collection of ordinals with the property that for any $\alpha \in \Ord$ if every $\beta < \alpha$ is in $X$ then $\alpha \in X$. Then, $X = \Ord$.
+\end{theorem}
+
+\begin{proof}
+To no one's surprise, this is proved by contradiction using well-foundedness. Suppose toward a contradiction that $X \ne \Ord$. Then $\Ord \setminus X$ is nonempty, so it has a least element $\alpha$. But every $\beta < \alpha$ is in $X$ and so $\alpha \in X$. Contradiction.
+\end{proof}
+
+With induction on $\Nbb$, we had an alternate way of formulating it based on the base case of $0$ and the $+1$ successor case. A similar idea works for transfinite induction, except we need one more case, the limit case. To illustrate the necessity of this case, observe that $\omega$ isn't obtained by adding $1$ to a small ordinal. 
+
+\begin{definition}
+Let $\alpha$ be an ordinal. It is in one of three cases, defined as follows.
+\begin{itemize}
+\item (Zero) $\alpha$ is empty. This only happens when $\alpha = 0$. 
+\item (\emph{Successor ordinal}) $\alpha$ is nonempty and has a maximum.
+\item (\emph{Limit ordinal}) $\alpha$ is nonempty and has no maximum.
+\end{itemize}
+\end{definition}
+
+Let's check a couple basic properties.
+
+\begin{proposition}
+If $\alpha$ is a successor ordinal then $\alpha = \beta + 1$ where $\beta$ is the largest ordinal $\in \alpha$.
+\end{proposition}
+
+\begin{proof}
+From last section we know that $\beta = \{ \gamma \in \alpha : \gamma < \alpha \}$. So to get to $\alpha$ we only need to add one element, namely $\beta$ itself. That is, $\alpha = \beta + 1$.
+\end{proof}
+
+\begin{proposition}
+If $\gamma$ is a limit ordinal then $\gamma = \sup \gamma$.
+\end{proposition}
+
+\begin{proof}
+We check that $\gamma$ is the least upper bound of the ordinals $< \gamma$. That it's an upper bound is trivial. To see it's least, suppose $\beta < \gamma$ is an upper bound. But there's no maximum to the ordinals $< \gamma$, so $\beta < \alpha$ for some $\alpha < \gamma$. Contradiction.
+\end{proof}
+
+We're now in a position to see the other formulation of transfinite induction.
+
+\begin{theorem}[Transfinite Induction on $\Ord$, second form]
+Suppose $X \subseteq \Ord$ satisfies these three properties:
+\begin{itemize}
+\item (Zero case) $0 \in X$;
+\item (Successor case) If $\alpha \in X$ then $\alpha + 1 \in X$.
+\item (Limit case) If $\gamma$ is a limit ordinal and every $\alpha < \gamma$ is in $X$ then $\gamma \in X$. 
+\end{itemize}
+Then, $X = \Ord$.
+\end{theorem}
+
+\begin{proof}
+Let's check that if $X$ has those properties then $X$ has the property from the first form of transfinite recursion. To this end, suppose $\alpha \in \Ord$ and every $\beta < \alpha$ is in $X$. There's three cases to consider. (Zero case) If $\alpha = 0$ then $\alpha \in X$. (Successor case) We know $\alpha = \beta + 1$ where $\beta$ is the maximum ordinal in $\alpha$. Since $\beta \in X$ we conclude $\alpha = \beta + 1 \in X$. (Limit case) There's nothing to check. The statement in the limit case is just the first form of transfinite recursion, just with the restriction we're only looking at limit ordinals.
+
+Whichever case we are in, we were able to conclude $\alpha \in X$. So by the first form of transfinite recursion we conclude $X = \Ord$, as desired.
+\end{proof}
+
+Just like the well-foundedness of $\Nbb$ also gave us recursion, we can do transfinite recursion on the ordinals. Let me state it a bit formally, to match how we did it for recursion on $\Nbb$.
+
+\begin{theorem}[Transfinite recursion on $\Ord$]
+Suppose $G(\alpha,f)$ is a function whose inputs are an ordinal $\alpha$ and a function $f$ whose domain is $\alpha$. Then there is a function $F$ with domain $\Ord$ so that $F(\alpha) = G(\alpha, F \rest \alpha)$.
+\end{theorem}
+
+Compare this to the recursion theorem on $\Nbb$. To say how to continue the recursion at stage $\alpha$ the information we have access to is $\alpha$ and the partial construction below $\alpha$. What we do with that information is captured by the function $G$. Like with induction, it's commonly helpful to separate out recursion into zero, successor, and limit cases. Often you don't need the full information of $F \rest \alpha$, and you define what happens at successor cases just in terms of the one previous stage. But when defining the limit case you do want everything done before. 
+
+We'll put off the proof of this theorem. For now, let's see some examples of how to use transfinite induction and recursion. Begin by looking again at ordinal arithmetic.
+
+We can give alternate definitions of ordinal addition and multiplication using transfinite recursion. And proving these are equivalent to the previous definitions are in the problem set for this chapter. We also can newly introduce ordinal exponentiation. These definitions capture the idea of addition being repeatedly adding $1$, multiplication being repeated addition, and exponentiation being repeated multiplication.
+
+\begin{definition}
+Let $\alpha$ be an ordinal. Then $\alpha + 1$ is the \emph{successor} of $\alpha$, the smallest ordinal $> \alpha$. Namely, $\alpha + 1 = \alpha \cup \{\alpha\}$.
+\end{definition}
+
+The explicit definition of the successor works because the only ordinals $<\alpha + 1$ are the ordinals $<\alpha$ and $\alpha$ itself.
+
+\begin{definition}
+Define $\alpha + \beta$, $\alpha \cdot \beta$, and $\alpha^\beta$ by recursion on $\beta$. $\alpha + \beta$ is defined as:
+\begin{itemize}
+\item $\alpha + 0 = \alpha$;
+\item $\alpha + (\beta + 1) = (\alpha + \beta) + 1$;
+\item If $\gamma$ is limit then $\alpha + \gamma = \sup_{\beta < \gamma} \alpha + \beta$.
+\end{itemize}
+\begin{itemize}
+\item $\alpha \cdot 0 = 0$;
+\item $\alpha \cdot (\beta + 1) = (\alpha \cdot \beta) + \alpha$;
+\item If $\gamma$ is limit then $\alpha \cdot \gamma = \sup_{\beta < \gamma} \alpha \cdot \beta$.
+\end{itemize}
+\begin{itemize}
+\item $\alpha^0 = 1$;
+\item $\alpha^{\beta + 1} = \alpha^\beta \cdot \alpha$;
+\item If $\gamma$ is limit then $\alpha^\gamma = \sup_{\beta < \gamma} \alpha^\beta$.
+\end{itemize}
+\end{definition}
+
+Observe that the three limit cases are essentially the same. Indeed, the limit cases for transfinite recursion often end up being very samey. 
+
+For a quick example of working with these definitions, let's confirm that $\alpha \cdot 1 = 0$. By definition,
+\[
+\alpha \cdot (0+1) = (\alpha \cdot 0) + \alpha = 0 + \alpha = \alpha.
+\]
+There's a small gap in this: we don't yet know that $0 + \alpha = \alpha$, we only know that $\alpha + 0 = \alpha$. We can fill this gap, along with prove some other basic properties of ordinal arithmetic, by using transfinite induction. In general, if you define a mathematical object by transfinite recursion then transfinite induction is a good proof technique to use for it.
+
+\begin{proposition}
+Let $\alpha,\beta,\gamma$ be arbitrary ordinals. Then:
+\begin{enumerate}
+\item \textbf{Left additive identity.} 
+
+$0 + \alpha = \alpha$
+\item \textbf{Addition is associative.} 
+
+$(\alpha + \beta) + \gamma = \alpha + (\beta + \gamma)$ 
+\item \textbf{Annihilator for multiplication.}
+
+$\alpha \cdot 0 = 0 = 0 \cdot \alpha$
+\item \textbf{Left multiplicative identity.} 
+
+$1 \cdot \alpha = \alpha$;
+\item \textbf{Multiplication is associative.} 
+
+$(\alpha \cdot \beta) \cdot \gamma = \alpha \cdot (\beta \cdot \gamma)$;
+\item \textbf{Multiplication is right-distributive over addition.} 
+
+$\alpha \cdot (\beta + \gamma) = \alpha \cdot \beta + \alpha \cdot \gamma$;
+\end{enumerate}
+\end{proposition}
+
+\begin{proof}
+I prove $(1)$ and $(2)$, with the rest left as problems for this chapter.
+
+$(1)$ By induction on $\alpha$. (Zero case) By definition $0 + 0 = 0$. (Successor case) $0 + (\alpha + 1) = (0 + \alpha) + 1 = \alpha + 1$. (Limit case) Let $\delta$ be limit. Then $0 + \delta = \sup_{\alpha<\delta} 0 + \alpha = \sup_{\alpha<\delta} \alpha = \delta$.
+
+$(2)$ By induction on $\gamma$. (Zero case) $(\alpha + \beta) + 0 = \alpha + \beta$ and $\alpha + (\beta + 0) = \alpha + \beta$. (One case) $(\alpha + \beta) + 1 = \alpha + (\beta + 1)$ by definition. We did this as a separate base case because it will be used to prove the successor case.
+
+(Successor case) We have $(\alpha + \beta) + (\gamma + 1) = ((\alpha + \beta) + \gamma) + 1$. But $(\alpha + \beta) + \gamma = \alpha + (\beta + \gamma)$ so this is $(\alpha + (\beta + \gamma)) + 1$. For the other side, $\alpha + (\beta + (\gamma + 1)) = \alpha + ((\beta + \gamma) + 1)$. By the one case we get this is $(\alpha + (\beta + \gamma)) + 1$; namely, $\alpha$ is the first summand in the one case and $\beta + \gamma$ is the second summand. So the two sides are equal.
+
+(Limit case) Suppose $\gamma$ is limit. Then 
+\[
+(\alpha + \beta) + \gamma = \sup_{\delta < \gamma} \big((\alpha + \beta) + \delta\big) = \sup_{\delta < \gamma} \big(\alpha + (\beta + \delta)\big) = \alpha + \sup_{\delta < \gamma}\big( \beta + \delta\big) = \alpha + (\beta + \gamma). \qedhere
+\]
+%%why move sup inside?
+\end{proof}
+
+\begin{remark}
+Ordinal multiplication does not distribute across addition on the left. As a counter example, consider $(\omega + 2) \cdot 2$. If you draw a picture of this product---one copy of $\omega + 2$ followed by another---you'll see the product is equal to $\omega \cdot 2 + 2$. On the other hand, $\omega \cdot 2 + 2 \cdot 2 = \omega \cdot 2 + 4$, which is different.
+\end{remark}
+
+%% One way that ordinal arithmetic is different from the more familiar arithmetic with finite quantities is that when you add or multiply or the left you often absorb the term on the left. For example, $1 + \omega = \omega$. You can check this by the recursive definition of addition:
+%% \[
+%% 1 + \omega = \sup_{n < \omega} 1 + n = \omega.
+%% \]
+%% Consequently, $1 + \alpha = \alpha$ for any $\alpha \ge \omega$. Indeed, $n + \alpha = \alpha$ whenever $n < \omega$ and $\alpha \ge \omega$.
+
+%% We can absorb $\omega$ by going even larger. 
+%% \[
+%% \omega + \omega \cdot \omega = \sup_{n < \omega} \omega + \omega \cdot n = \sup_{n < \omega} \omega \cdot (1 + n) = \omega \cdot \omega.
+%% \]
+
+Now let's see how ordinal arithmetic plays with the order relation on ordinals. First let's get a characterization of $\le$ based on addition rather than embeddings.
+
+\begin{proposition}
+$\alpha \le \beta$ if and only if there is an ordinal $\gamma$ so that $\alpha + \gamma = \beta$. And $\alpha < \beta$ if and only if this $\gamma$ is not $0$. Moreover, this $\gamma$ is unique.
+\end{proposition}
+
+Since we defined $\le$ in terms of embeddings, this proposition is most easily seen if we use the definition of addition from Section 2, rather than the recursive definition.
+
+\begin{proof}
+$(\Rightarrow)$ Let $\gamma$ be the ordertype of $\beta \setminus \alpha$. Then $\alpha + \gamma = \beta$. And if it happened that $\alpha < \beta$ then $\beta \setminus \alpha$ is nonempty so $\gamma \ne 0$.
+
+$(\Leftarrow)$ We need to see that $\alpha \le \alpha + \gamma$. This is straightforward: map $\alpha$ to the copy of $\alpha$ at the beginning of $\alpha + \gamma$. And if we had $\gamma \ne 0$ then this would embed $\alpha$ onto a strict initial segment of $\alpha + \gamma$ whence we would get $\alpha < \alpha + \gamma$.
+
+(Uniqueness) This follows from what we just proved. If we had $\alpha + \gamma_0 = \alpha + \gamma_1$ but $\gamma_0 < \gamma_1$ then we would have $\alpha + \gamma_0 + \delta = \alpha + \gamma_1$ for some nonzero $\delta$. But then we would also get $\alpha + \gamma_0 + \delta = \alpha + \gamma_0$ and so $\alpha + \gamma_0 + \delta$ embeds onto a strict initial segment of itself. Impossible.
+\end{proof}
+
+Now that we have this proposition it's much easier to prove facts about $\le$ using induction. 
+
+\begin{proposition}
+If $\alpha < \beta$ then $\gamma + \alpha < \gamma + \beta$ and if $\gamma \ne 0$ then $\gamma \cdot \alpha < \gamma \cdot \beta$.
+\end{proposition}
+
+\begin{proof}
+(Addition) Assume $\alpha < \beta$ and fix $\delta > 0$ so that $\alpha + \delta = \beta$. Then $\gamma + \alpha + \delta = \gamma + \beta$ whence we get that $\gamma + \alpha < \gamma + \beta$.
+
+(Multiplication) We do this by induction on $\beta$. The base case is $\beta = \alpha + 1$. Then, $\gamma \cdot \beta = \gamma \cdot \alpha + \gamma$. Because $\gamma \ne 0$ we get that $\gamma \cdot \beta > \gamma \cdot \alpha$.
+
+For the successor case, assume $\gamma \cdot \alpha < \gamma \cdot \beta$. So it is enough to see that $\gamma \cdot \beta < \gamma \cdot (\beta + 1)$. This is similar to the base case: $\gamma \cdot (\beta + 1) = \gamma \cdot \beta + \gamma > \gamma \cdot \beta$ because $\gamma > 0$.
+
+For the limit case, assume $\beta$ is limit and $\gamma \cdot \alpha < \gamma \cdot \delta$ for all $\alpha < \delta < \beta$. But $\gamma \cdot \beta$ is the supremum of the $\gamma \cdot \delta$ and so by the definition of supremum $\gamma \cdot \delta \le \gamma \cdot \beta$ for these $\delta$. So by transitivity $\gamma \cdot \alpha < \gamma \cdot \beta$.
+\end{proof}
+
+We can add or multiply on the right, but then we can only guarantee we get $\le$, not necessarily strict inequality. For example, $2 < \omega$. But $2 + \omega \cdot \omega = \omega \cdot \omega$ and $\omega + \omega \cdot \omega = \omega \cdot (1 + \omega) = \omega \cdot \omega$.
+
+\begin{proposition}
+If $\alpha \le \beta$ then $\alpha + \gamma \le \beta + \gamma$ and $\alpha \cdot \gamma \le \beta \cdot \gamma$.
+\end{proposition}
+
+\begin{proof}
+By induction on $\gamma$. We do the argument for addition then for multiplication.
+
+(Zero case, addition) The base case $\alpha + 0 \le \beta + 0$ is saying $\alpha \le \beta$ which we assumed. 
+
+(Successor case, addition) Suppose $\alpha + \gamma \le \beta + \gamma$.
+ Then the embedding from $\alpha + \gamma $ onto an initial segment of $\beta + \gamma$ is easily extended to embed $\alpha + \gamma + 1$ onto an initial segment of $\beta + \gamma + 1$: just map the new point to the smallest unused point. We added a new point in the codomain, so we know there's space. 
+
+(Limit case, addition) Suppose $\gamma$ is limit and $\alpha + \delta \le \beta + \delta$ for all $\delta < \gamma$. If it were not the case that $\alpha + \gamma$ embeds into $\beta + \gamma$, then by well-foundedness there would be a smallest point in $\alpha + \gamma$ so that the embedding cannot be extended to have that point in the domain. This amounts to saying there must be $\delta < \gamma$ so that there is no embedding from $\alpha + \delta$ to $\beta + \gamma$. But we assumed there is an embedding of $\alpha + \delta$ to $\beta + \delta < \beta + \gamma$.
+
+(Zero case, multiplication) $\alpha \cdot 0 \le \beta \cdot 0$ because $0 = 0$.
+
+(Successor case, multiplication) Suppose $\alpha \cdot \gamma \le \beta \cdot \gamma$. Then $\alpha \cdot (\gamma + 1) = \alpha \cdot \gamma + \alpha$ and $\beta \cdot (\gamma + 1) = \beta \cdot \gamma + \beta$. To extend the embedding from $\alpha \cdot \gamma$ to $\beta \cdot \gamma$ just map the new $\alpha$ many points in the domain inside the $\beta$ many new points in the codomain. This is possible because $\alpha \le \beta$.
+
+(Limit case, multiplication) Exactly like the limit case for addition, except with $\cdot$ instead of $+$ everywhere.
+\end{proof}
+
+There are properties of exponentiation akin to these properties about addition and multiplication. See the problem set for this chapter for the statement of these properties.
+\smallskip
+
+In one of the problems for this chapter you prove that there are ordinals which are not countable. By well-foundedness, this means there is a smallest ordinal which is not countable. Let's call it $\omega_1$, since that's its usual name. Observe that $\omega_1$ is the supremum of the countable ordinals (why?). I want to close out this section by giving you an idea of just how big $\omega_1$ is. 
+
+\begin{lemma}
+Let $\seq{\alpha_n : n \in \omega}$ be a countable sequence of countable ordinals. Then $\sup_n \alpha_n$ is countable.
+\end{lemma}
+
+\begin{proof}
+Recall that the supremum of a collection of ordinals is their union (where as usual we identify an ordinal with the set of smaller ordinals). So this is simply a consequence of countable unions of countable sets being countable.
+\end{proof}
+
+Using this lemma we can see that larger and larger ordinals are countable. To start, we know $\omega$ is countable because $\omega$ is order isomorphic to $\Nbb$. And this lemma then tells us that $\omega + \omega$ is countable. Similarly $\omega \cdot \omega$ and $\omega^\omega$ are also countable. (Why?) We can stretch this even further.
+
+\begin{definition}
+An ordinal $\alpha$ is called a \emph{$\epsilon$-number} if $\alpha = \omega^\alpha$. The smallest $\epsilon$-number is called $\epsilon_0$, the next is $\epsilon_1$, and in general the $\alpha$th $\epsilon$-number is called $\epsilon_\alpha$.
+\end{definition}
+
+Here's a way to characterize $\epsilon_0$ from below.
+
+\begin{proposition}
+For a natural number $n$, set 
+\[
+\omega \uparrow n = \underbrace{\omega^{\omega^{\iddots^{\omega^\omega}}}}_{n \text{ many}}.
+\]
+Then, $\epsilon_0 = \omega \uparrow \omega = \sup_{n \in \omega} \omega \uparrow n$.
+\end{proposition}
+
+\begin{proof}
+First we see that $\epsilon_0$, by that definition, is an $\epsilon$-number:
+\[
+\omega^{\epsilon_0} = \sup_{n \in \omega} \omega^{\omega \uparrow n} = \sup_{n \in \omega} \omega \uparrow (n+1) = \epsilon_0.
+\]
+To see it's the smallest $\epsilon$-number it's enough to know that if $\alpha \le \omega \uparrow n$ for some $n$ then $\omega^\alpha \le \omega \uparrow (n+1)$. But that's an instance of one of the properties of exponentiation in the problem set for this chapter. (Namely, the property that increasing the exponent increases the value of the exponentiation.)
+\end{proof}
+
+Since $\epsilon_0$ is the supremum of a countable collection of ordinals we know that it's countable. Working similarly you can show that $\epsilon_1$ is also countable, as is $\epsilon_\alpha$ for any countable ordinal $\alpha$.
+
+How far can we push this? 
+
+\begin{definition}[Informal]
+An ordinal $\alpha$ is called \emph{computable} if there is a computer program which computes a relation on $\Nbb$ of ordertype $\alpha$. Set $\omega_1^{\mathrm{CK}}$, the \emph{Church--Kleene ordinal}, to be the smallest computable ordinal.
+\end{definition}
+
+You can make this definition formal by giving a formal definition of computability. 
+
+\begin{proposition}
+$\omega_1^{\mathrm{CK}}$ is countable.
+\end{proposition}
+
+\begin{proof}
+There are countably many computer programs (why?), so the supremum of the computable ordinals is countable.
+\end{proof}
+
+If you took Theory of Computation last semester: This proposition relativizes to an oracle. So, for example, there are countable many ordinals computable from an oracle for the halting set and their supremum is also countable. $\omega_1$ is larger than all of them.
+
+Given more powerful set-theoretic techniques you can construct larger and larger countable ordinals. Here's two ways to think about what this means: (1) $\omega_1$ is really big and (2) you can find a lot of complexity in countable objects.
+
+Next chapter we look beyond the countable, and investigate the \emph{cardinals}.
+
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Explain why it's fine to do transfinite induction starting with a base case $>0$. 
+\item Explain why ordinal subtraction doesn't make sense. For example, why doesn't $\omega - 1$ make sense?
+\item Explain why ordinal division doesn't make sense.
+\end{enumerate}
+
+\newpage
+
+\section{Transfinite induction and recursion, part 2: justifying transfinite recursion}
+
+%% prove why transfinite i/r on an ordinal are valid
+%% then do trf on ord
+
+Now that we've had some time to play around with transfinite recursion and induction, let's circle back to some proofs we skipped. As a warmup let's see again why transfinite induction along an ordinal is valid.
+
+\begin{theorem}[Transfinite induction on an ordinal]
+Let $\alpha$ be an ordinal. Suppose $X \subseteq \alpha$ has the property that for all $\beta < \alpha$ if (every $\gamma < \beta$ in $X$ implies $\beta \in X$) then $\beta \in X$. Then, $X = \alpha$.
+\end{theorem}
+
+\begin{proof}
+Suppose toward a contradiction that $X \ne \alpha$. Then $\alpha \setminus X$ is nonempty. By well-foundedness it has a least element, call it $\beta$. By the leastness of $\beta$ we have $\gamma \in X$ for every $\gamma < \beta$. So $\beta \in X$. Contradiction.
+\end{proof}
+
+The proof for transfinite recursion is similar but more complicated. Like with ordinary induction/recursion on $\Nbb$, the proof for recursion is more complicated because it involves the construction of an object. Fortunately, the same idea works.
+
+\begin{theorem}[Transfinite recursion on an ordinal]
+Fix an ordinal $\alpha$.
+Suppose $G(\beta,f)$ is a function whose inputs are an ordinal $\beta < \alpha$ and a function $f$ whose domain is $\beta$. Then there is a function $F$ with domain $\alpha$ so that $F(\beta) = G(\beta, F \rest \beta)$ for all $\beta < \alpha$.
+\end{theorem}
+
+\begin{proof}
+It's convenient for the proof to assume that $\alpha$ is a limit ordinal. This suffices to also prove the successor case because you can extend a recursion on a successor ordinal to a recursion on the next limit ordinal setting $G(\beta,f) = 73$ for every $\beta$ outside the original domain. Then throw it away afterward. And we get the case for $\alpha = 0$ because the only function with domain $0$ is the empty function.
+
+As with recursion on $\Nbb$ we define $F$ based on the existence of partial solutions to the recursion. Say that a function $f$ with domain $\beta$ is a \emph{partial solution below  $\beta$} if $f(\gamma) = G(\gamma, f \rest \gamma)$ for all $\gamma < \beta$.
+
+\textit{Claim:} Any two partial solutions agree on their shared domain. In particular, for each $\beta$ there is at most one partial solution below $\beta$.
+
+Suppose $f$ and $f'$ are two partial solutions with a shared domain $\beta$. Use induction to prove $f(\gamma) = f'(\gamma)$ for every $\gamma < \beta$. Namely, if $f$ and $f'$ agree below $\gamma$ then $f \rest \gamma = f' \rest \gamma$. Then $f(\gamma) = G(\gamma, f \rest \gamma)$ and $f'(\gamma) = G(\gamma, f' \rest \gamma)$ are the same.
+
+\textit{Claim:} For every $\beta$ there exists a partial solution below $\beta$.
+
+By induction. The empty function is a partial solution below $0$, establishing the zero case. For the limit case, let $f_\gamma$ be the partial solution up to $\gamma$ for each $\gamma < \beta$. By the previous claim we know the $f_\gamma$'s agree on their common domain, so $f_\beta = \bigcup_{\gamma < \beta} f_\gamma$ is a function. Then $f_\beta$ is a partial solution below $\gamma$.
+
+For the successor case, let $f_\beta$ be the partial solution below $\beta$. To extend to a partial solution below $\beta+1$ set $f_{\beta + 1} = f_\beta \cup \{(\beta,G(\beta, f_\beta))\}$.
+
+We can now define the full solution $F$. Namely, set $F(\beta) = x$ if any partial solution $f$ with $\beta$ in its domain has $f(\beta) = x$. This defines a function because all partial solutions agree, and its domain is $\alpha$ because there are partial solutions below every $\beta < \alpha$. (This is where it was convenient to assume $\alpha$ is limit; for any $\beta < \alpha$ there's a larger ordinal $\beta'$ still below $\alpha$ so a partial solution below $\beta'$ will have $\beta$ in its domain.)
+\end{proof}
+
+\begin{theorem}[Transfinite recursion on $\Ord$]
+Suppose $G(\alpha,f)$ is a function whose inputs are an ordinal $\alpha$ and a function $f$ whose domain is $\alpha$. Then there is a function $F$ with domain $\Ord$ so that $F(\alpha) = G(\alpha, F \rest \alpha)$ for all ordinals $\alpha$.
+\end{theorem}
+
+\begin{proof}[Proof sketch]
+Do the same thing as for transfinite recursion on an ordinal $\alpha$, except use $\Ord$ as your domain. 
+\end{proof}
+
+In Chapter 3 when we look at axioms for set theory we will come back to the issue of why transfinite recursion is valid to identify just what axioms we use to prove these theorems.
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Check that the recursion theorem for $\Nbb$ from Chapter $0$ is the special case of the transfinite recursion theorem for the ordinal $\omega$.
+\end{enumerate}
+
+\newpage
+
+\section{Transfinite induction and recursion, part 3: more examples}
+
+We formally stated transfinite recursion as being about building a function $F$. You can also use transfinite recursion to build a sequence, because a sequence is just another way of writing a function. 
+
+\begin{definition}
+A \emph{sequence on an ordinal $\alpha$} is a function $s$ with domain $\alpha$. We write it as $\seq{s_\beta : \beta < \alpha}$ where $s_\beta = s(\beta)$. More generally,  \emph{sequence on an index set $I$} is a function with domain $I$. We can also define a sequence on $\Ord$.
+\end{definition}
+
+\begin{definition}
+Define a sequence $\seq{\Vrm_\alpha : \alpha \in \Ord}$ by transfinite recursion.
+\begin{itemize}
+\item $\Vrm_0 = \emptyset$;
+\item $\Vrm_{\alpha+1} = \powerset(\Vrm_\alpha)$; and
+\item If $\gamma$ is limit then $\displaystyle\Vrm_\gamma = \bigcup_{\alpha < \gamma} \Vrm_\alpha$.
+\end{itemize}
+\end{definition}
+
+This sequence will be important in Chapter 3. For now let's just check a few of its basic properties.
+
+
+\begin{definition}
+A set $x$ is \emph{transitive} if $z \in y \in x$ implies $z \in x$. Phrased in an equivalent way, $x$ is transitive if every element of $x$ is a subset of $x$.
+\end{definition}
+
+The name comes because the property looks like the definition of an order being transitive.
+
+\begin{proposition}
+Each $\Vrm_\alpha$ is transitive.
+\end{proposition}
+
+\begin{proof}
+(Zero case) $\Vrm_0 = \emptyset$ is vacuously transitive.
+
+(Successor case) Suppose $z \in y \in \powerset(\Vrm_\alpha)$. That is, $y \subseteq \Vrm_\alpha$ and so $z \in \Vrm_\alpha$. By inductive hypothesis $\Vrm_\alpha$ is transitive and so $z \subseteq \Vrm_\alpha$. Done.
+
+(Limit case) Consider limit $\gamma$ and suppose $z \in y \in \bigcup_{\alpha < \gamma} \Vrm_\alpha$. Pick $\alpha < \gamma$ so that $y \in \Vrm_\alpha$. By inductive hypothesis $z \in \Vrm_\alpha$ and so $z \in \Vrm_\gamma$.
+\end{proof}
+
+\begin{proposition}
+If $\alpha < \beta$ then $\Vrm_\alpha \in \Vrm_\beta$.
+\end{proposition}
+
+\begin{proof}
+By induction on $\beta$. The base case $\beta = \alpha+1$ is because $\Vrm_\alpha \subseteq \Vrm_\alpha$. For the successor case suppose $\Vrm_\alpha \in \Vrm_\beta$. By transitivity we have $\Vrm_\alpha \subseteq \Vrm_\beta$ and so $\Vrm_\alpha \in \powerset(\Vrm_\beta)$. And the limit case is trivial. (Why?)
+\end{proof}
+
+\begin{corollary}
+If $\alpha \le \beta$ then $\Vrm_\alpha \subseteq \Vrm_\beta$.
+\end{corollary}
+
+\begin{proof}
+If $\alpha = \beta$ this is trivial. If $\alpha < \beta$ then use the previous proposition plus the fact that $\Vrm_\beta$ is transitive.
+\end{proof}
+
+Let's see some more examples of transitive sets.
+
+\begin{proposition}
+Every ordinal is transitive.
+\end{proposition}
+
+Naturally, this only makes sense when we think of an ordinal $\alpha$ as the set of ordinals $< \alpha$.
+
+\begin{proof}
+By induction on $\Ord$. The base case is $0 = \emptyset$ which was the previous base case. For the successor case, if $\gamma \in \beta \in \alpha + 1 = \alpha \cup \{\alpha\}$ then either $\beta \in \alpha$ or $\beta = \alpha$. If the former, by inductive hypothesis $\gamma \in \alpha \subseteq \alpha+1$. If the former, then $\gamma \in \alpha \subseteq \alpha+1$. The limit case is identical to the limit case of the previous proposition.
+\end{proof}
+
+\begin{proposition} \label{prop:ord-cap-v}
+For any $\alpha$ the ordinals which appear in $\Vrm_\alpha$ are the ordinals $\mathord<\alpha$. In symbols, $\Vrm_\alpha \cap \Ord = \alpha$. 
+\end{proposition}
+
+\begin{proof}
+(Zero case) $\emptyset \cap \Ord = \emptyset$. Done. 
+
+(Successor case, $\supseteq$) By inductive hypothesis $\Vrm_\alpha \cap \Ord = \alpha$ and so $\alpha \subseteq \Vrm_{\alpha+1}$ and $\alpha \in \Vrm_{\alpha+1}$. In all, $\alpha + 1 = \alpha \cup \{\alpha\} \subseteq \Vrm_{\alpha+1}$. 
+
+(Successor case, $\subseteq$) By transitivity it's enough to see that $\alpha+2 \not \in \Vrm_{\alpha+1}$, for if $\alpha+2 \in \beta \in \Vrm_{\alpha+1}$ then by transitivity we'd have $\alpha+2\in \Vrm_{\alpha+1}$. By inductive hypothesis we have that $\alpha+1 \not \in \Vrm_\alpha$. So $\alpha+2 = (\alpha+1) \cup{\alpha+1} \not \in \powerset(\Vrm_\alpha)$.
+
+(Limit case) Easy.
+\end{proof}
+
+Let's see an example of transfinite recursion with a different flavor. 
+
+To state the result we'll prove let me remind you of some definitions from linear algebra, specialized to the field $\Qbb$. Recall that a \emph{$\Qbb$-vector space} is a set $V$ equipped with a vector sum $+$ and a scalar multiplication of vectors by an element of $\Qbb$, such that the axioms of a vector space are satisfied. A \emph{basis} for a vector space is a set of linearly independent vectors whose span is all of $V$.
+
+\begin{theorem}
+Suppose $\Rbb$ has a well-order. Then $\Rbb$ has a basis as a $\Qbb$-vector space.
+\end{theorem}
+
+In case you haven't thought of $\Rbb$ as a $\Qbb$-vector space before: the vector sum is just the usual addition on $\Rbb$ and scalar multiplication $q x$ is just the usual multiplication of a rational $q$ and a real $x$. You can check that this satisfies the definition of a vector space.
+
+\begin{proof}
+Let $\kappa$ be the smallest order-type of a well-order of $\Rbb$. Note that $\kappa$ is a limit ordinal. (Why?) Then there is a sequence $\seq{x_\alpha : \alpha < \kappa}$ enumerating all the elements of $\Rbb$ without repetition. We will construct a basis for $\Rbb$ using this sequence and transfinite recursion on $\kappa$.
+
+We will inductively ensure that at a stage $\alpha$ we have built up a linearly independent set $B_\alpha$ so that $x_\beta \in \vspan B_\alpha$ for all $\beta < \alpha$. For stage $0$ that $B_0 = \emptyset$ trivially satisfies this. For the successor step, given $B_\alpha$ we need a larger linearly independent set $B_{\alpha +1}$ with $x_{\alpha+1} \in \vspan B_{\alpha+1}$. If $x_{\alpha+1} \in \vspan B_\alpha$ already just set $B_{\alpha + 1} = B_\alpha$. Otherwise, set $B_{\alpha+1} = B_\alpha \cup \{x_{\alpha+1}\}$. For the limit case just set $B_\alpha = \bigcup_{\beta < \alpha} B_\beta$. Then $B_\alpha$ is linearly independent because a counterexample would use finitely many vectors and so would imply that $B_\beta$ is not linearly independent for some $\beta < \alpha$.
+
+Finally, set $B = \bigcup_{\alpha \in \kappa} B_\alpha$. Then every $x_\alpha \in \vspan B_\alpha \subseteq \vspan B$ and $B$ is linearly independent because a counterexample would only use finitely many vectors and so would also have to be a counterexample in some $B_\alpha$, which is impossible by construction.
+\end{proof}
+
+Unfolding the definitions, here's another to think of what we constructed. We built a sequence $\seq{b_\alpha : \alpha \in \kappa}$ of reals so that any real $x$ can be written uniquely in the form
+\[
+x = \sum_{i < n} q_i b_{\alpha_i},
+\]
+for $q_i \in \Qbb$ and $\alpha_i$ an ordinal.\footnote{Minor point: there's some extra work to check that our basis consists of $\kappa$ many reals, not fewer. After Chapter 2 you will be able to do this check.}
+
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Write down a definition for a sequence on $\Ord$.
+\item Why is a set being transitive equivalent to saying its elements are subsets?
+\item Check the limit case of Proposition~\ref{prop:ord-cap-v}.
+\end{enumerate}
+
+
+
+\end{document}
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item 
+\end{enumerate}
+
+\newpage
+

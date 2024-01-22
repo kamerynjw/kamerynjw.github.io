@@ -22,7 +22,7 @@ Lecture Notes
 
 * [Chapter 0: Countable sets]({{ page.url }}ch0.pdf) ([source]({{ page.url }}ch0.tex))
 
-* [Chapter 1: Ordinals and transfinite recursion]
+* [Chapter 1: Ordinals and transfinite recursion]({{ page.url }}ch1.pdf) ([source]({{ page.url }}ch1.tex))
 
 * [Chapter 2: Cardinals]
 
@@ -37,7 +37,7 @@ Problem Sets
 
 * [Chapter 0: Countable sets]({{ page.url }}pr0.pdf) ([source]({{ page.url }}pr0.tex))
 
-* [Chapter 1: Ordinals and transfinite recursion]
+* [Chapter 1: Ordinals and transfinite recursion]({{ page.url }}pr1.pdf) ([source]({{ page.url }}pr1.tex))
 
 * [Chapter 2: Cardinals]
 
