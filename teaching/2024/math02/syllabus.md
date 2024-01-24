@@ -103,16 +103,18 @@ Textbook Information
 
 We will use Ron Larson and Laurie Bosewll, *Algebra 1*, 2022 edition (ISBN: 978-1-64727-416-0) as our main textbook. When we cover trigonometry we will use Jay Abramson, *Algebra and Trigonometry*, 2nd edition (ISBN: 978-1-951693-40-4) [[link](https://openstax.org/details/books/algebra-and-trigonometry-2e) as a supplemental resource. This book is freely available to download online, or you can purchase a paper copy if you prefer.
 
-Attendance Policy
+Attendance Policy and Classroom Expectations
 ==========
 
 You are expected to attend every class session, as per the academy attendance policy. If you must miss class, it is your responsibility to let me know and to follow along with the material on your own.
+
+You should come prepared to every class meeting. Bring paper, a writing utensil, and the workbook for the class. Be respectful of your classmates. Refrain from behaving in ways that are an impediment to their learning. Unless otherwise stated, the use of electronic devices during class time is prohibited, with the exception of calculators or if you need a device for an accommodation. (See Accessibility and Inclusion below.) If there is an emergency and you need to use a phone please step out of the classroom to do so.
 
 
 Communication Policy and Office Hours
 =============
 
-Announcements and homework will be posted to the course website. For the gradebook we will use google classroom. 
+Announcements and written homework will be posted to the course website. 
 
 The best way to contact me outside of class is by email. Please put "math 02" in the subject line of your email.
 

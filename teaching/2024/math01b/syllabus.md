@@ -108,16 +108,17 @@ Attendance Policy
 
 You are expected to attend every class session, as per the academy attendance policy. If you must miss class, it is your responsibility to let me know and to follow along with the material on your own.
 
+You should come prepared to every class meeting. Bring paper, a writing utensil, and the workbook for the class. Be respectful of your classmates. Refrain from behaving in ways that are an impediment to their learning. Unless otherwise stated, the use of electronic devices during class time is prohibited, with the exception of calculators or if you need a device for an accommodation. (See Accessibility and Inclusion below.) If there is an emergency and you need to use a phone please step out of the classroom to do so.
+
 
 Communication Policy and Office Hours
 =============
 
-Announcements and homework will be posted to the course website. For the gradebook we will use google classroom. 
+Announcements and written homework will be posted to the course website. 
 
-The best way to contact me outside of class is by email. Please put "math 02" in the subject line of your email.
+The best way to contact me outside of class is by email. Please put "math 01b" in the subject line of your email.
 
 Office hours are held multiple times in the week, to give you an opportunity to ask questions and receive help in-person outside of class time. If you prefer to meet at a different time, please contact me to arrange that.
-
 
 Accessibility and Inclusion
 =============
