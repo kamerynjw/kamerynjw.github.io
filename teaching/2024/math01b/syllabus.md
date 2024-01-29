@@ -42,7 +42,7 @@ Your mastery of the class material will be assessed via multiple categories, and
 
 * **40%**: Quizzes
 
-* **20%**: Oral Final
+* **20%**: Final
 
 * **20%**: Homework
 
@@ -74,10 +74,10 @@ Calculational questions will be graded on a 0/4/8/10 scale:
 Notes, calculators, and electronic devices are not allowed for quizzes. 
 	
 	
-Oral Final
+Final
 ====
 
-At the end of the semester you will schedule individual meetings with me to discuss how the class went and for you to demonstrate your mastery of the course material. Before these sessions, I will put up a list of problems and you will do a selection of the problems in-person for me.
+At the end of the semester there will be a cumulative assessment of your learning. Format to be announced.
 
 Homework
 ========
