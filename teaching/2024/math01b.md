@@ -13,6 +13,11 @@ Announcements
 (Nothing yet!)
 
 
+Documents
+---------
+
+* [1/30 worksheet]({{ page.url }}ws1-30.pdf)
+
 Schedule
 --------
 

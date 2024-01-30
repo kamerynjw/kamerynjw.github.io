@@ -1,0 +1,3650 @@
+%PDF-1.7
+%¿÷¢ş
+%QDF-1.0
+
+%% Original object ID: 170 0
+1 0 obj
+<<
+  /Lang (en-US)
+  /MarkInfo 3 0 R
+  /Metadata 4 0 R
+  /Names 6 0 R
+  /OpenAction [
+    7 0 R
+    /Fit
+  ]
+  /PageLabels <<
+    /Nums [
+      0
+      <<
+        /S /D
+      >>
+    ]
+  >>
+  /PageMode /UseOutlines
+  /Pages 8 0 R
+  /StructTreeRoot 9 0 R
+  /Type /Catalog
+  /ViewerPreferences 10 0 R
+>>
+endobj
+
+%% Original object ID: 171 0
+2 0 obj
+<<
+  /CreationDate (D:20240130080741-05'00')
+  /Creator <feff004c006100540065005800200077006900740068002000680079007000650072007200650066>
+  /ModDate (D:20240130080741-05'00')
+  /PTEX.FullBanner (This is LuaHBTeX, Version 1.17.0 \(TeX Live 2023\))
+  /Producer (luahbtex-1.17.0)
+  /Title <feff0041006c0067006500620072006100200057006f0072006b00730068006500650074>
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 138 0
+3 0 obj
+<<
+  /Marked true
+>>
+endobj
+
+%% Original object ID: 106 0
+4 0 obj
+<<
+  /Subtype /XML
+  /Type /Metadata
+  /Length 5 0 R
+>>
+stream
+
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+    xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
+    xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+    xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+    xmlns:pdfxid="http://www.npes.org/pdfx/ns/id/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/"
+    xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+    xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+    xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+    xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+    xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+   <pdfaExtension:schemas>
+    <rdf:Bag>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>XMP Media Management Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>xmpMM</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://ns.adobe.com/xap/1.0/mm/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>OriginalDocumentID</pdfaProperty:name>
+         <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>The common identifier for all versions and renditions of a document.</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PDF/A Identification Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>pdfaid</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.aiim.org/pdfa/ns/id/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>year</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Year of standard</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PDF/UA Universal Accessibility Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>part</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Part of ISO 14289 standard</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>rev</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Revision of ISO 14289 standard</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PDF/X ID Schema</pdfaSchema:schema>
+      <pdfaSchema:prefix>pdfxid</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.npes.org/pdfx/ns/id/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>GTS_PDFXVersion</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>ID of PDF/X standard</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>PRISM Basic Metadata</pdfaSchema:schema>
+      <pdfaSchema:prefix>prism</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://prismstandard.org/namespaces/basic/3.0/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>complianceProfile</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>PRISM specification compliance profile to which this document adheres</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>publicationName</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication name</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>aggregationType</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication type</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>bookEdition</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Edition of the book in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>volume</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication volume number</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>number</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Publication issue number within a volume</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>pageRange</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Page range for the document within the print version of its publication</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>issn</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>ISSN for the printed publication in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>eIssn</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>ISSN for the electronic publication in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>isbn</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>ISBN for the publication in which the document was published</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>doi</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Digital Object Identifier for the document</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>url</pdfaProperty:name>
+         <pdfaProperty:valueType>URL</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>URL at which the document can be found</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>byteCount</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Approximate file size in octets</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>pageCount</pdfaProperty:name>
+         <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+         <pdfaProperty:category>internal</pdfaProperty:category>
+         <pdfaProperty:description>Number of pages in the print version of the document</pdfaProperty:description>
+        </rdf:li>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>subtitle</pdfaProperty:name>
+         <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+         <pdfaProperty:category>external</pdfaProperty:category>
+         <pdfaProperty:description>Document's subtitle</pdfaProperty:description>
+        </rdf:li>
+       </rdf:Seq>
+      </pdfaSchema:property>
+     </rdf:li>
+    </rdf:Bag>
+   </pdfaExtension:schemas>
+   <pdf:Producer>luahbtex-1.17.0</pdf:Producer>
+   <pdf:PDFVersion>1.7</pdf:PDFVersion>
+   <pdfuaid:part>1</pdfuaid:part>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="en-US">Algebra Worksheet</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:type>
+    <rdf:Bag>
+     <rdf:li>Text</rdf:li>
+    </rdf:Bag>
+   </dc:type>
+   <dc:language>
+    <rdf:Bag>
+     <rdf:li>en-US</rdf:li>
+    </rdf:Bag>
+   </dc:language>
+   <dc:date>
+    <rdf:Seq>
+     <rdf:li>2024-01-30T08:07:41-05:00</rdf:li>
+    </rdf:Seq>
+   </dc:date>
+   <dc:format>application/pdf</dc:format>
+   <dc:source>ws1-30.tex</dc:source>
+   <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool>
+   <xmp:CreateDate>2024-01-30T08:07:41-05:00</xmp:CreateDate>
+   <xmp:ModifyDate>2024-01-30T08:07:41-05:00</xmp:ModifyDate>
+   <xmp:MetadataDate>2024-01-30T08:07:41-05:00</xmp:MetadataDate>
+   <xmpMM:DocumentID>uuid:6be08c94-7f50-4374-878c-890a155fdb28</xmpMM:DocumentID>
+   <xmpMM:InstanceID>uuid:dbb7d229-1f9a-41c3-8ca5-e392e453ced1</xmpMM:InstanceID>
+   <prism:complianceProfile>three</prism:complianceProfile>
+   <prism:pageCount>1</prism:pageCount>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+<?xpacket end="w"?>
+endstream
+endobj
+
+%QDF: ignore_newline
+5 0 obj
+11541
+endobj
+
+%% Original object ID: 169 0
+6 0 obj
+<<
+  /Dests 11 0 R
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 9 0
+7 0 obj
+<<
+  /Contents 12 0 R
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 8 0 R
+  /Resources 14 0 R
+  /StructParents 0
+  /Tabs /S
+  /Type /Page
+>>
+endobj
+
+%% Original object ID: 137 0
+8 0 obj
+<<
+  /Count 1
+  /Kids [
+    7 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Original object ID: 5 0
+9 0 obj
+<<
+  /ClassMap 15 0 R
+  /IDTree 16 0 R
+  /K 17 0 R
+  /ParentTree 18 0 R
+  /RoleMap 19 0 R
+  /Type /StructTreeRoot
+>>
+endobj
+
+%% Original object ID: 139 0
+10 0 obj
+<<
+  /DisplayDocTitle true
+>>
+endobj
+
+%% Original object ID: 168 0
+11 0 obj
+<<
+  /Limits [
+    (Doc-Start)
+    (page.1)
+  ]
+  /Names [
+    (Doc-Start)
+    20 0 R
+    (enumi*.1)
+    21 0 R
+    (enumi*.10)
+    22 0 R
+    (enumi*.2)
+    23 0 R
+    (enumi*.3)
+    24 0 R
+    (enumi*.4)
+    25 0 R
+    (enumi*.5)
+    26 0 R
+    (enumi*.6)
+    27 0 R
+    (enumi*.7)
+    28 0 R
+    (enumi*.8)
+    29 0 R
+    (enumi*.9)
+    30 0 R
+    (page.1)
+    31 0 R
+  ]
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 108 0
+12 0 obj
+<<
+  /Length 13 0 R
+>>
+stream
+/opacity1 gs
+/Artifact BMC
+EMC
+/text<</MCID 0>> BDC
+BT
+/F64 21.69569 Tf
+1 0 0 1 163.89 658.032 Tm [<0023004e0049004700440054>61<0043001c0002>-130<0013000f0015001200020059>65<00510054004d0055>24<004a004700470056>]TJ
+ET
+EMC
+/text<</MCID 1>> BDC
+EMC
+/text<</MCID 2>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 89.933 567.014 Tm [<002a00470054>68<004700e100550002>-152<00430002>-153<00480047>61<00590002>-152<0053>55<0057004700550056004b0051005000550002>-152<0043005000460002>-153<00520054>28<00510044004e0047004f00550002>-152<005600510002>-152<0059>65<00510054004d0002>-152<0056004a0054>28<005100570049004a0002>-152<005600510002>-153<0054>67<004700480054>68<00470055>24<004a0002>]TJ
+1 0 0 1 72 552.568 Tm [<005b0051005700540002004f0047004f00510054>59<005b0002005100480002004e004300550056000200550047004f00470055005600470054>110<0010>]TJ
+ET
+EMC
+/Lbl<</MCID 3>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.952 531.309 Tm [<00130010>]TJ
+ET
+EMC
+/text<</MCID 4>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 531.309 Tm [<00340047>62<00590054004b005600470002>82<0056004a00470002>82<00470053>56<005700430056004b005100500002>]TJ
+ET
+EMC
+/Formula<</MCID 5>> BDC
+BT
+/F56 12.55296 Tf
+1 0 0 1 243.909 531.309 Tm [<0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 251.554 531.309 Tm [<005b>]TJ
+/F56 12.55296 Tf
+1 0 0 1 260.985 531.309 Tm [<00f4>-82<0016>-278<001f>-277<0015>]TJ
+/F61 12.55296 Tf
+1 0 0 1 304.742 531.309 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 314.776 531.309 Tm [<000d>-82<0013>]TJ
+ET
+EMC
+/text<</MCID 6>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 332.793 531.309 Tm [<0002>82<005500510002>82<0056004a>-33<004300560002>81<0056004a00470002>82<004600470052>24<0047>37<005000460047>37<0050>29<00560002>82<0058>49<00430054004b00430044004e00470002>]TJ
+ET
+EMC
+/Em<</MCID 7>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 101.888 516.863 Tm [<005b>]TJ
+ET
+EMC
+/text<</MCID 8>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 110.286 516.863 Tm [<0002>]TJ
+/F64 12.55296 Tf
+1 0 0 1 115.194 516.863 Tm [<004b005500020044>44<005b0002004b005600550047004e0048000200510050000200510050004700020055004b00460047>34<0010>]TJ
+ET
+EMC
+/Lbl<</MCID 9>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.6 493.989 Tm [<00140010>]TJ
+ET
+EMC
+/text<</MCID 10>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 493.989 Tm [<00390054004b005600470002>-155<004300500002>-155<00470053>55<005700430056004b005100500002>-154<0059004a004b0045004a0002>-155<00460047005500450054004b0044>23<004700550002>-154<0056004a00470002>-155<004e004b005000470002>-155<0059004b0056004a0002>-155<00430002>-155<0055004e00510052>23<00470002>-155<005100480002>-155<0013001100140002>]TJ
+1 0 0 1 101.888 479.543 Tm [<0059004a004b0045004a000200490051>24<0047005500020056004a0054>29<005100570049004a00020056004a004700020052>24<0051004b0050>29<00560002000a0014>-166<000e>-167<00de0015000b00100002>-130<0035004d>36<00470056>15<0045004a0002004300020049>8<0054>61<00430052004a00020051004800020056004a00470002004e004b00500047>34<0010>]TJ
+ET
+EMC
+/Lbl<</MCID 11>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.387 456.669 Tm [<00150010>]TJ
+ET
+EMC
+/text<</MCID 12>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 456.669 Tm [<00340047>62<00590054004b005600470002>-94<0056004a00470002>-94<004e004b005000470002>]TJ
+ET
+EMC
+/Formula<</MCID 13>> BDC
+BT
+/F61 12.55296 Tf
+1 0 0 1 216.887 456.669 Tm [<005b>]TJ
+/F56 12.55296 Tf
+1 0 0 1 230.455 456.669 Tm [<001f>]TJ
+/F61 12.55296 Tf
+1 0 0 1 245.316 456.669 Tm [<004f>]TJ
+/F56 12.55296 Tf
+1 0 0 1 257.881 456.669 Tm [<000a>]TJ
+/F61 12.55296 Tf
+1 0 0 1 262.325 456.669 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 274.788 456.669 Tm [<00f4>]TJ
+/F61 12.55296 Tf
+1 0 0 1 287.942 456.669 Tm [<004a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 296.591 456.669 Tm [<000b>-275<000d>]TJ
+/F61 12.55296 Tf
+1 0 0 1 317.651 456.669 Tm [<004d>]TJ
+ET
+EMC
+/text<</MCID 14>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 326.501 456.669 Tm [<0002>-94<004b00500002>-94<0052>23<0051004b0050>29<0056000f0055004e00510052>24<00470002>-94<0048>48<00510054004f0002>-93<004b0050>28<005600510002>-93<0055004e00510052>23<0047000f>]TJ
+1 0 0 1 101.888 442.223 Tm [<004b0050>29<005600470054>49<0045>34<0047005200560002>5<0048>49<00510054004f00100002>-128<002b00500002>4<005600470054004f00550002>5<005100480002>5<0056004a00470002>5<0052>24<00430054>61<0043004f004700560047005400550002>]TJ
+ET
+EMC
+/Em<</MCID 15>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 395.927 442.223 Tm [<004f>]TJ
+ET
+EMC
+/text<</MCID 16>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 408.493 442.223 Tm [<000e0002>]TJ
+ET
+EMC
+/Em<</MCID 17>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 417.356 442.223 Tm [<004a>]TJ
+ET
+EMC
+/text<</MCID 18>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 426.005 442.223 Tm [<000e0002>4<0043005000460002>]TJ
+ET
+EMC
+/Em<</MCID 19>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 463.464 442.223 Tm [<004d>]TJ
+ET
+EMC
+/text<</MCID 20>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 472.314 442.223 Tm [<000e0002>4<0059004a>-34<004300560002>5<00430054>68<00470002>]TJ
+1 0 0 1 101.888 427.777 Tm [<0056004a004700020055004e00510052>24<004700020043005000460002>]TJ
+ET
+EMC
+/Em<</MCID 21>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 198.132 427.777 Tm [<005b>]TJ
+ET
+EMC
+/text<</MCID 22>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 206.529 427.777 Tm [<000f004b0050>29<005600470054>49<0045>34<00470052005600020051004800020056004a00470002004e004b005000470021>]TJ
+ET
+EMC
+/Lbl<</MCID 23>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 83.734 404.904 Tm [<00160010>]TJ
+ET
+EMC
+/text<</MCID 24>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 404.904 Tm [<0025005100500055004b0046004700540002>44<0056004a00470002>45<004e004b005000470002>44<0049004b0058>49<0047>37<00500002>45<0044>44<005b0002>44<0056004a00470002>45<00470053>56<005700430056004b005100500002>]TJ
+ET
+EMC
+/Formula<</MCID 25>> BDC
+BT
+/F56 12.55296 Tf
+1 0 0 1 366.522 404.904 Tm [<0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 374.167 404.904 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 385.004 404.904 Tm [<000d>]TJ
+/F61 12.55296 Tf
+1 0 0 1 396.532 404.904 Tm [<005b>]TJ
+/F56 12.55296 Tf
+1 0 0 1 404.93 404.904 Tm [<00110016>-277<001f>-278<0013>]TJ
+ET
+EMC
+/text<</MCID 26>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 443.7 404.904 Tm [<00100002>-115<0039>68<004a>-33<004300560002>44<00430054>68<00470002>44<0056004a00470002>]TJ
+1 0 0 1 101.888 390.458 Tm [<0055004e00510052>24<0047>34<000e0002>]TJ
+ET
+EMC
+/Em<</MCID 27>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 146.049 390.458 Tm [<005b>]TJ
+ET
+EMC
+/text<</MCID 28>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 154.447 390.458 Tm [<000f004b0050>29<005600470054>49<0045>34<004700520056000e00020043005000460002>]TJ
+ET
+EMC
+/Em<</MCID 29>> BDC
+BT
+/F81 12.55296 Tf
+1 0 0 1 257.218 390.458 Tm [<005a>]TJ
+ET
+EMC
+/text<</MCID 30>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 266.219 390.458 Tm [<000f004b0050>29<005600470054>49<0045>34<00470052005600020051004800020056004a00470002004e004b005000470021>]TJ
+ET
+EMC
+/Lbl<</MCID 31>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.487 367.584 Tm [<00170010>]TJ
+ET
+EMC
+/text<</MCID 32>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 367.584 Tm [<0032004700540048>49<00510054004f0002>-95<0056004a00470002>-95<0048>48<0051004e004e00510059004b0050>15<00490002>-94<004f0057004e>-44<0056004b0052004e004b0045>33<00430056004b005100500002>-94<005100480002>-96<0044004b00500051004f004b0043004e00550002>-95<005600510002>-95<0049004700560002>-95<00430002>-96<00560054004b00500051000f>]TJ
+1 0 0 1 101.888 353.138 Tm [<004f004b0043004e001c>]TJ
+ET
+EMC
+/Formula<</MCID 33>> BDC
+BT
+/F56 12.55296 Tf
+1 0 0 1 267.582 338.692 Tm [<000a0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 279.671 338.692 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 291.461 338.692 Tm [<00f4>-222<0015000b000a>]TJ
+/F61 12.55296 Tf
+1 0 0 1 320.687 338.692 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 329.687 338.692 Tm [<00110014>-222<000d>-222<0013000b0010>]TJ
+ET
+EMC
+/Lbl<</MCID 34>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.085 315.858 Tm [<00180010>]TJ
+ET
+EMC
+/text<</MCID 35>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 315.858 Tm [<00230046004600020056004a004700020052>24<0051004e005b00500051004f004b0043004e0055001c>]TJ
+ET
+EMC
+/Formula<</MCID 36>> BDC
+BT
+/F56 12.55296 Tf
+1 0 0 1 229.085 293.814 Tm [<000a0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 241.174 293.814 Tm [<005a>]TJ
+/F56 9.03813 Tf
+1 0 0 1 250.174 298.835 Tm [<0015>]TJ
+/F56 12.55296 Tf
+1 0 0 1 259.136 293.814 Tm [<00f4>-222<0015>]TJ
+/F61 12.55296 Tf
+1 0 0 1 279.475 293.814 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 291.265 293.814 Tm [<000d>-222<0013000b>-222<000d>-222<000a>]TJ
+/F61 12.55296 Tf
+1 0 0 1 335.196 293.814 Tm [<005a>]TJ
+/F56 9.03813 Tf
+1 0 0 1 344.196 298.835 Tm [<0014>]TJ
+/F56 12.55296 Tf
+1 0 0 1 353.005 293.814 Tm [<000d>-222<0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 373.13 293.814 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 384.92 293.814 Tm [<00f4>-222<0013000b0010>]TJ
+ET
+EMC
+/text<</MCID 37>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 268.569 Tm [<0039>69<004a>-34<004300560002004b005500020056004a0047000200460047>24<0049>8<0054>68<0047004700020051004800020056004a0047004b0054000200550057004f0021>]TJ
+ET
+EMC
+/Lbl<</MCID 38>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.588 245.695 Tm [<00190010>]TJ
+ET
+EMC
+/text<</MCID 39>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 245.695 Tm [<00280043004500560051005400020056004a004700020053>56<0057004300460054>61<00430056004b004500020052>24<0051004e005b00500051004f004b0043004e001c>]TJ
+ET
+EMC
+/Formula<</MCID 40>> BDC
+BT
+/F61 12.55296 Tf
+1 0 0 1 283.697 223.651 Tm [<005a>]TJ
+/F56 9.03813 Tf
+1 0 0 1 292.698 228.672 Tm [<0014>]TJ
+/F56 12.55296 Tf
+1 0 0 1 301.506 223.651 Tm [<000d>-222<0016>]TJ
+/F61 12.55296 Tf
+1 0 0 1 322.497 223.651 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 334.287 223.651 Tm [<000d>-222<00170010>]TJ
+ET
+EMC
+/Lbl<</MCID 41>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 83.885 198.406 Tm [<001a0010>]TJ
+ET
+EMC
+/text<</MCID 42>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 198.406 Tm [<00280043004500560051005400020056004a004700020053>56<0057004300460054>61<00430056004b004500020052>24<0051004e005b00500051004f004b0043004e001c>]TJ
+ET
+EMC
+/Formula<</MCID 43>> BDC
+BT
+/F56 12.55296 Tf
+1 0 0 1 295.638 176.362 Tm [<0016>]TJ
+/F61 12.55296 Tf
+1 0 0 1 304.149 176.362 Tm [<005a>]TJ
+/F56 9.03813 Tf
+1 0 0 1 313.149 181.383 Tm [<0014>]TJ
+/F56 12.55296 Tf
+1 0 0 1 321.957 176.362 Tm [<00f4>-222<001b0010>]TJ
+ET
+EMC
+/Lbl<</MCID 44>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 84.098 151.118 Tm [<001b0010>]TJ
+ET
+EMC
+/text<</MCID 45>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 151.118 Tm [<00280043004500560051005400020056004a004700020053>56<0057004300460054>61<00430056004b004500020052>24<0051004e005b00500051004f004b0043004e001c>]TJ
+ET
+EMC
+/Formula<</MCID 46>> BDC
+BT
+/F61 12.55296 Tf
+1 0 0 1 277.882 129.073 Tm [<0043>]TJ
+/F56 9.03813 Tf
+1 0 0 1 285.627 134.094 Tm [<0014>]TJ
+/F56 12.55296 Tf
+1 0 0 1 294.436 129.073 Tm [<000d>-222<0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 314.561 129.073 Tm [<00430044>]TJ
+/F56 12.55296 Tf
+1 0 0 1 333.468 129.073 Tm [<000d>]TJ
+/F61 12.55296 Tf
+1 0 0 1 345.949 129.073 Tm [<0044>]TJ
+/F56 9.03813 Tf
+1 0 0 1 354.322 134.094 Tm [<0014>]TJ
+/F56 12.55296 Tf
+1 0 0 1 360.34 129.073 Tm [<0010>]TJ
+ET
+EMC
+/Lbl<</MCID 47>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 76.792 103.829 Tm [<001300120010>]TJ
+ET
+EMC
+/text<</MCID 48>> BDC
+BT
+/F64 12.55296 Tf
+1 0 0 1 101.888 103.829 Tm [<00350051004e0058>49<004700020056004a004700020052>24<0051004e005b00500051004f004b0043004e000200470053>56<005700430056004b00510050001c>]TJ
+ET
+EMC
+/Formula<</MCID 49>> BDC
+BT
+/F56 12.55296 Tf
+1 0 0 1 241.742 82.798 Tm [<000a0014>]TJ
+/F61 12.55296 Tf
+1 0 0 1 253.83 82.798 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 265.62 82.798 Tm [<00f4>-222<0013000b000a>]TJ
+/F61 12.55296 Tf
+1 0 0 1 294.282 82.798 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 306.072 82.798 Tm [<000d>-222<0015000b000a>]TJ
+/F61 12.55296 Tf
+1 0 0 1 335.298 82.798 Tm [<005a>]TJ
+/F56 12.55296 Tf
+1 0 0 1 347.088 82.798 Tm [<00f4>-222<0014000b>-278<001f>-277<00120010>]TJ
+ET
+EMC
+/Artifact BMC
+EMC
+/Artifact BMC
+BT
+/F64 12.55296 Tf
+1 0 0 1 302.353 42.112 Tm [<0013>]TJ
+ET
+EMC
+/Artifact BMC
+EMC
+endstream
+endobj
+
+13 0 obj
+11650
+endobj
+
+%% Original object ID: 107 0
+14 0 obj
+<<
+  /ExtGState 32 0 R
+  /Font <<
+    /F56 33 0 R
+    /F61 34 0 R
+    /F64 35 0 R
+    /F81 36 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Original object ID: 143 0
+15 0 obj
+<<
+  /center <<
+    /O /Layout
+    /TextAlign /Center
+  >>
+  /enumerate <<
+    /ListNumbering /Ordered
+    /O /List
+  >>
+  /justify <<
+    /O /Layout
+    /TextAlign /Justify
+  >>
+>>
+endobj
+
+%% Original object ID: 142 0
+16 0 obj
+<<
+  /Kids [
+    37 0 R
+    38 0 R
+  ]
+>>
+endobj
+
+%% Original object ID: 10 0
+17 0 obj
+<<
+  /ID (ID.001)
+  /K [
+    39 0 R
+    40 0 R
+    41 0 R
+  ]
+  /P 9 0 R
+  /S /Document
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 6 0
+18 0 obj
+<<
+  /Nums [
+    0
+    [
+      42 0 R
+      43 0 R
+      44 0 R
+      45 0 R
+      46 0 R
+      47 0 R
+      46 0 R
+      48 0 R
+      46 0 R
+      49 0 R
+      50 0 R
+      51 0 R
+      52 0 R
+      53 0 R
+      52 0 R
+      54 0 R
+      52 0 R
+      55 0 R
+      52 0 R
+      56 0 R
+      52 0 R
+      57 0 R
+      52 0 R
+      58 0 R
+      59 0 R
+      60 0 R
+      59 0 R
+      61 0 R
+      59 0 R
+      62 0 R
+      59 0 R
+      63 0 R
+      64 0 R
+      65 0 R
+      66 0 R
+      67 0 R
+      68 0 R
+      69 0 R
+      70 0 R
+      71 0 R
+      72 0 R
+      73 0 R
+      74 0 R
+      75 0 R
+      76 0 R
+      77 0 R
+      78 0 R
+      79 0 R
+      80 0 R
+      81 0 R
+    ]
+  ]
+>>
+endobj
+
+%% Original object ID: 7 0
+19 0 obj
+<<
+  /Artifact /NonStruct
+  /Aside /Note
+  /DocumentFragment /Art
+  /Em /Span
+  /FENote /Note
+  /H10 /H6
+  /H7 /H6
+  /H8 /H6
+  /H9 /H6
+  /Strong /Span
+  /Sub /Span
+  /Title /P
+  /codeline /Span
+  /description /L
+  /enumerate /L
+  /figures /Sect
+  /float /Note
+  /footnote /Note
+  /footnotelabel /Lbl
+  /footnotemark /Lbl
+  /item /LI
+  /itembody /LBody
+  /itemize /L
+  /itemlabel /Lbl
+  /list /L
+  /paragraph /H4
+  /part /P
+  /quotation /BlockQuote
+  /quote /BlockQuote
+  /section /H1
+  /subparagraph /H5
+  /subsection /H2
+  /subsubsection /H3
+  /tables /Sect
+  /text /P
+  /text-unit /Part
+  /theorem-like /Sect
+  /title /P
+  /verbatim /P
+>>
+endobj
+
+%% Original object ID: 111 0
+20 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    72
+    720
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 114 0
+21 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.952
+    545.755
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 135 0
+22 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    76.792
+    118.274
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 119 0
+23 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.6
+    508.435
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 121 0
+24 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.387
+    471.115
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 123 0
+25 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    83.734
+    419.349
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 125 0
+26 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.487
+    382.03
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 127 0
+27 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.085
+    330.304
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 129 0
+28 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.588
+    260.141
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 131 0
+29 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    83.885
+    212.852
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 133 0
+30 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    84.098
+    165.563
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 109 0
+31 0 obj
+<<
+  /D [
+    7 0 R
+    /XYZ
+    71
+    757.862
+    null
+  ]
+>>
+endobj
+
+%% Original object ID: 1 0
+32 0 obj
+<<
+  /opacity1 <<
+    /CA 1
+    /ca 1
+  >>
+>>
+endobj
+
+%% Original object ID: 116 0
+33 0 obj
+<<
+  /BaseFont /NCPZOU+OpenDyslexic-Regular
+  /DescendantFonts [
+    82 0 R
+  ]
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 83 0 R
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 117 0
+34 0 obj
+<<
+  /BaseFont /HYLQYK+OpenDyslexic-Italic
+  /DescendantFonts [
+    85 0 R
+  ]
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 86 0 R
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 113 0
+35 0 obj
+<<
+  /BaseFont /RPRJPY+OpenDyslexic-Regular
+  /DescendantFonts [
+    88 0 R
+  ]
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 89 0 R
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 118 0
+36 0 obj
+<<
+  /BaseFont /PDIMKL+OpenDyslexic-Italic
+  /DescendantFonts [
+    91 0 R
+  ]
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 92 0 R
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 140 0
+37 0 obj
+<<
+  /Limits [
+    (ID.001)
+    (ID.050)
+  ]
+  /Names [
+    (ID.001)
+    17 0 R
+    (ID.002)
+    94 0 R
+    (ID.003)
+    95 0 R
+    (ID.004)
+    39 0 R
+    (ID.005)
+    42 0 R
+    (ID.006)
+    43 0 R
+    (ID.007)
+    40 0 R
+    (ID.008)
+    44 0 R
+    (ID.009)
+    41 0 R
+    (ID.010)
+    96 0 R
+    (ID.011)
+    97 0 R
+    (ID.012)
+    45 0 R
+    (ID.013)
+    98 0 R
+    (ID.014)
+    99 0 R
+    (ID.015)
+    46 0 R
+    (ID.016)
+    47 0 R
+    (ID.017)
+    48 0 R
+    (ID.018)
+    100 0 R
+    (ID.019)
+    49 0 R
+    (ID.020)
+    101 0 R
+    (ID.021)
+    102 0 R
+    (ID.022)
+    50 0 R
+    (ID.023)
+    103 0 R
+    (ID.024)
+    51 0 R
+    (ID.025)
+    104 0 R
+    (ID.026)
+    105 0 R
+    (ID.027)
+    52 0 R
+    (ID.028)
+    53 0 R
+    (ID.029)
+    54 0 R
+    (ID.030)
+    55 0 R
+    (ID.031)
+    56 0 R
+    (ID.032)
+    57 0 R
+    (ID.033)
+    106 0 R
+    (ID.034)
+    58 0 R
+    (ID.035)
+    107 0 R
+    (ID.036)
+    108 0 R
+    (ID.037)
+    59 0 R
+    (ID.038)
+    60 0 R
+    (ID.039)
+    61 0 R
+    (ID.040)
+    62 0 R
+    (ID.041)
+    109 0 R
+    (ID.042)
+    63 0 R
+    (ID.043)
+    110 0 R
+    (ID.044)
+    111 0 R
+    (ID.045)
+    64 0 R
+    (ID.046)
+    65 0 R
+    (ID.047)
+    112 0 R
+    (ID.048)
+    66 0 R
+    (ID.049)
+    113 0 R
+    (ID.050)
+    114 0 R
+  ]
+>>
+endobj
+
+%% Original object ID: 141 0
+38 0 obj
+<<
+  /Limits [
+    (ID.051)
+    (ID.077)
+  ]
+  /Names [
+    (ID.051)
+    67 0 R
+    (ID.052)
+    68 0 R
+    (ID.053)
+    69 0 R
+    (ID.054)
+    115 0 R
+    (ID.055)
+    70 0 R
+    (ID.056)
+    116 0 R
+    (ID.057)
+    117 0 R
+    (ID.058)
+    71 0 R
+    (ID.059)
+    72 0 R
+    (ID.060)
+    118 0 R
+    (ID.061)
+    73 0 R
+    (ID.062)
+    119 0 R
+    (ID.063)
+    120 0 R
+    (ID.064)
+    74 0 R
+    (ID.065)
+    75 0 R
+    (ID.066)
+    121 0 R
+    (ID.067)
+    76 0 R
+    (ID.068)
+    122 0 R
+    (ID.069)
+    123 0 R
+    (ID.070)
+    77 0 R
+    (ID.071)
+    78 0 R
+    (ID.072)
+    124 0 R
+    (ID.073)
+    79 0 R
+    (ID.074)
+    125 0 R
+    (ID.075)
+    126 0 R
+    (ID.076)
+    80 0 R
+    (ID.077)
+    81 0 R
+  ]
+>>
+endobj
+
+%% Original object ID: 13 0
+39 0 obj
+<<
+  /ID (ID.004)
+  /K [
+    42 0 R
+    43 0 R
+  ]
+  /P 17 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 16 0
+40 0 obj
+<<
+  /ID (ID.007)
+  /K 44 0 R
+  /P 17 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 18 0
+41 0 obj
+<<
+  /ID (ID.009)
+  /K 96 0 R
+  /P 17 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 14 0
+42 0 obj
+<<
+  /C /center
+  /ID (ID.005)
+  /K <<
+    /MCID 0
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 39 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 15 0
+43 0 obj
+<<
+  /C /center
+  /ID (ID.006)
+  /K <<
+    /MCID 1
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 39 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 17 0
+44 0 obj
+<<
+  /C /justify
+  /ID (ID.008)
+  /K <<
+    /MCID 2
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 40 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 21 0
+45 0 obj
+<<
+  /ID (ID.012)
+  /K <<
+    /MCID 3
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 97 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 24 0
+46 0 obj
+<<
+  /C /justify
+  /ID (ID.015)
+  /K [
+    <<
+      /MCID 4
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    47 0 R
+    <<
+      /MCID 6
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    48 0 R
+    <<
+      /MCID 8
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+  ]
+  /P 99 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 25 0
+47 0 obj
+<<
+  /AF [
+    128 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.016)
+  /K <<
+    /MCID 5
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 46 0 R
+  /S /Formula
+  /T <feff006d006100740068>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 29 0
+48 0 obj
+<<
+  /ID (ID.017)
+  /K <<
+    /MCID 7
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 46 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 31 0
+49 0 obj
+<<
+  /ID (ID.019)
+  /K <<
+    /MCID 9
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 100 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 34 0
+50 0 obj
+<<
+  /C /justify
+  /ID (ID.022)
+  /K <<
+    /MCID 10
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 102 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 36 0
+51 0 obj
+<<
+  /ID (ID.024)
+  /K <<
+    /MCID 11
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 103 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 39 0
+52 0 obj
+<<
+  /C /justify
+  /ID (ID.027)
+  /K [
+    <<
+      /MCID 12
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    53 0 R
+    <<
+      /MCID 14
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    54 0 R
+    <<
+      /MCID 16
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    55 0 R
+    <<
+      /MCID 18
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    56 0 R
+    <<
+      /MCID 20
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    57 0 R
+    <<
+      /MCID 22
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+  ]
+  /P 105 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 40 0
+53 0 obj
+<<
+  /AF [
+    129 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.028)
+  /K <<
+    /MCID 13
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 52 0 R
+  /S /Formula
+  /T <feff006d006100740068>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 43 0
+54 0 obj
+<<
+  /ID (ID.029)
+  /K <<
+    /MCID 15
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 52 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 44 0
+55 0 obj
+<<
+  /ID (ID.030)
+  /K <<
+    /MCID 17
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 52 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 45 0
+56 0 obj
+<<
+  /ID (ID.031)
+  /K <<
+    /MCID 19
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 52 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 46 0
+57 0 obj
+<<
+  /ID (ID.032)
+  /K <<
+    /MCID 21
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 52 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 48 0
+58 0 obj
+<<
+  /ID (ID.034)
+  /K <<
+    /MCID 23
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 106 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 51 0
+59 0 obj
+<<
+  /C /justify
+  /ID (ID.037)
+  /K [
+    <<
+      /MCID 24
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    60 0 R
+    <<
+      /MCID 26
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    61 0 R
+    <<
+      /MCID 28
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+    62 0 R
+    <<
+      /MCID 30
+      /Pg 7 0 R
+      /Type /MCR
+    >>
+  ]
+  /P 108 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 52 0
+60 0 obj
+<<
+  /AF [
+    130 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.038)
+  /K <<
+    /MCID 25
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 59 0 R
+  /S /Formula
+  /T <feff006d006100740068>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 55 0
+61 0 obj
+<<
+  /ID (ID.039)
+  /K <<
+    /MCID 27
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 59 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 56 0
+62 0 obj
+<<
+  /ID (ID.040)
+  /K <<
+    /MCID 29
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 59 0 R
+  /S /Em
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 58 0
+63 0 obj
+<<
+  /ID (ID.042)
+  /K <<
+    /MCID 31
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 109 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 61 0
+64 0 obj
+<<
+  /C /justify
+  /ID (ID.045)
+  /K <<
+    /MCID 32
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 111 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 62 0
+65 0 obj
+<<
+  /AF [
+    131 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.046)
+  /K <<
+    /MCID 33
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 111 0 R
+  /S /Formula
+  /T <feff006500710075006100740069006f006e002a>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 66 0
+66 0 obj
+<<
+  /ID (ID.048)
+  /K <<
+    /MCID 34
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 112 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 69 0
+67 0 obj
+<<
+  /C /justify
+  /ID (ID.051)
+  /K <<
+    /MCID 35
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 114 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 70 0
+68 0 obj
+<<
+  /AF [
+    132 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.052)
+  /K <<
+    /MCID 36
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 114 0 R
+  /S /Formula
+  /T <feff006500710075006100740069006f006e002a>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 73 0
+69 0 obj
+<<
+  /C /justify
+  /ID (ID.053)
+  /K <<
+    /MCID 37
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 114 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 75 0
+70 0 obj
+<<
+  /ID (ID.055)
+  /K <<
+    /MCID 38
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 115 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 78 0
+71 0 obj
+<<
+  /C /justify
+  /ID (ID.058)
+  /K <<
+    /MCID 39
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 117 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 79 0
+72 0 obj
+<<
+  /AF [
+    133 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.059)
+  /K <<
+    /MCID 40
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 117 0 R
+  /S /Formula
+  /T <feff006500710075006100740069006f006e002a>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 83 0
+73 0 obj
+<<
+  /ID (ID.061)
+  /K <<
+    /MCID 41
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 118 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 86 0
+74 0 obj
+<<
+  /C /justify
+  /ID (ID.064)
+  /K <<
+    /MCID 42
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 120 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 87 0
+75 0 obj
+<<
+  /AF [
+    134 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.065)
+  /K <<
+    /MCID 43
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 120 0 R
+  /S /Formula
+  /T <feff006500710075006100740069006f006e002a>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 91 0
+76 0 obj
+<<
+  /ID (ID.067)
+  /K <<
+    /MCID 44
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 121 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 94 0
+77 0 obj
+<<
+  /C /justify
+  /ID (ID.070)
+  /K <<
+    /MCID 45
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 123 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 95 0
+78 0 obj
+<<
+  /AF [
+    135 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.071)
+  /K <<
+    /MCID 46
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 123 0 R
+  /S /Formula
+  /T <feff006500710075006100740069006f006e002a>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 99 0
+79 0 obj
+<<
+  /ID (ID.073)
+  /K <<
+    /MCID 47
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 124 0 R
+  /S /Lbl
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 102 0
+80 0 obj
+<<
+  /C /justify
+  /ID (ID.076)
+  /K <<
+    /MCID 48
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 126 0 R
+  /S /text
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 103 0
+81 0 obj
+<<
+  /AF [
+    136 0 R
+  ]
+  /ActualText (math formula\000)
+  /ID (ID.077)
+  /K <<
+    /MCID 49
+    /Pg 7 0 R
+    /Type /MCR
+  >>
+  /P 126 0 R
+  /S /Formula
+  /T <feff006500710075006100740069006f006e002a>
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 161 0
+82 0 obj
+<<
+  /BaseFont /NCPZOU+OpenDyslexic-Regular
+  /CIDSystemInfo <<
+    /Ordering (Identity)
+    /Registry (Adobe)
+    /Supplement 0
+  >>
+  /FontDescriptor 137 0 R
+  /Subtype /CIDFontType0
+  /Type /Font
+  /W 138 0 R
+>>
+endobj
+
+%% Original object ID: 160 0
+83 0 obj
+<<
+  /Length 84 0 R
+>>
+stream
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%IncludeResource: ProcSet (CIDInit)
+%%BeginResource: CMap (TeX-NCPZOU-OpenDyslexic-Regular-0)
+%%Title: (TeX-NCPZOU-OpenDyslexic-Regular-0 TeX NCPZOU-OpenDyslexic-Regular 0)
+%%Version: 1.000
+%%EndComments
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (TeX)
+/Ordering (NCPZOU-OpenDyslexic-Regular)
+/Supplement 0
+>> def
+/CMapName /TeX-Identity-NCPZOU-OpenDyslexic-Regular def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+0 beginbfrange
+endbfrange
+14 beginbfchar
+<000A> <0028>
+<000B> <0029>
+<000D> <002B>
+<0010> <002E>
+<0011> <002F>
+<0012> <0030>
+<0013> <0031>
+<0014> <0032>
+<0015> <0033>
+<0016> <0034>
+<0017> <0035>
+<001B> <0039>
+<001F> <003D>
+<00F4> <2212>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+%%EndResource
+%%EOF
+endstream
+endobj
+
+84 0 obj
+890
+endobj
+
+%% Original object ID: 155 0
+85 0 obj
+<<
+  /BaseFont /HYLQYK+OpenDyslexic-Italic
+  /CIDSystemInfo <<
+    /Ordering (Identity)
+    /Registry (Adobe)
+    /Supplement 0
+  >>
+  /FontDescriptor 139 0 R
+  /Subtype /CIDFontType0
+  /Type /Font
+  /W 140 0 R
+>>
+endobj
+
+%% Original object ID: 154 0
+86 0 obj
+<<
+  /Length 87 0 R
+>>
+stream
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%IncludeResource: ProcSet (CIDInit)
+%%BeginResource: CMap (TeX-HYLQYK-OpenDyslexic-Italic-0)
+%%Title: (TeX-HYLQYK-OpenDyslexic-Italic-0 TeX HYLQYK-OpenDyslexic-Italic 0)
+%%Version: 1.000
+%%EndComments
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (TeX)
+/Ordering (HYLQYK-OpenDyslexic-Italic)
+/Supplement 0
+>> def
+/CMapName /TeX-Identity-HYLQYK-OpenDyslexic-Italic def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+0 beginbfrange
+endbfrange
+7 beginbfchar
+<0043> <0061>
+<0044> <0062>
+<004A> <0068>
+<004D> <006B>
+<004F> <006D>
+<005A> <0078>
+<005B> <0079>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+%%EndResource
+%%EOF
+endstream
+endobj
+
+87 0 obj
+786
+endobj
+
+%% Original object ID: 167 0
+88 0 obj
+<<
+  /BaseFont /RPRJPY+OpenDyslexic-Regular
+  /CIDSystemInfo <<
+    /Ordering (Identity)
+    /Registry (Adobe)
+    /Supplement 0
+  >>
+  /FontDescriptor 141 0 R
+  /Subtype /CIDFontType0
+  /Type /Font
+  /W 142 0 R
+>>
+endobj
+
+%% Original object ID: 166 0
+89 0 obj
+<<
+  /Length 90 0 R
+>>
+stream
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%IncludeResource: ProcSet (CIDInit)
+%%BeginResource: CMap (TeX-RPRJPY-OpenDyslexic-Regular-0)
+%%Title: (TeX-RPRJPY-OpenDyslexic-Regular-0 TeX RPRJPY-OpenDyslexic-Regular 0)
+%%Version: 1.000
+%%EndComments
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (TeX)
+/Ordering (RPRJPY-OpenDyslexic-Regular)
+/Supplement 0
+>> def
+/CMapName /TeX-Identity-RPRJPY-OpenDyslexic-Regular def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+0 beginbfrange
+endbfrange
+53 beginbfchar
+<0002> <0020>
+<000A> <0028>
+<000B> <0029>
+<000E> <002C>
+<000F> <002D>
+<0010> <002E>
+<0011> <002F>
+<0012> <0030>
+<0013> <0031>
+<0014> <0032>
+<0015> <0033>
+<0016> <0034>
+<0017> <0035>
+<0018> <0036>
+<0019> <0037>
+<001A> <0038>
+<001B> <0039>
+<001C> <003A>
+<0021> <003F>
+<0023> <0041>
+<0025> <0043>
+<0028> <0046>
+<002A> <0048>
+<002B> <0049>
+<0032> <0050>
+<0034> <0052>
+<0035> <0053>
+<0039> <0057>
+<0043> <0061>
+<0044> <0062>
+<0045> <0063>
+<0046> <0064>
+<0047> <0065>
+<0048> <0066>
+<0049> <0067>
+<004A> <0068>
+<004B> <0069>
+<004D> <006B>
+<004E> <006C>
+<004F> <006D>
+<0050> <006E>
+<0051> <006F>
+<0052> <0070>
+<0053> <0071>
+<0054> <0072>
+<0055> <0073>
+<0056> <0074>
+<0057> <0075>
+<0058> <0076>
+<0059> <0077>
+<005B> <0079>
+<00DE> <2013>
+<00E1> <2019>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+%%EndResource
+%%EOF
+endstream
+endobj
+
+90 0 obj
+1436
+endobj
+
+%% Original object ID: 149 0
+91 0 obj
+<<
+  /BaseFont /PDIMKL+OpenDyslexic-Italic
+  /CIDSystemInfo <<
+    /Ordering (Identity)
+    /Registry (Adobe)
+    /Supplement 0
+  >>
+  /FontDescriptor 143 0 R
+  /Subtype /CIDFontType0
+  /Type /Font
+  /W 144 0 R
+>>
+endobj
+
+%% Original object ID: 148 0
+92 0 obj
+<<
+  /Length 93 0 R
+>>
+stream
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%IncludeResource: ProcSet (CIDInit)
+%%BeginResource: CMap (TeX-PDIMKL-OpenDyslexic-Italic-0)
+%%Title: (TeX-PDIMKL-OpenDyslexic-Italic-0 TeX PDIMKL-OpenDyslexic-Italic 0)
+%%Version: 1.000
+%%EndComments
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (TeX)
+/Ordering (PDIMKL-OpenDyslexic-Italic)
+/Supplement 0
+>> def
+/CMapName /TeX-Identity-PDIMKL-OpenDyslexic-Italic def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+0 beginbfrange
+endbfrange
+6 beginbfchar
+<0002> <0020>
+<004A> <0068>
+<004D> <006B>
+<004F> <006D>
+<005A> <0078>
+<005B> <0079>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+%%EndResource
+%%EOF
+endstream
+endobj
+
+93 0 obj
+772
+endobj
+
+%% Original object ID: 11 0
+94 0 obj
+<<
+  /ID (ID.002)
+  /P 9 0 R
+  /S /Artifact
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 12 0
+95 0 obj
+<<
+  /ID (ID.003)
+  /P 9 0 R
+  /S /Artifact
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 19 0
+96 0 obj
+<<
+  /C /enumerate
+  /ID (ID.010)
+  /K [
+    97 0 R
+    100 0 R
+    103 0 R
+    106 0 R
+    109 0 R
+    112 0 R
+    115 0 R
+    118 0 R
+    121 0 R
+    124 0 R
+  ]
+  /P 41 0 R
+  /S /enumerate
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 20 0
+97 0 obj
+<<
+  /ID (ID.011)
+  /K [
+    45 0 R
+    98 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 22 0
+98 0 obj
+<<
+  /ID (ID.013)
+  /K 99 0 R
+  /P 97 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 23 0
+99 0 obj
+<<
+  /ID (ID.014)
+  /K 46 0 R
+  /P 98 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 30 0
+100 0 obj
+<<
+  /ID (ID.018)
+  /K [
+    49 0 R
+    101 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 32 0
+101 0 obj
+<<
+  /ID (ID.020)
+  /K 102 0 R
+  /P 100 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 33 0
+102 0 obj
+<<
+  /ID (ID.021)
+  /K 50 0 R
+  /P 101 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 35 0
+103 0 obj
+<<
+  /ID (ID.023)
+  /K [
+    51 0 R
+    104 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 37 0
+104 0 obj
+<<
+  /ID (ID.025)
+  /K 105 0 R
+  /P 103 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 38 0
+105 0 obj
+<<
+  /ID (ID.026)
+  /K 52 0 R
+  /P 104 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 47 0
+106 0 obj
+<<
+  /ID (ID.033)
+  /K [
+    58 0 R
+    107 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 49 0
+107 0 obj
+<<
+  /ID (ID.035)
+  /K 108 0 R
+  /P 106 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 50 0
+108 0 obj
+<<
+  /ID (ID.036)
+  /K 59 0 R
+  /P 107 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 57 0
+109 0 obj
+<<
+  /ID (ID.041)
+  /K [
+    63 0 R
+    110 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 59 0
+110 0 obj
+<<
+  /ID (ID.043)
+  /K 111 0 R
+  /P 109 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 60 0
+111 0 obj
+<<
+  /ID (ID.044)
+  /K [
+    64 0 R
+    65 0 R
+  ]
+  /P 110 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 65 0
+112 0 obj
+<<
+  /ID (ID.047)
+  /K [
+    66 0 R
+    113 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 67 0
+113 0 obj
+<<
+  /ID (ID.049)
+  /K 114 0 R
+  /P 112 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 68 0
+114 0 obj
+<<
+  /ID (ID.050)
+  /K [
+    67 0 R
+    68 0 R
+    69 0 R
+  ]
+  /P 113 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 74 0
+115 0 obj
+<<
+  /ID (ID.054)
+  /K [
+    70 0 R
+    116 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 76 0
+116 0 obj
+<<
+  /ID (ID.056)
+  /K 117 0 R
+  /P 115 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 77 0
+117 0 obj
+<<
+  /ID (ID.057)
+  /K [
+    71 0 R
+    72 0 R
+  ]
+  /P 116 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 82 0
+118 0 obj
+<<
+  /ID (ID.060)
+  /K [
+    73 0 R
+    119 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 84 0
+119 0 obj
+<<
+  /ID (ID.062)
+  /K 120 0 R
+  /P 118 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 85 0
+120 0 obj
+<<
+  /ID (ID.063)
+  /K [
+    74 0 R
+    75 0 R
+  ]
+  /P 119 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 90 0
+121 0 obj
+<<
+  /ID (ID.066)
+  /K [
+    76 0 R
+    122 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 92 0
+122 0 obj
+<<
+  /ID (ID.068)
+  /K 123 0 R
+  /P 121 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 93 0
+123 0 obj
+<<
+  /ID (ID.069)
+  /K [
+    77 0 R
+    78 0 R
+  ]
+  /P 122 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 98 0
+124 0 obj
+<<
+  /ID (ID.072)
+  /K [
+    79 0 R
+    125 0 R
+  ]
+  /P 96 0 R
+  /S /LI
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 100 0
+125 0 obj
+<<
+  /ID (ID.074)
+  /K 126 0 R
+  /P 124 0 R
+  /S /LBody
+  /Type /StructElem
+>>
+endobj
+
+%% Original object ID: 101 0
+126 0 obj
+<<
+  /ID (ID.075)
+  /K [
+    80 0 R
+    81 0 R
+  ]
+  /P 125 0 R
+  /S /text-unit
+  /Type /StructElem
+>>
+endobj
+
+127 0 obj
+<<
+  /Type /ObjStm
+  /Length 2839
+  /N 9
+  /First 137
+>>
+stream
+128 0
+129 307
+130 614
+131 921
+132 1228
+133 1535
+134 1842
+135 2149
+136 2457
+%% Object stream: object 128, index 0; original object ID: 27
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 145 0 R
+    /UF 145 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650031002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650031002e007400780074>
+>>
+%% Object stream: object 129, index 1; original object ID: 42
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 147 0 R
+    /UF 147 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650032002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650032002e007400780074>
+>>
+%% Object stream: object 130, index 2; original object ID: 54
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 149 0 R
+    /UF 149 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650033002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650033002e007400780074>
+>>
+%% Object stream: object 131, index 3; original object ID: 64
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 151 0 R
+    /UF 151 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650034002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650034002e007400780074>
+>>
+%% Object stream: object 132, index 4; original object ID: 72
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 153 0 R
+    /UF 153 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650035002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650035002e007400780074>
+>>
+%% Object stream: object 133, index 5; original object ID: 81
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 155 0 R
+    /UF 155 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650036002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650036002e007400780074>
+>>
+%% Object stream: object 134, index 6; original object ID: 89
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 157 0 R
+    /UF 157 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650037002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650037002e007400780074>
+>>
+%% Object stream: object 135, index 7; original object ID: 97
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 159 0 R
+    /UF 159 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650038002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650038002e007400780074>
+>>
+%% Object stream: object 136, index 8; original object ID: 105
+<<
+  /AFRelationship /Unspecified
+  /EF <<
+    /F 161 0 R
+    /UF 161 0 R
+  >>
+  /F <feff007400610067002d0041004600660069006c00650039002e007400780074>
+  /Type /Filespec
+  /UF <feff007400610067002d0041004600660069006c00650039002e007400780074>
+>>
+endstream
+endobj
+
+%% Original object ID: 157 0
+137 0 obj
+<<
+  /Ascent 1250
+  /CIDSet 163 0 R
+  /CapHeight 729
+  /Descent -500
+  /Flags 4
+  /FontBBox [
+    -301
+    -522
+    1305
+    1182
+  ]
+  /FontFile3 165 0 R
+  /FontName /NCPZOU+OpenDyslexic-Regular
+  /ItalicAngle 0
+  /StemV 97
+  /Type /FontDescriptor
+  /XHeight 1000
+>>
+endobj
+
+%% Original object ID: 156 0
+138 0 obj
+[
+  10
+  [
+    354
+    354
+  ]
+  13
+  [
+    772
+  ]
+  16
+  [
+    292
+    502
+    650
+    581
+    609
+    626
+    678
+    618
+  ]
+  27
+  [
+    649
+  ]
+  31
+  [
+    772
+  ]
+  244
+  [
+    772
+  ]
+]
+endobj
+
+%% Original object ID: 151 0
+139 0 obj
+<<
+  /Ascent 1250
+  /CIDSet 167 0 R
+  /CapHeight 724
+  /Descent -500
+  /Flags 4
+  /FontBBox [
+    -74
+    -496
+    1268
+    1037
+  ]
+  /FontFile3 169 0 R
+  /FontName /HYLQYK+OpenDyslexic-Italic
+  /ItalicAngle -12
+  /StemV 101
+  /Type /FontDescriptor
+  /XHeight 1000
+>>
+endobj
+
+%% Original object ID: 150 0
+140 0 obj
+[
+  67
+  [
+    617
+    667
+  ]
+  74
+  [
+    689
+  ]
+  77
+  [
+    705
+  ]
+  79
+  [
+    1001
+  ]
+  90
+  [
+    717
+    665
+  ]
+]
+endobj
+
+%% Original object ID: 163 0
+141 0 obj
+<<
+  /Ascent 1250
+  /CIDSet 171 0 R
+  /CapHeight 729
+  /Descent -500
+  /Flags 4
+  /FontBBox [
+    -301
+    -522
+    1305
+    1182
+  ]
+  /FontFile3 173 0 R
+  /FontName /RPRJPY+OpenDyslexic-Regular
+  /ItalicAngle 0
+  /StemV 97
+  /Type /FontDescriptor
+  /XHeight 1000
+>>
+endobj
+
+%% Original object ID: 162 0
+142 0 obj
+[
+  2
+  [
+    391
+  ]
+  10
+  [
+    354
+    354
+  ]
+  14
+  [
+    319
+    413
+    292
+    502
+    650
+    581
+    609
+    626
+    678
+    618
+    650
+    610
+    666
+    649
+    274
+  ]
+  33
+  [
+    531
+  ]
+  35
+  [
+    814
+  ]
+  37
+  [
+    734
+  ]
+  40
+  [
+    565
+  ]
+  42
+  [
+    712
+    265
+  ]
+  50
+  [
+    642
+  ]
+  52
+  [
+    714
+    660
+  ]
+  57
+  [
+    1069
+  ]
+  67
+  [
+    608
+    636
+    579
+    645
+    648
+    471
+    645
+    624
+    261
+  ]
+  77
+  [
+    646
+    342
+    969
+    639
+    648
+    664
+    727
+    478
+    564
+    488
+    609
+    679
+    880
+  ]
+  91
+  [
+    679
+  ]
+  222
+  [
+    646
+  ]
+  225
+  [
+    288
+  ]
+]
+endobj
+
+%% Original object ID: 145 0
+143 0 obj
+<<
+  /Ascent 1250
+  /CIDSet 175 0 R
+  /CapHeight 724
+  /Descent -500
+  /Flags 4
+  /FontBBox [
+    -74
+    -496
+    1268
+    1037
+  ]
+  /FontFile3 177 0 R
+  /FontName /PDIMKL+OpenDyslexic-Italic
+  /ItalicAngle -12
+  /StemV 101
+  /Type /FontDescriptor
+  /XHeight 1000
+>>
+endobj
+
+%% Original object ID: 144 0
+144 0 obj
+[
+  2
+  [
+    391
+  ]
+  74
+  [
+    689
+  ]
+  77
+  [
+    705
+  ]
+  79
+  [
+    1001
+  ]
+  90
+  [
+    717
+    665
+  ]
+]
+endobj
+
+%% Original object ID: 26 0
+145 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 146 0 R
+>>
+stream
+LaTeX formula starts \begin {math} 2y - 4 = 3x + 1 \end {math} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+146 0 obj
+82
+endobj
+
+%% Original object ID: 41 0
+147 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 148 0 R
+>>
+stream
+LaTeX formula starts \begin {math} y = m(x - h) + k \end {math} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+148 0 obj
+83
+endobj
+
+%% Original object ID: 53 0
+149 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 150 0 R
+>>
+stream
+LaTeX formula starts \begin {math} 2x + y/4 = 1 \end {math} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+150 0 obj
+79
+endobj
+
+%% Original object ID: 63 0
+151 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 152 0 R
+>>
+stream
+LaTeX formula starts \begin {equation*} (2x - 3)(x/2 + 1). \end {equation*} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+152 0 obj
+95
+endobj
+
+%% Original object ID: 71 0
+153 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 154 0 R
+>>
+stream
+LaTeX formula starts \begin {equation*} (2x^3 - 3x + 1) + (x^2 + 2x - 1). \end {equation*} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+154 0 obj
+110
+endobj
+
+%% Original object ID: 80 0
+155 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 156 0 R
+>>
+stream
+LaTeX formula starts \begin {equation*} x^2 + 4x + 5. \end {equation*} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+156 0 obj
+90
+endobj
+
+%% Original object ID: 88 0
+157 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 158 0 R
+>>
+stream
+LaTeX formula starts \begin {equation*} 4x^2 - 9. \end {equation*} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+158 0 obj
+86
+endobj
+
+%% Original object ID: 96 0
+159 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 160 0 R
+>>
+stream
+LaTeX formula starts \begin {equation*} a^2 + 2ab + b^2. \end {equation*} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+160 0 obj
+93
+endobj
+
+%% Original object ID: 104 0
+161 0 obj
+<<
+  /Params <<
+    /ModDate (D:20240130)
+  >>
+  /Subtype /text#2fplain
+  /Type /EmbeddedFile
+  /Length 162 0 R
+>>
+stream
+LaTeX formula starts \begin {equation*} (2x - 1)(x + 3)(x - 2) = 0. \end {equation*} LaTeX formula ends 
+endstream
+endobj
+
+%QDF: ignore_newline
+162 0 obj
+104
+endobj
+
+%% Original object ID: 158 0
+163 0 obj
+<<
+  /Length 164 0 R
+>>
+stream
+ 4ÿ                          
+endstream
+endobj
+
+%QDF: ignore_newline
+164 0 obj
+31
+endobj
+
+%% Original object ID: 159 0
+165 0 obj
+<<
+  /Subtype /CIDFontType0C
+  /Length 166 0 R
+>>
+stream
+  NCPZOU+OpenDyslexic-Regular @øø ‹ø øøøûi_ü    >÷‰"  ­$  6%    #~’—ŸNCPZOU+OpenDyslexic-Regular002.001Original Fonts are \(c\) Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.Based on a work at http://dyslexicfonts.com. _2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.Bitstream license available here: http://opendyslexic.org/legal/OpenDyslexic RegularAdobeIdentity    
+             ô        # ` › ½ Ñ êPvÍ3k¸:MFûEúÔøˆøÑûEüˆúøˆüPSı>øù>ûıûúÔ÷š÷•ùÙ„'û!Sû …û*‘û+šû)Õû0$’K÷5o÷*÷&—÷%È÷!÷÷$ûıûú÷šëù›Ø„ßû6¢û)û$û&Cû"=û$û’î÷!Â÷!™÷+÷*y÷'C÷1Ä‹ùÔù÷íùİû¤÷¤8û¤û¤9÷¤û¤Ş÷¤ü;‹÷2Ô÷&Ô÷2÷&û2ûi*ùÅÔ÷øÔ.÷®ùÁÕˆû‡ıÂJ}ùˆü6÷[÷§ò ÷Şùz÷8ŞûûŠûŠ…4ûû8û77÷÷Š÷Š’â÷÷7d&W2ûGûMµ8ğñ»ä÷G˜÷GXä%`ˆü´•¼°Ñ¶b]…SRf•Zµû‹ùmÔøFâ÷÷6øŠûDhå÷C®íüä÷5û!‹ùzÔøc÷º÷"÷†û"üc÷"¿µÁ¶Å·÷ã°º¥½—£‘££ØPÁ3MGv_=ï«ÛĞ›Ä÷+ì:ûOx\PBƒ‚qo_^`^p`a2÷÷|Ü÷yÔøtø'øé„ÃD.û1$<ûJNJ—£F÷.kÂÍzÒÉº™§¬«§›¡œÎLÃû 6ÜäìÀ³ÔÕTµ(UN€rAÙ ÖÌ•Å÷*èBû;[Q6uf‹ùmÔø§Ô÷Ÿ÷Ãøb÷üMî9(•ûbû•÷bûÔ÷Øİøûü*÷÷¨Ş÷BÔøló÷ÿøøBûÆûQ•´¤¨÷7ñ+û,û1%0ûFNL• G÷-kÆÈ|Ñ÷Ì×½ğJ¼ûVX€rTI÷÷÷'÷²Ôø‹÷š÷)s¼¿~¼÷Ï¨÷F•SeOlEû&0é÷-÷*ëí÷'÷=æûûŠûzû
+û(ûLZY•T÷Pø÷ Î•õôHÌû û GJ"!Ï÷ Ä÷¢ñÔùÔøİù9ıû\íù)Ä÷¤ŞÔùÔ÷¤Şù8 ø&   7  Á|šø·™÷<™œ“÷•“ûş“÷¡:|/	‹Î
+óÎ÷fG’ó¨i}ùù_
+endstream
+endobj
+
+%QDF: ignore_newline
+166 0 obj
+1528
+endobj
+
+%% Original object ID: 152 0
+167 0 obj
+<<
+  /Length 168 0 R
+>>
+stream
+        % 0
+endstream
+endobj
+
+%QDF: ignore_newline
+168 0 obj
+12
+endobj
+
+%% Original object ID: 153 0
+169 0 obj
+<<
+  /Subtype /CIDFontType0C
+  /Length 170 0 R
+>>
+stream
+  HYLQYK+OpenDyslexic-Italic Aøø ‹ø øøøûiAü„ôú¡    /ç"  V$  '%    "~‘–HYLQYK+OpenDyslexic-Italic002.001Original Fonts are Â© Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.
+Based on a work at http://dyslexicfonts.com. â™¡2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.
+Bitstream license available here: http://opendyslexic.org/legal/OpenDyslexic ItalicAdobeIdentity    C D J M O Z [        hi,Â.1Š£û@ùüãøËãû@º÷¸£÷µ‘÷·ÙÙ…İßŞ‘à$\û·pûµ‰û¸:–:‘98:…8$Ì÷ÌÌÌÊÊˆÊ$–÷yŸ÷t­÷xG…G‡HJLL$ƒûwyûwnûw"÷÷3Á÷,ÈøOø‰÷Ì‚2†53„‹ƒ„uqqŒpŒ™‹šŒš™Œ™šthjrh|{gc…e`a”©mu¢ƒ­¬«‘¯š«š«¢§¬›¥À½¾ÈŸ ‹ŒŸŒ™Œ’Œ’“§ƒ§wz™y•x‘x‘wxŒQQrVŒ•‹•••Œ••ÆÈ—È¦ª‰„¦¦„¥x¬e“\\yŠy‰zûo;Š€‹€uŠuˆv…€‰††rz~lˆn€‘‘“„—ˆ†¢£‰£œ‹œš–››“••Œ•Œ•Œ•”Tù‚÷ø^÷ø^ŒŠŒ‹‹›§¥¢§š›§«“ª›É·n`§¨`˜QQd‡``ayaojd^SrRŒƒ‡Š‰Š‹Šhj•pou¥~ªMÚ°÷ŒÌ‘÷˜ˆ˜Š˜Š˜Š˜‰™Š„+„,+÷Ğû7‹Œ–´…¸y­­yn¢Z^_{enh_~U†Wge¡oš{œ……Ÿ‰®¬•©Ÿœ™—“Ÿ“Ÿ‘ ŸjùæømøÇ÷Ş‡E‰EFdŒeŒdjjj’ô•ò–ôŒ•‹––¨‡¦€¤°vi˜fb_zinkf{\‡]‡ZˆYˆ[‡Y†Z†Zjˆiˆi‡¼÷¦÷‹”÷¦ˆ¥ˆ¦‰ƒ&‚(€&¨¦¦©©­–®˜¤¤†‚¡¡€{—uedf}‹~Š~zùæøx÷Dù„¦ˆ¥ˆ¦‰„û"û"|û"­¯¬°¬¯¬®­°­®¬Œª‹¬gbgchbgchbgbæ+ä-ä)S’RRŒKáLßNâŠ_ˆ`ˆ`‚ûyŠy‰xŠT…¼÷¦÷‹”÷÷«ø³Êù¼ûğ÷Àø¶øE ¬§ª¬ £¯·‘²£¤…Ÿ›y’s“oqqu‰u‰u…Y‰YZOQ•Q SŒxxŒxšõ™óô­Œ–Œ––Èt¦Z]\zdlke}\‡]€(‚*…*û¢÷ ÷ Ÿ÷Œ–‹•–§ˆ¦~£|–{‘’zxz[erfrqf|\‰`†&‚(v(f‰hŠf‰º÷,¡÷/÷/£‹¤Š¤˜˜Š˜Š™˜Š˜‰o‰qˆpŠŒŠŒ‹Šš¨£¢¦š›§ª”ª²±ƒy«©x£o“dÀŒŠ†ø¬ÅøÁøûø±>.E-C)É5É8Î9_`_cÉfÉhËXKYMVM_‰`ˆ^ˆÜßÚßØãWêUçPç¨ˆ¦Š§‰ºB·B¶@È×ÈÔÌÔ¦¥Œ¦Rûfù„çøÁøb…€„…}s|tywyvrxm‚n‚l‡lŠ|Š{Š|‰”Â•Œ•‹–ŒŸŸ‘‘œšœœ“““”““¡²“—’˜“˜N÷:O÷8F÷7¦‡§ˆ§‰Å!Ã#Á ÆöÅôËôá”W,\*]*tZtZuZuZtZtZ ø&   /  j|šø±÷:˜«“ûu¡:|/	‹Ï
+ù"Ïzçù"ûP»øşùf
+endstream
+endobj
+
+%QDF: ignore_newline
+170 0 obj
+1945
+endobj
+
+%% Original object ID: 164 0
+171 0 obj
+<<
+  /Length 172 0 R
+>>
+stream
+ 3ÿøT°,@÷ÿĞ               @
+endstream
+endobj
+
+%QDF: ignore_newline
+172 0 obj
+29
+endobj
+
+%% Original object ID: 165 0
+173 0 obj
+<<
+  /Subtype /CIDFontType0C
+  /Length 174 0 R
+>>
+stream
+  RPRJPY+OpenDyslexic-Regular @øø ‹ø øøøûi_ü    Œ÷v"  ‘$  „%    #~’—ŸRPRJPY+OpenDyslexic-Regular002.001Original Fonts are \(c\) Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.Based on a work at http://dyslexicfonts.com. _2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.Bitstream license available here: http://opendyslexic.org/legal/OpenDyslexic RegularAdobeIdentity     
+                 ! # % ( * + 2 4 5 9 C D E F G H I J K M N O P Q R S T U V W X Y [ Ş á     6 6  # & c  º Ñ å şdŠáGÌ,L» C¦Ú%Kr•Ü0”Ğ2…Ğ%‰È	<		´	å
+
+n
+·
+şY¶ôZ“Ğô-fy•FûEúÔøˆøÑûEüˆúøˆüPSı>øù>ûØûıûúÔ÷š÷•ùÙ„'û!Sû …û*‘û+šû)Õû0$’K÷5o÷*÷&—÷%È÷!÷÷$ûıûú÷šëù›Ø„ßû6¢û)û$û&Cû"=û$û’î÷!Â÷!™÷+÷*y÷'C÷1ü û!÷˜Ô÷A÷›ò÷$ûû1LûÂ÷~àÔ÷ŸÔ÷~Û÷›‡:ü;‹÷2Ô÷&Ô÷2÷&û2ûi*ùÅÔ÷øÔ.÷®ùÁÕˆû‡ıÂJ}ùˆü6÷[÷§ò ÷Şùz÷8ŞûûŠûŠ…4ûû8û77÷÷Š÷Š’â÷÷7d&W2ûGûMµ8ğñ»ä÷G˜÷GXä%`ˆü´•¼°Ñ¶b]…SRf•Zµû‹ùmÔøFâ÷÷6øŠûDhå÷C®íüä÷5û!‹ùzÔøc÷º÷"÷†û"üc÷"¿µÁ¶Å·÷ã°º¥½—£‘££ØPÁ3MGv_=ï«ÛĞ›Ä÷+ì:ûOx\PBƒ‚qo_^`^p`a2÷÷|Ü÷yÔøtø'øé„ÃD.û1$<ûJNJ—£F÷.kÂÍzÒÉº™§¬«§›¡œÎLÃû 6ÜäìÀ³ÔÕTµ(UN€rAÙ ÖÌ•Å÷*èBû;[Q6uf‹ùmÔø§Ô÷Ÿ÷Ãøb÷üMî9(•ûbû•÷bûÔ÷Øİøûü*÷÷¨Ş÷BÔøló÷ÿøøBûÆûQ•´¤¨÷7ñ+û,û1%0ûFNL• G÷-kÆÈ|Ñ÷Ì×½ğJ¼ûVX€rTJ÷÷©Ù÷EÔøŒø¥ù]1¢ZX˜YûG4ûFÄ²ÇªĞ÷'æ,û-û**)û'û</÷÷Š÷z÷
+÷(÷L½½xÁûXûÉ3SJ"IÃbãäÃ´ÍôSÌ2"‹ùmÔødÔù$ÔødaûJıCûD÷¡ù$Z}ù~û«÷{Ôøœ ÷~ø7 cÈŞóÙÖ÷%÷%Ù@#8cN7vêuÍG.û!(=û5û5(Ù÷!èÍÏê¡`g÷M@½^àß¾¸ÖÊX»76Y[L÷ûm-RV3ZÄQééÄÆ»ãRÀ-I÷÷÷'÷²Ôø‹÷š÷)s¼¿~¼÷Ï¨÷F•SeOlEû&0é÷-÷*ëí÷'÷=æûûŠûzû
+û(ûLZY•T÷Pø÷ Î•õôHÌû û GJ"!Ï÷ üM÷)÷Ô÷Ôø"÷ ÷û ûü"÷)÷û)ûL÷ÉÔø÷¹÷”OûÖÍ˜±ÅÃ¼¶½´ ‘«Å]ÁEWPs`LØ°ÈÊÎ÷ÖF$ZkbWSdaƒ|ƒ~…ƒ~zˆ}‰xŠŠ~zûû™÷÷ûî‹ùmÔù0Ô÷´ùmè÷³ımû!o÷ûÜfû÷ã÷ûø(ûü(}ùˆÔøàù)ù5#ÉI@©6û:/#ûUû?äQ÷:àÖªÉÍû@\F>t5ûqû÷$÷~÷~÷÷$÷qã×t]Ïû*øC÷fÔø7ÔŸùmø#3ûÁ‚ûf÷°%û«”ûİˆ‹ùm÷O÷æÔ•ùmóûğ÷æ÷ğó•ımû÷‰ûæû‰üV‹ùmÔ÷
+Ôš÷‡‹÷‡÷‡ßû‡‰û‡˜û‡Bø1÷¦Ôøƒü÷¯ÀÔ©ùm÷m÷8ß@û#û$77û8ûû¯ ÷ùCûû¦÷íÃ¼ããS¼)Šø-÷ ÷J÷©ø7÷êµ}²\´9ïû[û A÷Oí[g¢=AûÈû
+ùm÷s÷'áFû!/aMGtû÷ãûû ÷ÖÙ¾Æ÷=¬@T}ùˆÔø•ø²ùU+¯AIœM N`>K«n÷ wÆ÷'oÏFûû!+AûKF=šª7÷0^ÛØtÕ÷ÊÂ¶²b¹'ŸO—û'¨MÆ÷÷ëÚ÷4ÏÒrÕ÷ö‹ùmÔú/÷€û7ùmê÷(üŸ÷A÷åá÷2ûï÷<ø©êûKımû$ûøû%ü ÷÷0Í÷)Ôøbø«÷ÌûÌ1ÙObPk2ûCÏô÷ŞÊ÷7÷”ŞY½"’MO|mTÔ¤ÍÉ˜Å÷3Ø:û;û j:ûioHŠS•º†Ìå®÷	<îÌ÷îC¥¶b÷#÷ç÷÷@÷@/÷û;RvJf”÷²1ûÏûÄŸaø÷V|ûXo;…û‚µğ~÷ÄÖêë¹?ûû}øÒÔøEøø¢<§XX™Wû	M8û”-¼k÷	…¿À„§¾û!tYVNû8"÷÷D÷Fô÷÷>ÂÁ€t¼E}ùšÔø‡ølød•÷¼åıŒ1İJfQl;û/÷÷@÷@ç÷÷ÛÅlJ°ûâûI,š³dêê¹Ÿ÷÷ˆ`Ô,+R;û÷÷Eÿ N€ ÿ Š€ ÔøŠøÓ÷Şiü,û&Ór÷…ĞÌŠ­ËûoJG}EûB‘ûò÷A÷G’ì÷÷9÷&…ÖG—û0ü"·÷ÔŒÈSØ2'JBIûˆø·÷Ô÷Ø÷Ìù‚ÛA:”^{G[÷#2û#šü^û™ø^:äÜ±÷Ğ¶ßEû÷Ôø‡üQ÷ÆÀøĞø·|üsûƒ==û?LT•V÷4nÀ¾~À÷
+½ñÌ˜©^mOf;û1÷÷=÷=å÷÷ÛÅkK°•Ş Zûš÷SÕ*+RAûû˜°ëìÊ•÷0‹ùŒ÷A÷£ø±÷Ş•ûŞû™÷Û÷‘]³:*O? •ûÉûŸùŒåû¾Í¶Å«×÷Ì<û+üZø·îÔ÷Şù÷Ûû'ı˜÷T÷KŠ÷@Û…û8ûL û[F‹ùŒÔøˆÔŸùŒå†üA÷M÷l÷ûcû”÷Âû·ûMûf÷•šû•ü	‹ù`Ô÷XÔ÷‘’÷e™÷’àûl…û@‰ûmõû÷’‹øÄÔùËø£øNÛ¸¿±ß÷Ë8û'•ûŞû­÷êôu½?-\: †|ûÉû·÷ïôf¼>/L5!•ûÉû¤ø·å6Î´ÃªÚÛÍb>¦?‹øÄÔø€ü÷¥Àø»÷Ş™ûŞ û÷àól¾;ûWI šûÎûšø¼åI­¶Å³×À÷Ë<û+’}øÒÔøŠü+÷ÌÀ÷ØøÄ÷0ê ûHûG,û û0û1-÷ ÷G÷Héö÷1 I+O=ûûÆwìëÇ ÷÷OÛ+Xˆ÷ ÷üÊ÷!÷÷ÆÊ÷Tİ‡û¶û·÷ãø0å|@Ì°ÅªÛ÷æûû@û@0ûû;QªÌf÷é÷c÷RÚ+,R<ûûÉuêêÀ¡÷—ûdù”ÔøØüœ÷ÆÀøQûd¦÷¶JfQl;û/÷÷@÷@ç÷÷ÛÅlJ°šŞâlü×÷!:F üKøûÂzêêÈœ÷÷QÛ,+R;ûû‹øºÔ÷àø(øµŒ/—wx‹n&aAû
+Ÿû¥û!´÷vİƒ÷~ŞS™Ì½â—•Š‡û+}øÒÔø6øbø§@¤XT™Q1ZjUZ¨tëvª„÷p¼b2%6Lû!QL–¢D÷hÎËzÊà°¥º€Ÿ‚™ƒ”„”k•S˜l’û¢\¯àò×Å÷ÎÆx¼ûw‹ù?Ô÷ê÷$ù?ê†û÷Eû†û‚1|Õèû.ûY¶÷÷½IÑÍ!}øÅ÷(÷°Ô÷l÷ßÖû$’­WÜìÀÍö’•÷|îü·2ßI`Rk?ûHÚ÷+g‹ø·Ôø¨÷¥û\ø·ê÷?ü%÷?ø%êû\ü·÷9‹ø·Ôùr÷lû#ø·å÷üñ÷^÷ñû^÷øåû#ü·û(÷Œ$ûŒgûnù‘Ôø¨øñø·ûzüêû#K]s;9÷Ê¼Ÿ¤µ­±Øû~øŠê÷VûÒ÷(÷ÒF÷ƒÑÔøˆÔ÷ƒÑøˆEü?ø^÷«Ô÷B÷ùå÷1)ûQ? ø&   7  ¥|šø·™÷<™œ“÷•“ûş“÷¡:|/	‹Î
+óÎ÷fG’ó¨i}ùù_
+endstream
+endobj
+
+%QDF: ignore_newline
+174 0 obj
+4316
+endobj
+
+%% Original object ID: 146 0
+175 0 obj
+<<
+  /Length 176 0 R
+>>
+stream
+         % 0
+endstream
+endobj
+
+%QDF: ignore_newline
+176 0 obj
+12
+endobj
+
+%% Original object ID: 147 0
+177 0 obj
+<<
+  /Subtype /CIDFontType0C
+  /Length 178 0 R
+>>
+stream
+  PDIMKL+OpenDyslexic-Italic Aøø ‹ø øøøûiAü„ôú¡    -ç"  ‘$  %%    "~‘–PDIMKL+OpenDyslexic-Italic002.001Original Fonts are Â© Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.
+Based on a work at http://dyslexicfonts.com. â™¡2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.
+Bitstream license available here: http://opendyslexic.org/legal/OpenDyslexic ItalicAdobeIdentity     J M O Z [        h kmpÉR£û@ùüãøËãû@º÷¸£÷µ‘÷·ÙÙ…İßŞ‘à$\û·pûµ‰û¸:–:‘98:…8$Ì÷ÌÌÌÊÊˆÊ$–÷yŸ÷t­÷xG…G‡HJLL$ƒûwyûwnûwûßjùæømøÇ÷Ş‡E‰EFdŒeŒdjjj’ô•ò–ôŒ•‹––¨‡¦€¤°vi˜fb_zinkf{\‡]‡ZˆYˆ[‡Y†Z†Zjˆiˆi‡¼÷¦÷‹”÷¦ˆ¥ˆ¦‰ƒ&‚(€&¨¦¦©©­–®˜¤¤†‚¡¡€{—uedf}‹~Š~zùæøx÷Dù„¦ˆ¥ˆ¦‰„û"û"|û"­¯¬°¬¯¬®­°­®¬Œª‹¬gbgchbgchbgbæ+ä-ä)S’RRŒKáLßNâŠ_ˆ`ˆ`‚ûyŠy‰xŠT…¼÷¦÷‹”÷÷«ø³Êù¼ûğ÷Àø¶øE ¬§ª¬ £¯·‘²£¤…Ÿ›y’s“oqqu‰u‰u…Y‰YZOQ•Q SŒxxŒxšõ™óô­Œ–Œ––Èt¦Z]\zdlke}\‡]€(‚*…*û¢÷ ÷ Ÿ÷Œ–‹•–§ˆ¦~£|–{‘’zxz[erfrqf|\‰`†&‚(v(f‰hŠf‰º÷,¡÷/÷/£‹¤Š¤˜˜Š˜Š™˜Š˜‰o‰qˆpŠŒŠŒ‹Šš¨£¢¦š›§ª”ª²±ƒy«©x£o“dÀŒŠ†ø¬ÅøÁøûø±>.E-C)É5É8Î9_`_cÉfÉhËXKYMVM_‰`ˆ^ˆÜßÚßØãWêUçPç¨ˆ¦Š§‰ºB·B¶@È×ÈÔÌÔ¦¥Œ¦Rûfù„çøÁøb…€„…}s|tywyvrxm‚n‚l‡lŠ|Š{Š|‰”Â•Œ•‹–ŒŸŸ‘‘œšœœ“““”““¡²“—’˜“˜N÷:O÷8F÷7¦‡§ˆ§‰Å!Ã#Á ÆöÅôËôá”W,\*]*tZtZuZuZtZtZ ø&   /  ¥|šø±÷:˜«“ûu¡:|/	‹Ï
+ù"Ïzçù"ûP»øşùf
+endstream
+endobj
+
+%QDF: ignore_newline
+178 0 obj
+1492
+endobj
+
+179 0 obj
+<<
+  /Type /XRef
+  /Length 900
+  /W [ 1 3 1 ]
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 180
+  /ID [<142ba3ff1d44d911bb8b9a1a8485ecf3><47d13c4e6b54b7c4b14e0e24219ef7a5>]
+>>
+stream
+       6    <  ~  1  15  1€  2D  2§  3I  3•  5T  c  cC  cÿ  dã  e:  eÕ  h±  k`  kÊ  l<  l®  m  m  n  ns  nå  oW  oÉ  p;  p§  q  qĞ  rœ  si  t5  ya  |a  |ô  }r  }ğ  ~   P  €  €£  ö  ‚ñ  ƒ’  „5  „è  …Œ  ‡¾  ˆº  ‰\  ‰ş  Š   ‹B  ‹æ  †  ‚  $  Æ  j  ‘  ’.  ’Ò  “…  ”–  •I  •í  –   —±  ˜U  ™  š  š½  ›p  œ  &  Ú  ì  Ÿñ  £¤  £Ö  ¤Ú  ¨%  ¨W  ©\  ¯1  ¯d  °h  ³¥  ³Ö  ´F  ´¶  µº  ¶F  ¶À  ·>  ·Ì  ¸I  ¸É  ¹W  ¹Ô  ºT  ºâ  »_  »ß  ¼m  ¼ê  ½  ¾  ¾Š  ¿*  ¿¸  À5  ÀÊ  ÁX  ÁÕ  Âj  Âø  Ãu  Ä
+  Ä™  Å  Å                     Ñ   Ò[  ÓM  Ô‰  Õ6  Öq  Ù  ÚZ  Úı  Ûû  Ü,  İ+  İ\  ŞW  Şˆ  ß“  ßÄ  àŞ  á  â  âG  ãI  ãz  äƒ  äµ  åÉ  åü  æl  æ  í  í5  í’  íÄ  õÈ  õü  öj  öœ ã  t ¦ å ü 
+endstream
+endobj
+
+startxref
+69372
+%%EOF
