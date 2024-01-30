@@ -19,7 +19,7 @@ The colloquium meets on Thursdays at 2:40pm, unless otherwise stated.
 
 * April 25th
 
-    [Matt Ollis](https://emerson.edu/)
+    [Matt Ollis](https://emerson.edu/faculty-staff-directory/matt-ollis) ([Emerson College](https://emerson.edu/))
 
     Title and abstract TBA
 
