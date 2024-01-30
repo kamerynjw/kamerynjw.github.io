@@ -7,5 +7,5 @@ permalink: /seminars/
 Simons Rock Mathematics Colloquium
 ======
 
-[See here.]({{ page.url }}SR-colloquim/)
+[Page here.]({{ page.url }}SR-colloquium/)
 
