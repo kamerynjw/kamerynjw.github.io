@@ -68,7 +68,7 @@ Great Barrington, MA 01230}
 \emph{[This problem uses concepts from real analysis, so if you have not taken that class you will probably find it challenging.]}
 Follow this outline to reproduce Cantor's original 1874 proof that $\Rbb$ is not countable. 
 \begin{enumerate}
-\item Suppose you have a sequence $\seq{[a_n,b_n] : n \in \Nbb}$ of strictly nested closed intervals; that is, $[a_{n+1},b_{n+1}] \subsetneq [a_n,b_n]$. Prove that if $X = \bigcap_{n \in \Nbb} [a_n,b_n]$ then any $x \in X$ must not be any $a_n$ nor any $b_n$.
+\item Suppose you have a sequence $\seq{[a_n,b_n] : n \in \Nbb}$ of nested closed intervals getting smaller on both sides; that is, $a_n < a_{n+1} < b_{n+1} < b_n$ for all $n$. Prove that if $X = \bigcap_{n \in \Nbb} [a_n,b_n]$ then any $x \in X$ must not be any $a_n$ nor any $b_n$.
 \item Also prove that $X$ is nonempty.
 \item Explain how to produce a sequence $\seq{[a_n,b_n] : n \in \Nbb}$ of strictly nested closed intervals from a sequence $\seq{x_n : n \in \Nbb}$ of real numbers so that any number in the intersection $X$ must not be any $x_n$.
 \item Conclude that $\Rbb$ is not countable.
@@ -114,7 +114,7 @@ For an element $x$ in a linear order $(X,\le)$, the \emph{successor} of $x$, if 
 \begin{problem}
 If $(X,\le)$ is a linear order with a minimum and so that every element of $X$ has a successor, then you can formulate a version of the $+1$ induction property for $X$. Let $z$ denote the minimum of $X$ and let $s(x)$ denote the successor of $x \in X$.
 \begin{itemize}
-\item ($+1$ induction property) For any $Y \subseteq X$, if $z \in x$ and for every $x \in X$ we have $x \in Y$ implies $s(x) \in Y$, then $Y = X$.
+\item ($+1$ induction property) For any $Y \subseteq X$, if $z \in Y$ and for every $x \in X$ we have $x \in Y$ implies $s(x) \in Y$, then $Y = X$.
 \end{itemize}
 Prove that if $X$ has the $+1$ induction property then $X$ is order isomorphic to $\Nbb$.
 \end{problem}

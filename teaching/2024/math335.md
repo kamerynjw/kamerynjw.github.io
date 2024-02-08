@@ -10,6 +10,8 @@ permalink: /teaching/2024/math335/
 Announcements
 -------------
 
+* (2/8) Some of the LaTeX commands you can see in the sources for the chapters aren't part of the LaTeX core, but rather are macros in a file I keep locally. [Here]({{ page.url }}macros.tex) is the macros file. If the LaTeX compiler doesn't recognize a command you grabbed from the source, it should be found in this file. If you want to use it to compile the source yourself, you'll need to change the `\input{../../macros.tex}` line in the header to point to where you placed the macros file, instead of two directories up.
+
 * (1/29) Here's some info about LaTeX to get you started. As a reminder, all written submissions for this class must be typeset in LaTeX. I will not accept hand-written work.
 
     LaTeX is a free and open source typesetting engine. You write a LaTeX document as a plaintext file, which is then compiled into a pdf. Various macros are used to determine formatting and document structure, display mathematical formulae, and so on. If you're going to use LaTeX long term, such as if you plan to go to grad school in math or a closely related field, you should install it on your machine. See [here](https://tug.org/texlive/quickinstall.html) for instructions. (Or if you're on linux you can just install it using your distribution's package manager.) Another option people like is to use [Overleaf](https://www.overleaf.com/), an online editor. To help get you started, I made a [template for your portfolio](https://www.overleaf.com/read/ypsrcqntbcrs). 

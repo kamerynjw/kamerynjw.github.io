@@ -1,0 +1,550 @@
+\theoremstyle{plain}
+\ifdefined\theorem \else \newtheorem{theorem}{Theorem} \fi
+\ifdefined\maintheorem \else \newtheorem{maintheorem}[theorem]{Main Theorem} \fi
+%% I also want a version of main theorem on its own numbering, for hacky reasons
+%\newcounter{maintheoremx}
+%\ifdefined\maintheoremx \else \newtheorem{maintheoremx}[maintheoremx]{Main Theorem} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+\ifdefined\lemma \else \newtheorem{lemma}[theorem]{Lemma} \fi
+\ifdefined\deflemma \else \newtheorem{deflemma}[theorem]{Def-Lemma} \fi
+\ifdefined\lemmaschema \else \newtheorem{lemmaschema}[theorem]{Lemma Schema} \fi
+\ifdefined\proposition \else \newtheorem{proposition}[theorem]{Proposition} \fi
+\ifdefined\corollary \else \newtheorem{corollary}[theorem]{Corollary} \fi
+\ifdefined\fact \else \newtheorem{fact}[theorem]{Fact} \fi
+\ifdefined\problem \else \newtheorem{problem}[theorem]{Problem} \fi
+\ifdefined\conjecture \else \newtheorem{conjecture}[theorem]{Conjecture} \fi
+\ifdefined\question \else \newtheorem{question}[theorem]{Question} \fi
+\ifdefined\observation \else \newtheorem{observation}[theorem]{Observation} \fi
+\newtheorem*{theorem*}{Theorem}
+\newtheorem*{lemma*}{Lemma}
+\newtheorem*{theoremschema*}{Theorem Schema}
+\newtheorem*{proposition*}{Proposition}
+\newtheorem*{conjecture*}{Conjecture}
+\newtheorem*{question*}{Question}
+\newtheorem*{definition*}{Definition}
+\newtheorem{sublemma}{Lemma}[theorem]
+\theoremstyle{definition}
+\ifdefined\definition \else \newtheorem{definition}[theorem]{Definition} \fi
+\ifdefined\subdefinition \else \newtheorem{subdefinition}{Definition}[theorem] \fi
+\ifdefined\maindefinition \else \newtheorem{maindefinition}[theorem]{Main Definition} \fi
+\newtheorem{protodefinition}[theorem]{Proto-Definition}
+\theoremstyle{remark}
+\ifdefined\remark \else \newtheorem{remark}[theorem]{Remark} \fi
+\ifdefined\remarks \else \newtheorem{remarks}[theorem]{Remarks} \fi
+\ifdefined\example \else \newtheorem{example}[theorem]{Example} \fi
+\ifdefined\claim \else \newtheorem{claim}[theorem]{Claim} \fi
+\ifdefined\exercise \else \newtheorem{exercise}[theorem]{Exercise} \fi
+%\ifdefined\question \else \newtheorem*{question}{Question} \fi
+\newtheorem*{remark*}{Remark}
+\newtheorem*{claim*}{Claim}
+\ifdefined\acknowledgment \else \newtheorem*{acknowledgment}{Acknowledgment} \fi
+\ifdefined\dedication \else \newtheorem*{dedication}{Dedicated} \fi
+\ifdefined\case \else \newtheorem*{case}{Case} \fi
+
+
+\newcounter{my_enumerate_counter}
+\newcommand{\pushcounter}{\setcounter{my_enumerate_counter}{\value{enumi}}}
+\newcommand{\popcounter}{\setcounter{enumi}{\value{my_enumerate_counter}}}
+\newcommand\comment[1]{}
+
+\newcommand{\Startlocallist}{\renewcommand{\theenumi}{\roman{enumi}}}
+\newcommand{\Endlocallist}{\renewcommand{\theenumi}{\arabic{enumi}}}
+
+\newcommand\Arm{\mathrm{A}}
+\newcommand\Crm{\mathrm{C}}
+\newcommand\Frm{\mathrm{F}}
+\newcommand\Lrm{\mathrm{L}}
+\newcommand\Mrm{\mathrm{M}}
+\newcommand\Prm{\mathrm{P}}
+\newcommand\Trm{\mathrm{T}}
+\newcommand\Vrm{\mathrm{V}}
+\newcommand\Zrm{\mathrm{Z}}
+
+\newcommand\crm{\mathrm{c}}
+
+\newcommand\Asf{\mathsf{A}}
+\newcommand\Bsf{\mathsf{B}}
+\newcommand\Csf{\mathsf{C}}
+\newcommand\Dsf{\mathsf{D}}
+\newcommand\Esf{\mathsf{E}}
+\newcommand\Fsf{\mathsf{F}}
+\newcommand\Gsf{\mathsf{G}}
+\newcommand\Hsf{\mathsf{H}}
+\newcommand\Isf{\mathsf{I}}
+\newcommand\Jsf{\mathsf{J}}
+\newcommand\Ksf{\mathsf{K}}
+\newcommand\Lsf{\mathsf{L}}
+\newcommand\Msf{\mathsf{M}}
+\newcommand\Nsf{\mathsf{N}}
+\newcommand\Osf{\mathsf{O}}
+\newcommand\Psf{\mathsf{P}}
+\newcommand\Qsf{\mathsf{Q}}
+\newcommand\Rsf{\mathsf{R}}
+\newcommand\Ssf{\mathsf{S}}
+\newcommand\Tsf{\mathsf{T}}
+\newcommand\Usf{\mathsf{U}}
+\newcommand\Vsf{\mathsf{V}}
+\newcommand\Wsf{\mathsf{W}}
+\newcommand\Xsf{\mathsf{X}}
+\newcommand\Ysf{\mathsf{Y}}
+\newcommand\Zsf{\mathsf{Z}}
+
+\newcommand\xsf{\mathsf{x}}
+
+\newcommand\bfrak{\mathfrak{b}}
+\newcommand\cfrak{\mathfrak{c}}
+\newcommand\dfrak{\mathfrak{d}}
+\newcommand\hfrak{\mathfrak{h}}
+\newcommand\mfrak{\mathfrak{m}}
+\newcommand\nfrak{\mathfrak{n}}
+\newcommand\pfrak{\mathfrak{p}}
+\newcommand\qfrak{\mathfrak{q}}
+\newcommand\rfrak{\mathfrak{r}}
+\newcommand\sfrak{\mathfrak{s}}
+\newcommand\tfrak{\mathfrak{t}}
+
+\newcommand\Afrak{\mathfrak{A}}
+\newcommand\Bfrak{\mathfrak{B}}
+\newcommand\Cfrak{\mathfrak{C}}
+\newcommand\Efrak{\mathfrak{E}}
+\newcommand\Gfrak{\mathfrak{G}}
+\newcommand\Hfrak{\mathfrak{H}}
+\newcommand\Lfrak{\mathfrak{L}}
+\newcommand\Mfrak{\mathfrak{M}}
+\newcommand\Nfrak{\mathfrak{N}}
+\newcommand\Pfrak{\mathfrak{P}}
+\newcommand\Rfrak{\mathfrak{R}}
+\newcommand\Sfrak{\mathfrak{S}}
+\newcommand\Ufrak{\mathfrak{U}}
+\newcommand\Xfrak{\mathfrak{X}}
+\newcommand\Yfrak{\mathfrak{Y}}
+\newcommand\Zfrak{\mathfrak{Z}}
+
+%\renewcommand\Re{\operatorname{Re}}
+%\renewcommand\exp[1]{\operatorname{exp}\left(#1\right)}
+\newcommand\diam{\operatorname{diam}}
+
+\newcommand\Ascr{\mathscr{A}}
+\newcommand\Bscr{\mathscr{B}}
+\newcommand\Cscr{\mathscr{C}}
+\newcommand\Dscr{\mathscr{D}}
+\newcommand\Escr{\mathscr{E}}
+\newcommand\Fscr{\mathscr{F}}
+\newcommand\Gscr{\mathscr{G}}
+\newcommand\Hscr{\mathscr{H}}
+\newcommand\Iscr{\mathscr{I}}
+\newcommand\Jscr{\mathscr{J}}
+\newcommand\Kscr{\mathscr{K}}
+\newcommand\Lscr{\mathscr{L}}
+\newcommand\Mscr{\mathscr{M}}
+\newcommand\Nscr{\mathscr{N}}
+\newcommand\Pscr{\mathscr{P}}
+\newcommand\Qscr{\mathscr{Q}}
+\newcommand\Rscr{\mathscr{R}}
+\newcommand\Sscr{\mathscr{S}}
+\newcommand\Tscr{\mathscr{T}}
+\newcommand\Uscr{\mathscr{U}}
+\newcommand\Vscr{\mathscr{V}}
+\newcommand\Wscr{\mathscr{W}}
+\newcommand\Xscr{\mathscr{X}}
+\newcommand\Yscr{\mathscr{Y}}
+\newcommand\Zscr{\mathscr{Z}}
+
+\newcommand\Acal{\mathcal{A}}
+\newcommand\Bcal{\mathcal{B}}
+\newcommand\Ccal{\mathcal{C}}
+\newcommand\Dcal{\mathcal{D}}
+\newcommand\Ecal{\mathcal{E}}
+\newcommand\Fcal{\mathcal{F}}
+\newcommand\Gcal{\mathcal{G}}
+\newcommand\Hcal{\mathcal{H}}
+\newcommand\Ical{\mathcal{I}}
+\newcommand\Jcal{\mathcal{J}}
+\newcommand\Kcal{\mathcal{K}}
+\newcommand\Lcal{\mathcal{L}}
+\newcommand\Mcal{\mathcal{M}}
+\newcommand\Ncal{\mathcal{N}}
+\newcommand\Ocal{\mathcal{O}}
+\newcommand\Pcal{\mathcal{P}}
+\newcommand\Qcal{\mathcal{Q}}
+\newcommand\Rcal{\mathcal{R}}
+\newcommand\Scal{\mathcal{S}}
+\newcommand\Tcal{\mathcal{T}}
+\newcommand\Ucal{\mathcal{U}}
+\newcommand\Vcal{\mathcal{V}}
+\newcommand\Wcal{\mathcal{W}}
+\newcommand\Xcal{\mathcal{X}}
+\newcommand\Ycal{\mathcal{Y}}
+\newcommand\Zcal{\mathcal{Z}}
+
+\newcommand\Abb{\mathbb{A}}
+\renewcommand\Bbb{\mathbb{B}}
+\newcommand\Cbb{\mathbb{C}}
+\newcommand\Dbb{\mathbb{D}}
+\newcommand\Ebb{\mathbb{E}}
+\newcommand\Fbb{\mathbb{F}}
+\newcommand\Gbb{\mathbb{G}}
+\newcommand\Ibb{\mathbb{I}}
+\newcommand\Lbb{\mathbb{L}}
+\newcommand\Mbb{\mathbb{M}}
+\newcommand\Nbb{\mathbb{N}}
+\newcommand\Obb{\mathbb{O}}
+\newcommand\Pbb{\mathbb{P}}
+\newcommand\Qbb{\mathbb{Q}}
+\newcommand\Rbb{\mathbb{R}}
+\newcommand\Sbb{\mathbb{S}}
+\newcommand\Tbb{\mathbb{T}}
+\newcommand\Xbb{\mathbb{X}}
+\newcommand\Zbb{\mathbb{Z}}
+
+\newcommand\Abf{\mathbf{A}}
+\newcommand\Bbf{\mathbf{B}}
+\newcommand\Cbf{\mathbf{C}}
+\newcommand\Fbf{\mathbf{F}}
+\newcommand\Kbf{\mathbf{K}}
+\newcommand\Mbf{\mathbf{M}}
+\newcommand\Nbf{\mathbf{N}}
+\newcommand\Xbf{\mathbf{X}}
+\newcommand\abf{\mathbf{a}}
+\newcommand\bbf{\mathbf{b}}
+\newcommand\cbf{\mathbf{c}}
+\newcommand\dbf{\mathbf{d}}
+\newcommand\rbf{\mathbf{r}}
+\newcommand\sbf{\mathbf{s}}
+\newcommand\tbf{\mathbf{t}}
+\newcommand\xbf{\mathbf{x}}
+\newcommand\ybf{\mathbf{y}}
+\newcommand\zbf{\mathbf{z}}
+\newcommand\ubf{\mathbf{u}}
+\newcommand\vbf{\mathbf{v}}
+\newcommand\wbf{\mathbf{w}}
+
+\newcommand\binomial[2]{\genfrac{(}{)}{0pt}{}{#1}{#2}}
+\newcommand\cbinomial[2]{\genfrac{\langle}{\rangle}{0pt}{}{#1}{#2}}
+
+\newcommand\On{\mathbf{On}}
+
+\newcommand\iso{\simeq}
+
+%\newcommand\op{\mspace{2.5mu}\widehat{\ }\mspace{2.5mu}}
+\newcommand\add{\operatorname{add}}
+\newcommand\cf{\operatorname{cf}}
+\newcommand\cof{\operatorname{cof}}
+\newcommand\non{\operatorname{non}}
+\newcommand\cov{\operatorname{cov}}
+\newcommand\Age{\operatorname{Age}}
+
+\newcommand{\dom}{\operatorname{dom}}
+\newcommand{\ran}{\operatorname{ran}}
+\newcommand{\range}{\operatorname{range}}
+\newcommand{\otp}{\operatorname{otp}}
+\newcommand{\rt}{\operatorname{root}}
+\newcommand{\Ht}{\operatorname{ht}}
+\newcommand{\cl}{\operatorname{cl}}
+\newcommand{\dc}{\operatorname{dc}}
+\newcommand{\rk}{\operatorname{rk}}
+\newcommand{\Diff}{\operatorname{Diff}}
+\newcommand{\Cov}{\operatorname{Cov}}
+\newcommand{\Var}{\operatorname{Var}}
+\newcommand{\Aut}{\operatorname{Aut}}
+
+\newcommand{\FF}{\operatorname{FF}}
+\newcommand{\NWD}{\operatorname{NWD}}
+
+\newcommand{\val}{\operatorname{val}}
+
+\newcommand{\osc}{\operatorname{osc}}
+\newcommand{\Osc}{\operatorname{Osc}}
+\ifdefined\alt \else
+  \newcommand{\alt}{\operatorname{alt}}
+\fi
+\newcommand{\crit}{\operatorname{crit}}
+
+\newcommand\Ext{\operatorname{Ext}}
+\newcommand\Hom{\operatorname{Hom}}
+
+\newcommand{\tr}{\operatorname{Tr}}
+
+\newcommand{\C}{\mathtt{c}}
+
+\newcommand{\id}{\operatorname{id}}
+
+\newcommand{\one}{\mathbf{1}}
+\newcommand{\zero}{\mathbf{0}}
+
+\newcommand{\lbrak}{[\mspace{-2.2mu}[}
+\newcommand{\rbrak}{]\mspace{-2.2mu}]}
+\newcommand{\forces}{\Vdash}
+\newcommand{\decides}{\parallel}
+\newcommand{\compat}{\parallel}
+\newcommand{\incompat}{\mathbin\bot}
+\newcommand{\truth}[1]{\lbrak #1 \rbrak}
+\newcommand{\arrow}[1]{\overrightarrow{#1}}
+\newcommand{\op}{\operatorname{op}}
+\newcommand{\up}{\operatorname{up}}
+
+\newcommand\bulletname{{}^\bullet}
+
+\newcommand{\Ult}{\operatorname{Ult}}
+
+\newcommand\cat{{}^\smallfrown}
+\newcommand\stem{\operatorname{stem}}
+
+\newcommand{\meet}{\wedge}
+\newcommand{\join}{\vee}
+\newcommand{\bigmeet}{\bigwedge}
+\newcommand{\bigjoin}{\bigvee}
+
+%\renewcommand{\vec}[1]{{\bar #1}}
+\renewcommand{\diamond}{\diamondsuit}
+\newcommand{\club}{\clubsuit}
+
+\newcommand{\subtree}{\sqsubseteq}
+\newcommand{\triord}{\triangleleft}
+
+% \newcommand\axiom{\mathrm}
+\newcommand\axiom{\mathsf}
+\newcommand\MA{\axiom{MA}}
+\newcommand\CH{\axiom{CH}}
+\newcommand\GCH{\axiom{GCH}}
+\newcommand\SCH{\axiom{SCH}}
+\newcommand\OCA{\axiom{OCA}}
+\newcommand\OCAARS{\axiom{OCA}_{\mathrm{[ARS]}}}
+\newcommand\BPFA{\axiom{BPFA}}
+\newcommand\BFA{\axiom{BFA}}
+\newcommand\CPFA{\axiom{CPFA}}
+\newcommand\PFA{\axiom{PFA}}
+\newcommand\PID{\axiom{PID}}
+\newcommand\FA{\axiom{FA}}
+\newcommand\MM{\axiom{MM}}
+\newcommand\BMM{\axiom{BMM}}
+\newcommand\MRP{\axiom{MRP}}
+\newcommand\SRP{\axiom{SRP}}
+\newcommand\RP{\axiom{RP}}
+\newcommand\SPFA{\axiom{SPFA}}
+\newcommand\IMH{\axiom{IMH}}
+
+\newcommand\ZC{\axiom{ZC}}
+\newcommand\KP{\axiom{KP}}
+\newcommand\KPU{\axiom{KPU}}
+\newcommand\ZF{\axiom{ZF}}
+\newcommand\ZFC{\axiom{ZFC}}
+\newcommand\ZFm{\axiom{ZF}^-}
+\newcommand\ZFCm{\axiom{ZFC}^-}
+\newcommand\ZFCU{\axiom{ZFCU}}
+\newcommand\ZFA{\axiom{ZFA}}
+\newcommand\GB{\axiom{GB}}
+\newcommand\GBC{\axiom{GBC}}
+\newcommand\GBc{\axiom{GBc}}
+\newcommand\GBm{\GB^-}
+\newcommand\GBCm{\GBC^-}
+\newcommand\GBcm{\GBc^-}
+\newcommand\ETR{\axiom{ETR}}
+\newcommand\ETRm{\ETR^-}
+\newcommand\CA{\axiom{CA}}
+\newcommand\DCA{\Delta^1_1\text{-}\axiom{CA}}
+\newcommand\ETRp{\ETR + \DCA}
+\newcommand\PCA{\Pi_1^1\text{-}\axiom{CA}}
+\newcommand\PnCA[1]{\Pi_{#1}^1\text{-}\axiom{CA}}
+\newcommand\SnCA[1]{\Sigma_{#1}^1\text{-}\axiom{CA}}
+\newcommand\SnCC[1]{\Sigma_{#1}^1\text{-}\axiom{CC}}
+\newcommand\PnCC[1]{\Pi_{#1}^1\text{-}\axiom{CC}}
+\newcommand\ECC{\axiom{ECC}}
+\newcommand\CC{\axiom{CC}}
+%\newcommand\PnCAp[1]{\PnCA{#1}^+}
+\newcommand\PCAm{\PCA^-} %%don't use this
+\newcommand\PnCAp[1]{\PnCA{#1} + \SnCC{#1}} %%don't use this
+\newcommand\PnCAm[1]{\PnCA{#1}^-} %%don't use this
+\newcommand\PnCApm[1]{\PnCAm{#1} + \SnCC{#1}} %%don't use this
+\newcommand\SkTR[1]{\Sigma_{#1}^1\text{-}\axiom{TR}}
+\newcommand\PkTR[1]{\Pi_{#1}^1\text{-}\axiom{TR}}
+\newcommand\KM{\axiom{KM}}
+\newcommand\KMp{\KM^+} %%don't use this. Use \KMCC instead
+\newcommand\KMCC{\axiom{KMCC}}
+\newcommand\KMm{\KM^-}
+\newcommand\KMpm{(\KMp)^-} %% don't use this
+\newcommand\KMCCm{\KMCC^-}
+\newcommand\ZFmi{\ZFm_{\mathrm I}}
+\newcommand\ZFCmi{\ZFCm_{\mathrm I}}
+\newcommand\ZFCmr{\ZFCm_{\mathrm R}}
+\newcommand\km{\axiom{km}}
+\newcommand\kmp{\axiom{km}^+}
+\newcommand\kmcc{\axiom{kmcc}}
+\newcommand\ZFCfin{\ZFC^{\neg\infty}}
+\newcommand\GBCfin{\GBC^{\neg\infty}}
+\newcommand\KMfin{\KM^{\neg\infty}}
+\newcommand\TC{\axiom{TC}}
+\newcommand\DGWO{\axiom{DGWO}}
+\newcommand\HA{\axiom{HA}}
+
+%also need the wrong names :P
+\newcommand\NBG{\axiom{NBG}}
+\newcommand\MK{\axiom{MK}}
+
+%versions of global choice
+\newcommand\GC{\axiom{GC}}
+\newcommand\SGWO{\axiom{SGWO}}
+\newcommand\GWO{\axiom{GWO}}
+%\newcommand\ClTri{\axiom{ClTri}}
+\newcommand\ClTri{\axiom{CT}}
+\newcommand\CHC{\axiom{CHC}}
+
+%versions of ac
+\newcommand\AC{\axiom{AC}}
+\newcommand\DC{\axiom{DC}}
+\newcommand\DCinf{\DC_\infty}
+\newcommand\SWOP{\axiom{SWOP}}
+\newcommand\WOP{\axiom{WOP}}
+\newcommand\ZL{\axiom{ZL}}
+\newcommand\CardTri{\axiom{CardTri}}
+
+\newcommand\AD{\axiom{AD}}
+
+
+\newcommand\PAm{\axiom{PA}^-}
+\newcommand\PA{\axiom{PA}}
+\newcommand\TA{\axiom{TA}}
+\newcommand\ISk[1]{\axiom{I}\Sigma_{#1}}
+\newcommand\ISigmak[1]{\ISk{#1}}
+
+\newcommand\RCA{\axiom{RCA}}
+\newcommand\WKL{\axiom{WKL}}
+\newcommand\ACA{\axiom{ACA}}
+\newcommand\ATR{\axiom{ATR}}
+
+\newcommand\Sfour{\axiom{S4}}
+\newcommand\Sfourtwo{\axiom{S4.2}}
+\newcommand\Sfourthree{\axiom{S4.3}}
+\newcommand\Sfive{\axiom{S5}}
+
+
+\newcommand\class{\mathrm}
+
+\newcommand\OD{\class{OD}}
+\newcommand\HOD{\class{HOD}}
+\newcommand\Ord{\class{Ord}}
+\newcommand\Card{\class{Card}}
+\newcommand\Reg{\class{Reg}}
+\newcommand\Adm{\class{Adm}}
+
+\newcommand\Succ{\class{Succ}}
+
+\newcommand\Add{\class{Add}}
+\newcommand\Coll{\class{Col}}
+\newcommand\Col{\Coll}
+
+\newcommand\tail{\mathrm{tail}}
+
+\newcommand\wfp{\operatorname{wfp}}
+
+\newcommand{\seq}[1]{{\left\langle #1 \right\rangle}}
+
+\renewcommand{\epsilon}{\varepsilon}
+
+\newcommand\mand{\textrm{ and }}
+\newcommand\mor{\textrm{ or }}
+\newcommand\miff{\textrm{ iff }}
+
+\newcommand\symdiff{\mathbin{\triangle}}
+\newcommand\card[1]{\left\lvert #1 \right\rvert}
+\newcommand\length{\operatorname{len}}
+\newcommand\rest{\upharpoonright}
+\newcommand\abs[1]{\card{#1}}
+\newcommand\ilabs[1]{\lvert #1 \rvert}
+\newcommand\powerset{\Pcal}
+\newcommand\rank{\operatorname{rank}}
+\newcommand\tc{\operatorname{tc}}
+
+\newcommand\omegaoneck{{\omega_1^{\mathrm{CK}}}}
+\newcommand\Hyp{\operatorname{Hyp}}
+\newcommand\hyp{\operatorname{hyp}}
+
+\newcommand\norm[1]{\left\Vert #1 \right\Vert}
+\newcommand\ilnorm[1]{\Vert #1 \Vert}
+
+\newcommand\arrows[3]{\rightarrow \left( #1 \right)^{#2}_{#3}}
+\newcommand\arrowstwo[2]{\arrows {#1}{#2}{\null}}
+\newcommand\narrows[3]{\not \rightarrow \left( #1 \right)^{#2}_{#3}}
+\newcommand\narrowstwo[2]{\narrows {#1}{#2}{\null}}
+
+
+\newcommand\embeds{\hookrightarrow}
+\newcommand\precend{\prec_{\mathsf{end}}}
+\newcommand\prectop{\prec_{\mathsf{top}}}
+\newcommand\succend{\succ_{\mathsf{end}}}
+\newcommand\succtop{\succ_{\mathsf{top}}}
+\newcommand\preceqcof{\preceq_{\mathsf{cof}}}
+\newcommand\preceqend{\preceq_{\mathsf{end}}}
+\newcommand\subsetcof{\subseteq_{\mathsf{cof}}}
+\newcommand\subsetend{\subseteq_{\mathsf{end}}}
+\newcommand\supsetend{\supseteq_{\mathsf{end}}}
+\newcommand\subsetneqend{\subsetneq_{\mathsf{end}}}
+\newcommand\supsetneqend{\supsetneq_{\mathsf{end}}}
+\newcommand\subsettop{\subseteq_{\mathsf{top}}}
+\newcommand\supsettop{\supseteq_{\mathsf{top}}}
+\newcommand\subsetrk{\subseteq_{\mathsf{rk}}}
+\newcommand\supsetrk{\supseteq_{\mathsf{rk}}}
+
+\newcommand\tp{\operatorname{tp}}
+
+\newcommand\inv{^{-1}}
+\newcommand\comp{\circ}
+\newcommand\prtlfn{ \mathbin{{\vbox{\baselineskip=3pt\lineskiplimit=0pt\hbox{.}\hbox{.}\hbox{.}}}}}
+
+
+\newcommand\dunion{\sqcup}
+
+\newcommand{\closure}[1]{\overline{#1}}
+\newcommand{\bndry}{\partial}
+\newcommand\Int{\operatorname{Int}}
+\newcommand\im{\operatorname{im}}
+\newcommand\supp{\operatorname{supp}}
+
+\newcommand\diagint{\mathop{\bigtriangleup}\displaylimits}
+%\newcommand\diagint{\mathop{\mathchoice{\scalerel*{\bigtriangleup}}{\bigtriangleup}{\bigtriangleup}{\bigtriangleup}}\displaylimits}
+
+\DeclareMathOperator*{\dirlim}{dir\,lim}
+
+\newcommand\field{\operatorname{field}}
+
+\newcommand\Res{\operatorname{Res}}
+
+%\newcommand\innerprod[2]{\left\langle #1, #2 \right\rangle}
+%\newcommand\ilip[2]{\langle #1, #2 \rangle}
+%\newcommand\weakly{\overset{\mathrm w}{\to}}
+
+\newcommand{\nats}{\mathbb N}
+\newcommand{\ints}{\mathbb Z}
+\newcommand{\rats}{\mathbb Q}
+\newcommand{\reals}{\mathbb R}
+\newcommand{\ereals}{\reals_\infty}
+\newcommand{\complex}{\mathbb C}
+
+\newcommand{\taut}{\models}
+\newcommand{\entails}{\models}
+\newcommand{\modles}{\models}    % i make this typo a lot <_<
+\newcommand{\proves}{\vdash}
+\newcommand{\logimp}{\mathrel{\vert}\joinrel\mathrel{\equiv}_{\mathsf L}}
+\newcommand{\godel}[1]{\ulcorner#1\urcorner}
+
+\newcommand\Sk{\operatorname{Sk}}
+\newcommand\Th{\operatorname{Th}}
+\newcommand\Mod{\operatorname{Mod}}
+\newcommand\Con{\operatorname{Con}}
+\newcommand\SSy{\operatorname{SSy}}
+\newcommand\Def{\operatorname{Def}}
+\ifdefined\Form \else
+  \newcommand\Form{\axiom{Form}}
+\fi
+\newcommand\Lt{\operatorname{Lt}}
+
+\newcommand\Am{\operatorname{Am}}
+
+\newcommand{\impl}{\Rightarrow}
+\renewcommand{\iff}{\Leftrightarrow}
+\renewcommand{\phi}{\varphi}
+
+\DeclareMathOperator{\sgn}{sgn}
+
+\DeclareMathOperator{\possible}{\text{\tikz[scale=.6ex/1cm,baseline=-.6ex,rotate=45,line width=.1ex]{\draw (-1,-1) rectangle (1,1);}}}
+\DeclareMathOperator{\necessary}{\text{\tikz[scale=.6ex/1cm,baseline=-.6ex,line width=.1ex]{\draw (-1,-1) rectangle (1,1);}}}
