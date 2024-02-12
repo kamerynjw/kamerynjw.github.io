@@ -10,7 +10,7 @@ permalink: /teaching/2024/math02/
 Announcements
 -------------
 
-(Nothing yet!)
+* (2/12) The date for Quiz 1 has been pushed back one week to 2/23.
 
 Documents
 ---------
@@ -37,7 +37,7 @@ Topics
 
 Quizzes
 
-* **2/16** Quiz 1
+* **2/23** Quiz 1
 
 * **3/15** Quiz 2
 

@@ -167,7 +167,7 @@ Topics
 
 Quizzes
 
-* **2/16** Quiz 1
+* **2/23** Quiz 1
 
 * **3/15** Quiz 2
 
@@ -182,3 +182,7 @@ Notice of Changes
 ======
 
 This syllabus is subject to change. If this happens, you will be informed of any additions or changes.
+
+Change log:
+
+* (2/12) Changed Quiz 1 date to 2/23.
