@@ -15,7 +15,11 @@ The colloquium meets on Thursdays at 2:40pm, unless otherwise stated.
 
     Title and abstract TBA
 
-* March (TBA)
+* March (date TBA)
+
+    [Lauren Rose](https://faculty.bard.edu/rose/) ([Bard College](https://www.bard.edu/))
+
+    Title and abstract TBA
 
 * April 25th
 
