@@ -2,7 +2,7 @@
 layout: page
 title: The Universal Sigma_1 Finite Sequence
 permalink: /research/talks/2018-dec-cmr/
-excerpt: "This is a talk at the Cantor Meets Robinson conference, Dec 12–15, 2018. Consider a computable theory..."
+excerption: "This is a talk at the Cantor Meets Robinson conference, Dec 12–15, 2018. Consider a computable theory..."
 ---
 
 This is a contributed talk at the [Cantor Meets Robinson](https://cantormeetsrobinson.wordpress.com/) conference, Dec 12–15, 2018.

@@ -2,7 +2,7 @@
 layout: page
 title: "Incompleteness, the universal algorithm, and arithmetic potentialism"
 permalink: /research/talks/2020-sept-tmwyf/
-excerpt: "This is a talk in the Talk Math With Your Friends seminar on 2020 Sept 17..."
+excerption: "This is a talk in the Talk Math With Your Friends seminar on 2020 Sept 17..."
 ---
 
 This is a talk in the [Talk Math With Your Friends seminar](https://sites.google.com/southalabama.edu/tmwyf/home) on 2020 Sept 17.

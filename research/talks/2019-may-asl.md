@@ -2,7 +2,7 @@
 layout: page
 title: "Inner mantles and iterated HOD"
 permalink: /research/talks/2019-may-asl/
-excerpt: "This is a contributed talk at the 2019 ASL Annual North American Meeting on Tuesday, 21 May 2019. It is about joint work with Jonas Reitz. An inner model..."
+excerption: "This is a contributed talk at the 2019 ASL Annual North American Meeting on Tuesday, 21 May 2019. It is about joint work with Jonas Reitz. An inner model..."
 ---
 
 This is a contributed talk at the [2019 ASL Annual North American Meeting](https://asl2019.commons.gc.cuny.edu/) on Tuesday, 21 May 2019. It is about joint work with Jonas Reitz.

@@ -2,7 +2,7 @@
 layout: page
 title: "End-extensions of models of set theory and the Sigma_1 universal finite sequence"
 permalink: /research/talks/2020-july-ufs/
-excerpt: "This is a talk in the virtual CUNY Models of Peano Arithmetic seminar, on 2020 July 29. It is about joint work with Joel David Hamkins..."
+excerption: "This is a talk in the virtual CUNY Models of Peano Arithmetic seminar, on 2020 July 29. It is about joint work with Joel David Hamkins..."
 image: ufs.png
 ---
 

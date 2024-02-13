@@ -1,11 +1,10 @@
 # Site settings
 title: Kameryn J Williams
-email: kameryn.j.w@gmail.com # change this?
+email: kwilliams@simons-rock.edu # change this?
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" 
 url: "http://kamerynjw.net" # ditto prev comment
-twitter_username: kamerynjw
 github_username: kamerynjw
 remote_theme: diezcami/arctic-fox-theme
 

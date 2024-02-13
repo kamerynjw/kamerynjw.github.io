@@ -2,7 +2,7 @@
 layout: page
 title: "Coding sets into inner mantles"
 permalink: /research/talks/2021-june-best/
-excerpt: "This is a talk in the 2021 Boise Extravaganza in Set Theory on 2021 June 19..."
+excerption: "This is a talk in the 2021 Boise Extravaganza in Set Theory on 2021 June 19..."
 ---
 
 This is a talk in the 2021 [Boise Extravaganza in Set Theory](https://www.boisestate.edu/math/best/) on 2021 June 19.

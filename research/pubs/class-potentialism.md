@@ -2,7 +2,7 @@
 layout: page
 title: "Varieties of class-theoretic potentialism"
 permalink: /research/pubs/class-potentialism/
-excerpt: "We explain and explore class-theoretic potentialism—the view that one can always individuate more classes over a set-theoretic universe..."
+excerption: "We explain and explore class-theoretic potentialism—the view that one can always individuate more classes over a set-theoretic universe..."
 ---
 
 [[PDF]({{ page.url }}class-potentialism.pdf)]  [[arXiv](https://arxiv.org/abs/2108.01543)] [[PhilPapers](https://philpapers.org/archive/BARVOC-4)]

@@ -2,7 +2,7 @@
 layout: page
 title: "Inner mantles: good, bad, and ugly"
 permalink: /research/talks/2022-june-barcelona/
-excerpt: "This is a  talk in the Barcelona Set Theory Seminary on 2022 June 15."
+excerption: "This is a  talk in the Barcelona Set Theory Seminary on 2022 June 15."
 ---
 
 This is a  talk in the [Barcelona Set Theory Seminary](http://www.ub.edu/slb/logic_seminars.html) on 2022 June 15.

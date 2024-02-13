@@ -2,7 +2,7 @@
 layout: page
 title: "On axioms for multiverses of set theory"
 permalink: /research/talks/2019-nov-rims/
-excerpt: "This is a contributed talk at the RIMS Set Theory Workshop 2019. It is about joint work with Victoria Gitman, Michał Tomasz Godziszewsky, and Toby Meadows..."
+excerption: "This is a contributed talk at the RIMS Set Theory Workshop 2019. It is about joint work with Victoria Gitman, Michał Tomasz Godziszewsky, and Toby Meadows..."
 ---
 
 This is a contributed talk at the [RIMS Set Theory Workshop 2019](http://www.sic.shibaura-it.ac.jp/~ikegami/RIMS2019.html). It is about joint work with Victoria Gitman, Michał Tomasz Godziszewsky, and Toby Meadows.

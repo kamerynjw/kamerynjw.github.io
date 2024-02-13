@@ -2,7 +2,7 @@
 layout: page
 title: "A nonstandard approach to integer combinatorics"
 permalink: /research/talks/2023-nov-taters/
-excerpt: "This is a talk in the Boise State TATERS research seminar on 2023 November 17..."	
+excerption: "This is a talk in the Boise State TATERS research seminar on 2023 November 17..."	
 ---
 
 This is a talk in the Boise State [Topics in Algebra, Topology, Etc. Research Seminar](https://sites.google.com/boisestate.edu/taters/) on 2023 November 17.

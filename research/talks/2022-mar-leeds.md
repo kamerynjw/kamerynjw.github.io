@@ -2,7 +2,7 @@
 layout: page
 title: "The potentialist multiverses of classes"
 permalink: /research/talks/2022-mar-leeds/
-excerpt: "This is a  talk in the Leeds Models and Sets Seminar on 2022 March 29..."
+excerption: "This is a  talk in the Leeds Models and Sets Seminar on 2022 March 29..."
 ---
 
 This is a  talk in the Leeds [Models and Sets Seminar](https://beaadamday.com/index.php/models-and-sets/) on 2022 March 29.

@@ -2,7 +2,7 @@
 layout: page
 title: "The universal algorithm, the universal finite sequence, and potentialism"
 permalink: /research/talks/2023-feb-shsu/
-excerpt: "This is a talk in the SHSU Math and Stats Colloquium on 2023 February 6..."	
+excerption: "This is a talk in the SHSU Math and Stats Colloquium on 2023 February 6..."	
 ---
 
 This is a talk in the SHSU Mathematics and Statistics Department Colloquium on 2023 February 6.

@@ -2,7 +2,7 @@
 layout: page
 title: "The geology of inner mantles"
 permalink: /research/talks/2020-dec-inner-mantles/
-excerpt: "This is a talk in the Oxford set theory seminar, on 2020 December 2..."
+excerption: "This is a talk in the Oxford set theory seminar, on 2020 December 2..."
 ---
 
 This is a talk in the [Oxford Set Theory Seminar](http://jdh.hamkins.org/oxford-set-theory-seminar/), on 2020 December 2. 

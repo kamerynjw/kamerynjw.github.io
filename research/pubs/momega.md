@@ -3,7 +3,7 @@ layout: page
 title: "The omega-th inner mantle"
 permalink: /research/pubs/momega/	
 image: yggdrasil.jpg
-excerpt: "This article investigates pathological behavior at the first limit stage in the sequence of inner mantles..."
+excerption: "This article investigates pathological behavior at the first limit stage in the sequence of inner mantles..."
 ---
 
 [[PDF]({{ page.url }}momega.pdf)]  [[arXiv](https://arxiv.org/abs/2106.07812)]

@@ -2,7 +2,7 @@
 layout: page
 title: "Potentialism about sets, potentialism about classes"
 permalink: /research/talks/2021-oct-ecw/
-excerpt: "This is a  talk in the Logic Supergroup Early Career Researcher Workshop on 2021 October 14..."
+excerption: "This is a  talk in the Logic Supergroup Early Career Researcher Workshop on 2021 October 14..."
 ---
 
 This is a  talk in the Logic Supergroup [Early Career Researcher Workshop](https://sites.google.com/view/logicsupergroup/ecr-workshop) on 2021 October 14.

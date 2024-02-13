@@ -2,7 +2,7 @@
 layout: page
 title: "Amalgamating generic reals, a surgical approach"
 permalink: /research/talks/2019-jan-surgery/
-excerpt: "This is a talk in the UH Mānoa Mathematical Logic seminar on Thursday, January 24 at 2:00pm. The material in this talk is an adaptation of joint work with Miha Habič, Joel David Hamkins, Lukas Daniel Klausner, and Jonathan Verner, transforming set theoretic results into a computability theoretic context."
+excerption: "This is a talk in the UH Mānoa Mathematical Logic seminar on Thursday, January 24 at 2:00pm. The material in this talk is an adaptation of joint work with Miha Habič, Joel David Hamkins, Lukas Daniel Klausner, and Jonathan Verner, transforming set theoretic results into a computability theoretic context."
 ---
 
 This is a talk in the UH Mānoa Mathematical Logic seminar on Thursday, January 24 at 2:00pm. The material in this talk is an adaptation of [joint work]({{ site.baseurl }}/research/pubs/set-theoretic-blockchains/) with Miha Habič, Joel David Hamkins, Lukas Daniel Klausner, and Jonathan Verner, transforming set theoretic results into a computability theoretic context. See also [the UH Mānoa page](https://math.hawaii.edu/wordpress/event/logic-seminar/?instance_id=25363504) for the talk.

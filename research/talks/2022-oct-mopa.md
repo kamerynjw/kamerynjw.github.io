@@ -2,7 +2,7 @@
 layout: page
 title: "Tightness in second-order arithmetic"
 permalink: /research/talks/2022-oct-mopa/
-excerpt: "This is a talk in the CUNY Models of Peano Arithmetic seminar on 2022 October 18..."	
+excerption: "This is a talk in the CUNY Models of Peano Arithmetic seminar on 2022 October 18..."	
 ---
 
 This is a talk in the CUNY [Models of Peano Arithmetic seminar](https://nylogic.github.io/MOPA.html) on 2022 October 18

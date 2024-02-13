@@ -2,7 +2,7 @@
 layout: page
 title: "The Sigma_1 universal finite sequence"
 permalink: /research/talks/2019-july-estc/
-excerpt: "This is a contributed talk at the seventh biannual European Set Theory Confence on Thursday, 4 July 2019. It is about joint work with Joel David Hamkins and Philip Welch. Consider a computably enumerable theory ZF^+ extending ZF..."
+excerption: "This is a contributed talk at the seventh biannual European Set Theory Confence on Thursday, 4 July 2019. It is about joint work with Joel David Hamkins and Philip Welch. Consider a computably enumerable theory ZF^+ extending ZF..."
 ---
 
 This is a contributed talk at the [seventh biannual European Set Theory Confence](https://sites.google.com/view/estc2019/estc-2019) on Thursday, 4 July 2019. It is about joint work with Joel David Hamkins and Philip Welch. 

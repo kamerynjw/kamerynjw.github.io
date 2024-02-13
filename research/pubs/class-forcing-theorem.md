@@ -2,7 +2,7 @@
 layout: page
 title: The Exact Strength of the Class Forcing Theorem
 permalink: /research/pubs/class-forcing-theorem/
-excerpt: "We shall characterize the exact strength of the class forcing theorem..."
+excerption: "We shall characterize the exact strength of the class forcing theorem..."
 ---
 
 Joint with Victoria Gitman, Joel David Hamkins, Peter Holy, and Philipp Schlicht.

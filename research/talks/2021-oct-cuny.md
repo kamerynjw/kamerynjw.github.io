@@ -2,7 +2,7 @@
 layout: page
 title: "Potentialism about classes"
 permalink: /research/talks/2021-oct-cuny/
-excerpt: "This is a  talk in the CUNY Set Theory Seminar on 2021 October 29..."
+excerption: "This is a  talk in the CUNY Set Theory Seminar on 2021 October 29..."
 ---
 
 This is a  talk in the CUNY [Set Theory Seminar](https://nylogic.github.io/set-theory-seminar.html) on 2021 October 29.

@@ -2,7 +2,7 @@
 layout: page
 title: "The geology of inner mantles"
 permalink: /research/talks/2020-may-inner-mantles/
-excerpt: "This is a talk in the virtual CUNY set theory seminar, on 2020 May 29..."
+excerption: "This is a talk in the virtual CUNY set theory seminar, on 2020 May 29..."
 image: triangle-coding.png
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Varieties of class theoretic potentialism"
 permalink: /research/talks/2020-dec-class-potentialism/
-excerpt: "This is a talk in the Oxford set theory seminar, on 2020 December 2..."
+excerption: "This is a talk in the Oxford set theory seminar, on 2020 December 2..."
 ---
 
 This is a talk in the University of Konstanz Philosophy of Mathematics Seminar, on 2020 December 18. 

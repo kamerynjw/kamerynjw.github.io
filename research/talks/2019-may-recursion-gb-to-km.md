@@ -2,7 +2,7 @@
 layout: page
 title: "Transfinite Recursion from Gödel–Bernays to Kelley–Morse"
 permalink: /research/talks/2019-may-recursion-gb-to-km/
-excerpt: "This is a talk in the CUNY Set Theory Seminar on Friday, May 10 at 10:00am. Gödel–Bernays set theory GB and Kelley–Morse set theory KM are two formal theories for second-order set theory, allowing both sets and proper classes as objects. GB is..."
+excerption: "This is a talk in the CUNY Set Theory Seminar on Friday, May 10 at 10:00am. Gödel–Bernays set theory GB and Kelley–Morse set theory KM are two formal theories for second-order set theory, allowing both sets and proper classes as objects. GB is..."
 ---
 
 This is a talk in the [CUNY Set Theory Seminar](https://nylogic.github.io/set-theory-seminar.html) on Friday, May 10 at 10:00am.

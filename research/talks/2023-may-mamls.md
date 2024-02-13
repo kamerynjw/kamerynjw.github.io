@@ -2,7 +2,7 @@
 layout: page
 title: "Nonstandard methods versus Nash-Williams"
 permalink: /research/talks/2023-may-mamls/
-excerpt: "This is a talk at the MAMLS Spring Fling 2023 conference..."	
+excerption: "This is a talk at the MAMLS Spring Fling 2023 conference..."	
 ---
 
 This is a talk at the [MAMLS Spring Fling 2023 conference](https://sites.math.rutgers.edu/~fc327/MAMLS2023/index.html) on 23 May 2023.

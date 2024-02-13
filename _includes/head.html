@@ -6,7 +6,7 @@
 <!-- Social media metadata -->
   <meta name="author" content="Kameryn J Williams">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerption %}{{ page.excerption | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="en_US">
@@ -17,14 +17,14 @@
   <meta name="twitter:creator" content="@kamerynjw">
   <meta name="twitter:site" content="@kamerynjw">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerption %}{{ page.excerption | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 {% if page.image %}
   <meta property="og:image" content="{{site.url}}{{page.url}}{{page.image}}" />
   <meta name="twitter:image" content="{{site.url}}{{page.url}}{{page.image}}" />
 {% endif %}
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerption %}{{ page.excerption | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

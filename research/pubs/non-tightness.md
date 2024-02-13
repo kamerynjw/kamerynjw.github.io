@@ -2,7 +2,7 @@
 layout: page
 title: "Non-tightness in class theory and second-order arithmetic"
 permalink: /research/pubs/non-tightness/	
-excerpt: "A theory T is tight if..."
+excerption: "A theory T is tight if..."
 ---
 
 [[PDF]({{ page.url }}non-tightness.pdf)]  [[arXiv](https://arxiv.org/abs/2212.04445)]

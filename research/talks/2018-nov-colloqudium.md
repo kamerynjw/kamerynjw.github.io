@@ -2,7 +2,7 @@
 layout: page
 title: "The Universal Algorithm, the Universal Sigma_1 Finite Sequence, and Set-theoretic Potentialism"
 permalink: /research/talks/2018-nov-colloquium/
-excerpt: "This is a talk at the at the University of Hawaiʻi at Mānoa mathematics department colloquium on 2018 November 16. As shown by Woodin, there is an algorithm which will computably enumerate any finite list you want, so long as you run it in the correct universe. More precisely..."
+excerption: "This is a talk at the at the University of Hawaiʻi at Mānoa mathematics department colloquium on 2018 November 16. As shown by Woodin, there is an algorithm which will computably enumerate any finite list you want, so long as you run it in the correct universe. More precisely..."
 ---
 
 This is a talk at the at the University of Hawaiʻi at Mānoa mathematics department colloquium on 2018 November 16.

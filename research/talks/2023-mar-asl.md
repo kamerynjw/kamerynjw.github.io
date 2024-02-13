@@ -2,7 +2,7 @@
 layout: page
 title: "Non-tightness in class theory"
 permalink: /research/talks/2023-mar-asl/
-excerpt: "This is a talk as the [2023 North American Annual Meeting for the Association for Symbolic Logic..."	
+excerption: "This is a talk as the [2023 North American Annual Meeting for the Association for Symbolic Logic..."	
 ---
 
 This is a talk as the [2023 North American Annual Meeting for the Association for Symbolic Logic](https://sites.uci.edu/asl2023/).
