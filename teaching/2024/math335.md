@@ -6,6 +6,7 @@ permalink: /teaching/2024/math335/
 
 * See [here]({{ page.url }}syllabus) for the syllabus.
 
+* See [here]({{ page.url }}projects) for more info about the projects, including some suggested topics.
 
 Announcements
 -------------

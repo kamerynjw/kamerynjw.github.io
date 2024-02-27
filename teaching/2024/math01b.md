@@ -10,6 +10,8 @@ permalink: /teaching/2024/math01b/
 Announcements
 -------------
 
+* (2/27) [Here]({{ page.url }}q1-answers.pdf) is the answer key for quiz 1.
+
 * (2/16) [Here]({{ page.url }}pq1.pdf) is the practice for quiz 1, and [here]({{ page.url }}pq1-answers.pdf) is the answer key.
 
 
