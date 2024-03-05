@@ -19,6 +19,8 @@ Announcements
 Documents
 ---------
 
+* [3/6 worksheet]({{ page.url }}ws3-6.pdf)
+
 * [1/30 worksheet]({{ page.url }}ws1-30.pdf)
 
 
