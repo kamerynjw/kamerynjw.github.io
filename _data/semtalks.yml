@@ -1,11 +1,15 @@
 
 # seminar talks to display in talks.md
 
+- href: "2024-mar-cuny"
+  title: "Mediate cardinals"
+  other: "CUNY Logic Workshop"
+  date: "Mar 2024"
+
 - href: "2023-nov-taters"
   title: "A nonstandard approach to integer combinatorics"
   other: "Boise State TATERS"
   date: "Nov 2023"
-
 
 - href: "2023-oct-ols"
   title: "Interpretations and bi-interpretations in second-order arithmetic"
