@@ -29,7 +29,7 @@ Lecture Notes
 
 * [Chapter 2: Cardinals]({{ page.url }}ch2.pdf) ([source]({{ page.url }}ch2.tex))
 
-* [Chapter 3: The cumulative hierarchy and axioms]({{ page.url }}ch3.pdf) ([source]({{ page.url }}ch3.tex))
+* [Chapter 3: The cumulative hierarchy and axioms]
 
 * [Chapter 4: Trees]
 
@@ -44,7 +44,7 @@ Problem Sets
 
 * [Chapter 2: Cardinals]({{ page.url }}pr2.pdf) ([source]({{ page.url }}pr2.tex))
 
-* [Chapter 3: The cumulative hierarchy and axioms]({{ page.url }}pr3.pdf) ([source]({{ page.url }}pr3.tex))
+* [Chapter 3: The cumulative hierarchy and axioms]
 
 * [Chapter 4: Trees]
 
