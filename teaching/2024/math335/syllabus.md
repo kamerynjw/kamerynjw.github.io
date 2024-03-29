@@ -78,9 +78,9 @@ Here's the overview of how each category is graded. Details about the project an
 	
 * **Portfolio**
 
-    * *High Pass.* Submit all partial portfolios, and submit a final portfolio with 40 good quality problems, with at least 6 from each chapter. 
+    * *High Pass.* Submit all partial portfolios, and submit a final portfolio with 30 good quality problems, with at least 5 from each of chapter 0 through 4.
 	
-    * *Pass.* Don't meet the requirements for a high pass, miss at most one partial portfolio submission, and submit a final portfolio with 30 good quality problems, with at least 4 from each chapter. 
+    * *Pass.* Don't meet the requirements for a high pass, miss at most one partial portfolio submission, and submit a final portfolio with 24 good quality problems, with at least 4 from each of chapter 0 through 4.
 	
     * *Fail.* Don't meet the requirements for a pass.
 
@@ -255,3 +255,5 @@ Notice of Changes
 ======
 
 This syllabus is subject to change. If this happens, you will be informed of any additions or changes.
+
+* (3/29) Updated portfolio grading requirements.
