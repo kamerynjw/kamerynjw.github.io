@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2024-apr-cuny"
+  title: "Mediate cardinals"
+  other: "CUNY Set Theory Seminar"
+  date: "Apr 2024"
+
 - href: "2024-mar-cuny"
   title: "Mediate cardinals"
   other: "CUNY Logic Workshop"
