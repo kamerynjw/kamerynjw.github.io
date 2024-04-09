@@ -1,0 +1,118 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Chapter 4 Problem Set},
+    hidelinks 
+]{hyperref}
+
+
+\input{../../macros.tex}
+
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+
+
+\title{Math 355 problem set \\ Chapter 4: Trees}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{problem}
+Let $R$ be a relation on a set $X$ so that for $x \in X$ there is $y \in X$ so that $x \mathbin R y$. Prove that there is a branch through $R$, where a \emph{branch} is a sequence $\seq{x_n : n < \omega}$ so that $x_n \mathbin R x_{n+1}$ for every $n$.
+\end{problem}
+
+A subset $D$ of a tree $T$ is called \emph{dense} if for every $s \in T$ there is $t \sqsupseteq s$ so that $t \in D$. If $\Dcal$ is a collection of dense subsets of $T$ then a branch $b$ through $T$ is \emph{$\Dcal$-generic} if for every $D \in \Dcal$ there is $\alpha$ $<$ the height of $T$ so that $b \rest \alpha \in D$.
+
+\begin{problem}
+Prove that if $T = 2^{<\omega}$ and $\Dcal$ is the collection of all dense subsets of $T$ then there are no $\Dcal$-generic branches.
+\end{problem}
+
+\begin{problem}
+Prove that if $T = 2^{<\omega}$ and $\Dcal$ is any countable collection of dense subsets of $T$ then there exists a $\Dcal$-generic branch.
+\end{problem}
+
+\begin{problem}
+Let $\kappa$ be a regular cardinal.
+Prove that if $T = 2^{<\kappa}$ and $\Dcal$ is any collection of dense subsets of $T$ so that $\card \Dcal < \kappa$ then there exists a $\Dcal$-generic branch.
+\end{problem}
+
+Let $T$ be a tree. An \emph{antichain} in $T$ is a set $A \subseteq T$ so that if $s \ne t \in A$ then $s$ and $t$ are incomparable: $s \not \sqsubseteq t$ and $t \not \sqsubseteq s$. 
+
+\begin{problem}
+Prove that if $T = 2^{<\omega}$ then any antichain in $T$ is countable.
+\end{problem}
+
+An antichain $A$ in $T$ is \emph{maximal} if $A \cup \{s\}$ is not an antichain for any $s \in T \setminus A$.
+
+\begin{problem}
+Let $A$ be an antichain in $T$. Prove that $A$ is maximal iff $D_A = \{ s \in T : s \sqsupseteq a$ for some $a \in A\}$ is dense.
+\end{problem}
+
+The next few problems concerns two closely related results in Ramsey theory. For a set $X$, let $[X]^2$ denote the set of subsets of $X$ with precisely $2$ elements. A \emph{coloring} of $[X]^2$ is a map which assigns each pair a color. And $H \subseteq X$ is \emph{monochromatic} for a coloring $\chi$ if $\chi(\{x,y\})$ is the same for all $\{x,y\} \in [H]^2$.
+
+\begin{theorem*}[Finite Ramsey's Theorem]
+Fix natural numbers $r$ and $n$. Then there is a natural number $N$ so that for any coloring of $[N]^2$ into $r$ colors there is monochromatic $H \subseteq X$ so that $\card H = n$.
+\end{theorem*}
+
+The smallest $N$ for which this works is called the \emph{Ramsey number} for $n$ with $r$ colors.
+
+\begin{theorem*}[Infinite Ramsey's Theorem]
+Fix a natural number $r$. Then for any coloring of $[\omega]^2$ into $r$ colors there is an infinite monochromatic $H \subseteq \omega$
+\end{theorem*}
+
+\begin{problem}
+Use K\H{o}nig's lemma to prove the infinite Ramsey's theorem assuming the finite Ramsey's theorem.
+\end{problem}
+
+
+\begin{problem}
+Prove that the Ramsey number for $3$ with $2$ colors is $6$. [Hint 1: there are two things to prove. (1) There is a coloring of $[5]^2$ into $2$ colors with no monochromatic triple. (2) Any coloring of $[6]^2$ into $2$ colors admits a monochromatic triple.] [Hint 2: You may find it clearest to draw $[n]^2$ as the complete graph on $n$ vertices, and then the coloring colors the edges of the graph.]
+\end{problem}
+
+The next two problems relate K\H{o}nig's lemma to computability theory. These are appropriate to attempt if you took computability theory last semester. When we say that a tree $T$ is \emph{computable} we mean that the order relation $\sqsubseteq_T$ is computable. (Use your favorite model of computation, e.g. Turing machines.) And similarly for computable from an oracle.
+
+\begin{problem}
+Prove that there is a computable binary tree $T$ so that $T$ has no computable branch. [Hint: If you have a tree of partial attempts to build the halting set, it can't have a computable branch as that would mean that the halting set is computable. Can you do this in such a way that $T$ is computable?]
+\end{problem}
+
+\begin{problem}
+Prove that if $T$ is a computable binary tree then $T$ has a branch which is computable using the halting set $0'$ as an oracle.
+\end{problem}
+
+The next problem concerns some ideas from logic. Consider a set $T$ of logical formulae in a fixed formal language.\footnote{For example, the formal language of set theory has the single non-logical symbol $\in$.} 
+If $\phi$ is a sentence in the same language we say that \emph{$T$ proves $\phi$} if there is a proof of $\phi$ using $T$ as axioms.\footnote{To make this a complete definition you need to formally define what a proof is. Let me leave that unstated, as the intuitive notion suffices.}
+And $T$ is called \emph{consistent} if $T$ doesn't prove a contradiction $\phi \land \neg \phi$. A completion of $T$ is consistent $S \supseteq T$ so that for any $\phi$ in the language of $T$ we have that either $S$ proves $\phi$ or $S$ proves $\neg \phi$.
+
+\begin{problem}
+Use K\H{o}nig's lemma to prove that any consistent set $T$ of logical formulae in a countable language has a completion. [Hint: Build a tree of partial attempts to form a completion of $T$.]
+\end{problem}
+
+\end{document}
+

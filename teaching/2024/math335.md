@@ -31,7 +31,7 @@ Lecture Notes
 
 * [Chapter 3: The cumulative hierarchy and axioms]({{ page.url }}ch3.pdf) ([source]({{ page.url }}ch3.tex))
 
-* [Chapter 4: Trees]
+* [Chapter 4: Trees]({{ page.url }}ch4.pdf) ([source]({{ page.url }}ch4.tex))
 
 * [Chapter $\omega$: *Topics*]
 
@@ -46,7 +46,7 @@ Problem Sets
 
 * [Chapter 3: The cumulative hierarchy and axioms]({{ page.url }}pr3.pdf) ([source]({{ page.url }}pr3.tex))
 
-* [Chapter 4: Trees]
+* [Chapter 4: Trees]({{ page.url }}pr4.pdf) ([source]({{ page.url }}pr4.tex))
 
 * [Chapter $\omega$: *Topics*]
 

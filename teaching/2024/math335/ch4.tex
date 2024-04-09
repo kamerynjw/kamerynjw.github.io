@@ -1,0 +1,569 @@
+\documentclass[10pt]{amsart}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[multiple]{footmisc}
+\usepackage{multicol}
+%\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{mathdots}
+
+%let's have nice pdf metadata :)
+\usepackage[pdfauthor={Kameryn J Williams},
+    pdftitle={Math335 Lecture Notes: Chapter 4},
+    hidelinks 
+]{hyperref}
+
+\input{../../macros.tex}
+
+\newcommand\TP{\axiom{TP}}
+
+%\theoremstyle{theorem}
+\ifdefined\project \else \newtheorem{project}[theorem]{Project Idea} \fi
+\ifdefined\theoremschema \else \newtheorem{theoremschema}[theorem]{Theorem Schema} \fi
+
+
+
+\title{Math 355 lecture notes \\ Chapter 4: Trees}
+
+\author{Kameryn J. Williams}
+\address[Kameryn J. Williams]{
+Bard College at Simon's Rock \\
+84 Alford Rd \\
+Great Barrington, MA 01230}
+\email{kwilliams@simons-rock.edu}
+\urladdr{http://kamerynjw.net}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{A first look at trees}
+
+In this chapter we are introduced to a species of object of interest in contemporary set theory: the tree.
+
+Ordinals provide a yardstick by which to measure the lengths of transfinite iterative constructions. (More precisely, we've seen that the well-foundedness property of ordinals legitimizes the use of transfinite recursion.) But they are only for linear constructions---where each step has precisely one next step. We also want to talk about non-linear structures, able to have many branching paths.
+
+At a useful level of generality is the notion of a partially ordered set. We saw this back in Chapter 0, and I repeat the definition now.
+
+\begin{definition}
+A \emph{partially ordered set} (\emph{poset}) is a set equipped with a partial order. Namely, a poset is $(P,\le)$ so that $\le$ is a binary relation on $P$ satisfying.
+\begin{itemize}
+\item (Reflexivity) $p \le p$ for all $p \in P$;
+\item (Antisymmetry) If $p \le q$ and $q \le p$ then $p = q$; and
+\item (Transitivity) If $p \le q \le r$ then $p \le r$.
+\end{itemize}
+\end{definition}
+
+\begin{example}
+Let $X$ be any set. Then $(\powerset(X), \subseteq)$ is a partially ordered set.
+\end{example}
+
+Note that this example (unless $\card X \le 1$) gives a poset with diamonds: If $a \ne b \in X$ then we have $\emptyset \subseteq \{a\}, \{b\} \subseteq \{a,b\}$ but $\{a\}$ and $\{b\}$ are incomparable---neither is a subset of the other. 
+
+\begin{definition}
+Let $(P,\le)$ be a poset and consider $p,q \in P$.
+\begin{itemize}
+\item $p$ and $q$ are \emph{comparable} if either $p \le q$ or $q \le p$;
+\item $p$ and $q$ are \emph{incomparable} if they are not comparable, i.e. if $p \not \le q$ and $q \not \le p$.
+\end{itemize}
+\end{definition}
+
+
+\begin{observation}
+A partial order is a linear order if and only if any two elements are comparable. \qed
+\end{observation}
+
+A particularly useful class of partially ordered sets don't have diamonds. These are the topic of this chapter.
+
+\begin{definition}
+An \emph{tree} is a poset $(T,\sqsubseteq)$ so that for each $t \in T$ the set $\{s \in T: s \sqsubseteq t\}$ is well-ordered by $\sqsubseteq$. It's common to refer to elements of a tree as \emph{nodes}.
+\end{definition}
+
+\begin{observation}
+There are no diamonds in a tree $(T,\sqsubseteq)$: if $a \sqsubseteq b_0,b_1 \sqsubseteq c$ then $b_0$ and $b_1$ are comparable.
+\end{observation}
+
+\begin{proof}
+By the tree property the set $\{t \in T : t \sqsubseteq c\}$ is well-ordered. So $b_0$ and $b_1$ are comparable.
+\end{proof}
+
+Note that we only needed $\{ s \in T : s \sqsubseteq t\}$ to be linearly ordered for this to work out. The reason to further require it to be well-founded is that the trees which see use in set theory have this property.
+
+\begin{example}
+Let $2^{<\omega}$ be the set consisting of finite binary strings. More formally, elements of $2^{<\omega}$ are functions $n \to 2$ for $n < \omega$. Order $2^{<\omega}$ by extension: $s \sqsubseteq t$ if $\dom s \subseteq \dom t$ and $t \rest \dom s = s$. Then $2^{<\omega}$ is a tree.
+\end{example}
+
+\begin{example}
+Any well-order is a tree.
+\end{example}
+
+
+If you've done some graph theory, you might have seen the notion of a tree in that context (a tree being a connected graph without cycles). While they are related, the two notions aren't quite the same. Our notion is an order-theoretic one, where there is an ordering on the nodes. Whereas in graph theory there isn't a built-in order. That said, there are connections between the two notions, and some theorems can be ported from one context to the other.
+
+\begin{example}
+If $S$ and $T$ are trees then you can form a tree from their disjoint union by saying that any $s \in S$ and $t \in T$ are incomparable.
+\end{example}
+
+It's convenient to exclude examples like this.
+
+\begin{definition}
+A \emph{root} of a tree $(T,\sqsubseteq)$ is a node $r \in T$ so that there is no $t \sqsubset r$ in $T$. If $T$ has at most one root call it \emph{rooted}.
+\end{definition}
+
+\begin{observation}
+Any tree can be partitioned into disjoint rooted trees.
+\end{observation}
+
+\begin{proof}[Proof sketch]
+Let $(T,\sqsubseteq)$ be a tree. Define an equivalence relation $\sim$ on $T$ as: $s \sim t$ iff there is $r$ so that $r \sqsubseteq s, t$. Observe that $\sim$-equivalence classes are rooted trees.
+\end{proof}
+
+Consequently, if you want to understand trees it's usually sufficient to focus on rooted trees. You can then push theorems forward to multi-rooted trees appropriately.
+\smallskip
+
+Trees can be split into levels.
+
+\begin{definition}
+Let $(T,\sqsubseteq)$ be a tree and $\alpha$ be an ordinal. Then the \emph{$\alpha$-th level} of $T$, written $T_\alpha$, is the collection of all $s \in T$ so that $\{ t \in T : t \sqsubset s \}$ has ordertype $\alpha$.
+\end{definition}
+
+\begin{definition}
+The \emph{height} of a tree is the least $\alpha$ so that $T_\alpha$ is empty. 
+\end{definition}
+
+\begin{proposition}
+For any tree $(T,\sqsubseteq)$, we have
+\[
+T = \bigcup_{\alpha < \gamma} T_\alpha,
+\]
+where $\gamma$ is the height of $T$. Moreover, the levels are disjoint.
+\end{proposition}
+
+\begin{proof}
+The moreover is immediate. For the rest, all we need to see is that if $\alpha > \gamma$ then $T_\alpha$ is empty. To that end, suppose otherwise that $s \in T_\alpha$. Enumerate $\{ t \in T : t \sqsubset s \}$, in $\sqsubseteq$-increasing order, as $\seq{t_i : i < \alpha}$. Note that $\{ t_i : i < \beta \}$ is the set of predecessors of $t_\beta$. So we get that $t_\gamma$ is on level $\gamma$, which supposed to be empty. Contradiction.
+\end{proof}
+
+With well-orders, each element has exactly one successors. With trees elements can have many successors.
+\begin{definition}
+Let $T$ be a tree and $t \in T$. A \emph{successor} of $t$ is a node $s \in T$ so that $t \sqsubseteq s$ and there is no node in-between. A node is a \emph{leaf node} if it has no successors.
+\end{definition}
+
+\begin{observation}
+If the height of $T$ is a successor ordinal $\alpha+1$, then every node $t \in T_\alpha$ is a leaf node. \qed
+\end{observation}
+
+%% what else?
+
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Draw a finite tree and label its levels.
+\end{enumerate}
+
+\newpage
+
+\section{Trees of height $\le \omega$}
+
+We will start with these trees as they are both the most straightforward to understand and the ones that see the most use outside set theory.
+
+\begin{observation}
+Let $(T,\sqsubseteq)$ be a tree. Then the height of $T$ is $\le \omega$ if and only if there is no limit $\gamma$ with $T_\gamma$ nonempty. \qed
+\end{observation}
+
+These trees are simpler to understand because they don't have limit levels to handle. Compare to how you can do induction  on $\Nbb = \omega$ with only the zero and successor cases, while general induction on an ordinal also needs the limit case.
+
+
+A (rooted) tree of height $\le \omega$ starts at a root, and then grows upward by nodes having successors. Maybe a node will be a leaf and the tree will stop growing along that path. Or it could be that the tree has no leafs, and the paths grow upward forever.
+
+\begin{definition}
+Let $X$ be a set. Then $X^{<\omega}$ is the collection of all finite sequences from $X$. More precisely,
+\[
+X^{<\omega} = \{ f : n \to X \mid n < \omega \}.
+\]
+Always, $X^{<\omega}$ is a tree of height $\omega$ under the \emph{subsequence} relation: $s \sqsubseteq t$ if $\dom s \subseteq \dom t$ and $t \rest \dom s = s$.
+\end{definition}
+
+\begin{definition}
+Let $X$ be a set. A \emph{tree on $X$} is a tree $(T,\sqsubseteq)$ so that $T$ is a subset of $X^{<\omega}$ which is closed under subsequence and $\sqsubseteq_T$ is the subsequence relation. That is, if $s \sqsubseteq t \in T$ then $s \in T$.
+\end{definition}
+
+Later we will also look at trees of height $>\omega$, and so we will expand this definition. But for now let's only look at things of height $\le \omega$. (We could have called this something like ``a tree on $X$ of height $\le \omega$'', but that's awful.)
+
+Observe that if $T$ is a tree on $X$ then $T$ is rooted, and its root is the empty function $0 \to X$.
+
+Indeed, it turns out that any rooted tree is isomorphic to a tree of sequences.
+
+\begin{lemma}
+Suppose $(T,\sqsubseteq)$ is a rooted tree of height $\le \omega$. Then $T$ is isomorphic to a tree on some set $X$.
+\end{lemma}
+
+To be clear, isomorphism for trees is the usual definition of isomorphism for (partial) orders: $S$ and $T$ are isomorphic if there is a bijection $f : S \to T$ so that $s_0 \sqsubseteq_S s_1$ iff $f(s_0) \sqsubseteq_T f(s_1)$. 
+
+\begin{proof}
+Morally, the isomorphism sends each element of $T$ to the sequence of elements below it. But we have to do a little tweak to properly handle the root.
+
+Let $r$ be the root of $T$ and set $X = T \setminus \{ r \}$. Let's see that $T$ is isomorphic to a tree on $X$. Given a non-root node $t$ in $T$ we associate the finite sequence $\seq{t_1, t_2, \ldots, t_n}$ so that $t_1 \sqsubset t_2 \sqsubset \cdots \sqsubset t_n = t$ enumerates the elements of $T$ below $t$ in $\sqsubseteq$-increasing order. Then, the map $f : T \to X^{<\omega}$ defined as $f(r) = \emptyset$ and $f(t) = \seq{t_1, t_2, \ldots, t_n}$ for non-root $t$ is an embedding of trees. So $T$ is isomorphic to the range of $f$.
+\end{proof}
+
+The lesson of this lemma is that it's enough to look at trees of sequences, rather than just any abstract tree.
+
+When looking at trees of height $\omega$, one feature we want to know about is when there is a branch through the tree---a sequence that gets all the way to the top.
+
+\begin{definition}
+Let $T$ be a tree of height $\omega$. A \emph{(cofinal) branch} through $T$ is a sequence $b = \seq{t_n : n \in \omega}$ so that $t_0$ is a root and $t_{n+1}$ is a successor of $t_n$ for every $n$.
+\end{definition}
+
+\begin{observation}
+A branch could be equivalently defined as: $b = \seq{t_n : n \in \omega}$ is a branch of $T$ if $t_n \sqsubseteq t_{n+1}$ and $t_n \in T_n$ for every $n$.
+\end{observation}
+
+\begin{observation}
+If $\seq{t_n : n < \omega}$ is a branch through $T$ then no $t_n$ from the branch is a leaf.
+\end{observation}
+
+The meaning of a branch is especially clear when looking at trees of sequences:
+
+\begin{proposition}
+Let $T \subseteq X^{<\omega}$ be a tree on $X$. Then any branch through $T$ is given by an infinite sequence $b \in X^\omega$ so that $b \rest n \in T$ for every $n < \omega$.
+\end{proposition}
+
+\begin{proof}
+By the original definition, a branch would be a sequence $\seq{s_n : n < \omega}$ of sequences $s_n$ each of length $n$. Then $b = \bigcup_n s_n \in X^\omega$ gives the infinite sequence. 
+
+In the other direction, if $b \in X^\omega$ and $b \rest n \in T$ for every $n$, then setting $s_n = b \rest n$ we get that $\seq{s_n : n < \omega}$ is a branch.
+\end{proof}
+
+We will slightly abuse notation and just refer to this $b \in X^{\omega}$ as a branch. After all, it's inter-definable from a branch as in the original definition. 
+
+\begin{example}
+Any infinite sequence $b \in X^{\omega}$ is a branch through $X^{<\omega}$.
+\end{example}
+
+\begin{example}\label{ex:no-branch}
+Consider the tree $T$ on $\omega$ defined to be the closure under subsequence of the set containing the nodes
+\[
+\ell_n = \seq{n,\underbrace{0,0,\cdots,0}_{n \text{ many}}}.
+\]
+Then $T$ has height $\omega$---because $\ell_n$ is on level $n$---but $T$ does not have any branches.
+\end{example}
+
+These examples illustrate that for an infinitely-branching tree it may or may not have branches. We can say more if we look at finitely-branching trees.
+
+\begin{definition}
+A tree $T$ is \emph{finitely-branching} if each node in $T$ has finitely many successors. Otherwise it is \emph{infinitely-branching}.
+\end{definition}
+
+To avoid a possible misunderstanding: infinitely-branching doesn't mean that \emph{every} node has infinitely many successors, just that some nodes do.
+
+\begin{theorem}[K\H{o}nig's lemma]
+Let $T$ be a finitely branching, rooted tree with infinitely many nodes. Then $T$ has a branch. 
+\end{theorem}
+
+\begin{proof}
+Because $T$ is finitely branching and rooted $T$ is isomorphic to a subtree of $\omega^{<\omega}$. For convenience we will assume $T$ is a tree on $\omega$.
+
+We build a branch $b = \seq{ k_n : n < \omega}$ on $T$ by recursion. We will build $b$ by constructing its finite approximations $s_n = b \rest n$. For the zero case we have $s_0 = \emptyset$. For the successor case, we have already built $s_n = \{ k_0, \ldots, k_{n-1}\}$ so that there are infinitely many nodes above $k_{n-1}$. Look at the successors of $s_n$ in $T$. For each successor $u$ let $T \rest u = \{ t \in T : u \sqsubseteq t \}$. By inductive hypothesis $T \rest s_n$ is infinite. Because $T \rest s_n = \{ s_n \} \cup \bigcup_u T \rest u$, by the pigeonhole principle we have that at least one $T \rest u$ is infinite. Pick, say, the leftmost $u$ so that $T \rest u$ is infinite. (Meaning that the last number in $u$, the one being added onto the end of $s_n$, is as small as possible.) Then set $s_{n+1} = u$.
+
+We can always continue the construction, so by the recursion theorem we get a branch.
+\end{proof}
+
+\subsection{An application of trees}
+
+We've been doing a lot of abstract talk, so let's see an example to get a feel for why this is useful. 
+
+The following theorem is famous for its only known proof being a computer aided proof.
+
+\begin{definition}
+A \emph{graph} is a collection of \emph{vertices} connected by \emph{edges}. A graph is \emph{planar} if it can be drawn without edges crossing.
+\end{definition}
+
+\begin{definition}
+A \emph{coloring} of a graph is an assignment of colors to vertices so that vertices joined by an edge don't have the same color.
+\end{definition}
+
+\begin{theorem}[Four color theorem]
+Any planar graph can be colored with at most four colors.
+\end{theorem}
+
+We won't prove this, since the proof amounts to doing a proof by cases with thousands of cases. But we can prove that the four color theorem for finite graphs implies the four color theorem for countably infinite graphs.
+
+\begin{theorem}
+If the four color theorem holds for finite planar graphs, then it holds for countable planar graphs.
+\end{theorem}
+
+\begin{proof}
+Consider a countably infinite planar graph $G$. We will define a tree $T$ of partial colorings of $G$. Namely enumerate the nodes of $G$ as $\seq{n_k : k < \omega}$, a node in $T$ is a coloring in at most $4$ colors of the nodes $n_0, \ldots, n_k$ so that adjacent nodes in get different colors. The order for the tree is defined as $s \sqsubseteq t$ if $s$ colors a subgraph of what $t$ colors and $t$ assigns the same colors as $s$ on that subgraph.
+
+Note that this tree is finitely branching. The reason is, if $s \in T_k$ then the successors of $s$ are the colorings which extend $s$ by coloring the $k$-th node $n_k$. But there's only four colors to assign to the new node, so $s$ has at most four successors. By the four color theorem for finite planar graphs, we know that each $T_k$ is nonempty---there's someway to color the graph of $k$ many nodes. In particular, $T$ is infinite. So by K\H{o}nig's theorem there's a branch $b$ through the tree.
+
+Finally, observe that the branch $b$ gives a coloring of all of $G$. Namely, the color $b$ gives to a node $n_k$ is the color any sufficiently large partial piece of $b$ assigns to $n_k$.
+\end{proof}
+
+This is a typical use of K\H{o}nig's lemma. It allows us to stitch together partial solutions on finite domains to a total solution on the entire infinite domain. 
+
+A similar application is in Ramsey theory. If you have the finite version of Ramsey's theorem you can prove the infinite version using K\H{o}nig's lemma. This is one of the problems for this chapter. 
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item How many branches does $2^{<\omega}$ have? What about $\omega^{<\omega}$? $1^{<\omega}$?
+\item Construct a tree of height $\omega$ with precisely $\aleph_0$ many branches.
+\item Explain why the recursive construction to prove K\H{o}nig's lemma doesn't work for the tree in Example~\ref{ex:no-branch}.
+\end{enumerate}
+
+\newpage
+
+\section{Trees of height $>\omega$}
+
+Having looked at trees of height $\le \omega$, let's now look upward to the transfinite. 
+
+To start, let's get examples of trees of any ordinal height.
+
+\begin{definition}
+Let $X$ be a set and $\alpha$ be an ordinal. Then, $X^{<\alpha}$ is the set of all sequences of elements of $X$ of length $<\alpha$. More formally,
+\[
+X^{<\alpha} = \{ f : \beta \to X \mid \beta < \alpha \}.
+\]
+\end{definition}
+
+\begin{example}
+$X^{<\alpha}$, ordered by the subsequence relation, is a tree of height $\alpha$. The $\beta$-th level of the tree consists of the sequences of length $\beta$.
+\end{example}
+
+%% branches
+\begin{definition}
+Let $T$ be a tree of height $\alpha$. A \emph{branch} through $T$ is a sequence $b = \seq{t_\beta : \beta \in \alpha}$ so that $t_\beta \sqsubseteq t_{\beta+1}$ and $t_\beta \in T_\beta$ for every $\beta < \alpha$.
+\end{definition}
+
+If $T = X^{<\alpha}$ and $\alpha$ is limit then any function $b : \alpha \to X$ is a branch through $T$.
+
+\begin{definition}
+Let $X$ be a set. A \emph{tree on $X$} is a tree $(T,\sqsubseteq)$ so that $T$ is a subset of $X^{<\alpha}$, for some $\alpha$, which is closed under subsequence and $\sqsubseteq_T$ is the subsequence relation. That is, if $s \sqsubseteq t \in T$ then $s \in T$.
+\end{definition}
+
+With trees of height $\le \omega$, being isomorphic to a tree on some set required only that the tree have a single root. When there are limit level nodes things are more complicated. The following example illustrates the issue.
+
+\begin{example}
+We define a tree $T$ of height $\omega + 1$. The levels $<\omega$ are just $2^{<\omega}$. For level $\omega$, for each $b : \omega \to 2$ there are two distinct nodes $\ell_b$ and $r_b$ so that for each $n$ we have $(b \rest n) \sqsubseteq \ell_b, r_b$. 
+
+This tree is not isomorphic to a tree of sequences on $2$. The reason is, nodes at level $\omega$ would have to uniquely correspond to sequences $b \in 2^\omega$ but for each such $b$ there are two distinct nodes at level $\omega$ it would have to correspond to.
+\end{example}
+
+With this counterexample in mind, let's give a definition that avoids it. Following typical notational practice in mathematics, we will use the word ``normal'' to refer to the objects that avoid the yucky counterexample.
+
+\begin{definition}
+A tree $T$ is \emph{normal} if for every limit $\gamma$ less than the height of $T$ we have have that for $s,t \in T_\gamma$ that $s = t$ if and only if for each $\alpha < \gamma$ and each $u \in T_\alpha$ that $u \sqsubseteq s$ iff $u \sqsubseteq t$.
+
+If we think of $0$ as a limit level this this definition guarantees that $T$ must be rooted. After all the condition right of the ``if and only if'' is vacuous when $\gamma = 0$ and so there must be a unique root.
+\end{definition}
+
+\begin{lemma}
+Suppose $T$ is normal. Then $T$ is isomorphic to a tree on some $X$.
+\end{lemma}
+
+\begin{proof}
+The idea is the same as with trees of height $\le \omega$: the isomorphism sends each element of $T$ to the sequence of elements below it, with a little tweak to properly handle the root. And the normality condition ensures this definition works at limit levels.
+
+Let $r$ be the root of $T$ and set $X = T \setminus \{ r \}$. We see that $T$ is isomorphic to a tree on $X$. Consider a node $t \in T$ of successor level $\alpha > 0$. Consider the sequence $\seq{ t_i : 0 < i \le \alpha}$ given by $t_i \sqsubseteq t$ is in level $i$. Observe that if $s,t \in T_\alpha$ then $s = t$ iff $\seq{s_i} = \seq{t_i}$.
+
+Now consider a node $t \in T$ of limit level $\gamma > 0$. Consider the sequence $\seq{ t_i : 0 < i < \gamma}$ given by $t_i \sqsubseteq t$ is in level $i$. Then for $s,t \in T_\gamma$ we have $s = t$ iff $\seq{s_i} = \seq{t_i}$, by the normality property. (Note that if we consider $0$ a limit level then this means we associate the unique root to the empty sequence.)
+
+This is what we use to define the isomorphism. Define $f : T \to X^{<\omega}$ as $f(r) = \emptyset$ and $f(t) = \seq{t_i}$ otherwise. This gives an embedding of trees, so $T$ is isomorphic to the range of $f$.
+\end{proof}
+
+
+
+
+%% give general definitions
+
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Say that $C \subseteq T$ is a \emph{chain} if $C$ is linearly ordered by $\sqsubseteq_T$. Prove that a branch through $T$ is exactly a chain $C$ so that $C \cap T_\alpha$ is nonempty for all $\alpha$ less than the height of $T$.
+\end{enumerate}
+
+\newpage
+
+\section{The tree property}
+
+The question we now turn to is, to what extent does K\H{o}nig's lemma generalize to the uncountable? We will see that this question takes us to the cutting edge of set theory.
+
+Roughly speaking, K\H{o}nig's lemma says that if a tree of height $\omega$ is small then it has a branch. Here's smallness refers to the degree of branching: each node branches $<\omega$ many times. This notion of smallness is not suitable to trees with nodes of limit height.
+
+\begin{example}
+Consider $T = 2^{<\omega_1}$. This tree is binary---each node has $2$ successors. Nonetheless at level $\omega$ it has $2^{\aleph_0}$ many nodes.
+\end{example}
+
+While this tree has a lot of nodes at the same level, it nonetheless has a branch. If we want a wide tree with no branches we need to refine the construction.
+
+\begin{example}
+We define a tree $T$ on $2$ of height $\aleph_1$. At levels $\le\omega$, it looks like $2^{\le\omega}$. That is, $T_\alpha = 2^\alpha$ when $\alpha \le \omega$. To define the tree above level $\omega$, fix an injection $f : \omega_1 \setminus \omega \to 2^\omega$.\footnote{If the continuum hypothesis holds, $f$ can be a bijection, but we don't need this assumption.} Now define the tree at levels $>\omega$ by putting, for each $b \in 2^\omega$,
+\[
+b \cat \seq{\underbrace{0,0,\ldots,0}_{\le\alpha \text{ many}}} \in T_{\omega+\alpha}
+\]
+whenever $f(\alpha) = b$. Here, $s \cat t$ is the \emph{concatenation} operation: it's the sequence you get by putting $t$ on the end of $s$.
+
+This tree has height $\aleph_1$, because if $\omega < \alpha < \omega_1$ then there's a node at level $\omega + \alpha$ which extends $f(\alpha)$. But it has no branch of length $\omega_1$, because we set it up so that there's no longer node extending $f(\alpha)$. 
+\end{example}
+
+Another way you could've described this tree is, $T$ is the downward closure of the sequences $b \cat z_{f\inv(b)}$, where $z_\alpha$ is the sequence consisting of $\alpha$ many $0$s. That is, $s \in T$ iff there is some $b$ so that $s \sqsubseteq b \cat z_{f\inv(b)}$.
+
+\smallskip
+
+What these examples demonstrate is that if we want to generalize K\H{o}nig's lemma then we need better notion of smallness than having a small amount of branching at each node.
+
+\begin{definition}
+Let $\kappa$ be a cardinal. A \emph{$\kappa$-tree} is a normal tree $T$ so that the height of $T$ is $\kappa$ and $\card T_\alpha < \kappa$ for each $\alpha < \kappa$.
+\end{definition}
+
+\begin{definition}
+Let $\kappa$ be a cardinal. A \emph{$\kappa$-Aronszajn tree} is a $\kappa$-tree which has no branch. And an \emph{Aronszajn tree} is an $\aleph_1$-Aronszajn tree.
+\end{definition}
+
+Nachman Aronszajn (roughly pronounced ``air-in-shine'') was a Polish mathematician.
+
+\begin{definition}
+Let $\kappa$ be a cardinal. The \emph{tree property at $\kappa$}, abbreviated $\TP(\kappa)$, asserts that no $\kappa$-tree is $\kappa$-Aronszajn.
+\end{definition}
+
+Unfolding the definitions a little bit: K\H{o}nig's lemma says $\TP(\aleph_0)$ holds. So $\TP(\kappa)$ is the generalization of K\H{o}nig's lemma to $\kappa$, and a $\kappa$-Aronszajn tree is a counterexample to the generalization of K\H{o}nig's lemma.
+
+The question is are, then there any $\kappa$-Aronszajn trees?
+
+It turns out this is easiest to answer when $\kappa$ is singular. Recall that $\kappa$ is singular if there is a cardinal $\lambda < \kappa$ so that there is a sequence of ordinals $\seq{\alpha_i : i < \lambda}$ less than $\kappa$ whose supremum is $\kappa$. The smallest such $\lambda$ is called the \emph{cofinality} of $\kappa$.
+
+\begin{theorem}
+Suppose $\kappa$ is singular. Then there is a $\kappa$-Aronszajn tree and thus $\TP(\kappa)$ fails.
+\end{theorem}
+
+\begin{proof}
+Let's first see it for $\kappa = \aleph_\omega$, and then we'll see how to generalize the idea. We build an $\aleph_\omega$-tree $T$ with no branch as follows. Start with the root and add countably many immediate successors, call them $a_n$ for $n < \omega$. Now to each $a_n$ extend the tree by attaching a chain of length $\aleph_n$. Then the height of $T$ is $\sup_n \aleph_n = \aleph_\omega$. But there is no branch because any chain has length $\aleph_n$ for some $n$.
+
+More generally, suppose $\kappa$ is singular with cofinality $\lambda < \kappa$. Fix a cofinal sequence $\seq{\alpha_i : i < \lambda}$ in $\kappa$. Build $T$ by adding $\lambda$ many successors to the root, call them $a_i$ for $i < \lambda$. Then extend $a_i$ by attaching a chain of length $\alpha_i$. Done
+\end{proof}
+
+Consequently, this question is most interesting for \emph{regular} $\kappa$, those infinite cardinals which are not singular. (Note: when mathematicians say ``interesting'' what we mean is ``difficult''.) The natural first $\kappa$ to look at is $\kappa = \aleph_1$.
+
+\begin{theorem}[Aronszajn, 1934]
+There is an Aronszajn tree. Consequently, $\TP(\aleph_1)$ fails.
+\end{theorem}
+
+%% Let's see two different proofs using two different constructions.
+
+%% \begin{definition}
+%% Let $(T,\sqsubseteq)$ be a tree and $(X,\le)$ be a linear order. 
+%% A map $f : T \to X$ is \emph{order-preserving} if $x \sqsubset y$ implies $f(x) < f(y)$ for all $x,y \in T$.
+%% \end{definition}
+
+%% \begin{lemma}
+%% If $T$ is an $\aleph_1$-tree and there is an order-preserving map $T \to \Rbb$ then $T$ is Aronszajn.
+%% \end{lemma}
+
+%% \begin{proof}
+%% You proved in a problem set that there is no increasing $\omega_1$-sequence of reals.
+%% \end{proof}
+
+%% \begin{proof}[Proof 1 of Aronszajn's theorem]
+%% We construct a normal $\omega_1$-tree $T$ so that there is an order-preserving map $f : T \to \Qbb$. By the lemma we thus will get that $T$ is Aronszajn. The underlying set of $T$ will be $(\omega_1 \times \omega) \setminus \{ (0,k) : k > 0 \}$. We will define the order $\sqsubseteq$ on $T$ so that $T_\alpha$ consists of the pairs $(\alpha,k)$. In particular, $(0,0)$ will be the root, the only element of $T_0$.
+
+%% We define $\sqsubseteq$ by induction on $\alpha < \omega_1$. For $\alpha = 0$ there is nothing to do. For successor stages $\alpha+1$, it is enough to define the immediate successors of each node in $T_\alpha$. To do this, split $T_{\alpha+1}$ into $\aleph_0$ many infinite pieces $P_k$. Then set the immediate successors of $(\alpha,k) \in T_\alpha$ to be the elements of $P_k$.
+
+%% The limit stage is the substantive stage. Let $\gamma$ be limit. We have already built the order on $T_\gamma$, a tree of height $\gamma$. 
+%% \end{proof}
+
+% fuck this, let's only do the one proof. the other one is still fiddly :(
+
+\begin{proof}%[Proof 2]
+We construct a tree on $\omega$. Define $T \subseteq \omega^{<\omega_1}$ to consist of all sequences $\alpha \to \omega$ which are one-to-one. Observe that if $b$ were a branch through $T$ then $\cup b$ would be an injection $\omega_1 \to \omega$, which is impossible. 
+
+Note, however, that $T$ is not an Aronszajn tree. For example, $\card{T_\omega} = 2^{\aleph_0}$ because there are $2^{\aleph_0}$ injections $\omega \to \omega$. (A Chapter 2 problem was to prove there are $2^{\aleph_0}$ bijections, whence there's the same cardinality of injections.)
+We will find a subtree $S$ of $T$ which is a $\kappa$-tree. Because $T$ has no branches we get for free that $S$ has no branches, and so $S$ will be Aronszajn.
+
+We will build $S$ by recursion on $\omega_1$. What we will do is, for each $\alpha$, pick $s_\alpha \in T_\alpha$ so that $(a)$ $\omega \setminus \ran(s_\alpha)$ is infinite and $(b)$ if $\beta < \alpha$ then $s_\alpha \rest \beta =^* s_\beta$. Here, $=^*$ is ``equality mod finite'':
+\[
+x =^* y \qquad \text{iff} \qquad \{ i : x(i) \ne y(i) \} \text{ is finite}.
+\]
+Assuming this recursion can be successfully carried out, set $S$ to consist of all $t \in T_\alpha$, for $\alpha < \omega_1$, so that $t =^* s_\alpha$. Observe that $S_\alpha$ is countable. This is because there are $\aleph_0$ many finite subsets of $\alpha$ and for each finite $e \subseteq \alpha$ there only countably many ways to modify $s_\alpha$ on $e$ to get a different function $\alpha \to \omega$. Thus, $S$ will be Aronszajn.
+
+It remains to see we can do the desired induction. We handle all finite cases, including the zero case, by setting $s_n$ to be the identity map $n \to n$. The successor case is also easy. Given $s_\alpha$ pick $k \not \in \ran(s_\alpha)$ and set $s_{\alpha + 1} = s_\alpha \cup \{(\alpha,k)\}$. The substantive work is at the limit stage. Assume $\gamma$ is limit and we have already built $s_\alpha$ for all $\alpha < \gamma$. Pick a cofinal sequence 
+\[
+\alpha_0 < \alpha_1 < \cdots < \alpha_n < \cdots < \gamma
+\]
+whose supremum is $\gamma$. For each $n$ pick $t_n \in T_{\alpha_n}$ as follows:
+\begin{itemize}
+\item $t_0 = s_{\alpha_0}$. (Note: this is $=$, not $=^*$.)
+\item $t_{n+1} =^* s_{\alpha_{n+1}}$ so that $t_{n+1} \rest \alpha_n = t_n$
+\end{itemize}
+We can inductively do this using $(b)$. Namely, $s_{\alpha_{n+1}} \rest \alpha_n =^* s_{\alpha_n} =^* t_n$ and so we can set $t_{n+1}(i) = s_{\alpha_{n+1}}(i)$ for each $i \ge \alpha_n$ and $t_{n+1}(i) = t_n(i)$ for each $i < \alpha_n$. Finally, set $t = \bigcup_{n \in \omega} t_n$.
+
+Note that $t : \gamma \to \omega$ and $t$ satisfies $(b)$. But $t$ might not satisfy $(a)$, since in taking the union we may have grown the range to be cofinite. We will ensure $(a)$ holds by modifying $t$..  Specifically, set $s_\gamma$ to agree with $t$ on $\gamma \setminus \{ \alpha_n : n \in \omega\}$ and set $s_\gamma(\alpha_n) = t(\alpha_{2n})$. Then $t(\alpha_{2n+1})$ is disjoint from $\ran(s_\gamma)$ and so $(a)$ is satisfied. And note that $(b)$ continues to be satisfied because if $\alpha < \gamma$ we have only modified $t$ finitely many times $< \alpha$.
+\end{proof}
+
+%Why give this second argument, when it seems much more finicky and technical than the first argument? The reason is, this one has a better hope of generalizing above $\aleph_1$ than the argument about $\Qbb$. %% blah blah what is a version of Qbb for larger cardinals?
+
+Can we generalize this argument to larger cardinals? Suppose you want to run the same construction on $\omega_2$. Now your nodes will be one-to-one functions $s : \alpha \to \omega_1$, for $\alpha < \omega_2$. This gives you a tree $T$ with no branches. You still need to cut it down to $S$. For this, you need to change $=^*$ to mean $x =^* y$ iff $\{ i : x(i) \ne y(i) \}$ is countable. It looks like this works, but there's a cardinal arithmetic catch. For the $\omega_1$ argument, there were countably many $t \in T_\alpha$ so that $t =^* s_\alpha$. But for the $\omega_2$ argument, you get $2^{\aleph_0}$ many $t \in T_\alpha$ so that $t^* = s_\alpha$. It's consistent with the axioms of set theory that $2^{\aleph_0} > \aleph_1$ and so this construction doesn't produce an $\aleph_2$-Aronszajn tree.
+
+Nonetheless, if the continuum hypothesis holds then the cardinal arithmetic works out and this construction gives an $\aleph_2$-Aronszajn tree.
+
+\begin{theorem}
+If $\CH$ then there is an $\aleph_2$-Aronszajn tree. More generally, if $2^\kappa = \kappa^+$ then there is a $\kappa^{++}$-Aronszajn tree.
+\end{theorem}
+
+I shan't give the full proof of this, as the construction for $\aleph_1$ is fiddly enough. Indeed, this is sufficiently technical that I won't even assign it for the problem set :)
+
+Accepting this sketch in place of a proof, the natural next question is, what if the continuum hypothesis fails. Can we say what happens then?
+
+\begin{theorem}[Mitchell, 1972]
+It is consistent that there is no $\aleph_2$-Aronszajn tree. That is, it is consistent to have $\TP(\aleph_2)$.
+\end{theorem}
+
+Mitchell's construction is interesting because it uses a \emph{large cardinal}. He starts with a \emph{weakly compact} cardinal, a type of cardinal number which $\ZFC$ cannot prove the existence of. He then uses a version of Cohen's forcing (originally used to produce a model of $\ZFC$ where $\CH$ fails) to produce a model of $\TP(\aleph_2)$. 
+
+It turns out that a weakly compact cardinal exactly captures the strength of $\TP(\aleph_2)$. Jack Silver proved that if there is no $\aleph_2$-Aronszajn tree then you can thin out the universe of sets to get a model of set theory in which there is a weakly compact cardinal. (Indeed, the cardinal which was $\aleph_2$ in $\Vrm$ will be the weakly compact cardinal in this thinner universe.) So what we get is a necessary use of large cardinals.
+
+After Mitchell's and Silver's results, there has been regular progress of the question of which regular cardinals can have the tree property. Let me list a few.
+
+\begin{theorem}
+The following are consistent with $\ZFC$, starting from appropriate large cardinals.
+\begin{itemize}
+\item (Mitchell, 1972) The tree property at $\aleph_2$.
+\item (Abraham, 1983) The tree property at both $\aleph_2$ and $\aleph_3$.
+\item (Cummings and Foreman, 1998) The tree property at every $\aleph_n$ for $2 \le n < \omega$.
+\item (Neeman, 2014) The tree property at every $\aleph_n$ for $2 \le n < \omega$ and also at $\aleph_{\omega+1}$.
+\item (Sinapova and Unger, 2018) The tree property at both $\aleph_{\omega^2+1}$ and $\aleph_{\omega^2+2}$ while $\aleph_{\omega^2}$ is strong limit. (That is, $2^\kappa < \aleph_{\omega^2}$ for all $\kappa < \aleph_{\omega^2}$.)
+\end{itemize}
+\end{theorem}
+
+Note the years on these results. Improving upon Mitchell's result has been the work of decades, and takes us up to the current cutting edge in set theory. Indeed, the large cardinals used in the better and better results are more and more powerful. Let me also address the jump from around $\aleph_\omega$ up to $\aleph_{\omega^2}$ with the Sinapova--Unger result. For technical reasons, it is very hard to have the tree property at double successors of a strong limit. For example, the following question is still open.
+
+\begin{question}
+Is it consistent to have the tree property at $\aleph_{\omega+1}$ and $\aleph_{\omega+2}$ when $\aleph_{\omega}$ is strong limit?
+\end{question}
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+\item Contemplate having the tree property at every possible cardinal. Whoa.
+\end{enumerate}
+
+
+\end{document}
+
+
+
+\subsection*{Exercises}
+
+\begin{enumerate}
+
+\end{enumerate}
+
+\newpage

@@ -52,4 +52,4 @@ Quizzes
 
 * **5/3** Quiz 4
 
-* **5/8** Quiz makeup
+* **5/8** Final
