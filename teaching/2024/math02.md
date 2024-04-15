@@ -10,6 +10,8 @@ permalink: /teaching/2024/math02/
 Announcements
 -------------
 
+* (4/15) [Here]({{ page.url }}q3-answers.pdf) is the answer key for quiz 3.
+
 * (3/25) [Here]({{ page.url }}q2-answers.pdf) is the answer key for quiz 2.
 
 * (2/27) [Here]({{ page.url }}q1-answers.pdf) is the answer key for quiz 1.
