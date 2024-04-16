@@ -31,8 +31,8 @@ The colloquium meets on Thursdays at 2:40pm, unless otherwise stated.
 
   A *latin square of order* $n$ is an $n \times n$ array in which each symbol from a set of order $n$ appears exactly once in each row and exactly once in each column.  If we loosen the definition so that each symbol appears at most once in each row and at most once in each column (and so there may be empty cells) then we have a  *partial latin square*.   A partial latin square is *uniquely completable* if there is exactly one way to fill in the empty cells to obtain a latin square.
 
-We look at some historical and recent work related to uniquely completable partial squares.  Motivating questions include: how few entries can a uniquely completable partial latin square have?   How many can one have, if it is minimal in the sense that removing any entry allows multiple completions?  What if we add extra conditions (like a sudoku puzzle does)?  Does it make sense to ask about infinite latin squares?  There are many accessible open problems.  
+  We look at some historical and recent work related to uniquely completable partial squares.  Motivating questions include: how few entries can a uniquely completable partial latin square have?   How many can one have, if it is minimal in the sense that removing any entry allows multiple completions?  What if we add extra conditions (like a sudoku puzzle does)?  Does it make sense to ask about infinite latin squares?  There are many accessible open problems.  
 
 
-Includes joint work with Aurora Callahan, Emma Hasson, Kaethe Minden and Yolanda Zhu.    
+  Includes joint work with Aurora Callahan, Emma Hasson, Kaethe Minden and Yolanda Zhu. [[flyer]({{ page.url }}24-4-ollis.pdf)]    
 
