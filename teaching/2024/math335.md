@@ -92,22 +92,18 @@ Schedule
 
 * Chapter 4: Trees
 
-    * 4/8–4/19
+    * 4/8–4/24
 
     * Second project check-in by 4/15
 
 	* Problem session 4/19
 
-	* Partial portfolio due 4/22
-
 * Chapter $\omega$: *Selected topic*
 
-    * 4/22–5/1
+    * 4/26–5/3
 	
 	* Draft of paper due 4/29
 
-	* Problem session 5/1
-	
 * Student Presentations
 
     * 5/6–5/8
