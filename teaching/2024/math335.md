@@ -33,7 +33,7 @@ Lecture Notes
 
 * [Chapter 4: Trees]({{ page.url }}ch4.pdf) ([source]({{ page.url }}ch4.tex))
 
-* [Chapter $\omega$: *Topics*]
+* [Chapter $\omega$: A first look at large cardinals](chomega.pdf)
 
 Problem Sets
 --------
@@ -47,9 +47,6 @@ Problem Sets
 * [Chapter 3: The cumulative hierarchy and axioms]({{ page.url }}pr3.pdf) ([source]({{ page.url }}pr3.tex))
 
 * [Chapter 4: Trees]({{ page.url }}pr4.pdf) ([source]({{ page.url }}pr4.tex))
-
-* [Chapter $\omega$: *Topics*]
-
 
 Schedule
 --------
