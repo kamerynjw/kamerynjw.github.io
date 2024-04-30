@@ -34,5 +34,5 @@ The colloquium meets on Thursdays at 2:40pm, unless otherwise stated.
   We look at some historical and recent work related to uniquely completable partial squares.  Motivating questions include: how few entries can a uniquely completable partial latin square have?   How many can one have, if it is minimal in the sense that removing any entry allows multiple completions?  What if we add extra conditions (like a sudoku puzzle does)?  Does it make sense to ask about infinite latin squares?  There are many accessible open problems.  
 
 
-  Includes joint work with Aurora Callahan, Emma Hasson, Kaethe Minden and Yolanda Zhu. [[flyer]({{ page.url }}24-4-ollis.pdf)]    
+  Includes joint work with Aurora Callahan, Emma Hasson, Kaethe Minden and Yolanda Zhu. [[flyer]({{ page.url }}24-4-ollis.pdf)] [[slides]({{ page.url }}partial_lsq_simons_rock.pdf)]
 
