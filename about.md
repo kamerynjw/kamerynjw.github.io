@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me/
 ---
 
-Hi! I am a logician and mathematician, currently at the Department of Mathematics and Statistics at Sam Houston State University. 
+Hi! I am a logician and mathematician, currently at Bard College at Simon's Rock.
 
 <center>
 <img src="/pics/kam-in-cave.jpg" width="400" height="300" alt="A picture of me in a lava tube.">
