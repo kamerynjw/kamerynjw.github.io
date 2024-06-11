@@ -4,17 +4,17 @@ title: About Me
 permalink: /about-me/
 ---
 
-Hi! I am a logician and mathematician, currently at Bard College at Simon's Rock.
+Hi! I am Kameryn Julia Williams (they/she), a logician and mathematician at Bard College at Simon's Rock.
 
 <center>
-<img src="/pics/kam-in-cave.jpg" width="400" height="300" alt="A picture of me in a lava tube.">
+<img src="/pics/kj-chalkboard.jpg" width="347" height="300" alt="A picture of me in a lava tube.">
 
-<p><small>the logician in their natural habitat</small></p>
+<p><small>the logician in front of some posets</small></p>
 </center>
 
-When citing me or otherwise talking about me in professional contexts, please use they/them/their for pronouns.
+In contexts where first names are appropriate, either of my names are fine to use. When citing me or otherwise talking about me in professional contexts, they/them/their prounouns are preferred.
 
-My research interests specialize in set theory, with much of my work motivated by aspects of the multiversist view of set theory, advocated by Hamkins and others. Outside of pure set theory, I'm interested in its connections to other areas of logic and to philosophy of mathematics. For my teaching, while logic is an interdisciplinary subject, so far I have only had opportunity to teach in mathematics departments. In such, I've taught a broad range of classes, from freshman pre-calculus to the graduate level.
+My research interests specialize in set theory, with much of my work motivated by aspects of the multiversist view of set theory, advocated by Hamkins and others. Outside of pure set theory, I'm interested in its connections to other areas of logic and to philosophy of mathematics. 
 
 Some miscellaneous factoids:
 
