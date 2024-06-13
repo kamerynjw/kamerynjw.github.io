@@ -1,6 +1,11 @@
 
 # conference talks to display in talks.md
 
+- href: "2024-jul-120yoc"
+  title: "Mediacy and independence"
+  other: "invited talk, 120 Years of Choice"
+  date: "Jul 2024"
+
 - href: "2024-mar-nerds"
   title: "Solid, neat, tight: toward charting the boundary of definability"
   other: "invited talk, NERDS 25.0 (**Meeting canceled due to weather**)"
