@@ -4,18 +4,26 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Spring 2024)
-================
+Current Semester (Fall 2024)
+=======
+
+[Math 210: Calculus I]({{ page.url }}2024/math210/)
+
+[Math 217M1: Introduction to proofs]({{ page.url }}2024/math0217m/)
+
+Math 218M2: Nonbinary thinking in mathematics
+
+Previous Semesters 
+==================
+
+Spring 2024
+-----------
 
 [Math 335: Set Theory]({{ page.url }}2024/math335/)
 
 [Math 02: Algebra IIT]({{ page.url }}2024/math02/)
 
 [Math 01B: Algebra II]({{ page.url }}2024/math01b/)
-
-Previous Semesters 
-==================
-
 Fall 2023
 ---------
 
