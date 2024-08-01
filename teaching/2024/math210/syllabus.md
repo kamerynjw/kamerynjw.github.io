@@ -29,7 +29,7 @@ Class Information
 
 **Office** 2T Hall College Center
 
-**Textbook** H. Jerome Keisler, *Elementary Calculus: An Infinitesimal Approach*, online edition. [[PDF]({{ parentlink }}keisler-ec.pdf)] (Copyright 2000 by H. Jerome Keisler, revised March 2024. [<img src="{{ parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/))
+**Textbook** H. Jerome Keisler, *Elementary Calculus: An Infinitesimal Approach*, online edition. [[PDF]({{ page.parentlink }}keisler-ec.pdf)] (Copyright 2000 by H. Jerome Keisler, revised March 2024. [<img src="{{ page.parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/))
 
 **Course Description** A course in differential and integral calculus in one variable. Topics include an introduction to limits and continuity, the derivative and its applications to max-min and related rate problems, the mean value theorem, the definite integral, and the Fundamental Theorem of Calculus
 
@@ -114,9 +114,9 @@ I will provide a problem list before the sessions. You will be asked to present 
 Textbook Information
 ========
 
-The textbook for this class is H. Jerome Keisler, *Elementary Calculus: An Infinitesimal Approach*, online edition. A pdf of this book is freely available under a [Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce](https://creativecommons.org/licenses/by-nc-sa/3.0/): [[hosted on my website]({{ parentlink }}keisler-ec.pdf)] or [[see Keisler's webpage](https://people.math.wisc.edu/~hkeisler/calc.html)].
+The textbook for this class is H. Jerome Keisler, *Elementary Calculus: An Infinitesimal Approach*, online edition. A pdf of this book is freely available under a [Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce](https://creativecommons.org/licenses/by-nc-sa/3.0/): [[hosted on my website]({{ page.parentlink }}keisler-ec.pdf)] or [[see Keisler's webpage](https://people.math.wisc.edu/~hkeisler/calc.html)].
 
-[<img src="{{ parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+[<img src="{{ page.parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 There is also a print edition of the book, published by Dover. (ISBN: 978-0486484525) If you prefer a physical copy you can buy it online for about \$30, but be cautious of minor differences between editions.
 
