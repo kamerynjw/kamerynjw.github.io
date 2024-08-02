@@ -4,10 +4,10 @@ title: About Me
 permalink: /about-me/
 ---
 
-Hi! I am Kameryn Julia Williams (they/she), a logician and mathematician at Bard College at Simon's Rock.
+Hi! I am Julia Kameryn Williams (they/she), a logician and mathematician at Bard College at Simon's Rock.
 
 <center>
-<img src="/pics/kj-chalkboard.jpg" width="347" height="300" alt="A picture of me in a lava tube.">
+<img src="/pics/kj-chalkboard.jpg" width="347" height="300" alt="A picture of me.">
 
 <p><small>the logician in front of some posets</small></p>
 </center>

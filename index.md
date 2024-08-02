@@ -3,10 +3,10 @@ layout: page
 title: Welcome!
 ---
 
-My name is Kameryn Julia Williams (they/she). I am faculty in mathematics at [Bard College at Simon's Rock](https://simons-rock.edu/academics/program-overview/mathematics/index.php). 
+My name is Julia Kameryn Williams (they/she). I am faculty in mathematics at [Bard College at Simon's Rock](https://simons-rock.edu/academics/program-overview/mathematics/index.php). 
 
 <center>
-<img src="/pics/kameryn.jpg" width="300" height="400" alt="An outdated picture of me.">
+<img src="/pics/julia.jpg" width="600" height="400" alt="A picture of me.">
   
 <p><small>they/she</small></p>
 </center>
