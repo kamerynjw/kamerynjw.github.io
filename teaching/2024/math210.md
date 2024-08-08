@@ -10,7 +10,7 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
-(Nothing yet!)
+* [Here are the slides from day 1.]({{ page.url }}day1.pdf)
 
 Problem sets
 -------
