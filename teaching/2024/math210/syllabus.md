@@ -118,7 +118,7 @@ The textbook for this class is H. Jerome Keisler, *Elementary Calculus: An Infin
 
 [<img src="{{ page.parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-There is also a print edition of the book, published by Dover. (ISBN: 978-0486484525) If you prefer a physical copy you can buy it online for about \$30, but be cautious of minor differences between editions.
+There is also a print edition of the book, published by Dover. (ISBN: 978-0486484525) If you prefer a physical copy you can buy it online for about \$30 to \$40.
 
 Most of the homework will be assigned out of the textbook, and from time to time I will ask you to read selections from it. The book is well-written, and it is a good resource for studying on your own or for examples of how to write about mathematics.
 
