@@ -24,6 +24,7 @@ Spring 2024
 [Math 02: Algebra IIT]({{ page.url }}2024/math02/)
 
 [Math 01B: Algebra II]({{ page.url }}2024/math01b/)
+
 Fall 2023
 ---------
 
