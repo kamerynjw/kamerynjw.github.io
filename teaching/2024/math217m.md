@@ -22,6 +22,8 @@ Reading assignments
 
 * By Wednesday 8/28: read A Note to the Student from the textbook and the mathematical habits at the end of chapter 1.
 
+* By Friday 8/30: look at the table of contents and the topics for chapters 3, 5, 7, 9, 10, 12, 13, 14, and 15 so we can decide as a class which of them we will look at this semester.
+
 Resources for writing mathematics
 ---------
 
@@ -66,4 +68,4 @@ The schedule below is tentative; we might have small adjustments in the dates.
 	
 	(No class Wednesday 10/16.)
 	
-Chapters 1, 2, 4, and 11 comprise the core topics for the class. The other chaptetrs are each about a different area of mathematics. As a class we will choose three chapters from 3, 5, 7, 9, 10, 12, 13, 14, and 15 to look at.
+Chapters 1, 2, 4, and 11 comprise the core topics for the class. The other chapters are each about a different area of mathematics. As a class we will choose three chapters from 3, 5, 7, 9, 10, 12, 13, 14, and 15 to look at.
