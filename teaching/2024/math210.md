@@ -15,13 +15,17 @@ Announcements
 Problem sets
 -------
 
-(None yet!)
+* **Week 1** (Due Monday 9/2). Section 1.2 #2, 4, 10, 12, 16, 24; Section 1.3 #10, 34; Section 1.5 #2, 4, 6, 7, 18, 20, 24, 33
 
-Writing Assignments
+Writing assignments
 -------
 
-(None yet!)
+* **Week 1** (Due Monday 9/2). Write up an explanation for problem #25 and (extra credit) #26 on page 42.
 
+Readings
+--------
+
+* *By Wednesday 8/28.* Skim sections 1.1 through 1.3 and confirm that you know all the concepts therein.
 
 Schedule
 --------
