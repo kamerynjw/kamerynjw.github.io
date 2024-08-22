@@ -25,7 +25,7 @@ Class Information
 
 * Section B: MWF 10:05–11:00, FSH-112
 
-**Office Hours** TBA
+**Office Hours** M 3:45–4:45, WF 2:35–3:35
 
 **Office** 2T Hall College Center
 
