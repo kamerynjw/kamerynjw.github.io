@@ -127,7 +127,7 @@ If exceptional circumstances make it so you must miss multiple classes, please t
 Communication Policy and Office Hours
 =============
 
-Announcements and homework will be posted to the course website. For the gradebook we will use google classroom. 
+Announcements and homework will be posted to the course website. 
 
 The best way to contact me outside of class is by email. Please put "math 217" in the subject line of your email.
 
