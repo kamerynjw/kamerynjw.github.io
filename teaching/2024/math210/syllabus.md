@@ -143,7 +143,7 @@ Mathematics has a reputation for being removed from social concerns and identiti
 Communication Policy and Office Hours
 =============
 
-Announcements and homework will be posted to the course website. For the gradebook we will use google classroom. 
+Announcements and homework will be posted to the course website. 
 
 The best way to contact me outside of class is by email. Please put "math 210" in the subject line of your email.
 
