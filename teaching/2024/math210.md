@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* [Here is an example of a writing assignment solution.]({{ page.url }}writing-example.pdf)
+
 * [Here are the slides from day 1.]({{ page.url }}day1.pdf)
 
 Problem sets
