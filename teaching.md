@@ -13,6 +13,8 @@ Current Semester (Fall 2024)
 
 Math 218M2: Nonbinary thinking in mathematics
 
+[Math 477T: Category theory (tutorial)]({{ page.url }}2024/math477t/)
+
 Previous Semesters 
 ==================
 
