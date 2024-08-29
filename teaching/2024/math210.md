@@ -10,9 +10,11 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
-* [Here is an example of a writing assignment solution.]({{ page.url }}writing-example.pdf)
+* (8/30) [Here are the rules for hyperreal numbers.]({{ page.url }}hyperreal-rules.pdf)
 
-* [Here are the slides from day 1.]({{ page.url }}day1.pdf)
+* (8/27) [Here is an example of a writing assignment solution.]({{ page.url }}writing-example.pdf)
+
+* (8/26) [Here are the slides from day 1.]({{ page.url }}day1.pdf)
 
 Problem sets
 -------
