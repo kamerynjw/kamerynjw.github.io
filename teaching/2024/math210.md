@@ -26,7 +26,7 @@ Problem sets
 Writing assignments
 -------
 
-* **Week 2** (Due Monday 9/9). Consider the step function $u(x)$ defined as $u(x) = 0$ if $x \le 0$ and $u(x) = 1$ if $x > 0$. Determine where $u(x)$ is differentiable and justify your answer. (Extra credit) Find the derivative of $f(x) = \lvert x^2 - 1 \vret$, identifying where $f(x)$ is not differentiable. Justify your answer.
+* **Week 2** (Due Monday 9/9). Consider the step function $u(x)$ defined as $u(x) = 0$ if $x \le 0$ and $u(x) = 1$ if $x > 0$. Determine where $u(x)$ is differentiable and justify your answer. (Extra credit) Find the derivative of $f(x) = \lvert x^2 - 1 \rvert$, identifying where $f(x)$ is not differentiable. Justify your answer.
 
 * **Week 1** (Due Monday 9/2). Write up an explanation for problem #25 and (extra credit) #26 on page 42.
 
