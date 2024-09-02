@@ -15,6 +15,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 2** (Due Monday 9/9). Exercises 4.1, 4.3, 4.4, 4.7, 4.10, 4.14, 4.18 from the textbook (p. 38). *High Pass:* At least 6 exercises. *Pass:* At least 4 exercises.
+
 * **Week 1** (Due Monday 9/2). Exercises 1.1, 1.3, 1.4, 1.5, 1.9, 1.10, and 2.1 from the textbook (p. 8 and p. 14). *High Pass:* At least 6 exercises. *Pass:* At least 4 exercises.
 
 Reading assignments
