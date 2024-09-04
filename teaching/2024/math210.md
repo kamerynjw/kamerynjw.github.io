@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (9/4) [Here is a solution for the week 1 writing assignment.]({{ page.url }}week1-writing.pdf)
+
 * (9/2) [Here are the rules for standard parts.]({{ page.url }}standard-parts.pdf)
 
 * (8/30) [Here are the rules for hyperreal numbers.]({{ page.url }}hyperreal-rules.pdf)
