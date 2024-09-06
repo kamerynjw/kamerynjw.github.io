@@ -10,7 +10,7 @@ permalink: /teaching/2024/math217m/
 Announcements
 -------------
 
-(Nothing yet!)
+* (9/6) [Here is the worksheet from today.]({{ page.url }}recursion.pdf)
 
 Problem sets
 -------
