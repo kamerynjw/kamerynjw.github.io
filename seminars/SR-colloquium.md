@@ -4,7 +4,32 @@ title: Simons Rock Mathematics Colloquium
 permalink: /seminars/SR-colloquium/
 ---
 
-Spring 2024 (Current Semester)
+Fall 2024 (Current Semester)
+======
+
+The colloquium meets on Tuesdays at 2:40pm, unless otherwise stated.
+
+* September 24th
+
+  [Julia Kameryn Williams](https://www.kamerynjw.net/) ([Bard College at Simon's Rock](https://simons-rock.edu/))
+
+  **Infinity, the axiom of choice, and mediacy**
+
+  What does it mean to be finite? To be infinite? Why does the axiom of choice come into the picture? What even is the axiom of choice? What weird and exciting things happen when we try to generalize the ideas which answer these questions? We will discuss these questions and more. [[flyer]({{ page.url }}24-9-julia.pdf)]
+
+* October 8th
+
+  [Alex Van Abel](https://www.wesleyan.edu/academics/faculty/avanabel/profile.html) ([Wesleyan University](https://www.wesleyan.edu/))
+
+  *Title and abstract to be announced*
+
+* November 19th (tentative)
+
+  [Astra Kolomatskaia](https://www.wesleyan.edu/academics/faculty/akolomatskaia/profile.html) ([Wesleyan University](https://www.wesleyan.edu/))
+
+  *Title and abstract to be announced*
+
+Spring 2024
 ======
 
 The colloquium meets on Thursdays at 2:40pm, unless otherwise stated.
