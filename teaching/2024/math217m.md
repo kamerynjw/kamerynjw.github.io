@@ -15,6 +15,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 3** (Due Monday 9/16). [See here.]({{ page.url }}hw3.pdf) *High Pass:* Problems 1 through 3, and four of Problems 4 through 7. *Pass:* At least four problems in total, with at least one of Problems 1 and 2 and at least two of Problems 4 through 7.
+
 * **Week 2** (Due Monday 9/9). Exercises 4.1, 4.3, 4.4, 4.7, 4.10, 4.14, 4.18 from the textbook (p. 38). *High Pass:* At least 6 exercises. *Pass:* At least 4 exercises.
 
 * **Week 1** (Due Monday 9/2). Exercises 1.1, 1.3, 1.4, 1.5, 1.9, 1.10, and 2.1 from the textbook (p. 8 and p. 14). *High Pass:* At least 6 exercises. *Pass:* At least 4 exercises.
