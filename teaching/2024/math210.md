@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (9/11) If you want extra practice problems for differentiation rules, look in the textbook: page 69 problem 1--42, page 85 problem 1--24, page 93 problems 1--44, page 96 problems 1--23, and page 103 problem 1--26.
+
 * (9/9) Here are the worksheets for week 3: [Monday]({{ page.url }}rules1.pdf), [Wednesday]({{ page.url }}rules2.pdf), and [Friday]({{ page.url }}rules3.pdf),
 
 * (9/4) [Here is a solution for the week 1 writing assignment.]({{ page.url }}week1-writing.pdf)
