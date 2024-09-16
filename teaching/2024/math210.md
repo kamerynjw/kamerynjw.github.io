@@ -29,6 +29,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 4** (Due Monday 9/23) Section 2.8 #4, 8, 22, 27, 30, 36; Section 8.7 #1, 3, 4, 6, 7, 9; Section 2.4 #1, 2, 4, 14, 17, 18
+
 * **Week 3** (Due Monday 9/16) [See here, page 1.]({{ page.url }}hw3.pdf)
 
 * **Week 2** (Due Monday 9/9). Section 1.6 #1, 2, 4, 8, 25, 26, 30; Section 2.1 #3, 4, 6, 12, 26; Section 2.2 #11, 12, 22, 24, 27
@@ -37,6 +39,8 @@ Problem sets
 
 Writing assignments
 -------
+
+* **Week 4** (Due Monday 9/23) Use logarithmic differentiation to explain why the quotient rule for derivatives works. (Extra credit) Use the inverse function rule to explain why the rules for arcsin and arccos work.
 
 * **Week 3** (Due Monday 9/16) [See here, page 2.]({{ page.url }}hw3.pdf)
 
