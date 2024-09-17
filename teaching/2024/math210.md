@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (9/18) [Here is the worksheet for logarithmic differentiation.]({{ page.url }}log-diff.pdf)
+
 * (9/13) [Here is a solution for the week 2 writing assignment.]({{ page.url }}week2-writing.pdf)
 
 * (9/11) If you want extra practice problems for differentiation rules, look in the textbook: page 69 problem 1--42, page 85 problem 1--24, page 93 problems 1--44, page 96 problems 1--23, and page 103 problem 1--26.
