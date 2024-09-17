@@ -10,12 +10,16 @@ permalink: /teaching/2024/math217m/
 Announcements
 -------------
 
+* (9/16) [Here are the notes for this week.]({{ page.url }}logic.pdf)
+
 * (9/6) [Here is the worksheet from today.]({{ page.url }}recursion.pdf)
 
 Problem sets
 -------
 
-* **Week 3** (Due Monday 9/16). [See here.]({{ page.url }}hw3.pdf) *High Pass:* Problems 1 through 3, and four of Problems 4 through 7. *Pass:* At least four problems in total, with at least one of Problems 1 and 2 and at least two of Problems 4 through 7.
+* **Week 4** (Due Monday 9/23). [See page 11 of here.]({{ page.url }}logic.pdf) *High Pass:* All five problems. *Pass:* At least two parts of problem 1 and at least three of the remaining problems.
+
+* **Week 3** (Due Monday 9/16). [See here.]({{ page.url }}hw3.pdf) ~~*High Pass:* Problems 1 through 3, and four of Problems 4 through 7. *Pass:* At least four problems in total, with at least one of Problems 1 and 2 and at least two of Problems 4 through 7.~~ *High Pass:* Problems 1 through 3, and two of the remainder. *Pass:* Three total, with at least one from 1 or 2.
 
 * **Week 2** (Due Monday 9/9). Exercises 4.1, 4.3, 4.4, 4.7, 4.10, 4.14, 4.18 from the textbook (p. 38). *High Pass:* At least 6 exercises. *Pass:* At least 4 exercises.
 
