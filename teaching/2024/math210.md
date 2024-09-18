@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (9/18) [Here is a solution for the week 3 writing assignment.]({{ page.url }}week3-writing.pdf)
+
 * (9/18) [Here is the worksheet for logarithmic differentiation.]({{ page.url }}log-diff.pdf)
 
 * (9/13) [Here is a solution for the week 2 writing assignment.]({{ page.url }}week2-writing.pdf)
