@@ -10,6 +10,8 @@ permalink: /teaching/2024/math217m/
 Announcements
 -------------
 
+* (9/20) [Here is the worksheet from today.]({{ page.url }}translation.pdf)
+
 * (9/16) [Here are the notes for this week.]({{ page.url }}logic.pdf)
 
 * (9/6) [Here is the worksheet from today.]({{ page.url }}recursion.pdf)
