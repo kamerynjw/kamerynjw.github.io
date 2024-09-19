@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kameryn's Web Log
+title: Julia's Web Log
 permalink: /blog/
 ---
 
