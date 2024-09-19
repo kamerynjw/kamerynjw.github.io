@@ -15,7 +15,7 @@ The colloquium meets on Tuesdays at 2:40pm, unless otherwise stated.
 
   **Infinity, the axiom of choice, and mediacy**
 
-  What does it mean to be finite? To be infinite? Why does the axiom of choice come into the picture? What even is the axiom of choice? What weird and exciting things happen when we try to generalize the ideas which answer these questions? We will discuss these questions and more. [[flyer]({{ page.url }}24-9-julia.pdf)]
+  What does it mean to be finite? To be infinite? Why does the axiom of choice come into the picture? What even is the axiom of choice? What weird and exciting things happen when we try to generalize the ideas which answer these questions? We will discuss these questions and more. [[flyer]({{ page.url }}24-9-julia.pdf)] [[slides here]({{ site.url }}/research/talks/2024-sept-srmc/)]
 
 * October 8th
 
