@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (9/20) [Here is the study guide for midterm 1]({{ page.url }}sg1.pdf) and [here is the formula sheet you will be given]({{ page.url }}formulas1.pdf).
+
 * (9/18) [Here is a solution for the week 3 writing assignment.]({{ page.url }}week3-writing.pdf)
 
 * (9/18) [Here is the worksheet for logarithmic differentiation.]({{ page.url }}log-diff.pdf)
