@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (9/23) [Here is the diagram of the hierarchy of differentiation rules.]({{ page.url }}structure-of-diff-rules.pdf)
+
 * (9/20) [Here is the study guide for midterm 1]({{ page.url }}sg1.pdf) and [here is the formula sheet you will be given]({{ page.url }}formulas1.pdf).
 
 * (9/18) [Here is a solution for the week 3 writing assignment.]({{ page.url }}week3-writing.pdf)
@@ -35,6 +37,16 @@ Announcements
 Problem sets
 -------
 
+* **Week 5** (Due Wednesday 9/25) Differentiate:
+$$a(x) = 4x^2e^x + \frac{\cos(e^{\arctan x})}{\ln x}$$
+
+Differentiate:
+$$b(x) = \sin(\cos(\tan(\sec(x)e^{x^2})))$$
+
+Differentiate:
+$$c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_3 x}{x}}$$
+
+
 * **Week 4** (Due Monday 9/23) Section 2.8 #4, 8, 22, 27, 30, 36; Section 8.7 #1, 3, 4, 6, 7, 9; Section 2.4 #1, 2, 4, 14, 17, 18
 
 * **Week 3** (Due Monday 9/16) [See here, page 1.]({{ page.url }}hw3.pdf)
@@ -45,6 +57,8 @@ Problem sets
 
 Writing assignments
 -------
+
+* **Week 5** *No writing assignment.*
 
 * **Week 4** (Due Monday 9/23) Use logarithmic differentiation to explain why the quotient rule for derivatives works. (Extra credit) Use the inverse function rule to explain why the rules for arcsin and arccos work.
 
