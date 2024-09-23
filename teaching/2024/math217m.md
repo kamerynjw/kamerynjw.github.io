@@ -21,6 +21,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 5** (Due Monday 10/7) Exercises 11.1, 11.2, 11.4, and 11.5 from the textbook (p. 130). Read Chapter 3 ("Number Theory") of the textbook, and pick one of the lemmas in section 3.3 to write up your own proof of. You should read the book's proof, but the proof you write should be in your own words and reflect your own understading. *High Pass:* All chapter 11 exercises and the chapter 3 proof. *Pass:* All chapter 11 exercises.
+
 * **Week 4** (Due Monday 9/23). [See page 11 of here.]({{ page.url }}logic.pdf) *High Pass:* All five problems. *Pass:* At least two parts of problem 1 and at least three of the remaining problems.
 
 * **Week 3** (Due Monday 9/16). [See here.]({{ page.url }}hw3.pdf) ~~*High Pass:* Problems 1 through 3, and four of Problems 4 through 7. *Pass:* At least four problems in total, with at least one of Problems 1 and 2 and at least two of Problems 4 through 7.~~ *High Pass:* Problems 1 through 3, and two of the remainder. *Pass:* Three total, with at least one from 1 or 2.
