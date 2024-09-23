@@ -38,13 +38,13 @@ Problem sets
 -------
 
 * **Week 5** (Due Wednesday 9/25) Differentiate:
-$$a(x) = 4x^2e^x + \frac{\cos(e^{\arctan x})}{\ln x}$$
+$\displaystyle a(x) = 4x^2e^x + \frac{\cos(e^{\arctan x})}{\ln x}$$
 
 Differentiate:
-$$b(x) = \sin(\cos(\tan(\sec(x)e^{x^2})))$$
+$\displaystyle b(x) = \sin(\cos(\tan(\sec(x)e^{x^2})))$
 
 Differentiate:
-$$c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_3 x}{x}}$$
+$\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_3 x}{x}}$
 
 
 * **Week 4** (Due Monday 9/23) Section 2.8 #4, 8, 22, 27, 30, 36; Section 8.7 #1, 3, 4, 6, 7, 9; Section 2.4 #1, 2, 4, 14, 17, 18
