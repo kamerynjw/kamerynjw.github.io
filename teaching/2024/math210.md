@@ -38,7 +38,7 @@ Problem sets
 -------
 
 * **Week 5** (Due Wednesday 9/25) Differentiate:
-$\displaystyle a(x) = 4x^2e^x + \frac{\cos(e^{\arctan x})}{\ln x}$$
+$\displaystyle a(x) = 4x^2e^x + \frac{\cos(e^{\arctan x})}{\ln x}$
 
 Differentiate:
 $\displaystyle b(x) = \sin(\cos(\tan(\sec(x)e^{x^2})))$
