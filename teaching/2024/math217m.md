@@ -10,6 +10,8 @@ permalink: /teaching/2024/math217m/
 Announcements
 -------------
 
+* (9/23) [Here is the definition sheet for this week and next.]({{ page.url }}rel-func.pdf)
+
 * (9/20) [Here is the worksheet from today.]({{ page.url }}translation.pdf)
 
 * (9/16) [Here are the notes for this week.]({{ page.url }}logic.pdf)
