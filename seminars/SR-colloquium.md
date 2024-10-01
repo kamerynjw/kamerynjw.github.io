@@ -21,7 +21,10 @@ The colloquium meets on Tuesdays at 2:40pm, unless otherwise stated.
 
   [Alex Van Abel](https://www.wesleyan.edu/academics/faculty/avanabel/profile.html) ([Wesleyan University](https://www.wesleyan.edu/))
 
-  *Title and abstract to be announced*
+  **Pseudofinite Model Theory**
+
+  In model theory, we study mathematical structures and the things we can say about them -- classically, in first-order logic. Pseudofinite structures are infinite mathematical structures that "behave like" finite structures. In this talk, I will outline the basics of model theory and first-order logic, and clarify what I mean by "behave like" in the previous sentence. I will illustrate pseudofiniteness with some examples and non-examples, and share some instances of how pseudofinite model theory has been used to answer concrete questions in combinatorics. [[flyer]({{ page.url }}24-10-alex.pdf)]
+
 
 * November 19th (tentative)
 
