@@ -37,6 +37,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 6** (Due Monday 10/14) Section 3.2 your choice of three from #5–12; Section 3.3 #2, 3, 4, 6, 8, 16; Section 3.4 #1, 2, 4, 9, 18, 26
+
 * **Week 5** (Due Wednesday 9/25) Differentiate:
 $\displaystyle a(x) = 4x^2e^x + \frac{\cos(e^{\arctan x})}{\ln x}$
 
@@ -57,6 +59,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 6** (Due Monday 10/14) Read pages 29–31 of [Penelope Maddy, "How applied mathematics became pure" (2008)]({{ page.url }}maddyhowapplied.pdf), where she discusses how calculus is used to approximate a discrete reality. Pick one of the problems from section 3.2 you did. Following Maddy's analysis, explain for your specific problem the idealizations and simplifications made to be able to apply calculus.
 
 * **Week 5** *No writing assignment.*
 
