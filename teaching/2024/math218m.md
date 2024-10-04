@@ -30,13 +30,13 @@ Each week you will read a selection from a paper and respond to some short promp
 
     Helen L. Daly, "Modelling sex/gender" (20167). Pages 79–90.
 
-* **(Discussion 11/11)** Haack, [[response prompts]({{ page.url }}haack-prompt.pdf)]
-
-    Susan Haack, "Chapter 5: Intuitionism", in *Deviant Logic: Some Philosophical Issues* (1974). Pages 91–108.
-
-* **(Discussion 11/18)** Plumwood 2, [[response prompts]({{ page.url }}plumwood2-prompt.pdf)]
+* **(Discussion 11/11)** Plumwood 2, [[response prompts]({{ page.url }}plumwood2-prompt.pdf)]
 
     Val Plumwood, "The politics of reason: towards a feminist logic" (1993). Sections V–VII (pages 453–459).
+
+* **(Discussion 11/18)** Haack, [[response prompts]({{ page.url }}haack-prompt.pdf)]
+
+    Susan Haack, "Chapter 5: Intuitionism", in *Deviant Logic: Some Philosophical Issues* (1974). Pages 91–108.
 
 * **(Discussion 12/2)** Term paper, [[response prompts]({{ page.url }}term-paper-prompt.pdf)]
 
@@ -56,8 +56,8 @@ This is a seven week half-semester course, beginning on week 8 of the semester. 
 | 8 | Introduction | Boolean | Logic |
 | 9 | Plumwood 1 Discussion | Boolean | Logic |
 |10 | Daly Discussion | Fuzzy | Logic |
-|11 | Haack Discussion | Fuzzy | Logic |
-|12 | Plumwood 2 Discussion | Intuitionistic | Logic |
+|11 | Plumwood 2 Discussion | Fuzzy | Logic |
+|12 | Haack Discussion | Intuitionistic | Logic |
 |13 | Term Paper Discussion | Intuitionistic | Logic |
 |14 | Nye discussion | Wrap up | *No class* |
 
@@ -71,11 +71,11 @@ Important dates:
 
 * **Fri 11/8:** Problem set 2 due.
 
-* **Mon 11/11:** Haack discussion, response prompts due.
+* **Mon 11/11:** Plumwood 2 discussion, response prompts due.
 
 * **Fri 11/15:** Problem set 3 due.
 
-* **Mon 11/18:** Plumwood 2 discussion, response prompts due, start term paper.
+* **Mon 11/18:** Haack discussion, response prompts due, start term paper.
 
 * **Fri 11/22:** Problem set 4 due.
 
