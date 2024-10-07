@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (10/7) [Here is the answer key for midterm 1.]({{ page.url }}e1answers.pdf)
+
 * (9/23) [Here is the diagram of the hierarchy of differentiation rules.]({{ page.url }}structure-of-diff-rules.pdf)
 
 * (9/20) [Here is the study guide for midterm 1]({{ page.url }}sg1.pdf) and [here is the formula sheet you will be given]({{ page.url }}formulas1.pdf).
