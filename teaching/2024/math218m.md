@@ -28,7 +28,7 @@ Each week you will read a selection from a paper and respond to some short promp
 
 * **(Discussion 11/4)** Daly, [[response prompts]({{ page.url }}daly-prompt.pdf)]
 
-    Helen L. Daly, "Modelling sex/gender" (20167). Pages 79–90.
+    Helen L. Daly, "Modelling sex/gender" (2017). Pages 79–90.
 
 * **(Discussion 11/11)** Plumwood 2, [[response prompts]({{ page.url }}plumwood2-prompt.pdf)]
 
@@ -36,7 +36,7 @@ Each week you will read a selection from a paper and respond to some short promp
 
 * **(Discussion 11/18)** Haack, [[response prompts]({{ page.url }}haack-prompt.pdf)]
 
-    Susan Haack, "Chapter 5: Intuitionism", in *Deviant Logic: Some Philosophical Issues* (1974). Pages 91–108.
+    Susan Haack, "Chapter 5: Intuitionism", in *Deviant Logic: Some Philosophical Issues* (1974). Sections 1–4 (pages 91–103).
 
 * **(Discussion 12/2)** Term paper, [[response prompts]({{ page.url }}term-paper-prompt.pdf)]
 
