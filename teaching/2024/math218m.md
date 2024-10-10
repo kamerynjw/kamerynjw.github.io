@@ -22,6 +22,8 @@ Reading assignments
 
 Each week you will read a selection from a paper and respond to some short prompt questions. You will submit your responses the following Monday, and we will have a class discussion where we talk about the reading together. **You must keep up with the readings; the discussion sessions cannot happen if you do not.**
 
+PDFs of the readings can be found on the google drive for the course.
+
 * **(Discussion 10/28)** Plumwood 1, [[response prompts]({{ page.url }}plumwood1-prompt.pdf)]
 
     Val Plumwood, "The politics of reason: towards a feminist logic" (1993). Sections I–III (pages 436–445).
