@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* *No class Wednesday 10/16.*
+
 * (10/9) [Here is the worksheet for limits.]({{ page.url }}limit-rules.pdf)
 
 * (10/7) [Here is the answer key for midterm 1.]({{ page.url }}e1answers.pdf)
