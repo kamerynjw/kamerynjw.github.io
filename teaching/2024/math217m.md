@@ -18,6 +18,11 @@ Announcements
 
 * (9/6) [Here is the worksheet from today.]({{ page.url }}recursion.pdf)
 
+Take-home final
+---------
+
+[Here is the take-home final.]({{ page.url }}exam.pdf) It is due by Monday, October 21st. Please either email me a scan of your final or drop it off at my office.
+
 Problem sets
 -------
 
