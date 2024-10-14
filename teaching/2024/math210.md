@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (10/18) [Here is the worksheet for today's class.]({{ page.url }}10-18.pdf)
+
 * *No class Wednesday 10/16.*
 
 * (10/9) [Here is the worksheet for limits.]({{ page.url }}limit-rules.pdf)
@@ -43,7 +45,7 @@ Announcements
 Problem sets
 -------
 
-* **Week 7** (Due Monday 10/21) Section 3.5 #1, 2, 4, 12, 24, 27; Section 3.6 your choice of three from #2–20
+* **Week 7** (Due Monday 10/21) Section 3.5 #1, 2, 4, 12, 24, 27; Section 3.6 your choice of four total from #2–20 or from the problems on the [10-18 worksheet]]({{ page.url }}10-18.pdf).
 
 * **Week 6** (Due Monday 10/14) Section 3.2 your choice of three from #5–12; Section 3.3 #2, 3, 4, 6, 8, 16; Section 3.4 #1, 2, 4, 9, 18, 26
 
