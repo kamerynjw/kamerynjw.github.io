@@ -43,6 +43,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 7** (Due Monday 10/21) Section 3.5 #1, 2, 4, 12, 24, 27; Section 3.6 your choice of three from #2–20
+
 * **Week 6** (Due Monday 10/14) Section 3.2 your choice of three from #5–12; Section 3.3 #2, 3, 4, 6, 8, 16; Section 3.4 #1, 2, 4, 9, 18, 26
 
 * **Week 5** (Due Wednesday 9/25) Differentiate:
@@ -65,6 +67,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 7** (Due Monday 10/21) Your friend insists that a function can have its maximum occur at two different places without having a minimum. Explain why they are correct by giving an example. Are they still correct if you insist the function be continuous everywhere on its domain? Justify your answer. (Extra credit 1) Consider the function $r(x)$ defined as $r(x) = x$ when $x$ is rational and $r(x) = 0$ when $x$ is irrational. Determine the set of points where $r(x)$ is continuous. (Extra credit 2) Consider a fixed finite set $S = \{a_1, \ldots, a_n\}$ of real numbers. Define the function $\chi_S(x)$ as $\chi_S(x) = 1$ if $x$ is an element of $S$ and $\chi_S(x) = 0$ otherwise. Determine the set of points where $\chi_S(x)$ is continuous.
 
 * **Week 6** (Due Monday 10/14) Read pages 29–31 of [Penelope Maddy, "How applied mathematics became pure" (2008)]({{ page.url }}maddyhowapplied.pdf), where she discusses how calculus is used to approximate a discrete reality. Pick one of the problems from section 3.2 you did. Following Maddy's analysis, explain for your specific problem the idealizations and simplifications made to be able to apply calculus.
 
