@@ -29,11 +29,11 @@ Class Information
 
 **Office** 2T Hall College Center
 
-**Textbook** TODO
+**Textbook** Audrey Yap and Richard Zach, *What If? An Open Introduction to Non-Classical Logics* (2021). [[PDF]({{ page.parentlink }}what-if.pdf) [<img src="{{ page.parentlink }}cc-by-na-sa-4.0.png" width="88" alt="Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International Licensce.">](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
-**Course Description** TODO
+**Course Description** Popular perception has it that mathematics is a domain of rigid, binary thinking. This is not the case. This class is a survey of some formal systems in mathematics which provide tools to study phenomena which don’t cohere to a binary. We will learn about a variety of propositional logical systems which don’t adhere to the true-false binary, including multi-valued, intuitionistic, and paraconsistent systems. We will look at these systems from both a mathematical and a philosophical perspective. We will investigate the use of these tools to understand topics outside of mathematics, especially gender and sexuality.
 
-**Prerequisite** TODO
+**Prerequisite** Prerequisites: Math 107M, Math 113, or instructor permission.
 
 Learning Outcomes
 ========
@@ -108,9 +108,50 @@ For each reading you will be assigned a selection of pages. These pages are wher
 
 In addition to the core readings which we will discuss in class, there is a list of extended readings. These are further texts which explore the ideas we will see during class time, but sadly we don't have the time to read everything. Instead you will pick one of the extended readings to read on your own to then make up part of your term paper.
 
-INSERT COPY OF SCHEDULE TODO
+The readings can be found on the class google drive, which I will share with you via email.
 
-INSERT COPY OF READINGS TODO
+
+Core readings
+----
+
+* Helen L. Daly, "Modelling sex/gender" (2017).
+
+* Susan Haack, "Chapter 5: Intuitionism", in *Deviant Logic: Some Philosophical Issues* (1974).
+
+* Andrea Nye, "Conclusion: Words of power and the power of words", in *Words of Power: A Feminist Reading of the History of Logic* (1990).
+
+* Val Plumwood, "The politics of reason: towards a feminist logic" (1993).
+
+
+Extended readings
+--------
+
+* Maryann Ayim, "Passing through the needle's eye: can a feminist teach logic?" (1995).
+
+* Rory W. Collins, "Modeling gender as a multidimensional Sorites paradox" (2020).
+
+* Robin Dembroff, "What is sexual orientation?" (2016).
+
+* Maureen Eckert, "De-centering and genderqueering Val Plumwood's feminist logic" (2024).
+
+* Maureen Eckert and Charlie Donahue, "Towards a feminist logic: Val Plumwood's legacy and beyond" (2020).
+
+* Thomas Macaulay Ferguson, "From excluded middle to homogenization in Plumwood's feminist critique of logic" (2023).
+
+* Arend Heyting, "Chapter 1: Disputation" in *Intuitionism: An Introduction* (1956).
+
+* Franci Mangraviti, "The liberation argument for inconsistent mathematics" (2023).
+
+* Val Plumwood, "Some false laws of logic" (2023).
+
+* Ivan Restovi\'c, "Feminist logic, literally" (2023).
+
+* Catharine Saint-Croix and Roy T. Cook, "(What) is feminist logic? (What) do we want it to be?" (2024).
+
+* Bonnie Shulman, "What if we change our axioms? A feminist inquiry into the foundations of mathematics" (1996).
+
+* Anne Waters, "Language matters: nondiscrete nonbinary dualism" in *American Indian Thought* ed. Anne Waters (2004).
+
 
 Term Paper
 ====
@@ -152,7 +193,11 @@ You will write a term paper comparing and contrasting the ideas in one core read
 Textbook Information
 ========
 
-TODO
+As a reference for the technical material we will use Audrey Yap and Richard Zach, *What If? An Open Introduction to Non-Classical Logics* (2021). A pdf of this book is freely available under a [Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International Licensce](https://creativecommons.org/licenses/by-nc-sa/4.0/): [[hosted on my website]({{ page.parentlink }}what-if.pdf)] or [[see their webpage](https://builds.openlogicproject.org/courses/what-if/)].
+
+
+[<img src="{{ page.parentlink }}cc-by-na-sa-4.0.png" width="88" alt="Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International Licensce.">](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 Attendance Policy and Class Participation Guidelines
 ==========
@@ -205,6 +250,18 @@ The [Wellness Center Health and Counseling Services](https://simons-rock.edu/stu
 
 The [Win Student Resources Commons](https://simons-rock.edu/early-college/contact-us/offices-and-departments/win-commons.php) offers academic support, tutoring, accessibility, and career advice.
 
+Schedule
+========
+
+| Week | Monday | Wednesday | Friday |
+|-----:|--------|-----------|--------|
+| 8 | Introduction | Boolean | Logic |
+| 9 | Plumwood 1 Discussion | Boolean | Logic |
+|10 | Daly Discussion | Fuzzy | Logic |
+|11 | Plumwood 2 Discussion | Fuzzy | Logic |
+|12 | Haack Discussion | Intuitionistic | Logic |
+|13 | Term Paper Discussion | Intuitionistic | Logic |
+|14 | Nye discussion | Wrap up | *No class* |
 
 Notice of Changes
 ======
