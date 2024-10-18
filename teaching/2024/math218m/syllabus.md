@@ -29,7 +29,7 @@ Class Information
 
 **Office** 2T Hall College Center
 
-**Textbook** Audrey Yap and Richard Zach, *What If? An Open Introduction to Non-Classical Logics* (2021). [[PDF]({{ page.parentlink }}what-if.pdf) [<img src="{{ page.parentlink }}cc-by-na-sa-4.0.png" width="88" alt="Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International Licensce.">](https://creativecommons.org/licenses/by-nc-sa/4.0/))
+**Textbook** Audrey Yap and Richard Zach, *What If? An Open Introduction to Non-Classical Logics* (2021). [[PDF]({{ page.parentlink }}what-if.pdf)] [<img src="{{ page.parentlink }}cc-by-na-sa-4.0.png" width="88" alt="Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International Licensce.">](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 **Course Description** Popular perception has it that mathematics is a domain of rigid, binary thinking. This is not the case. This class is a survey of some formal systems in mathematics which provide tools to study phenomena which don’t cohere to a binary. We will learn about a variety of propositional logical systems which don’t adhere to the true-false binary, including multi-valued, intuitionistic, and paraconsistent systems. We will look at these systems from both a mathematical and a philosophical perspective. We will investigate the use of these tools to understand topics outside of mathematics, especially gender and sexuality.
 
@@ -144,7 +144,7 @@ Extended readings
 
 * Val Plumwood, "Some false laws of logic" (2023).
 
-* Ivan Restovi\'c, "Feminist logic, literally" (2023).
+* Ivan Restović, "Feminist logic, literally" (2023).
 
 * Catharine Saint-Croix and Roy T. Cook, "(What) is feminist logic? (What) do we want it to be?" (2024).
 

@@ -11,7 +11,7 @@ Current Semester (Fall 2024)
 
 [Math 217M1: Introduction to mathematical proof]({{ page.url }}2024/math217m/)
 
-Math 218M2: Nonbinary thinking in mathematics
+[Math 218M2: Nonbinary thinking in mathematics]({{ page.url }}2024/math218m/)
 
 [Math 477T: Category theory (tutorial)]({{ page.url }}2024/math477t/)
 
