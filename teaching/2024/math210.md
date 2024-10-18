@@ -45,6 +45,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 8** (Due Monday 10/28) Section 3.7 #1, 13, 39, do the same process as in this section's problems to the functions $b(x) = (x^2 - x)e^x$ and $c(x) = \arctan x$; Section 4.1 #1, 2, 4, 10, 22.
+
 * **Week 7** (Due Monday 10/21) Section 3.5 #1, 2, 4, 12, 24, 27; Section 3.6 your choice of four total from #2–20 or from the problems on the [10-18 worksheet]]({{ page.url }}10-18.pdf).
 
 * **Week 6** (Due Monday 10/14) Section 3.2 your choice of three from #5–12; Section 3.3 #2, 3, 4, 6, 8, 16; Section 3.4 #1, 2, 4, 9, 18, 26
@@ -69,6 +71,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 8** (Due Monday 10/28) Read the textbook's proof of the extreme value theorem on page 164. Summarize the key ideas of the argument in your own words, and draw a picture to illustrate it. (Extra credit) Do the same for the textbook's proofs of Rolle's theorem and the mean value theorem, on pages 165 and 
 
 * **Week 7** (Due Monday 10/21) Your friend insists that a function can have its maximum occur at two different places without having a minimum. Explain why they are correct by giving an example. Are they still correct if you insist the function be continuous everywhere on its domain? Justify your answer. (Extra credit 1) Consider the function $r(x)$ defined as $r(x) = x$ when $x$ is rational and $r(x) = 0$ when $x$ is irrational. Determine the set of points where $r(x)$ is continuous. (Extra credit 2) Consider a fixed finite set $S = \\{a_1, \ldots, a_n\\}$ of real numbers. Define the function $\chi_S(x)$ as $\chi_S(x) = 1$ if $x$ is an element of $S$ and $\chi_S(x) = 0$ otherwise. Determine the set of points where $\chi_S(x)$ is continuous.
 
