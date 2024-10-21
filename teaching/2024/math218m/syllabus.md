@@ -21,7 +21,7 @@ Class Information
 
 **Class Hours and Room** 
 
-* MWF 1:35–2:30
+* MWF 12:31–1:25
 
 * CL1-01
 
