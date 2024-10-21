@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (10/21) [Here is the worksheet for today's class.]({{ page.url }}10-21.pdf)
+
 * (10/18) [Here is the worksheet for today's class.]({{ page.url }}10-18.pdf)
 
 * *No class Wednesday 10/16.*
