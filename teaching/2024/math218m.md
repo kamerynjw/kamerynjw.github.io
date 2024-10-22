@@ -12,10 +12,24 @@ Announcements
 
 (Nothing yet!)
 
-Problem sets
+Technical material
 -------
 
-(Nothing yet!)
+* (Week 8 and 9) [Boolean Logic]({{ page.url }}boolean.pdf)
+
+    **Due Fri 11/1**: Exercises 1–21.
+
+* (Week 10 and 11) Fuzzy Logic
+
+    **Due Fri 11/8**: *forthcoming*.
+
+    **Due Fri 11/15**: *forthcoming*.
+
+* (Week 12 and 13) Intuitionist Logic
+
+    **Due Fri 11/22**: *forthcoming*.
+
+    **Due Fri 12/6**: *forthcoming*.
 
 Reading assignments
 -------
