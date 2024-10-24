@@ -112,21 +112,21 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 	
     * Week 4: More about differentiation [2.6, 2.8]
 	
-    * Week 5: Related rates, review, exam [3.2]
+    * Week 5: Yet more about differentiation, review, exam [None]
 	
 	(Fall break 9/30–10/4.)
 	
 * Unit 2 (10/7–11/8): **Uses of the derivative and an introduction to the integral**
 
-    * Week 6: Limits and continuity [3.3, 3.4, 3.5]
+    * Week 6: Related rates, limits, and continuity [3.2, 3.3, 3.4]
 	
-    * Week 7: Extrema and the meaning of the second derivative [3.6, 3.7]
+    * Week 7: Extreme points [3.5, 3.6]
 	
 	(No class Wednesday 10/16.)
 	
-    * Week 8: Integrals and the fundamental theorem of calculus [3.8, 4.1, 4.2]
+    * Week 8: The shape of graphs and integrals [3.7, 3.8, 4.1]
 	
-    * Week 9: Computing integrals [4.3, 4.4]
+    * Week 9: The fundamental theorem of calculus and computing integrals [4.2, 4.3, 4.4]
 	
     * Week 10: Area between curves, review, exam [4.5]
 	
