@@ -47,6 +47,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 9** (Due Monday 11/4) Section 4.2 #3, 5, 16, 20; Section 4.3 #1, 2, 12, 16, 18, 30; Section 4.4 #1, 2, 7, 27, 30, 56, 83, 84
+
 * **Week 8** (Due Monday 10/28) Section 3.7 #1, 13, 39, do the same process as in this section's problems to the functions $b(x) = (x^2 - x)e^x$ and $c(x) = \arctan x$; Section 4.1 #1, 2, 4, 10, 22.
 
 * **Week 7** (Due Monday 10/21) Section 3.5 #1, 2, 4, 12, 24, 27; Section 3.6 your choice of four total from #2–20 or from the problems on the [10-18 worksheet]({{ page.url }}10-18.pdf).
@@ -73,6 +75,10 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 9** (Due Monday 11/4) Work out formulas in terms of $k$, where $k$ is an arbitrary positive integer, which gives the values of the definite integrals $\displaystyle \int_0^1 x^k \, \mathrm{d} x$ and $\displaystyle \int_{-1}^1 x^k \, \mathrm{d} x$. Explain why these formulas work.
+
+    (Extra credit) A function $f(x)$ is *odd* if $f(-x) = - f(x)$ for all $x$ and $f(x)$ is *even* if $f(-x) = f(x)$ for all $x$. Explain why, for any $b$, $\displaystyle \int_{-b}^b f(x) \, \mathrm{d} x = 0$ for odd $f(x)$ and $\displaystyle \int_{-b}^b f(x) \, \mathrm{d} x = 2 \int_0^b  f(x) \, \mathrm{d} x$ for even $f(x)$.
 
 * **Week 8** (Due Monday 10/28) Read the textbook's proof of the extreme value theorem on page 164. Summarize the key ideas of the argument in your own words, and draw a picture to illustrate it. (Extra credit) Do the same for the textbook's proofs of Rolle's theorem and the mean value theorem, on pages 165 and 
 
