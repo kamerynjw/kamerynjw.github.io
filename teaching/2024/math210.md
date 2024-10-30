@@ -10,7 +10,13 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
-* (10/21) [Here is the worksheet for today's class.]({{ page.url }}10-21.pdf)
+* (11/4) [Here is the study guide for midterm 2]({{ page.url }}sg2.pdf)
+
+* (11/4) [Here is the worksheet for today's class.]({{ page.url }}11-4.pdf)
+
+* (11/1) [Here is the worksheet for today's class.]({{ page.url }}11-1.pdf)
+
+* (10/30) [Here is the worksheet for today's class.]({{ page.url }}10-30.pdf)
 
 * (10/18) [Here is the worksheet for today's class.]({{ page.url }}10-18.pdf)
 
