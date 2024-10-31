@@ -1,6 +1,11 @@
 
 # seminar talks to display in talks.md
 
+- href: "2024-nov-conn"
+  title: "Is forcing a computable procedure?"
+  other: "Connecticut Logic Seminar"
+  date: "Nov 2024"
+
 - href: "2024-sept-srmc"
   title: "Infinity, the axiom of choice, and mediacy"
   other: "Simon's Rock Mathematics Colloquium"
