@@ -53,6 +53,28 @@ Announcements
 Problem sets
 -------
 
+* **Week 10** (Due Wednesday 11/6) Integrate the following:
+
+    $\displaystyle \int_1^4 \frac{e^{\sqrt x}}{\sqrt x} \,\mathrm{d}x$
+    
+    $\displaystyle \int_0^1 (4t + 3t^2)(t^3 + 2t^2)^4 \,\mathrm{d}t$
+
+    $\displaystyle \int_0^\pi \cos u e^{\sin u} \,\mathrm{d}u$
+
+    $\displaystyle \int_0^1 \frac{\sqrt{\arctan x}}{1 + x^2} \,\mathrm{d}x$
+
+    A common form where you use substitution is when $u = kx$ for some constant $k$. Work out the general rule for what to do in this situation:
+
+   * If $u = kx$ determine $\mathrm{d}u$.
+
+   * What is $\displaystyle \int e^{2x} \,\mathrm{d}x$?
+
+   * What is $\displaystyle \int e^{kx} \,\mathrm{d}x$? ($k$ is a fixed constant)
+
+   * What is $\displaystyle \int \sin(kx) \,\mathrm{d}x$?
+
+   * What is the general rule to calculate $\displaystyle \int f(kx) \,\mathrm{d}x$, if $f$ is some function?
+
 * **Week 9** (Due Monday 11/4) Section 4.2 #3, 5, 16, 20; Section 4.3 #1, 2, 12, 16, 18, 30; Section 4.4 #1, 2, 7, 27, 30, 56, 83, 84
 
 * **Week 8** (Due Monday 10/28) Section 3.7 #1, 13, 39, do the same process as in this section's problems to the functions $b(x) = (x^2 - x)e^x$ and $c(x) = \arctan x$; Section 4.1 #1, 2, 4, 10, 22.
@@ -81,6 +103,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 10** *No writing assignment.*
 
 * **Week 9** (Due Monday 11/4) Work out formulas in terms of $k$, where $k$ is an arbitrary positive integer, which gives the values of the definite integrals $\displaystyle \int_0^1 x^k \, \mathrm{d} x$ and $\displaystyle \int_{-1}^1 x^k \, \mathrm{d} x$. Explain why these formulas work.
 
