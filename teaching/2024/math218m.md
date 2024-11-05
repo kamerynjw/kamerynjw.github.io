@@ -19,9 +19,9 @@ Technical material
 
     **Due Fri 11/1**: Exercises 1–21.
 
-* (Week 10 and 11) Fuzzy Logic
+* (Week 10 and 11) Fuzzy Logic [Part 1]({{ page.url }}fuzz1.pdf)
 
-    **Due Fri 11/8**: *forthcoming*.
+    **Due Fri 11/8**: Exercises 1–5 from part 1.
 
     **Due Fri 11/15**: *forthcoming*.
 
