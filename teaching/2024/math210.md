@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (11/11) [Here is today's worksheet.]({{ page.url }}11-11.pdf)
+
 * (11/4) [Here is the study guide for midterm 2]({{ page.url }}sg2.pdf)
 
 * (11/4) [Here is the worksheet for today's class.]({{ page.url }}11-4.pdf)
@@ -52,6 +54,12 @@ Announcements
 
 Problem sets
 -------
+
+* **Week 11** (Due Monday 11/18) Setion 4.5 #1, 2, 8, 10, 15, 16.
+
+    Section 4.6: Choose three integrals from #1 to #20, with the corresponding choice of $\Delta x$. Numerically approximate the integrals. State which method you used, and at least one must be approximated using the trapezoidal rule and at least one must be approximated using Simpson's rule. You are encouraged to use a calculator or write a computer program to calculate the integral.
+
+    Section 5.1: #1, 2, 4, 6, 10, 12
 
 * **Week 10** (Due Wednesday 11/6) Integrate the following:
 
@@ -103,6 +111,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 11** (Due Monday 11/18) Write explanations for Section 4.6 #22 and 23. (Extra credit) Write a program to do numerical integration, implementing at least two kinds of Riemann sums and the trapezoidal rule. Write comments in your program explaining how it works. 
 
 * **Week 10** *No writing assignment.*
 
