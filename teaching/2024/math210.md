@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (11/12) [Here is the answer key for midterm 2.]({{ page.url }}e2answers.pdf)
+
 * (11/11) [Here is today's worksheet.]({{ page.url }}11-11.pdf)
 
 * (11/4) [Here is the study guide for midterm 2]({{ page.url }}sg2.pdf)
