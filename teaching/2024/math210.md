@@ -176,11 +176,11 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 	
     * Week 9: The fundamental theorem of calculus and computing integrals [4.2, 4.3, 4.4]
 	
-    * Week 10: Area between curves, review, exam [4.5]
+    * Week 10: More on integration by change of variables, review, exam [4.4]
 	
 * Unit 3 (11/11–12/6): **Miscellaneous applications**
 
-    * Week 11: Numerical integration and infinite limits [4.6, 5.1]
+    * Week 11: Area between curves, numerical integration and infinite limits [4.5, 4.6, 5.1]
 
     * Week 12: L'Hôpital's rule, limits, Newton's method [5.2, 5.3, 5.9]
 	
