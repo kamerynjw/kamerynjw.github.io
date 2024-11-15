@@ -1,6 +1,11 @@
 
 # selected talks to display in research.md
 
+- href: "2024-nov-nerds"
+  title: "Solid, neat, tight: toward charting the boundary of definability"
+  other: "invited talk, NERDS 25.0"
+  date: "Nov 2024"
+
 - href: "2024-jul-120yoc"
   title: "Mediacy and independence"
   other: "invited talk, 120 Years of Choice"
