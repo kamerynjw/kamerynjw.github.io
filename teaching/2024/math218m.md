@@ -21,13 +21,9 @@ Technical material
 
 * (Week 10 and 11) Fuzzy Logic [Part 1 and part 2]({{ page.url }}fuzzy12.pdf)
 
-    **Due Fri 11/8**: Exercises 1–5 from part 1.
-
-    **Due Fri 11/15**: *forthcoming*.
+    **Due Fri 11/15**: Exercises 1–8.
 
 * (Week 12 and 13) Intuitionist Logic
-
-    **Due Fri 11/22**: *forthcoming*.
 
     **Due Fri 12/6**: *forthcoming*.
 
