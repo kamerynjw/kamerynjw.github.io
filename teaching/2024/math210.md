@@ -57,6 +57,8 @@ Announcements
 Problem sets
 -------
 
+* **Week 12** (Due Friday 11/22) Section 5.2 #1, 5, 6, 12, 22, 25, 29, 31, 36, 42; Section 5.8 #1, 3, 12, 13 (for each, use 4 iterations of Newton's method). Extra credit: write a compute program to compute Newton's method.
+
 * **Week 11** (Due Monday 11/18) Setion 4.5 #1, 2, 8, 10, 15, 16.
 
     Section 4.6: Choose three integrals from #1 to #20, with the corresponding choice of $\Delta x$. Numerically approximate the integrals. State which method you used, and at least one must be approximated using the trapezoidal rule and at least one must be approximated using Simpson's rule. You are encouraged to use a calculator or write a computer program to calculate the integral.
@@ -113,6 +115,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 12** *No writing assignment.*
 
 * **Week 11** (Due Monday 11/18) Write explanations for Section 4.6 #22 and 23. (Extra credit) Write a program to do numerical integration, implementing at least two kinds of Riemann sums and the trapezoidal rule. Write comments in your program explaining how it works. 
 
@@ -182,7 +186,7 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 
     * Week 11: Area between curves, numerical integration and infinite limits [4.5, 4.6, 5.1]
 
-    * Week 12: L'Hôpital's rule, limits, Newton's method [5.2, 5.3, 5.9]
+    * Week 12: L'Hôpital's rule, Newton's method, the epsilon-delta characterization of limits [5.2, 5.9, 5.8]
 	
 	(Thanksgiving break 11/25–11/29.)
 	
