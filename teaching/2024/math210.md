@@ -57,7 +57,7 @@ Announcements
 Problem sets
 -------
 
-* **Week 12** (Due Friday 11/22) Section 5.2 #1, 5, 6, 12, 22, 25, 29, 31, 36, 42; Section 5.8 #1, 3, 12, 13 (for each, use 4 iterations of Newton's method). Extra credit: write a compute program to compute Newton's method.
+* **Week 12** (Due Friday 11/22) Section 5.2 #1, 5, 6, 12, 22, 25, 29, 31, 36, 42; Section 5.9 #1, 3, 12, 13 (for each, use 4 iterations of Newton's method). Extra credit: write a compute program to compute Newton's method.
 
 * **Week 11** (Due Monday 11/18) Setion 4.5 #1, 2, 8, 10, 15, 16.
 
