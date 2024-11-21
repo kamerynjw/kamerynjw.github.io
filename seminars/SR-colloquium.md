@@ -26,11 +26,23 @@ The colloquium meets on Tuesdays at 2:40pm, unless otherwise stated.
   In model theory, we study mathematical structures and the things we can say about them -- classically, in first-order logic. Pseudofinite structures are infinite mathematical structures that "behave like" finite structures. In this talk, I will outline the basics of model theory and first-order logic, and clarify what I mean by "behave like" in the previous sentence. I will illustrate pseudofiniteness with some examples and non-examples, and share some instances of how pseudofinite model theory has been used to answer concrete questions in combinatorics. [[flyer]({{ page.url }}24-10-alex.pdf)]
 
 
-* November 19th (tentative)
+* December 3rd
 
   [Astra Kolomatskaia](https://www.wesleyan.edu/academics/faculty/akolomatskaia/profile.html) ([Wesleyan University](https://www.wesleyan.edu/))
 
-  *Title and abstract to be announced*
+  **Talk 1: What is type theory?** (1:30pm)
+
+This talk is an introduction to formal logic and type theory. We begin by considering minimal logic, a logical system in which the only compound propositions are of the form $T \rightarrow W$ [$T$ implies $W$]. We discuss the notions of truth and proof, and, thinking about an efficient way to express proof, reformulate the system into the form of a type theory. We then interpret terms of the type theory as programs in a programming language, and discuss one algorithm for "running" these programs that is based on the semantic/categorical properties of our language.
+
+  **Talk 2: What is a triangle?** (3:30pm)
+
+If you imagine some abstract space, then you can imagine marking off points in this space, drawing lines [i.e. any squiggly path] connecting two points, and shading in triangular surfaces bounding three lines. This data forms an example of a *semi-simplicial type*, which, intuitively, is an abstract specification of what the words "point, line, triangle, etc." mean. If the collections of points, lines, triangles, etc. are all "sets", then the object that they define is an example of a semi-simplicial set, and this notion is central to geometry and topology. However, if we more generally consider the collections of points, lines, triangles, etc. to be something like "spaces", then there arises a very subtle problem of coherently assembling an infinitely hierarchical structure from the data of n-simplicies at each level. This problem exists purely from the perspective of homotopy theory, but is most evident from the perspective of type theory – here, the challenge can be made very concrete: to write a definition of semi-simplicial types as code in a proof assistant.
+
+The problem of defining semi-simplicial types was one of the most important open problems in homotopy type theory. It was identified at the emergence of the field by Vladimir Voevodsky, and remained open for the next twelve years. In this talk, we present a solution to this problem in the form of *Displayed Type Theory* [dTT]. dTT is a new multi-modal homotopy type theory that enables the construction of semi-simplicial types in full semantic generality. It answers the question "What is a triangle?" by asking "What is mathematics?", taking that answer, and building a new universe for mathematics in which "everything is a triangle" [i.e. a diagram model on the augmented semi-simplex category]. Then, using language specific to this new mathematical universe, we are able to state a novel coinductive universal property for semi-simplicial types which is "finitary/uniform". Taking the discrete part of this diagram yields semi-simplicial types in the starting model, and the universal property furnishes this object with computational meaning in a way that enables working with semi-simplicial types on a computer.
+
+This talk is joint work with Mike Shulman. [[flyer]({{ page.url }}24-12-kolomatskaia.pdf)]
+
+
 
 Spring 2024
 ======
