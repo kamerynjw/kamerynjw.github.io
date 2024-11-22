@@ -23,9 +23,9 @@ Technical material
 
     **Due Fri 11/15**: Exercises 1–8.
 
-* (Week 12 and 13) Intuitionist Logic
+* (Week 12 and 13) [Intuitionist Logic]({{ page.url }}intuitionistic.pdf)
 
-    **Due Fri 12/6**: *forthcoming*.
+    **Due Fri 12/6**: Exercises 1–2.
 
 Reading assignments
 -------
