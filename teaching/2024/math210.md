@@ -10,6 +10,8 @@ permalink: /teaching/2024/math210/
 Announcements
 -------------
 
+* (12/2) [Here is the questions and info for the oral final.]({{ page.url }}final.pdf)
+
 * (11/12) [Here is the answer key for midterm 2.]({{ page.url }}e2answers.pdf)
 
 * (11/11) [Here is today's worksheet.]({{ page.url }}11-11.pdf)
