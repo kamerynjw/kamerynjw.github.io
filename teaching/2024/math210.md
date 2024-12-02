@@ -59,7 +59,7 @@ Announcements
 Problem sets
 -------
 
-* **Week 13** (Due Friday 12/9) Section 5.10 #1, 7, 13; Section 14.1 #1, 2, 5, 7, 8, 14, 15.
+* **Week 13** (Due Friday 12/9) Section 5.10 #1, 7, 13; Section 14.1 #1, 2, 7, 8, 14, 15.
 
    Please turn in at my office or email to me.
 
