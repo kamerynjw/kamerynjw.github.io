@@ -57,6 +57,10 @@ Announcements
 Problem sets
 -------
 
+* **Week 13** (Due Friday 12/9) Section 5.10 #1, 7, 13; Section 14.1 #1, 2, 5, 7, 8, 14, 15.
+
+   Please turn in at my office or email to me.
+
 * **Week 12** (Due Friday 11/22) Section 5.2 #1, 5, 6, 12, 22, 25, 29, 31, 36, 42; Section 5.9 #1, 3, 12, 13 (for each, use 3 iterations of Newton's method). Extra credit: write a compute program to compute Newton's method.
 
 * **Week 11** (Due Monday 11/18) Setion 4.5 #1, 2, 8, 10, 15, 16.
@@ -115,6 +119,8 @@ $\displaystyle c(x) = \sqrt{x^4 + e^4 + \sin(4x) + \tan(e^x - x^2) + \frac{\log_
 
 Writing assignments
 -------
+
+* **Week 13** Pick a topic you learned about this semester in calculus. Writing for an audience of a student who will take calc 1 next semester, write an intuitive explanation of the concept. (Extra credit) Share your explanation with a friend, if possible one who hasn't taken calc 1 yet. Write about their reaction to your explanation. Where was it good? Where could it use improvement?
 
 * **Week 12** *No writing assignment.*
 
@@ -190,7 +196,7 @@ The schedule below is tentative; we might have small adjustments in the dates. F
 	
 	(Thanksgiving break 11/25–11/29.)
 	
-    * Week 13: Increments, overspill time [5.10]
+    * Week 13: Increments, a brief peak at differential equations [5.10, 14.1]
 	
     * Week 14: Oral finals
 	
