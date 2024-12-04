@@ -23,7 +23,7 @@ Technical material
 
     **Due Fri 11/15**: Exercises 1–8.
 
-* (Week 12 and 13) [Intuitionist Logic]({{ page.url }}intuitionistic.pdf)
+* (Week 12 and 13) [Intuitionist Logic]({{ page.url }}intuitionistic.pdf). [Deduction Rules]({{ page.url }}deduction-rules.pdf)
 
     **Due Fri 12/6**: Exercises 1–2.
 
