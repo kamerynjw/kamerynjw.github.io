@@ -32,7 +32,7 @@ The colloquium meets on Tuesdays at 2:40pm, unless otherwise stated.
 
   **Talk 1: What is type theory?** (1:30pm)
 
-  This talk is an introduction to formal logic and type theory. We begin by considering minimal logic, a logical system in which the only compound propositions are of the form $T \rightarrow W$ [$T$ implies $W$]. We discuss the notions of truth and proof, and, thinking about an efficient way to express proof, reformulate the system into the form of a type theory. We then interpret terms of the type theory as programs in a programming language, and discuss one algorithm for "running" these programs that is based on the semantic/categorical properties of our language.
+  This talk is an introduction to formal logic and type theory. We begin by considering minimal logic, a logical system in which the only compound propositions are of the form $T \rightarrow W$ [$T$ implies $W$]. We discuss the notions of truth and proof, and, thinking about an efficient way to express proof, reformulate the system into the form of a type theory. We then interpret terms of the type theory as programs in a programming language, and discuss one algorithm for "running" these programs that is based on the semantic/categorical properties of our language. [[talk 1 slides]({{ page.url }}whatistypetheory.pdf)]
 
   **Talk 2: What is a triangle?** (3:30pm)
 
@@ -40,7 +40,7 @@ The colloquium meets on Tuesdays at 2:40pm, unless otherwise stated.
 
   The problem of defining semi-simplicial types was one of the most important open problems in homotopy type theory. It was identified at the emergence of the field by Vladimir Voevodsky, and remained open for the next twelve years. In this talk, we present a solution to this problem in the form of *Displayed Type Theory* [dTT]. dTT is a new multi-modal homotopy type theory that enables the construction of semi-simplicial types in full semantic generality. It answers the question "What is a triangle?" by asking "What is mathematics?", taking that answer, and building a new universe for mathematics in which "everything is a triangle" [i.e. a diagram model on the augmented semi-simplex category]. Then, using language specific to this new mathematical universe, we are able to state a novel coinductive universal property for semi-simplicial types which is "finitary/uniform". Taking the discrete part of this diagram yields semi-simplicial types in the starting model, and the universal property furnishes this object with computational meaning in a way that enables working with semi-simplicial types on a computer.
 
-  This talk is joint work with Mike Shulman. [[flyer]({{ page.url }}24-12-kolomatskaia.pdf)]
+  This talk is joint work with Mike Shulman. [[flyer]({{ page.url }}24-12-kolomatskaia.pdf)] [[talk 2 slides]({{ page.url }}whatisatriangle.pdf)]
 
 
 
