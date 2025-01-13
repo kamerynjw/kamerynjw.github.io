@@ -4,8 +4,19 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Current Semester (Fall 2024)
+Current Semester (Spring 2025)
 =======
+
+[Math 113: Logic]({{ page.url }}2025/math113/)
+
+[Math 211: Calculus II]({{ page.url }}2025/math211/)
+
+
+Previous Semesters 
+==================
+
+Fall 2024
+---------
 
 [Math 210: Calculus I]({{ page.url }}2024/math210/)
 
@@ -15,8 +26,6 @@ Current Semester (Fall 2024)
 
 [Math 477T: Category theory (tutorial)]({{ page.url }}2024/math477t/)
 
-Previous Semesters 
-==================
 
 Spring 2024
 -----------

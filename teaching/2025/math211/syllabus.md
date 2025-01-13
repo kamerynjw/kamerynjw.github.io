@@ -2,6 +2,7 @@
 layout: page
 title: "Math 211 Syllabus (Spring 2025)"
 permalink: /teaching/2025/math211/syllabus/
+parentlink: /teaching/2025/math211/
 ---
 
 
@@ -12,7 +13,7 @@ Class Information
 
 **Instructor** Julia Williams
 
-**Website** [http://kamerynjw.net/teaching/2023/math211/]({{ site.baseurl }}/teaching/2025/math211/)
+**Website** [http://kamerynjw.net/teaching/2025/math211/]({{ site.baseurl }}/teaching/2025/math211/)
 
 **Email** `kwilliams [at] simons-rock (dot) edu`
 
@@ -112,9 +113,9 @@ There will be two midterm exams. These are in-class, written, individual exams.
 
 Exam dates:
 
-* Midterm 1: **Friday, **
+* Midterm 1: **Friday, Feb 28**
 
-* Midterm 2: **Friday, **
+* Midterm 2: **Wednesday, Apr 16**
 
 Oral Final
 ====
@@ -130,7 +131,7 @@ The textbook for this class is H. Jerome Keisler, *Elementary Calculus: An Infin
 
 [<img src="{{ page.parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-There is also a print edition of the book, published by Dover. (ISBN: 978-0486484525) If you prefer a physical copy you can buy it online for about \$30 to \$40.
+There is also a print edition of the book, published by Dover. (ISBN: 978-0486484525) If you prefer a physical copy you can buy it online for about 30 to 40 USD.
 
 Most of the homework will be assigned out of the textbook, and from time to time I will ask you to read selections from it. The book is well-written, and it is a good resource for studying on your own or for examples of how to write about mathematics.
 

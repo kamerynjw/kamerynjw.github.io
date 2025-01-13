@@ -41,6 +41,8 @@ The schedule below is tentative; we might have small adjustments in the dates. F
     * Week 6: Integration by parts, trig integrals [7.4, 7.5]
 	
     * Week 7: Trig substitution, rational functions [7.6, 8.8]
+
+    * *Spring break!*
 	
     * Week 8: Intro to sequences and series [9.1, 9.2, 9.3]
 	
