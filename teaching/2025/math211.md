@@ -10,7 +10,7 @@ permalink: /teaching/2025/math211/
 Announcements
 -------------
 
-(None yet!)
+* [Here are the slides from day 1.]({{ page.url }}day1.pdf)
 
 Homework
 --------
