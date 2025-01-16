@@ -10,12 +10,12 @@ permalink: /teaching/2025/math113/
 Announcements
 -------------
 
-(None yet!)
+* [Here are the slides from day 1.]({{ page.url }}day1.pdf)
 
 Homework
 --------
 
-(None yet!)
+* **Due Monday 2/3:** Chapter 2 exercises A, B.
 
 Schedule
 --------
@@ -24,49 +24,49 @@ This course is organized by topics. Homework is assigned weekly due on the follo
 
 The schedule below is tentative; we might have small adjustments in the dates. For each week I've included which sections from the textbook we will be covering.
 
-* *Syllogisms* (1/27–1/31)
+* *Arguments* (1/27–1/31)
 
-    * Week 1: Chapter I
+    * Week 1: Part I
 
 * *Truth-Function Logic* (2/3–2/28)
 	
-    * Week 2: Chapter II
+    * Week 2: Part II
 	
     * Week 3: Chater III
 	
-    * Week 4: Chapter IV
+    * Week 4: Part IV
 	
-    * Week 5: Chapter IV, quiz
+    * Week 5: Part IV, quiz
 
     * **Quiz 1 Feb 28**, journal due by end of weekend.
 	
 * *First-Order Logic* (3/3–4/11)
 
-    * Week 6: Chapter V
+    * Week 6: Part V
 	
-    * Week 7: Chapter VI
+    * Week 7: Part VI
 	
     * *Spring break!*
 	
-    * Week 8: Chapter VI
+    * Week 8: Part VI
 	
-    * Week 9: Chapter VII
+    * Week 9: Part VII
 	
-    * Week 10: Chapter VII, quiz
+    * Week 10: Part VII, quiz
 
     * **Quiz 2 Apr 11**, journal due by end of weekend.
 	
 * *Modal Logic* (4/14–4/25)
 
-    * Week 11: Chapter VIII
+    * Week 11: Part VIII
 
     * *No class Friday 4/18*
 
-    * Week 12: Chapter VIII
+    * Week 12: Part VIII
 	
 * *Metatheory* (4/28–5/7)
 
-    * Week 13: Chapter IX
+    * Week 13: Part IX
 	
     * Week 14: Exam
 
