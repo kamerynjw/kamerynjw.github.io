@@ -15,7 +15,9 @@ Announcements
 Homework
 --------
 
-(None yet!)
+* **Week 1 (Due Monday 2/3)** Page 41: #9, 12, 14, 17; Page 103: #31, 32, 34; Page 300: #7, 9, 10, 29, 30.
+
+    Writing: Write the statement of the fundamental theorem of calculus (both parts!) and give an informal explanation for why it is true. (Extra Credit) The Transfer Principle says that any equality or inequality about real functions true in the reals is also true in the hyperreals. We could formulate the same principle but going from the rational numbers to the real numbers: "Any equality or inequality about rational functions true in the rationals is also true in the reals." Is this rational to real transfer principle true or false? Justify your answer
 
 Schedule
 --------
