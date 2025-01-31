@@ -29,7 +29,11 @@ Class Information
 
 **Office** 2T, Hall College Center
 
-**Tutoring** At Think Tank, Student Union Building. Times TBA.
+**Tutoring** At Think Tank, Student Union Building.
+
+*  Jack: TTh 7:00–8:00pm
+
+* Kent: W 5:30–7:30pm
 
 **Textbook** H. Jerome Keisler, *Elementary Calculus: An Infinitesimal Approach*, online edition. [[PDF]({{ page.parentlink }}keisler-ec.pdf)] (Copyright 2000 by H. Jerome Keisler. [<img src="{{ page.parentlink }}cc-by-na-sa-3.0.png" width="88" alt="Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 Unported Licensce.">](https://creativecommons.org/licenses/by-nc-sa/3.0/))
 
