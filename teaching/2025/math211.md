@@ -10,7 +10,9 @@ permalink: /teaching/2025/math211/
 Announcements
 -------------
 
-* (1/29) [Here is the rulesheet about hyperreals]({{ page.url }}hyperreals.pdf) and [here is the worksheet for the day]({{ page.url }}ws-1.29.pdf)
+* (1/31) [Here is the worksheet from today.]({{ page.url }}w-1.31.pdf)
+
+* (1/29) [Here is the rulesheet about hyperreals]({{ page.url }}hyperreals.pdf) and [here is the worksheet for the day]({{ page.url }}ws-1.29.pdf).
 
 * (1/27) [Here are the slides from day 1.]({{ page.url }}day1.pdf)
 
