@@ -19,6 +19,10 @@ Announcements
 Homework
 --------
 
+* **Week 2 (Due Monday 2/10)** Section 6.1: #1, 2, 5, 6; Section 6.2 #1, 2, 3, 6, 1012, 27, 28, 47, 49, 50
+
+    Writing: Using integration, give an explanation to justify the formula $V = \frac{\pi}{3}r^2 h$ for the volume of a circular cone of radius $r$ at the base and height $h$. (Extra Credit) A regular tetrahedron is the solid with four faces, each an equally sized equilateral triangles. Determine a formula for the volume of a tetrahedron with side length $s$, and give an explanation to justify it.
+
 * **Week 1 (Due Monday 2/3)** Extra Problems Page 41: #9, 12, 14, 17; Extra Problems Page 103: #31, 32, 34; Extra Problems Page 234: #7, 9, 10, 29, 30.
 
     Writing: Write the statement of the fundamental theorem of calculus (both parts!) and give an informal explanation for why it is true. (Extra Credit) The Transfer Principle says that any equality or inequality about real functions true in the reals is also true in the hyperreals. We could formulate the same principle but going from the rational numbers to the real numbers: "Any equality or inequality about rational functions true in the rationals is also true in the reals." Is this rational to real transfer principle true or false? Justify your answer
