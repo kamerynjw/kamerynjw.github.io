@@ -10,6 +10,8 @@ permalink: /teaching/2025/math113/
 Announcements
 -------------
 
+* (2/3) [Here is the worksheet from today.]({{ page.url }}ws2-3.pdf)
+
 * (1/31) [Here is the worksheet from today.]({{ page.url }}ws1-31.pdf)
 
 * (1/27) [Here are the slides from day 1.]({{ page.url }}day1.pdf)
@@ -17,7 +19,9 @@ Announcements
 Homework
 --------
 
-* **Due Monday 2/3:** Chapter 2 exercises A, B.
+* Week 2 **Due Monday 2/10:** Chapter 5 exercises A, D, E, I; Chapter 6 exercises A, B.
+
+* Week 1 **Due Monday 2/3:** Chapter 2 exercises A, B.
 
 Schedule
 --------
