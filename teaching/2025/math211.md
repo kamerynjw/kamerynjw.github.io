@@ -10,7 +10,9 @@ permalink: /teaching/2025/math211/
 Announcements
 -------------
 
-* (1/31) [Here is the worksheet from today.]({{ page.url }}w-1.31.pdf)
+* (2/7) [Here is the worksheet from today.]({{ page.url }}ws-2.7.pdf)
+
+* (1/31) [Here is the worksheet from today.]({{ page.url }}ws-1.31.pdf)
 
 * (1/29) [Here is the rulesheet about hyperreals]({{ page.url }}hyperreals.pdf) and [here is the worksheet for the day]({{ page.url }}ws-1.29.pdf).
 
@@ -19,7 +21,7 @@ Announcements
 Homework
 --------
 
-* **Week 2 (Due Monday 2/10)** Section 6.1: #1, 2, 5, 6; Section 6.2 #1, 2, 3, 6, 1012, 27, 28, 47, 49, 50
+* **Week 2 (Due Monday 2/10)** Section 6.1: #1, 2, 5, 6; Section 6.2 #1, 2, 3, 6, 10, 12, 27, 28, 47, 49, 50
 
     Writing: Using integration, give an explanation to justify the formula $V = \frac{\pi}{3}r^2 h$ for the volume of a circular cone of radius $r$ at the base and height $h$. (Extra Credit) A regular tetrahedron is the solid with four faces, each an equally sized equilateral triangles. Determine a formula for the volume of a tetrahedron with side length $s$, and give an explanation to justify it.
 
