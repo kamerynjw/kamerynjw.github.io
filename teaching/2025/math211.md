@@ -21,6 +21,10 @@ Announcements
 Homework
 --------
 
+* **Week 3 (Due Monday 2/17)** Section 6.3: #1, 2, 3, 5; Section 6.4 #1, 2, 4, 13, 14; Section 6.5 #1, 2, 9, 10, 16.
+
+    Writing: Using integration, give an explanation to justify the formula $A = 4\pi r^2$ for the surface area of a sphere of radius $r$. (Extra Credit) Write a computer program which uses numerical integration (Riemann sums, trapezoidal rule, or Simpson's rule) to approximately calculate arc lengths of curves $y = f(x)$.
+
 * **Week 2 (Due Monday 2/10)** Section 6.1: #1, 2, 5, 6; Section 6.2 #1, 2, 3, 6, 10, 12, 27, 28, 47, 49, 50
 
     Writing: Using integration, give an explanation to justify the formula $V = \frac{\pi}{3}r^2 h$ for the volume of a circular cone of radius $r$ at the base and height $h$. (Extra Credit) A regular tetrahedron is the solid with four faces, each an equally sized equilateral triangles. Determine a formula for the volume of a tetrahedron with side length $s$, and give an explanation to justify it.
