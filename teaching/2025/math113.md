@@ -10,6 +10,8 @@ permalink: /teaching/2025/math113/
 Announcements
 -------------
 
+* (2/10) [Here is the worksheet from today.]({{ page.url }}ws2-10.pdf)
+
 * (2/7) [Here is the worksheet from today.]({{ page.url }}ws2-7.pdf)
 
 * (2/5) [Here is the rule sheet from today.]({{ page.url }}ws2-5.pdf)
@@ -22,6 +24,8 @@ Announcements
 
 Homework
 --------
+
+* Week 4 **Due Monday 2/17:** Chapter 11 exercises A, C, D; Chapter 12 exercises A, C, D, E
 
 * Week 2 **Due Monday 2/10:** Chapter 5 exercises A, D, E, I; Chapter 6 exercises A, B.
 
