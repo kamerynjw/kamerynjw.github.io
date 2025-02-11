@@ -4,8 +4,8 @@ email: kwilliams@simons-rock.edu #
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" 
-url: "https://kamerynjw.net" # ditto prev comment
-github_username: kamerynjw
+url: "https://julia-kw.net" # ditto prev comment
+github_username: julia-kw
 remote_theme: diezcami/arctic-fox-theme
 
 excerpt_separator: <!--more-->
