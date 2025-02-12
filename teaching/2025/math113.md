@@ -10,7 +10,11 @@ permalink: /teaching/2025/math113/
 Announcements
 -------------
 
+* (2/12) [Here is the worksheet from today.]({{ page.url }}ws2-12.pdf)
+
 * (2/10) [Here is the worksheet from today.]({{ page.url }}ws2-10.pdf)
+
+* (2/7) [Here is the worksheet from today.]({{ page.url }}ws2-7.pdf)
 
 * (2/7) [Here is the worksheet from today.]({{ page.url }}ws2-7.pdf)
 
