@@ -23,9 +23,9 @@ Announcements
 Homework
 --------
 
-* **Week 4 (Due Monday 2/24)** Section 6.6: (only find the mass and center of mass) #1, 2, 3, 39, 40, 41, 42; Section 6.7: 1, 2, 3, 6, 14, 16, 23, 33. 
+* **Week 4 (Due Wednesday 2/26)** Section 6.6: (only find the mass and center of mass) #1, 2, 3, 39, 40, 41, 42; Section 6.7: 1, 2, 3, 6, 14, 16, 23, 33. 
 
-    Writing: The *exponential distribution* with parameter $\lambda$ is the probability distribution with density function $\rho_\lambda(x) = \lambda e^{-\lambda x}$, where $x \ge 0$. Confirm this really is a probability density function and determine its mean. (Extra Credit) The *Cauchy distribution* with parameter $\gamma$ is the probability distribution with density function $\rho_\gamma(x) = \frac{1}{\pi\gamma[1 + (\frac{x}{\gamma})^2]}$, where $x$ can be any value. Confirm that this really is a probability density function and determine its mean. Explain.
+    Writing: The *exponential distribution* with parameter $\lambda$ is the probability distribution with density function $\rho_\lambda(x) = \lambda e^{-\lambda x}$, where $x \ge 0$. Confirm this really is a probability density function and determine its mean. [Hint: what is the derivative of $-e^{-x} - xe^{-x}$?] (Extra Credit) The *Cauchy distribution* with parameter $\gamma$ is the probability distribution with density function $\rho_\gamma(x) = \frac{1}{\pi\gamma[1 + (\frac{x}{\gamma})^2]}$, where $x$ can be any value. Confirm that this really is a probability density function and determine its mean. Explain.
     
 * **Week 3 (Due Monday 2/17)** Section 6.3: #1, 2, 3, 5; Section 6.4 #1, 2, 4, 13, 14; Section 6.5 #1, 2, 9, 10, 16.
 
