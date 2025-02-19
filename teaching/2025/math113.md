@@ -29,6 +29,8 @@ Announcements
 Homework
 --------
 
+* Week 4 *No homework this week!*
+
 * Week 3 **Due Monday 2/17:** Chapter 11 exercises A, C, D; Chapter 12 exercises A, C, D, E. Read Chapter 13 of the textbook, and write a paragraph or two about the meaning of the conditional in truth-functional logic; do you think it is unproblematic? or is it flawed?
 
 * Week 2 **Due Monday 2/10:** Chapter 5 exercises A, D, E, I; Chapter 6 exercises A, B.
